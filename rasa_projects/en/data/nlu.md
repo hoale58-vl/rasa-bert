@@ -1,0 +1,663 @@
+## intent:Make Update
+- Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
+- How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
+- Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
+- Is any offline upgrade from [13.10](UbuntuVersion) to [14.04](UbuntuVersion) possible?
+- Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)
+- Ubuntu upgrade failed
+- Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion) ( Unanswered questions )
+- upgrading to Ubuntu [13.10](UbuntuVersion) from Ubuntu [13.04](UbuntuVersion)
+- Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to partially upgrade Ubuntu [11.10](UbuntuVersion) from Ubuntu [11.04](UbuntuVersion)?
+- Problem upgrading [Ubuntu 9.10](UbuntuVersion)
+- Is it necessary to upgrade to [15.10](UbuntuVersion) from [14.04](UbuntuVersion)?
+- How do I update [Xubuntu 11.10](UbuntuVersion) to [Xubuntu 12.04 LTS?](UbuntuVersion)
+- Why did the upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) ruin my system?
+- Problems upgrading from [12.04](UbuntuVersion) to [14.04](UbuntuVersion)
+- Problems upgrading Ubuntu [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- Upgrade from [12.04](UbuntuVersion) to [12.10](UbuntuVersion) without losing files?
+- Do I need to uninstall [10.04](UbuntuVersion) to upgrade to [12.04](UbuntuVersion)?
+- Do I need to reinstall everything to upgrade from [13.10](UbuntuVersion) to [14.10](UbuntuVersion)?
+- update-manager: upgrade to [15.04](UbuntuVersion) rather than [16.04](UbuntuVersion)
+- Upgrading [16.04](UbuntuVersion) to [16.04.1](UbuntuVersion)
+- Upgrading Ubuntu Server [9.10](UbuntuVersion) to [10.04](UbuntuVersion)
+- Ho do I update to [13.04](UbuntuVersion) from the beta?
+- How to upgrade from [12.10](UbuntuVersion) to [14.04](UbuntuVersion)
+- Upgrading from [10.10](UbuntuVersion) to [11.04](UbuntuVersion) how much space is needed?
+- Do I need to backup my [12.04](UbuntuVersion) system to upgrade to [12.04.1](UbuntuVersion)?
+- Cannot upgrade from [12.04LTS](UbuntuVersion) to [14.04](UbuntuVersion)
+- Upgrade [10.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- How to upgrade from [14.04 LTS](UbuntuVersion) or [15.10](UbuntuVersion) to [16.04](UbuntuVersion) from terminal
+- How to upgrade from [16.04 LTS](UbuntuVersion) to [16.04.1 LTS](UbuntuVersion)
+- Upgrading from [10.04](UbuntuVersion) to [11.10](UbuntuVersion)
+- How can i upgrade to Ubuntu [14.04](UbuntuVersion) final from [14.04 Beta](UbuntuVersion) correctly?
+- Is there an upgrade procedure from [12.04 LTS](UbuntuVersion) to [14.04 LTS](UbuntuVersion)
+- Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- How to upgrade Ubuntu [12.04](UbuntuVersion) to [14.04](UbuntuVersion) if I have dual boot with windows 7?
+- Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04](UbuntuVersion)?
+- Upgrading From [11.04 (32bit)](UbuntuVersion) to [12.04 (64bit)](UbuntuVersion)
+- Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [13.04](UbuntuVersion)
+- Upgrade to [12.04 64 bit](UbuntuVersion)
+- How to upgrade Ubuntu [14.04.1](UbuntuVersion) to [14.04.2](UbuntuVersion)?
+- Upgrading from Ubuntu [14.04](UbuntuVersion) to [15.04](UbuntuVersion)
+- how to upgrade from ubuntu [15.04](UbuntuVersion) to [15.10](UbuntuVersion)?
+- Upgrade [12.04](UbuntuVersion) to [12.10](UbuntuVersion) using startup disk
+- How to Upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) when you've got a problem?
+- Update [11.04](UbuntuVersion) to [12.04](UbuntuVersion) with LiveCD
+- How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?
+- How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
+
+## intent:None
+- Is there a Document scanning and archiving software?
+- How is rm command different from the delete button?
+- How to provide user permission to read and write on /dev/sdax? What is the syntax?
+- Security enhancements prevent mounting /dev/sdb1
+- How do I show grub when resuming from suspend?
+- How to record my screen?
+- How can I highlight or annotate PDFs?
+- Torrent client for the command-line?
+
+## intent:Setup Printer
+- How to install a [Lexmark z600](Printer) series printer?
+- Cannot setup [HP All in one DJ3630](Printer)
+- How to add a network printer on Ubuntu [15.10](UbuntuVersion)?
+- Cannot install printer driver [epson l210](Printer)
+- How do I install [Dell 2150cdn](Printer) printer
+- Installing [Epson XP-424](Printer) wireless printer
+- Installing [EPSON L355](Printer) on Ubuntu [14.04](UbuntuVersion)
+- How do I install the [HP F4280](Printer) printer?
+- How to Install [Brother DCP-8110DN](Printer) Laser Printer on Ubuntu?
+- How to Install a [Canon MF8040Cn](Printer) Printer on Ubuntu [12.04](UbuntuVersion)
+- How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10](UbuntuVersion)?
+- How to install [Canon LBP330](Printer) in [Lts 16.04](UbuntuVersion)
+- Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))
+- No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)
+- How to setup HP printer/scanner on ubuntu?
+- How do I setup my [HP C4140](Printer) printer wirelessly?
+- How to setup wireless printing from a printer connected via usb on Ubuntu Server [12.10](UbuntuVersion)?
+- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
+- Install [Canon MP560](Printer) Ubuntu [15.04](UbuntuVersion)
+- How to install a [Brother MFC-5890CN](Printer) network printer?
+- How do I install drivers for a [Konica Minolta 200](Printer)?
+- How do I install drivers for the [Panasonic MB1900CX](Printer) All-in-One Printer/Scanner?
+- How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
+
+## intent:Shutdown Computer
+- Keyboard shortcut to shutdown?
+- My system doesn't go shutdown
+- How to troubleshoot slow shutdown?
+- How can I shutdown the computer when a certain process ends?
+- Ubuntu Shut down app
+- What does my computer do when I click 'Shut Down'?
+- How do I shut down without the confirmation prompt?
+- No action when shutdown pressed
+- what is the right way to shutdown ubuntu using the command line?
+- How can I make shutdown not require admin password?
+- shutdown in specific way if no-one uses computer
+- What is the command to open the shutdown dialog?
+- How to Shut down Ubuntu by using keyboard?
+- shutdown 5:30pm every day
+- shut down without extra question
+- How to shutdown computer when users are logged on?
+- What is the proper terminal-way to shutdown?
+- How can I automatically shutdown the system after a specific time?
+- Hotkey to shut down from login screen?
+- How to shutdown the computer after Xsession ends?
+- How can one shutdown a PC using the keyboard?
+- How can I enable shutdown verbosity?
+- Are there any Keyboard Shortcuts to Shutdown?
+- Shutdown after a certain time
+- Shutdown problem in [Ubuntu 16.04](UbuntuVersion)
+- How do I fix a shutdown problem?
+- What graphical utility can I use for Ubuntu auto shutdown?
+
+## intent:Software Recommendation
+- What software can I use to view epub documents?
+- Which PDF Viewer would you recommend?
+- What IDEs are available for Ubuntu?
+- What's the best Mind Mapping Software?
+- Software to read a QR code?
+- PDF to word conversion software?
+- Is there software that can view .dwg files?
+- What are some good PHP editors?
+- Is there a software utility to adjust screen gamma/brightness/contrast?
+- Please recommend a hex editor for shell
+- Is there LAN topology mapping software available in Ubuntu?
+- Is there a tool like wifi analyzer for ubuntu?
+- Tool for recovering deleted data from a flash drive
+- What's a simple "colour picker" app for GNOME?
+- Any app that tells me to take regular breaks from working?
+- What are some good ASCII art generators?
+- What are some good GUI binary viewers/editors?
+- Which is the best PDF metadata viewer for Ubuntu?
+- Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+- Which application do you recommend for watching TV (DVB)?
+- What Is The Best HDR Software?
+- What do you use to edit Microsoft [Word](SoftwareName) documents (docx)?
+- What's the best Wireframing tool?
+- Is there any software that will do face recognition in photos?
+- Applications to replace [iTunes](SoftwareName) for iPod synchronization?
+- Is there an SSH connection manager?
+- A light alternative to gnome-system-monitor?
+- Software to create a video slideshow?
+- Is there a project management software for Ubuntu like Microsoft [Project](SoftwareName)?
+- Is there any recovery software available for ext4?
+- What blog editor software are available?
+- Can you recommend a good modern GUI download manager (wget wrapper?)
+- Is there any program for fuzzy string matching which provides a match score?
+- Are there any hardware diagnostic tools?
+- Recommendation for Regex editor?
+- Is it recommended to upgrade to [Lubuntu 15.04](UbuntuVersion)?
+- On really old Ubuntu [6.06](UbuntuVersion) - How to upgrade
+- Wubi Device /dev/loop0 full. How to get more space?
+- Removing Recently used items in [12.04](UbuntuVersion)
+- In [Unity](SoftwareName) how do I see the details of a given launcher?
+- Any command line calculator for Ubuntu?
+- Extracting embedded images from a PDF
+- What to use to quickly cut Audio/Video
+- [MySQL](SoftwareName) GUI Tools
+- What developer text editors are available for Ubuntu?
+- What screenshot tools are available?
+- Which programs can I use to edit PDF files?
+- Is there a lightweight tool to crop images quickly?
+- What [IRC](SoftwareName) clients are available?
+- What new games are available for Ubuntu in 2011?
+- UPNP / DLNA (client) player recommendations?
+- What scientific plotting software is available?
+- Can you recommend a password generator?
+- What tools do you use to monitor a web server?
+- What is a good [MongoDB](SoftwareName) GUI client?
+- Password Management Applications?
+- Is there an application for reading mobi files?
+
+## intent:DepartureTime
+- when is the [next](Criterion) [train](Vehicle) in [muncher freiheit](StationStart)?
+- when does the [next](Criterion) [u-bahn](Vehicle) leaves from [garching forschungszentrum](StationStart)?
+- when is the [next](Criterion) [s-bahn](Vehicle) leaving at [garching](StationStart)?
+- when does the [next](Criterion) [bus](Vehicle) starts from [garching](StationStart)?
+- when does the [next](Criterion) [train](Vehicle) leaves at [garching](StationStart)?
+- when is the [next](Criterion) [train](Vehicle) leaving in [garching forschungszentrum](StationStart)
+- when does the [next](Criterion) [bus](Vehicle) starts at [garching](StationStart)?
+- when is the [next](Criterion) [bus](Vehicle) from [ostbahnhof](StationStart)
+- when is the [next](Criterion) [train](Vehicle) in [munchner freiheit](StationStart)?
+- [next](Criterion) [train](Vehicle) from [garching](StationStart)
+- when is the [next](Criterion) [subway](Vehicle) from [garching forschungszentrum](StationStart)
+- [next](Criterion) [bus](Vehicle) in [garching](StationStart)
+- when does the [train](Vehicle) leaving in [garching forschungszentrum](StationStart)
+- [next](Criterion) [subway](Vehicle) from [garching forschungszentrum](StationStart)
+- tell me the [next](Criterion) [bus](Vehicle) from [garching](StationStart)
+- [next](Criterion) [bus](Vehicle) from [garching](StationStart), please.
+- [next](Criterion) [bus](Vehicle) from [garching](StationStart)
+- [next](Criterion) [bus](Vehicle) from [central station](StationStart)
+- [next](Criterion) [bus](Vehicle) from [garching](StationStart).
+- when does the [next](Criterion) [bus](Vehicle) departs from [garching](StationStart)?
+- when does the [next](Criterion) [u-bahn](Vehicle) departs at [garching forschungszentrum](StationStart)?
+- when does the [next](Criterion) [u-bahn](Vehicle) departs at [garching](StationStart)?
+- when does the [next](Criterion) [subway](Vehicle) departs at [garching](StationStart)
+- when is the [next](Criterion) [train](Vehicle) in [garching](StationStart)?
+- when is the [next](Criterion) [bus](Vehicle) from [garching forschungzentrum](StationStart)
+- [next](Criterion) [train](Vehicle) from [muenchen freicheit](StationStart)
+- depart in [garching](StationStart), i assume
+- when does the [next](Criterion) [u-bahn](Vehicle) depart at [garching](StationStart)?
+- the [next](Criterion) [bus](Vehicle) from [garching forschungzentrum](StationStart)
+- when is the [next](Criterion) [train](Vehicle) in [alte heide](StationStart)?
+- or depart from [garching](StationStart)
+- when does the [next](Criterion) [u6](Line) leave from [garching forschungszentrum](StationStart)
+- when is the [train](Vehicle) from [garching](StationStart)
+- what is the [next](Criterion) [train](Vehicle) from [münchner freiheit](StationStart)
+- when is the [next](Criterion) [bus](Vehicle) from [garching](StationStart)
+- when does the [next](Criterion) [bus](Vehicle) leaves from [hauptbahnhof](StationStart)?
+- when the [next](Criterion) [train](Vehicle) in [garching,forschungszentrum](StationStart) is leaving?
+- when does the [next](Criterion) [train](Vehicle) departs from [quiddestraße](StationStart)?
+- when the [next](Criterion) [train](Vehicle) in [garching forschungszentrum](StationStart) is leaving?
+- when is the next [u6](Line) leaving from [garching](StationStart)?
+- when does the [next](Criterion) [train](Vehicle) leave from [garching forschungszentrum](StationStart)
+- when is the [next](Criterion) [u6](Line)?
+- when is the [next](Criterion) [subway](Vehicle) leaving from [garching](StationStart)?
+- when the [next](Criterion) [train](Vehicle) in [garching](StationStart) is leaving?
+- when is the [next](Criterion) [train](Vehicle) leaving in [garching](StationStart)
+- when does the [next](Criterion) [train](Vehicle) leaves from [odeonsplatz](StationStart)?
+- when does the [next](Criterion) [train](Vehicle) leaves from [quiddestraße](StationStart)?
+- when is the [next](Criterion) [train](Vehicle)
+- when does the [next](Criterion) [bus](Vehicle) leaves at [garching forschungszentrum](StationStart)?
+- when does the next [train](Vehicle) leaves?
+- when does the [next](Criterion) [bus](Vehicle) leave in [garching](StationStart)?
+- when does the [next](Criterion) [s-bahn](Vehicle) leaves from [hauptbahnhof](StationStart)?
+- when does the [next](Criterion) [subway](Vehicle) departes from [odeonsplatz](StationStart)?
+- show me the [next](Criterion) [bus](Vehicle) from [garching](StationStart)!
+- when does the [next](Criterion) [tram](Vehicle) starts from [hauptbahnhof](StationStart)?
+- when will the [next](Criterion) [u-bahn](Vehicle) depart from [garching forschungszentrum](StationStart)?
+- show me the [next](Criterion) [bus](Vehicle) from [michaelibad](StationStart).
+- when does the [next](Criterion) [train](Vehicle) starts at [sendlinger tor](StationStart)?
+- hey bot, when does the [next](Criterion) [bus](Vehicle) starts at [garching](StationStart)?
+- when does the [next](Criterion) [bus](Vehicle) leaves at [garching](StationStart)?
+- when is the [bus](Vehicle) from [quiddestraße](StationStart)?
+- when can i get a [bus](Vehicle) at [mariahilfplatz](StationStart)?
+- when does the [next](Criterion) [bus](Vehicle) leaves at [romanplatz](StationStart)?
+- when does the [bus](Vehicle) to [röblingweg](StationStart) starts?
+- [next](Criterion) [bus](Vehicle) from [quiddestraße](StationStart)?
+- when is the [next](Criterion) [bus](Vehicle) leaving from [garching](StationStart)?
+- when is the [train](Vehicle) leaving in [garching](StationStart)
+- when is the [train](Vehicle) leaving in [garching](StationStart)?
+- when is adrians [next](Criterion) [subway](Vehicle) leaving at [garching forschungszentrum](StationStart)?
+- when is the [next](Criterion) [train](Vehicle) from [garching](StationStart)
+- when comes the [next](Criterion) [train](Vehicle)
+- when is the [next](Criterion) [train](Vehicle) in [nordfriedhof](StationStart)
+- when does the [next](Criterion) [train](Vehicle) come at [garching forschungszentrum](StationStart)
+- when is the [next](Criterion) [train](Vehicle) from [garching](StationStart)
+- when does the [next](Criterion) [rocket](Vehicle) leaves from [garching forschungszentrum](StationStart)?
+- when is the [next](Criterion) [train](Vehicle) in [nordfriedhof](StationStart)?
+- when is the [next](Criterion) [train](Vehicle) in [münchner freiheit](StationStart)?
+- when is the [next](Criterion) [bus](Vehicle) in [garching forschungszentrum](StationStart)
+
+## intent:FindConnection
+- i want to go [marienplatz](StationDest)
+- from [olympia einkaufszentrum](StationStart) to [hauptbahnhof](StationDest)
+- when is the [next](Criterion) [train](Vehicle) from [winterstraße 12](StationStart) to [kieferngarten](StationDest)
+- when is the [next](Criterion) [rocket](Vehicle) from [winterstraße 12](StationStart) to [kieferngarte](StationDest)
+- can you find a connection from [garching](StationStart) to [hauptbahnhof](StationDest)?
+- how to get from [untere strassäcker 21](StationStart) to [fröttmaning](StationDest)
+- how i can get from [marienplatz](StationStart) to [garching](StationDest)
+- connection from [boltzmannstraße](StationStart) to [kieferngarten](StationDest)
+- how to get from [bonner platz](StationStart) to [freimann](StationDest)?
+- how do i get from [oez](StationStart) to [hbf](StationDest)?
+- how to get from [winterstrasse 12](StationStart) to [fröttmaning](StationDest)
+- how do i get from [garching forschungszentrum](StationStart) to [pasing](StationDest)
+- [theresienstraße](StationStart) to [assling](StationDest)
+- how can i get from [theresienstraße](StationStart) to [munich east](StationDest)?
+- from [quiddestraße](StationStart) to [garching](StationDest)?
+- can you find a connection from [kurt-eisner-straße](StationStart) to [garching forschungszentrum](StationDest)?
+- can you find a connection from [quiddestraße](StationStart) to [garching forschungszentrum](StationDest)?
+- from [hauptbahnhof](StationStart) to [garching](StationDest)?
+- how can i get to [glockenbachviertel](StationDest) from [garching forschungszentrum](StationStart)?
+- how i can get from [garching](StationStart) to [nordfriedhof](StationDest)
+- how can i get to [glockenbachviertel](StationDest) from [garching forschungszentrum](StationStart)?
+- how can i get from [moosach](StationStart) to [quiddestraße](StationDest)?
+- how can i get from [moosach](StationStart) to [poccistraße](StationDest)?
+- how can i get from [kurt-eisner-straße](StationStart) to [garching forschungszentrum](StationDest)?
+- how can i get from [moosach](StationStart) to [quiddestraße](StationDest)?
+- how can i get from [moosach](StationStart) to [odeonsplatz](StationDest)?
+- what's the [shortest](Criterion) way from [quiddestraße](StationStart) to [odeonsplatz](StationDest)?
+- how i can get from [garching](StationStart) to [neuperlach sued](StationDest)
+- how i can get from [marienplatz](StationStart) to [garching](StationDest)?
+- how do i get from [poccistraße](StationStart) to [laim](StationDest)
+- i want to go [garching](StationDest) from [marienplatz](StationStart)
+- how i can get from [marienplatz](StationStart) to [garching](StationDest)?
+- how can i get from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)
+- [prinzregentenplatz](StationStart) to [rotkreuzplatz](StationDest)
+- i want to go to [garching](StationDest) from [marienplatz](StationStart)
+- from [prinzregentenplatz](StationStart) to [rotkreuzplatz](StationDest)
+- from [garching](StationStart) to [klinikum](StationDest)
+- from [garching foschungszentrum](StationStart) to [odeonsplatz](StationDest)
+- from [garching](StationStart) to [marienplatz](StationDest)
+- connection from [garching](StationStart) to [hauptbahnhof](StationDest)?
+- find connection from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)
+- how to get from [münchner freiheit](StationStart) to [garching](StationDest) ?
+- [implerstraße](StationStart) to [ostbahnhof](StationDest)
+- how can i get from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)?
+- how can i go from [garching forschungszentrum](StationStart) to [prinzregentenplatz](StationDest)
+- how can i get from [mangfallplatz](StationStart) to [garching](StationDest)
+- how can i get to [hohenlindenerstraße](StationDest)
+- [harthaus](StationStart) to [hackerbrücke](StationDest)
+- how can i get from [feldmoching](StationStart) to [garching forschungszentrum](StationDest)?
+- from [marienplatz](StationStart) to [petershausen](StationDest)
+- when is the [train](Vehicle) from [garching](StationStart) to [marienplatz](StationDest)
+- [neufahrn](StationStart) to [garching](StationDest)
+- how can i get from [mangfallplatz](StationStart) to [garching](StationDest)
+- how can i get to [hohenlindenerstr](StationDest)
+- how do i get from [spitzingplatz](StationStart) to [poccistraße](StationDest)?
+- how can i get from [garching forschungszentrum](StationStart) to [marienplatz](StationDest)
+- how can i get from [klinkum](StationStart) to [marienplatz](StationDest)?
+- how to get from [alte heide](StationStart) to [marienplatz](StationDest)
+- hello munich city bot! how do i get from [münchner freiheit](StationStart) to [scheidplatz](StationDest)?
+- how can i get from [garching forschungszentrum](StationStart) to [prinzregentenplatz](StationDest)
+- how can i get from [neufahrn](StationStart) to [garching](StationDest)
+- take me to the [airport](StationDest)
+- how i can get from [munchner freiheit](StationStart) to [nordfriedhof](StationDest)?
+- from [harthaus](StationStart) to [hackerbrücke](StationDest)
+- how can i get from [theresienstrasse](StationStart) to [garching forschungszentrum](StationDest)
+- how can i get from [münchner freiheit](StationStart) to [odeonsplatz](StationDest)
+- from [garching](StationStart) to [hauptbahnhof](StationDest)
+- how can i get from [garching](StationStart) to [odeonsplatz](StationDest)
+- start: [neufahrn](StationStart) end:[garching](StationDest)
+- how can i get from [studentenstadt](StationStart) to [garching](StationDest)
+- take me from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)
+- what's the [shortest](Criterion) connection between [quiddestraße](StationStart) and [odeonsplatz](StationDest)?
+- what is the [cheapest](Criterion) connection between [quiddestraße](StationStart) and [hauptbahnhof](StationDest)?
+- what's the [shortest](Criterion) way between [hauptbahnhof](StationStart) and [odeonsplatz](StationDest)?
+- how can i get from [garching](StationStart) to [münchner freiheit](StationDest) as [fast](Criterion) as possible?
+- what's the [cheapest](Criterion) way from [neuperlach süd](StationStart) to [lehel](StationDest)?
+- how can i get from [neuperlach zentrum](StationStart) to [karlsplatz](StationDest) as [fast](Criterion) as possible?
+- could you give me the [fastest](Criterion) connection between [brudermühlstraße](StationStart) and [alte heide](StationDest)?
+- is there a train from [neuperlach zentrum](StationStart) to [garching](StationDest) at [3 pm](TimeStartTime)?
+- can you find a connection from [olympiazentrum](StationStart) to [lehel](StationDest) at [2 pm](TimeStartTime)?
+- i need a connection from [harras](StationStart) to [karl-preis-platz](StationDest) at [8 am](TimeStartTime).
+- in need to be at [hauptbahnhof](StationDest) at [1 pm](TimeEndTime), can you search a connection from [garching forschungszentrum](StationStart)?
+- i need to be in [garching](StationDest) at [9](TimeEndTime)
+- can i take a [bus](Vehicle) from [quiddestraße](StationStart) to [hauptbahnhof](StationDest)?
+- can you find the [shortest](Criterion) way from [moosfeld](StationStart) to [milbertshofen](StationDest)?
+- how can i get to [neuperlach süd](StationDest) from [garching forschungszentrum](StationStart)?
+- can you find a [bus](Vehicle) from [quiddestraße](StationStart) to [lehel](StationDest)?
+- is there a [tram](Vehicle) from [karlsplatz](StationStart) to [lehel](StationDest)?
+- is there a [bus](Vehicle) from [garching](StationStart) to [moosach](StationDest) at around [5](TimeStartTime)?
+- is there a [bus](Vehicle) from [odeonsplatz](StationStart) to [hauptbahnhof](StationDest) at [3 pm](TimeStartTime)?
+- can you tell me the [cheapest](Criterion) way from [garching forschungszentrum](StationStart) to [quiddestraße](StationDest)?
+- how can i get to [quiddestraße](StationDest)?
+- how can i get from [garching](StationStart) to [hauptbahnhof](StationDest)?
+- how can i get from [kurt-eisner-straße](StationStart) to [garching](StationDest)?
+- what is the [next](Criterion) connection from [garching forschungszentrum](StationStart) to [odeonsplatz](StationDest)?
+- how can i get from [mossach](StationStart) to [garching forschungszentrum](StationDest)?
+- how can i get from [garching forschungszentrum](StationStart) to [odeonsplatz](StationDest)?
+- how can i get from [garching, forschungszentrum](StationStart) to [odeonsplatz](StationDest)?
+- how can i get from [garching forschungszentrum](StationStart) to [kurt-eisner-straße](StationDest)?
+- how can i get to [boltzmannstraße](StationDest) from [quiddestraße](StationStart)?
+- how can i get from [garching](StationStart) to [odeonsplatz](StationDest)?
+- how can i get from [olympiazentrum](StationStart) to [hauptbahnhof](StationDest)?
+- how can i get from [quiddestraße](StationStart) to [boltzmannstraße](StationDest)?
+- how can i get from [moosach](StationStart) to [garching forschungszentrum](StationDest)?
+- can you give me a connection from [garching](StationStart) to [odeonsplatz](StationDest)?
+- when is the [next](Criterion) [train](Vehicle) from [nordfriedhof](StationStart) to [garching forschungszentrum](StationDest)
+- i want to travel from [garching](StationStart) to [odeonsplatz](StationDest)?
+- how can i get to [sendlinger tor](StationDest)?
+- how do i get to [untere straussäcker](StationDest)?
+- how can i get from [garching](StationStart)[garching](StationDest) to garching?
+- how can i get from [garching](StationStart) to [sendlinger tor](StationDest)?
+- how can i get from [garchingto](StationStart)[garching](StationDest)to garching?
+- how do i get from [marienplatz](StationStart) zu [garching](StationDest)
+- how can i get to [milbertshofen](StationDest) from [garching](StationStart)?
+- when is the [next](Criterion) [train](Vehicle) to [garching](StationDest)
+- how can i get from [garching](StationStart) to [milbertshofen](StationDest)?
+- connection from [untere straßäcker 21](StationStart) to [kieferngarten](StationDest)
+- how to get from [untere strassäcker 21](StationStart) to [frötmaning](StationDest)
+- how to get from [untere strassaecker 21](StationStart) to [frötmaning](StationDest)
+- when is the [next](Criterion) [train](Vehicle) from [untere straßaecker 21](StationStart) to [kieferngarten](StationDest)
+- when is the [next](Criterion) [train](Vehicle) from untere [straßaecker 21, garching](StationStart) to [kieferngarten](StationDest)
+- from [garching](StationStart) to [perlach](StationDest)
+- how to get from [garching](StationStart) to [perlach](StationDest)?
+- how to get from [bonnerplatz](StationStart) to [freimann](StationDest)
+- connection from [hauptbahnhof](StationStart) to [odeonsplatz](StationDest)?
+- how do i get from [olympia einkaufszentrum](StationStart) to [hauptbahnhof](StationDest)?
+- how can i get from [garching](StationStart) to [marienplatz](StationDest)
+- from [garching](StationStart) to [studentenstadt](StationDest)
+
+## intent:Change Password
+- [Gmail](WebService) user set up through [Google](WebService) Apps can't change their password
+- How do I change my password on [ebay](WebService)?
+- [Gmail](WebService) recover password while logged in Iphone
+- How to retrieve forgotten [Wordpress](WebService) Admin password
+- How to retrieve a stolen [Yahoo](WebService) account's password?
+- Users can't reset their passwords anymore on [Google](WebService) Apps?
+- How do I change my password on [TV Tropes](WebService)?
+- Why can't I change my password and login with [Skype](WebService)?
+
+## intent:Delete Account
+- How do I delete my [Facebook](WebService) account?
+- How can I remove myself from a [Trello](WebService) organization?
+- How can I delete my [160by2](WebService) account?
+- How can I permanently delete my [Yahoo mail](WebService) account?
+- Deleting an account(website) from [Google Analytics](WebService)?
+- How to delete my [imgur](WebService) account?
+- How to change my [Uber](WebService) password or delete the account?
+- How to delete a [Sify Mail](WebService) account
+- How to permanently delete a [37signals](WebService) ID
+- How can I delete my [Hunch](WebService) account?
+- How can I delete my [Twitter](WebService) account?
+- How do I delete my [LinkedIn](WebService) account?
+- How do I delete my [Gmail](WebService) account?
+- How do I delete my [Experts Exchange](WebService) account?
+- How do I delete my [Ohloh](WebService) profile?
+- How can I permanently delete my [MySpace](WebService) account?
+- How to disable/delete a [Harvest](WebService) account?
+
+## intent:Download Video
+- How do I download a [YouTube](WebService) video?
+
+## intent:Export Data
+- Is it possible to export my data from [Trello](WebService) to back it up?
+- How do I transfer my photos from [Flickr](WebService) to [Picasa](WebService)?
+- Archive/export all the blog entries from a RSS feed in [Google Reader](WebService)
+- How can I export track.scrobble data from [last.fm](WebService)?
+- How can I backup my [wordpress.com](WebService) hosted blog?
+
+## intent:Filter Spam
+- Does moving a mail to the IMAP spam folder trains [Gmail](WebService)'s spam filter?
+- How can I auto-delete some spam from [Gmail](WebService)?
+- When I move spam to my inbox it goes back into the spam again
+- How to send messages to spam in [Gmail](WebService) filter?
+- How do I disable the spam filter in [Gmail](WebService)?
+- How to check your [Gmail](WebService) spam label for good emails
+- Mark large numbers of messages as "not spam"
+- What are alternatives to [Postini](WebService) for spam filtering?
+- How to remove spam filter for [Google](WebService) Apps email
+- Does marking an email as spam in [Gmail](WebService) affect the filter for everyone?
+- How can I prevent/lessen event spam on [Facebook](WebService)?
+- Do emails auto-forwarded from one [Gmail](WebService) account to another stop if marked as spam?
+- [Gmail](WebService)'s filter for SPAM folder and/or keywords in multiple fields
+- Get rid of Russian junk from my [Gmail](WebService)
+- Does using [Gmail](WebService)'s "Never send it to Spam" filter mean I can't train their spam filter?
+- Correctly Identifying Spam Messages
+- [Twitter](WebService) and [Echofon](WebService) spam
+- Totally Blocking Spam To [Gmail](WebService) Account
+- Discarding spam mail faster in [Gmail](WebService)
+- Stopping spam emails in [Gmail](WebService) by pattern
+
+## intent:Find Alternative
+- Alternative to [Facebook](WebService)
+- Are there any good [Pandora](WebService) alternatives with general availability outside the US?
+- Is there an online alternative to [iGoogle](WebService)
+- Any alternatives to [Google Apps](WebService) for your domain?
+- [Evernote](WebService) alternative
+- Alternatives to [LibraryThing](WebService)
+- What are the alternatives to [Facebook](WebService)/Meetup for Event Planning
+- Is there a free and privacy-aware alternative to [Google](WebService)?
+- What alternatives to [Google](WebService) Product Search exist?
+- Photo Sharing Site (alternative to [flickr](WebService)) supporting [OpenID](WebService) sign in?
+- Any good alternative to [Google Alerts](WebService)?
+- Is there a HTML alternative to [Prezi](WebService)?
+- Any alternatives to [Google Streetview](WebService)?
+- [Zencoder](WebService) alternatives?
+- Alternatives to discontinued [Google Calendar](WebService) Appointment Slots
+- Q&A Platform similar to [Stack Exchange](WebService) model?
+- Alternatives for [Google Reader](WebService) (with [Android](OperatingSystem) synchronizing)
+- [Bugmenot](WebService) (registration bypasser) alternative that doesn't suck?
+- Alternatives to [Twitter](WebService)
+- [Google](WebService) search engine alternatives
+- Alternatives to [Google Groups](WebService) with more features?
+- Are there any good [Veoh](WebService) or [Youtube](WebService) alternatives?
+- [Mint](WebService) alternatives for Canada
+
+## intent:None
+- Good wireframing apps?
+- Embedding stop time in a [YouTube](WebService) video link
+- Is there a catch to [PayPal](WebService)'s Premier account type?
+- How can I get [OkCupid](WebService) search to show only matches within 5 miles of me?
+- Change subject line in new [Gmail](WebService) compose window
+- Email [Google](WebService) Form daily?
+
+## intent:Sync Accounts
+- How do I sync [Google Calendar](WebService) with my [Outlook Calendar](WebService)?
+- Can I Share/Sync My [Picasa](WebService) Web Albums Automatically to My [Facebook](WebService) Account?
+- Sync not export [Facebook](WebService) events with [Google Apps](WebService) calendar
+- How do I sync [Facebook](WebService) [Twitter](WebService) & [Foursquare](WebService)?
+- [Google Calendar](WebService) not syncing calendars that have been added by URL with Windows 10 Calendar
+- [Google](WebService) Contact Synchronization on the iPhone 3G
+- How can I sync my [Yahoo! Calendar](WebService) with [Google Calendar](WebService)?
+- [Google](WebService) Bookmarks and [Chrome](Browser) Bookmark Sync -- Different?
+- How do I sync my [RunKeeper](WebService) workout schedule with [Google Calender](WebService)?
+
+## intent:greet
+- Hi
+- Greetings
+- Hello
+- Hi, How is it going
+- How are you doing
+- Nice to meet you.
+- How do you do
+- Hi, nice to meet you.
+- It is a pleasure to meet you.
+- Top of the morning to you
+- What's up
+- hey
+- good morning
+- good evening
+- good afternoon
+- hey there
+- Hiya
+- Sup
+- Whazzup
+- Howdy
+- Yo
+- How do you do
+- How have you been
+- It's nice to meet you
+- Pleased to meet you
+- Long time no see
+- It's been a while
+- Good to see you
+- How's your day
+- How's your day going
+- How's everything
+- How are things
+- How's life
+- What's up
+- What's new
+- What's going on
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+- See you soon
+- Talk to you later
+- I've got to get going
+- I must be going
+- Take it easy
+- I'm off
+- Have a nice day
+- I look forward to our next meeting
+- Take care
+- It was nice to see you again
+- It was nice seeing you
+- Goodnight
+- Later, Laters
+- Catch you later
+- I'm out
+- I'm out of here
+- I gotta jet
+- I gotta take off
+- I gotta hit the road
+- I gotta head out
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+- I'm  sorry I can't help you here
+- I'm sorry, I'll help another time, but I can't today
+- I'd love to help, but right now, I'm too busy
+- I really wish I could help, but I can't
+- I wish I could, but right now, I can't 
+- Normally, I'd be able to help, but
+
+## intent:refuse
+<!-- REFUSE AN INVITATION -->
+- What a pity. I'll be abroad then
+- That sounds great, but 
+- I'm sorry, but I can't  
+- I really appreciate your invitation, but 
+- Well, that's very kind of you, but
+- That'll be great, but I'm sorry
+- I wish I could come, but unfortunately 
+- I'd really like to, but 
+- I'm afraid I can't make it
+- That's a very kind invitation, but
+<!-- REFUSE AN OFFER -->
+- I appreciate the offer, but 
+- That would really be great, but
+- Thank you very much for the offer, but
+- I'm awfully sorry I have to refuse such an offer, but 
+- That's very kind of you; unfortunately, I can't  
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+- absolutely delighted
+- thrilled to bits
+- over the moon
+- really pleased
+- so happy
+- I couldn't be happier.
+- That is fantastic
+- wonderful 
+- great 
+- marvellous
+- What great 
+- fantastic news
+- We've been waiting so long for this
+- Thank God
+- Thank God for that
+- I'm really pleased.
+- What great news!
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- really sad about 
+- really sad
+- upset
+- unhappy about 
+- a little down
+- down in the dumps
+- a bit depressed
+- miserable
+- in pieces
+- distraught
+- devastated
+- heart-broken
+- absolutely gutted
+
+## intent:health
+- How is your health
+- So how have you been feeling
+- How is everything with your health
+- Are you feeling any better
+- Did you get over
+
+## intent:gossip
+- do you know gossip
+- what is context
+- tell me about gossip
+- tell me gossip
+- gossips
+- did tell gossips to anybody
+
+## intent:humor
+- Tell me a joke
+- tell me some jokes
+- Do know any jokes
+- what is humour?

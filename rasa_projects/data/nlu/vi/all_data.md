@@ -1,0 +1,724 @@
+## intent:make_update
+- Nâng cấp từ [11.10](UbuntuVersion) lên [12.04](UbuntuVersion)
+- Làm cách nào để nâng cấp lên phiên bản phát hành [16.04](UbuntuVersion) nếu tôi đang chạy Beta?
+- Nghi ngờ về việc nâng cấp [15.04](UbuntuVersion) (có phải là không thể tránh khỏi và không thể tránh khỏi?)
+- Có bất kỳ nâng cấp ngoại tuyến nào từ [13.10](UbuntuVersion) lên [14.04](UbuntuVersion) không?
+- Nâng cấp từ Ubuntu [12.04](UbuntuVersion) lên [13.10](UbuntuVersion)
+- Nâng cấp Ubuntu không thành công
+- Nâng cấp từ [12.04](UbuntuVersion) lên [13.10](UbuntuVersion) (Câu hỏi chưa được trả lời)
+- nâng cấp lên Ubuntu [13.10](UbuntuVersion) từ Ubuntu [13.04](UbuntuVersion)
+- Buộc nâng cấp [12.10](UbuntuVersion) lên [13.04](UbuntuVersion)
+- Làm cách nào để nâng cấp một phần Ubuntu [11.10](UbuntuVersion) từ Ubuntu [11.04](UbuntuVersion)?
+- Nâng cấp sự cố [Ubuntu 9.10](UbuntuVersion)
+- Có cần nâng cấp lên [15.10](UbuntuVersion) từ [14.04](UbuntuVersion) không?
+- Làm cách nào để cập nhật [Xubfox 11.10](UbuntuVersion) thành [Xubfox 12.04 LTS?](UbuntuVersion)
+- Tại sao việc nâng cấp từ [11.10](UbuntuVersion) lên [12.04](UbuntuVersion) làm hỏng hệ thống của tôi?
+- Sự cố nâng cấp từ [12.04](UbuntuVersion) lên [14.04](UbuntuVersion)
+- Sự cố khi nâng cấp Ubuntu [12.10](UbuntuVersion) lên [13.04](UbuntuVersion)
+- Nâng cấp từ [12.04](UbuntuVersion) lên [12.10](UbuntuVersion) mà không mất tệp?
+- Tôi có cần gỡ cài đặt [10.04](UbuntuVersion) để nâng cấp lên [12.04](UbuntuVersion) không?
+- Tôi có cần cài đặt lại mọi thứ để nâng cấp từ [13.10](UbuntuVersion) lên [14.10](UbuntuVersion) không?
+- update-manager: nâng cấp lên [15.04](UbuntuVersion) thay vì [16.04](UbuntuVersion)
+- Nâng cấp [16.04](UbuntuVersion) lên [16.04.1](UbuntuVersion)
+- Nâng cấp máy chủ Ubuntu [9.10](UbuntuVersion) lên [10.04](UbuntuVersion)
+- Tôi có cập nhật lên [13.04](UbuntuVersion) từ bản beta không?
+- Cách nâng cấp từ [12.10](UbuntuVersion) lên [14.04](UbuntuVersion)
+- Nâng cấp từ [10.10](UbuntuVersion) lên [11.04](UbuntuVersion) cần bao nhiêu dung lượng?
+- Tôi có cần sao lưu hệ thống [12.04](UbuntuVersion) của mình để nâng cấp lên [12.04.1](UbuntuVersion) không?
+- Không thể nâng cấp từ [12.04LTS](UbuntuVersion) lên [14.04](UbuntuVersion)
+- Nâng cấp [10.10](UbuntuVersion) lên [11.04](UbuntuVersion)
+- Cách nâng cấp từ [14.04 LTS](UbuntuVersion) hoặc [15.10](UbuntuVersion) lên [16.04](UbuntuVersion) từ thiết bị đầu cuối
+- Cách nâng cấp từ [16.04 LTS](UbuntuVersion) lên [16.04.1 LTS](UbuntuVersion)
+- Nâng cấp từ [10.04](UbuntuVersion) lên [11.10](UbuntuVersion)
+- Làm cách nào tôi có thể nâng cấp lên Ubuntu [14.04](UbuntuVersion) từ [14.04 Beta](UbuntuVersion) một cách chính xác?
+- Có quy trình nâng cấp từ [12.04 LTS](UbuntuVersion) lên [14.04 LTS](UbuntuVersion)
+- Nâng cấp từ [9.10](UbuntuVersion) lên [11.04](UbuntuVersion)
+- Làm cách nào để nâng cấp Ubuntu [12.04](UbuntuVersion) lên [14.04](UbuntuVersion) nếu tôi có khởi động kép với windows 7?
+- Sử dụng [12.04](UbuntuVersion) tôi có thể biên dịch các gói với gcc cho [10.04](UbuntuVersion) không?
+- Nâng cấp từ [11.04 (32 bit)](UbuntuVersion) lên [12.04 (64 bit)](UbuntuVersion)
+- Có đáng để nâng cấp từ [12.04 LTS](UbuntuVersion) lên [13.04](UbuntuVersion)
+- Nâng cấp lên [12.04 64 bit](UbuntuVersion)
+- Làm cách nào để nâng cấp Ubuntu [14.04.1](UbuntuVersion) lên [14.04.2](UbuntuVersion)?
+- Nâng cấp từ Ubuntu [14.04](UbuntuVersion) lên [15.04](UbuntuVersion)
+- làm cách nào để nâng cấp từ ubfox [15.04](UbuntuVersion) lên [15.10](UbuntuVersion)?
+- Nâng cấp [12.04](UbuntuVersion) lên [12.10](UbuntuVersion) bằng đĩa khởi động
+- Cách nâng cấp từ [11.10](UbuntuVersion) lên [12.04](UbuntuVersion) khi bạn gặp sự cố?
+- Cập nhật [11.04](UbuntuVersion) thành [12.04](UbuntuVersion) với LiveCD
+- Làm cách nào để nâng cấp Ubuntu [9.10](UbuntuVersion) lên [12.10](UbuntuVersion) qua thiết bị đầu cuối?
+- Làm cách nào để nâng cấp từ Ubuntu [10.10](UbuntuVersion) lên [11.04](UbuntuVersion)?
+
+## intent:setup_printer
+- Làm cách nào để cài đặt máy in sê-ri [Nether z600](Máy in)?
+- Không thể thiết lập [HP All in one DJ3630](Máy in)
+- Làm cách nào để thêm máy in mạng trên Ubuntu [15.10](UbuntuVersion)?
+- Không thể cài đặt trình điều khiển máy in [epson l210](Máy in)
+- Làm cách nào để cài đặt máy in [Dell 2150cdn](Máy in)
+- Cài đặt máy in không dây [Epson XP-424](Máy in)
+- Cài đặt [Epson L355](Máy in) trên Ubuntu [14.04](UbuntuVersion)
+- Làm cách nào để cài đặt máy in [HP F4280](Máy in)?
+- Cách cài đặt Máy in Laser [Brother DCP-8110DN](Máy in) trên Ubuntu?
+- Cách cài đặt máy in [Canon MF8040Cn](Máy in) trên Ubuntu [12.04](UbuntuVersion)
+- Làm cách nào để tôi cài đặt [Canon MF8000C](Máy in) Máy in trong Ubuntu [15.10](UbuntuVersion)?
+- Cách cài đặt [Canon LBP330](Máy in) trong [Lts 16.04](UbuntuVersion)
+- Cài đặt máy in [Nether X4690](Máy in) (ubfox [12.04](UbuntuVersion))
+- Bất kể tôi làm gì Ubuntu [15.04](UbuntuVersion) không nhận ra [HP LaserJet 1020](Máy in)
+- Làm cách nào để thiết lập máy in / máy quét HP trên Ubuntu?
+- Làm cách nào để thiết lập máy in [HP C4140](Máy in) không dây?
+- Làm cách nào để thiết lập in không dây từ máy in được kết nối qua usb trên Ubuntu Server [12.10](UbuntuVersion)?
+- Làm cách nào tôi có thể cài đặt máy in laser [Pantum 2502W](Máy in) trên Ubuntu
+- Cài đặt [Canon MP560](Máy in) Ubuntu [15.04](UbuntuVersion)
+- Làm cách nào để cài đặt máy in mạng [Brother MFC-5890CN](Máy in)?
+- Làm cách nào để tôi cài đặt trình điều khiển cho [Konica Minolta 200](Máy in)?
+- Làm cách nào để tôi cài đặt trình điều khiển cho Máy in / Máy quét đa năng [Panasonic MB1900CX](Máy in)?
+- Cách cài đặt máy in [Canon LBP2900B](Máy in) trong [14.04 LTS](UbuntuVersion)? Tôi đã thử phương pháp cho LBP2900 nhưng nó không hoạt động
+
+## intent:shutdown_computer
+- Phím tắt để tắt máy?
+- Hệ thống của tôi không tắt máy
+- Làm thế nào để khắc phục sự cố tắt máy chậm?
+- Làm thế nào tôi có thể tắt máy tính khi một quá trình nhất định kết thúc?
+- Ứng dụng Tắt máy Ubuntu
+- Máy tính của tôi làm gì khi tôi nhấp vào 'Tắt máy'?
+- Làm thế nào để tôi tắt mà không có lời nhắc xác nhận?
+- Không có hành động khi tắt máy
+- cách đúng để tắt ubfox bằng dòng lệnh là gì?
+- Làm thế nào tôi có thể tắt máy không yêu cầu mật khẩu quản trị viên?
+- tắt máy theo cách cụ thể nếu không ai sử dụng máy tính
+- Lệnh mở hộp thoại tắt máy là gì?
+- Làm cách nào để tắt Ubuntu bằng bàn phím?
+- tắt máy 5:30 chiều mỗi ngày
+- tắt mà không có thêm câu hỏi
+- Làm thế nào để tắt máy tính khi người dùng đăng nhập?
+- Cách thiết bị đầu cuối thích hợp để tắt máy là gì?
+- Làm thế nào tôi có thể tự động tắt hệ thống sau một thời gian cụ thể?
+- Hotkey để tắt màn hình đăng nhập?
+- Làm thế nào để tắt máy tính sau khi Xsession kết thúc?
+- Làm thế nào một người có thể tắt PC bằng bàn phím?
+- Làm thế nào tôi có thể kích hoạt tính dài dòng tắt máy?
+- Có phím tắt nào để tắt máy không?
+- Tắt máy sau một thời gian nhất định
+- Sự cố tắt máy trong [Ubuntu 16.04](UbuntuVersion)
+- Làm cách nào để khắc phục sự cố tắt máy?
+- Tôi có thể sử dụng tiện ích đồ họa nào để tự động tắt máy Ubuntu?
+
+## intent:software_recommendation
+- Tôi có thể sử dụng phần mềm nào để xem tài liệu epub?
+- Bạn muốn giới thiệu Trình xem PDF nào?
+- Những IDE nào có sẵn cho Ubuntu?
+- Phần mềm bản đồ tư duy tốt nhất là gì?
+- Phần mềm đọc mã QR?
+- Phần mềm chuyển đổi PDF sang từ?
+- Có phần mềm nào có thể xem tập tin .dwg không?
+- Một số trình soạn thảo PHP tốt là gì?
+- Có tiện ích phần mềm để điều chỉnh gamma / độ sáng / độ tương phản màn hình không?
+- Vui lòng giới thiệu trình soạn thảo hex cho shell
+- Có phần mềm lập bản đồ cấu trúc mạng LAN có sẵn trong Ubuntu không?
+- Có một công cụ như bộ phân tích wifi cho Ubuntu?
+- Công cụ phục hồi dữ liệu đã xóa từ ổ đĩa flash
+- Ứng dụng "chọn màu" đơn giản nào cho Gnome?
+- Có ứng dụng nào bảo tôi nghỉ làm thường xuyên không?
+- Một số máy phát nghệ thuật ASCII tốt là gì?
+- Một số người xem / biên tập viên GUI tốt là gì?
+- Trình xem siêu dữ liệu PDF nào tốt nhất cho Ubuntu?
+- Có trình quản lý tệp Linux với chế độ xem dạng cây thả xuống thích hợp không? (giống như công cụ tìm trong OS X)
+- Ứng dụng nào bạn khuyên dùng để xem TV (DVB)?
+- Phần mềm HDR tốt nhất là gì?
+- Bạn sử dụng gì để chỉnh sửa tài liệu Microsoft [Word](SoftwareName) (docx)?
+- Công cụ Wireframing nào tốt nhất?
+- Có phần mềm nào sẽ nhận diện khuôn mặt trong ảnh không?
+- Ứng dụng thay thế [iTunes](SoftwareName) để đồng bộ hóa iPod?
+- Có trình quản lý kết nối SSH không?
+- Một thay thế ánh sáng cho màn hình hệ thống gnome?
+- Phần mềm tạo slideshow video?
+- Có phần mềm quản lý dự án cho Ubuntu như Microsoft [Project](SoftwareName) không?
+- Có phần mềm khôi phục nào có sẵn cho ext4 không?
+- Phần mềm soạn thảo blog nào có sẵn?
+- Bạn có thể giới thiệu một trình quản lý tải xuống GUI hiện đại tốt (wget Wrapper không?)
+- Có chương trình nào phù hợp với chuỗi mờ cung cấp điểm số phù hợp không?
+- Có công cụ chẩn đoán phần cứng nào không?
+- Đề xuất cho biên tập viên Regex?
+- Có nên nâng cấp lên [Lubfox 15.04](UbuntuVersion) không?
+- Trên Ubuntu thực sự cũ [6.06](UbuntuVersion) - Cách nâng cấp
+- Thiết bị Wubi / dev / loop0 đầy đủ. Làm thế nào để có thêm không gian?
+- Xóa các mục được sử dụng gần đây trong [12.04](UbuntuVersion)
+- Trong [Unity](SoftwareName) làm cách nào để xem chi tiết về trình khởi chạy cụ thể?
+- Bất kỳ máy tính dòng lệnh cho Ubuntu?
+- Trích xuất hình ảnh nhúng từ PDF
+- Sử dụng gì để nhanh chóng cắt Audio / Video
+- Công cụ GUI [MySQL](SoftwareName)
+- Trình soạn thảo văn bản dành cho nhà phát triển nào có sẵn cho Ubuntu?
+- Những công cụ chụp màn hình có sẵn?
+- Tôi có thể sử dụng chương trình nào để chỉnh sửa tập tin PDF?
+- Có một công cụ nhẹ để cắt ảnh nhanh chóng?
+- Những máy khách [IRC](SoftwareName) nào khả dụng?
+- Những trò chơi mới nào có sẵn cho Ubuntu trong năm 2011?
+- Khuyến nghị người chơi UPNP / DLNA (khách hàng)?
+- Phần mềm âm mưu khoa học nào có sẵn?
+- Bạn có thể giới thiệu một trình tạo mật khẩu?
+- Công cụ nào bạn sử dụng để giám sát máy chủ web?
+- Máy khách GUI [MongoDB](SoftwareName) tốt là gì?
+- Ứng dụng quản lý mật khẩu?
+- Có ứng dụng đọc tập tin mobi không?
+
+## intent:greet
+- Hi
+- Hello
+- Chào
+- Lời chào hỏi
+- Xin chào
+- Xin chào, mọi chuyện thế nào rồi?
+- Làm thế nào bạn đang làm gì
+- Rất vui được gặp bạn.
+- Bạn làm thế nào
+- Xin chào, rất vui khi gặp bạn.
+- Rất vui được gặp bạn.
+- Đầu buổi sáng cho bạn
+- Chuyện gì thế
+- Chào
+- chào buổi sáng
+- chào buổi tối
+- chào buổi trưa
+- này đó
+- Hiya
+- Sup
+- Whazzup
+- Làm thế nào
+- Yo
+- Bạn làm thế nào
+- Làm thế nào bạn có được
+- Thật vui được gặp bạn
+- Hân hạnh được gặp bạn
+- Lâu rồi không gặp
+- Đã được một lúc rồi
+- Rất vui được gặp bạn
+- Ngày của bạn thế nào
+- Ngày của bạn thế nào
+- Mọi thứ thế nào
+- Mọi chuyện thế nào
+- Cuộc sống thế nào
+- Chuyện gì thế
+- Có gì mới
+- Chuyện gì đang xảy ra vậy?
+
+## intent:goodbye
+- tạm biệt
+- Tạm biệt
+- gặp bạn xung quanh
+- hẹn gặp lại
+- Hẹn sớm gặp lại
+- Nói chuyện sau
+- Tôi phải đi
+- Tôi phải đi
+- Bình tĩnh nào
+- Tôi nghỉ
+- Chúc một ngày tốt lành
+- Tôi mong đợi cuộc họp tiếp theo của chúng tôi
+- Bảo trọng
+- Rất vui được gặp lại bạn
+- Thật tuyệt khi gặp bạn
+- Chúc ngủ ngon
+- Gặp lại sau
+- Tôi ra ngoài
+- Tôi ra khỏi đây
+- Tôi phải lên đường
+- Tôi phải ra ngoài
+
+## intent:affirm
+- Vâng
+- thật
+- tất nhiên
+- nghe hay đấy
+- chính xác
+
+## intent:deny
+- không
+- không bao giờ
+- Tôi không nghĩ vậy
+- đừng như vậy
+- Không đời nào
+- không hẳn
+- Tôi xin lỗi tôi không thể giúp bạn ở đây
+- Tôi xin lỗi, tôi sẽ giúp một lần khác, nhưng hôm nay tôi không thể
+- Tôi muốn giúp đỡ, nhưng ngay bây giờ, tôi quá bận rộn
+- Tôi thực sự muốn tôi có thể giúp, nhưng tôi không thể
+- Tôi ước tôi có thể, nhưng ngay bây giờ, tôi không thể
+- Thông thường, tôi có thể giúp, nhưng
+- Không có nó không phải là
+
+## intent:refuse_invitation
+- Thật đáng tiếc. Tôi sẽ ở nước ngoài
+- Nghe hay đấy, nhưng
+- Tôi xin lỗi, nhưng tôi không thể
+- Tôi thực sự đánh giá cao lời mời của bạn, nhưng
+- Chà, bạn thật tốt bụng, nhưng
+- Điều đó sẽ rất tuyệt, nhưng tôi xin lỗi
+- Tôi ước tôi có thể đến, nhưng thật không may
+- Tôi thực sự muốn, nhưng
+- Tôi sợ tôi không thể làm được
+- Đó là một lời mời rất tử tế, nhưng
+
+## intent:refuse_offer
+- Tôi đánh giá cao lời đề nghị, nhưng
+- Điều đó thực sự sẽ rất tuyệt, nhưng
+- Cảm ơn bạn rất nhiều vì lời đề nghị, nhưng
+- Tôi vô cùng xin lỗi tôi phải từ chối lời đề nghị như vậy, nhưng
+- Bạn thật tốt bụng; thật không may, tôi không thể
+
+## intent:mood_great
+- hoàn hảo
+- rất tốt
+- tuyệt quá
+- kinh ngạc
+- Tuyệt vời
+- Tôi đang cảm thấy rất tốt
+- tôi rất tuyệt
+- Tôi ổn
+- Hoàn toàn vui mừng
+- hồi hộp đến bit
+- trên mặt trăng
+- thực sự hài lòng
+- rất hạnh phúc
+- Tôi không thể hạnh phúc hơn.
+- Thật tuyệt vời
+- Tuyệt vời
+- tuyệt quá
+- tuyệt vời
+- Thật tuyệt
+- tin tức tuyệt vời
+- Chúng tôi đã chờ đợi quá lâu cho việc này
+- Cảm ơn chúa
+- Cảm ơn Chúa vì điều đó
+- Tôi thực sự hài lòng.
+- Tin gì tuyệt vời!
+- Có thể tốt hơn.
+
+## intent:mood_unhappy
+- buồn
+- rất buồn
+- không vui
+- xấu
+- rất tệ
+- kinh khủng
+- kinh khủng
+- không tốt lắm
+- rất buồn
+- buồn quá
+- thực sự buồn về
+- rất buồn
+- buồn bã
+- không vui về
+- xuống một chút
+- buồn chán
+- hơi chán nản
+- khổ sở
+- trong miếng
+- quẫn trí
+- tàn phá
+- đau lòng
+- hoàn toàn bị rút ruột
+
+## intent:ask_for_health
+- Sức khỏe của bạn thế nào
+- Vậy bạn cảm thấy thế nào
+- Mọi thứ thế nào với sức khỏe của bạn?
+- Bạn cảm thấy đỡ hơn chưa
+- Bạn đã vượt qua
+
+## intent:ask_for_gossip
+- bạn có biết tin đồn không
+- bối cảnh là gì
+- kể cho tôi nghe về tin đồn
+- nói với tôi tin đồn
+- tin đồn
+- đã nói những lời đồn đoán với bất cứ ai
+
+## intent:ask_for_humor
+- Nói với tôi một trò đùa
+- kể cho tôi nghe vài câu chuyện cười
+- Có biết đùa không
+- hài hước là gì
+
+## intent:ask_for_help
+- Bạn có thể giúp tôi được không
+- bạn có thể giúp tôi
+- bạn sẽ giúp tôi
+- Bạn có thể giúp tôi một phút được không
+- Bạn có thể giúp tôi một tay
+- Bạn có thể vui lòng giúp tôi với
+- Bạn có phiền khi chỉ cho tôi
+- Có bất kỳ cơ hội của họ mà bạn có thời gian để
+- Bạn vui lòng giải thích cho tôi
+- Bạn có thể giúp tôi một việc được không
+- Xin hãy giúp tôi với
+- Bạn có thể
+- Tôi đã tự hỏi nếu bạn có thể vui lòng chỉ cho tôi làm thế nào để
+- Bạn có thời gian rảnh nào không
+- Bạn có biết gì về
+- Tôi đã có một vấn đề với. Bạn có nghĩ rằng bạn có thể giúp tôi
+- Nếu bạn không phiền, tôi thực sự có thể sử dụng sự trợ giúp của bạn với
+- Nếu bạn không phiền, tôi thực sự cần sự giúp đỡ của bạn với
+- Tôi biết bạn tốt với, và tôi thực sự có thể sử dụng một số trợ giúp.
+- Tôi nghe nói bạn thực sự giỏi. Là bất kỳ cơ hội của họ, bạn có thể giúp tôi?
+- Có bất kỳ cơ hội nào của họ mà bạn có thể giúp tôi với tay không?
+- Tôi nghe nói rằng bạn có rất nhiều kinh nghiệm và tôi thực sự có thể sử dụng sự giúp đỡ của bạn.
+
+## intent:evaluate
+- Bạn là [kiêu ngạo](BotRate)
+- Bạn đang [khoe khoang](BotRate)
+- Bạn là [không bao giờ buồn](BotRate)
+- Bạn là [ghen tị](BotRate)
+- Bạn là [không bao giờ tốt đẹp](BotRate)
+- Bạn nên [xấu hổ](BotRate)
+- Bạn có thể [không cảm thấy](BotRate)
+- Bạn có thể [không trải nghiệm](BotRate)
+
+## intent:ask_for_emotion
+- Bạn có cảm thấy
+- Điều đó có làm bạn không
+- Nó có làm bạn [buồn](BotEmotion)
+- Cảm xúc
+- Bạn có cảm thấy [sợ hãi](BotEmotion)
+- Bạn có cảm thấy [cảm xúc](BotEmotion)
+- Bạn có cảm thấy [đau](BotEmotion)
+- Bạn có bao giờ bị [cô đơn](BotEmotion)
+- Bạn có bao giờ nhận được [điên](BotEmotion)
+- Bạn có bao giờ bị [chán](BotEmotion)
+- Bạn có [ghét](BotEmotion) [bất cứ ai](BotEmotionObject)
+- Bạn có nhận được [xấu hổ](BotEmotion)
+- Bạn có nhận được [điên](BotEmotion)
+- Bạn có [ghen tị](BotEmotion)
+- Bạn có [vui mừng](BotEmotion)
+- Bạn có [buồn](BotEmotion)
+
+## intent:show_emotion
+- Tôi e rằng
+- Bạn ghét gì
+- Tôi có cảm xúc
+- Thật tức giận
+- Một cái gì đó vui vẻ
+
+## intent:appease
+- Đừng lo
+- Làm thế nào tôi có thể xúc phạm bạn
+
+## intent:ask_bot_infor
+- Hãy cho tôi biết về [những giấc mơ](BotInfo) của bạn 
+- Hãy cho tôi biết về [mối quan hệ](BotInfo)
+- [cảm giác](BotInfo) của bạn 
+- Hãy cho tôi biết về [chính mình](BotInfo)
+- Bạn làm gì [lo lắng](BotInfo)
+- Bạn [ghét](BotInfo) gì 
+- Điều gì làm bạn [buồn](BotInfo)
+- Điều gì khiến bạn [không vui](BotInfo)
+- Điều gì khiến bạn [điên](BotInfo)
+- [nỗi sợ](BotInfo) của bạn là gì 
+- [tâm trạng](BotInfo) của bạn  là gì
+- Bạn đã bao giờ [yêu](BotInfo)
+
+
+## intent:departure_time
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [muncher freiheit](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) rời khỏi [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [s-bahn](Xe) rời đi tại [garashing](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) bắt đầu từ [garging](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [garging](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời đi trong [garging forschungszentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) bắt đầu lúc [gặt](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [Ostbahnhof](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [munchner freiheit](StationStart)?
+- [next](Tiêu chí) [xe lửa](Xe) từ [garashing](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) từ [garging forschungszentrum](StationStart)
+- [next](Tiêu chí) [xe buýt](Xe) trong [garging](StationStart)
+- khi nào [tàu](Xe) rời đi trong [garging forschungszentrum](StationStart)
+- [next](Tiêu chí) [tàu điện ngầm](Xe) từ [garging forschungszentrum](StationStart)
+- cho tôi biết [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart)
+- [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart), xin vui lòng.
+- [next](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart)
+- [next](Tiêu chí) [xe buýt](Xe) từ [trạm trung tâm](StationStart)
+- [next](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart).
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [gác](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) khởi hành tại [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) khởi hành tại [garashing](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) khởi hành tại [garging](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe cộ) trong [gặt hái](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging forschungzentrum](StationStart)
+- [next](Tiêu chí) [xe lửa](Xe) từ [muenchen freicheit](StationStart)
+- khởi hành trong [garging](StationStart), tôi giả sử
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) khởi hành tại [garashing](StationStart)?
+- [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging forschungzentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [alte heide](StationStart)?
+- hoặc khởi hành từ [garging](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [u6](Dòng) rời khỏi [garging forschungszentrum](StationStart)
+- khi nào [tàu](Xe) từ [garging](StationStart)
+- [tiếp theo](Tiêu chí) [xe lửa](Phương tiện) từ [münchner freiheit](StationStart) là gì
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [hauptbahnhof](StationStart)?
+- khi [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [garging, forschungszentrum](StationStart) đang rời đi?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [quiddestraße](StationStart)?
+- khi [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [garging forschungszentrum](StationStart) đang rời đi?
+- khi nào [u6](Line) tiếp theo rời khỏi [garashing](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [garging forschungszentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [u6](Dòng)?
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) rời khỏi [gác](StationStart)?
+- khi [tiếp theo](Tiêu chí) [xe lửa](Phương tiện) trong [gác] [StationStart) đang rời đi?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời đi trong [gặt hái](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [odeonsplatz](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [quiddestraße](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe)
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [garging forschungszentrum](StationStart)?
+- khi nào [tàu](Xe) tiếp theo rời đi?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời đi trong [garging](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [s-bahn](Xe) rời khỏi [hauptbahnhof](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) khởi hành từ [odeonsplatz](StationStart)?
+- cho tôi xem [tiếp theo](Tiêu chí) [xe buýt](Xe cộ) từ [gặt hái](StationStart)!
+- khi nào [tiếp theo](Tiêu chí) [tram](Xe) bắt đầu từ [hauptbahnhof](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) sẽ khởi hành từ [garging forschungszentrum](StationStart)?
+- cho tôi xem [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [michaelibad](StationStart).
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) bắt đầu tại [sendlinger tor](StationStart)?
+- hey bot, khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) bắt đầu lúc [gặt](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [garging](StationStart)?
+- khi nào [xe buýt](Xe) từ [quiddestraße](StationStart)?
+- khi nào tôi có thể nhận [xe buýt](Xe) tại [mariahilfplatz](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [romanplatz](StationStart)?
+- khi nào [xe buýt](Xe) đến [röbledweg](StationStart) bắt đầu?
+- [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [quiddestraße](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [garging](StationStart)?
+- khi nào [tàu](Xe) rời đi trong [garging](StationStart)
+- khi nào [tàu](Xe) rời đi trong [gặt](StationStart)?
+- khi nào adrians [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) rời đi tại [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) từ [gác](StationStart)
+- khi đến [tiếp theo](Tiêu chí) [xe lửa](Xe)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [nordfriedhof](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) đến [garging forschungszentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) từ [gác](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [tên lửa](Xe) rời khỏi [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [nordfriedhof](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [münchner freiheit](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) trong [garging forschungszentrum](StationStart)
+
+## intent:find_connection
+- tôi muốn đi [marienplatz] (StationDest)
+- từ [olympia einkaufszentrum] (StationStart) đến [hauptbahnhof] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Phương tiện) từ [winterstraße 12] (StationStart) đến [kieferngarten] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [tên lửa] (Xe) từ [winterstraße 12] (StationStart) đến [kieferngarte] (StationDest)
+- bạn có thể tìm thấy một kết nối từ [garging] (StationStart) đến [hauptbahnhof] (StationDest) không?
+- cách chuyển từ [untere strassäcker 21] (StationStart) sang [fröttmaning] (StationDest)
+- làm thế nào tôi có thể đi từ [marienplatz] (StationStart) đến [garging] (StationDest)
+- kết nối từ [boltzmannstraße] (StationStart) đến [kieferngarten] (StationDest)
+- làm thế nào để chuyển từ [bonner platz] (StationStart) sang [freimann] (StationDest)?
+- làm thế nào để tôi nhận được từ [oez] (StationStart) đến [hbf] (StationDest)?
+- cách đi từ [winterstr 12] (StationStart) đến [fröttmaning] (StationDest)
+- làm thế nào để tôi có được từ [garging forschungszentrum] (StationStart) đến [pasing] (StationDest)
+- [Theresienstraße] (StationStart) đến [assling] (StationDest)
+- làm thế nào tôi có thể đi từ [Theresienstraße] (StationStart) đến [munich East] (StationDest)?
+- từ [quiddestraße] (StationStart) đến [garging] (StationDest)?
+- bạn có thể tìm thấy một kết nối từ [kurt-eisner-straße] (StationStart) đến [garging forschungszentrum] (StationDest) không?
+- bạn có thể tìm thấy một kết nối từ [quiddestraße] (StationStart) đến [garging forschungszentrum] (StationDest) không?
+- từ [hauptbahnhof] (StationStart) đến [garging] (StationDest)?
+- làm thế nào tôi có thể đến [glockenbachviertel] (StationDest) từ [garging forschungszentrum] (StationStart)?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [nordfriedhof] (StationDest)
+- làm thế nào tôi có thể đến [glockenbachviertel] (StationDest) từ [garging forschungszentrum] (StationStart)?
+- làm thế nào tôi có thể nhận được từ [moosach] (StationStart) đến [quiddestraße] (StationDest)?
+- làm cách nào tôi có thể đi từ [moosach] (StationStart) đến [poccistraße] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [kurt-eisner-straße] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [moosach] (StationStart) đến [quiddestraße] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [moosach] (StationStart) đến [odeonsplatz] (StationDest)?
+- cách [ngắn nhất] (Tiêu chí) từ [quiddestraße] (StationStart) đến [odeonsplatz] (StationDest) là gì?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [neuperlach bị kiện] (StationDest)
+- làm thế nào tôi có thể đi từ [marienplatz] (StationStart) đến [garging] (StationDest)?
+- làm thế nào để tôi nhận được từ [poccistraße] (StationStart) đến [laim] (StationDest)
+- tôi muốn đi [garging] (StationDest) từ [marienplatz] (StationStart)
+- làm thế nào tôi có thể đi từ [marienplatz] (StationStart) đến [garging] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)
+- [prinzregentenplatz] (StationStart) đến [rotkreuzplatz] (StationDest)
+- tôi muốn đi đến [garging] (StationDest) từ [marienplatz] (StationStart)
+- từ [prinzregentenplatz] (StationStart) đến [rotkreuzplatz] (StationDest)
+- từ [garging] (StationStart) đến [klinikum] (StationDest)
+- từ [garging foschungszentrum] (StationStart) đến [odeonsplatz] (StationDest)
+- từ [garging] (StationStart) đến [marienplatz] (StationDest)
+- kết nối từ [garashing] (StationStart) đến [hauptbahnhof] (StationDest)?
+- tìm kết nối từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)
+- làm thế nào để đi từ [münchner freiheit] (StationStart) đến [garging] (StationDest)?
+- [implerstraße] (StationStart) đến [Ostbahnhof] (StationDest)
+- làm cách nào tôi có thể đi từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể đi từ [garging forschungszentrum] (StationStart) đến [prinzregentenplatz] (StationDest)
+- làm cách nào tôi có thể nhận được từ [mangfallplatz] (StationStart) đến [garging] (StationDest)
+- làm thế nào tôi có thể đến [hohenlindenerstraße] (StationDest)
+- [harthaus] (StationStart) thành [hackerbrücke] (StationDest)
+- làm thế nào tôi có thể nhận được từ [feldmoching] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- từ [marienplatz] (StationStart) đến [petershausen] (StationDest)
+- khi nào [tàu] (Xe) từ [garging] (StationStart) đến [marienplatz] (StationDest)
+- [neufahrn] (StationStart) thành [garging] (StationDest)
+- làm cách nào tôi có thể nhận được từ [mangfallplatz] (StationStart) đến [garging] (StationDest)
+- làm thế nào tôi có thể đến [hohenlindenerstr] (StationDest)
+- làm thế nào để tôi đi từ [spitzingplatz] (StationStart) đến [poccistraße] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [marienplatz] (StationDest)
+- làm cách nào tôi có thể nhận được từ [klinkum] (StationStart) đến [marienplatz] (StationDest)?
+- cách lấy từ [alte heide] (StationStart) đến [marienplatz] (StationDest)
+- xin chào bot thành phố munich! làm thế nào để tôi nhận được từ [münchner freiheit] (StationStart) đến [scheidplatz] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [prinzregentenplatz] (StationDest)
+- làm cách nào tôi có thể nhận được từ [neufahrn] (StationStart) đến [garging] (StationDest)
+- đưa tôi đến [sân bay] (StationDest)
+- làm thế nào tôi có thể nhận được từ [munchner freiheit] (StationStart) đến [nordfriedhof] (StationDest)?
+- từ [harthaus] (StationStart) đến [hackerbrücke] (StationDest)
+- làm thế nào tôi có thể nhận được từ [Theresienstr] (StationStart) đến [garging forschungszentrum] (StationDest)
+- làm cách nào tôi có thể nhận được từ [münchner freiheit] (StationStart) đến [odeonsplatz] (StationDest)
+- từ [garging] (StationStart) đến [hauptbahnhof] (StationDest)
+- làm cách nào tôi có thể nhận được từ [garging] (StationStart) đến [odeonsplatz] (StationDest)
+- bắt đầu: [neufahrn] (StationStart) end: [garging] (StationDest)
+- làm cách nào tôi có thể nhận được từ [studentenstadt] (StationStart) đến [garging] (StationDest)
+- đưa tôi từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)
+- kết nối [ngắn nhất] (Tiêu chí) giữa [quiddestraße] (StationStart) và [odeonsplatz] (StationDest) là gì?
+- kết nối [rẻ nhất] (Tiêu chí) giữa [quiddestraße] (StationStart) và [hauptbahnhof] (StationDest) là gì?
+- cách [ngắn nhất] (Tiêu chí) giữa [hauptbahnhof] (StationStart) và [odeonsplatz] (StationDest) là gì?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [münchner freiheit] (StationDest) là [nhanh] (Tiêu chí) càng tốt?
+- cách [rẻ nhất] (Tiêu chí) từ [neuperlach süd] (StationStart) đến [lehel] (StationDest) là gì?
+- làm cách nào tôi có thể nhận được từ [neuperlach zentrum] (StationStart) đến [karlsplatz] (StationDest) dưới dạng [nhanh] (Tiêu chí) càng tốt?
+- bạn có thể cho tôi kết nối [nhanh nhất] (Tiêu chí) giữa [brudermühlstraße] (StationStart) và [alte heide] (StationDest) không?
+- có một chuyến tàu từ [neuperlach zentrum] (StationStart) đến [garging] (StationDest) lúc [3 pm] (TimeStartTime)?
+- bạn có thể tìm thấy kết nối từ [olympiazentrum] (StationStart) đến [lehel] (StationDest) lúc [2 pm] (TimeStartTime) không?
+- tôi cần kết nối từ [harras] (StationStart) đến [karl-preis-platz] (StationDest) lúc [8 giờ sáng] (TimeStartTime).
+- cần có mặt tại [hauptbahnhof] (StationDest) lúc [1 giờ chiều] (TimeEndTime), bạn có thể tìm kiếm một kết nối từ [garging forschungszentrum] (StationStart) không?
+- tôi cần ở [garging] (StationDest) tại [9] (TimeEndTime)
+- tôi có thể đi [xe buýt] (Xe) từ [quiddestraße] (StationStart) đến [hauptbahnhof] (StationDest) không?
+- bạn có thể tìm đường [ngắn nhất] (Tiêu chí) từ [moosfeld] (StationStart) đến [milbertshofen] (StationDest) không?
+- làm cách nào tôi có thể đến [neuperlach süd] (StationDest) từ [garging forschungszentrum] (StationStart)?
+- bạn có thể tìm thấy [xe buýt] (Xe) từ [quiddestraße] (StationStart) đến [lehel] (StationDest) không?
+- có [xe điện] (Xe) từ [karlsplatz] (StationStart) đến [lehel] (StationDest) không?
+- có [xe buýt] (Xe) từ [garging] (StationStart) đến [moosach] (StationDest) vào khoảng [5] (TimeStartTime) không?
+- có [xe buýt] (Xe) từ [odeonsplatz] (StationStart) đến [hauptbahnhof] (StationDest) lúc [3 giờ chiều] (TimeStartTime)?
+- bạn có thể cho tôi biết cách [rẻ nhất] (Tiêu chí) từ [garging forschungszentrum] (StationStart) đến [quiddestraße] (StationDest) không?
+- làm thế nào tôi có thể đến [quiddestraße] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [hauptbahnhof] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [kurt-eisner-straße] (StationStart) đến [garging] (StationDest)?
+- kết nối [tiếp theo] (Tiêu chí) từ [garging forschungszentrum] (StationStart) đến [odeonsplatz] (StationDest) là gì?
+- làm thế nào tôi có thể nhận được từ [mossach] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging, forschungszentrum] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [kurt-eisner-straße] (StationDest)?
+- làm thế nào tôi có thể đến [boltzmannstraße] (StationDest) từ [quiddestraße] (StationStart)?
+- làm cách nào tôi có thể nhận được từ [garging] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [olympiazentrum] (StationStart) đến [hauptbahnhof] (StationDest)?
+- làm thế nào tôi có thể đi từ [quiddestraße] (StationStart) đến [boltzmannstraße] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [moosach] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- bạn có thể cho tôi một kết nối từ [garging] (StationStart) đến [odeonsplatz] (StationDest) không?
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe) từ [nordfriedhof] (StationStart) đến [garging forschungszentrum] (StationDest)
+- tôi muốn đi từ [garging] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể đến [sendlinger tor] (StationDest)?
+- làm thế nào để tôi đến [untere straussäcker] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) [garging] (StationDest) đến garging?
+- làm cách nào tôi có thể chuyển từ [garging] (StationStart) sang [sendlinger tor] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garchedto] (StationStart) [garging] (StationDest) đến garging?
+- làm thế nào để tôi nhận được từ [marienplatz] (StationStart) zu [garging] (StationDest)
+- làm cách nào tôi có thể đến [milbertshofen] (StationDest) từ [garging] (StationStart)?
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe cộ) đến [gặt hái] (StationDest)
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [milbertshofen] (StationDest)?
+- kết nối từ [untere straßäcker 21] (StationStart) đến [kieferngarten] (StationDest)
+- cách chuyển từ [untere strassäcker 21] (StationStart) sang [frötmaning] (StationDest)
+- cách chuyển từ [untere strassaecker 21] (StationStart) sang [frötmaning] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe) từ [untere straßaecker 21] (StationStart) đến [kieferngarten] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe) từ untere [straßaecker 21, garging] (StationStart) đến [kieferngarten] (StationDest)
+- từ [garging] (StationStart) đến [perlach] (StationDest)
+- làm thế nào để chuyển từ [garging] (StationStart) sang [perlach] (StationDest)?
+- cách truy cập từ [bonnerplatz] (StationStart) đến [freimann] (StationDest)
+- kết nối từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào để tôi nhận được từ [olympia einkaufszentrum] (StationStart) đến [hauptbahnhof] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [garging] (StationStart) đến [marienplatz] (StationDest)
+- từ [garging] (StationStart) đến [studentenstadt] (StationDest)
+
+## intent:change_password
+- Người dùng [Gmail](WebService) được thiết lập thông qua [Google](WebService) Ứng dụng không thể thay đổi mật khẩu của họ
+- Làm cách nào để thay đổi mật khẩu của tôi trên [ebay](WebService)?
+- [Gmail](Dịch vụ web) phục hồi mật khẩu khi đăng nhập Iphone
+- Cách lấy lại mật khẩu Quản trị viên bị quên [Wordpress](WebService)
+- Làm cách nào để lấy lại mật khẩu của tài khoản [Yahoo](WebService) bị đánh cắp?
+- Người dùng không thể đặt lại mật khẩu của mình nữa trên Ứng dụng [Google](WebService)?
+- Làm cách nào để thay đổi mật khẩu của tôi trên [Vùng nhiệt đới TV](Dịch vụ web)?
+- Tại sao tôi không thể thay đổi mật khẩu và đăng nhập bằng [Skype](WebService)?
+
+## intent:delete_account
+- Làm cách nào để xóa tài khoản [Facebook](WebService) của tôi?
+- Làm cách nào tôi có thể tự xóa mình khỏi tổ chức [Trello](WebService)?
+- Làm cách nào tôi có thể xóa tài khoản [160by2](WebService) của mình?
+- Làm cách nào tôi có thể xóa vĩnh viễn tài khoản [Yahoo mail](WebService) của mình?
+- Xóa tài khoản (trang web) khỏi [Google Analytics](Dịch vụ web)?
+- Làm cách nào để xóa tài khoản [imgur](WebService) của tôi?
+- Làm cách nào để thay đổi mật khẩu [Uber](WebService) hoặc xóa tài khoản?
+- Cách xóa tài khoản [Sify Mail](WebService)
+- Cách xóa vĩnh viễn ID [37signals](WebService)
+- Làm cách nào tôi có thể xóa tài khoản [Hunch](WebService) của mình?
+- Làm cách nào tôi có thể xóa tài khoản [Twitter](WebService) của mình?
+- Làm cách nào để xóa tài khoản [LinkedIn](WebService) của tôi?
+- Làm cách nào để xóa tài khoản [Gmail](WebService) của tôi?
+- Làm cách nào để xóa tài khoản [Trao đổi chuyên gia](WebService) của tôi?
+- Làm cách nào để xóa hồ sơ [Ohloh](WebService) của tôi?
+- Làm cách nào tôi có thể xóa vĩnh viễn tài khoản [MySpace](WebService) của mình?
+- Làm cách nào để vô hiệu hóa / xóa tài khoản [Harvest](WebService)?
+
+## intent:download_video
+- Làm cách nào để tôi tải xuống video [YouTube](WebService)?
+
+## intent:export_data
+- Có thể xuất dữ liệu của tôi từ [Trello](WebService) để sao lưu dữ liệu không?
+- Làm cách nào để tôi chuyển ảnh từ [Flickr](WebService) sang [Picasa](WebService)?
+- Lưu trữ / xuất tất cả các mục blog từ nguồn cấp RSS trong [Google Reader](WebService)
+- Làm cách nào tôi có thể xuất dữ liệu track.scrobble từ [last.fm](WebService)?
+- Làm cách nào tôi có thể sao lưu blog được lưu trữ [wordpress.com](WebService) của mình?
+
+## intent:flter_spam
+- Việc di chuyển thư đến thư mục thư rác IMAP có đào tạo bộ lọc thư rác của [Gmail](WebService) không?
+- Làm cách nào tôi có thể tự động xóa một số thư rác khỏi [Gmail](Dịch vụ web)?
+- Khi tôi chuyển thư rác vào hộp thư đến của mình, nó lại quay trở lại thư rác
+- Làm cách nào để gửi tin nhắn đến thư rác trong bộ lọc [Gmail](WebService)?
+- Làm cách nào để tắt bộ lọc thư rác trong [Gmail](WebService)?
+- Cách kiểm tra nhãn spam [Gmail](WebService) của bạn để biết email tốt
+- Đánh dấu số lượng lớn tin nhắn là "không phải thư rác"
+- Các lựa chọn thay thế cho [Postini](WebService) để lọc thư rác là gì?
+- Cách xóa bộ lọc thư rác cho email Ứng dụng [Google](WebService)
+- Việc đánh dấu email là thư rác trong [Gmail](WebService) có ảnh hưởng đến bộ lọc cho mọi người không?
+- Làm cách nào tôi có thể ngăn / giảm thư rác sự kiện trên [Facebook](Dịch vụ web)?
+- Các email có được tự động chuyển tiếp từ một tài khoản [Gmail](WebService) sang một điểm dừng khác nếu bị đánh dấu là spam không?
+- Bộ lọc của [Gmail](WebService) cho thư mục SPAM và / hoặc từ khóa trong nhiều trường
+- Loại bỏ rác Nga khỏi [Gmail](Dịch vụ web) của tôi
+- Việc sử dụng bộ lọc "Không bao giờ gửi nó đến Spam" của [Gmail](WebService) có nghĩa là tôi không thể đào tạo bộ lọc thư rác của họ?
+- Xác định chính xác các tin nhắn rác
+- [Twitter](Dịch vụ web) và thư rác [Echofon](Dịch vụ web)
+- Chặn hoàn toàn thư rác vào tài khoản [Gmail](WebService)
+- Loại bỏ thư rác nhanh hơn trong [Gmail](Dịch vụ web)
+- Dừng email spam trong [Gmail](Dịch vụ web) theo mẫu
+
+## intent:find_alternative
+- Thay thế cho [Facebook](Dịch vụ web)
+- Có bất kỳ lựa chọn thay thế [Pandora](WebService) tốt nào có sẵn ngoài Hoa Kỳ không?
+- Có một sự thay thế trực tuyến cho [iGoogle](WebService)
+- Có sự thay thế nào cho [Ứng dụng Google](WebService) cho tên miền của bạn không?
+- [Evernote](Dịch vụ web) thay thế
+- Các lựa chọn thay thế cho [LibraryThing](Dịch vụ web)
+- Các lựa chọn thay thế cho [Facebook](Dịch vụ web) / Cuộc họp để lên kế hoạch sự kiện là gì
+- Có một sự thay thế miễn phí và nhận biết về quyền riêng tư cho [Google](WebService) không?
+- Có những lựa chọn thay thế nào cho Tìm kiếm sản phẩm [Google](WebService)?
+- Trang web chia sẻ ảnh (thay thế cho [flickr](WebService)) hỗ trợ đăng nhập [OpenID](WebService)?
+- Bất kỳ thay thế tốt nào cho [Google Alerts](WebService)?
+- Có HTML nào thay thế cho [Prezi](WebService) không?
+- Bất kỳ lựa chọn thay thế nào cho [Google Streetview](WebService)?
+- [Zencoder](Dịch vụ web) dịch vụ thay thế?
+- Các lựa chọn thay thế đã ngừng [Lịch Google](Các dịch vụ WebService)
+- Nền tảng Q & A tương tự như mô hình [Stack Exchange](WebService)?
+- Các lựa chọn thay thế cho [Google Reader](WebService) (với đồng bộ hóa [Android](OperationsSystem))
+- [Bugmenot](WebService) (đăng ký bỏ qua) thay thế mà không hút?
+- Các lựa chọn thay thế cho [Twitter](Dịch vụ web)
+- Công cụ tìm kiếm thay thế [Google](WebService)
+- Các lựa chọn thay thế cho [Google Groups](WebService) với nhiều tính năng hơn?
+- Có bất kỳ lựa chọn tốt nào [Veoh](WebService) hoặc [Youtube](WebService) không?
+- Các lựa chọn thay thế [Mint](WebService) cho Canada
+
+## intent:sync_accounts
+- Làm cách nào để tôi đồng bộ hóa [Lịch Google](WebService) với [Lịch Outlook](WebService) của tôi?
+- Tôi có thể tự động chia sẻ / đồng bộ album Web [Picasa](WebService) của mình với tài khoản [Facebook](WebService) của tôi không?
+- Đồng bộ hóa không xuất các sự kiện [Facebook](WebService) với lịch [Google Apps](WebService)
+- Làm cách nào để tôi đồng bộ hóa [Facebook](WebService) [Twitter](WebService) & [Foursquare](WebService)?
+- [Lịch Google](Dịch vụ web) không đồng bộ hóa lịch đã được thêm bằng URL với Lịch Windows 10
+- [Google](WebService) Đồng bộ hóa liên hệ trên iPhone 3G
+- Làm cách nào tôi có thể đồng bộ hóa [Yahoo! Lịch](Dịch vụ web) với [Lịch Google](Dịch vụ web)?
+- Dấu trang [Google](WebService) và [Chrome](Trình duyệt) Đồng bộ hóa dấu trang - Khác nhau?
+- Làm cách nào để tôi đồng bộ lịch tập luyện [RunKeeper](WebService) của tôi với [Google Calender](WebService)?

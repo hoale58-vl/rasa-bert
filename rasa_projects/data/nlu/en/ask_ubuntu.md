@@ -1,4 +1,4 @@
-## intent:Make Update
+## intent:make_update
 - Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
 - How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
 - Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
@@ -47,17 +47,7 @@
 - How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?
 - How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
 
-## intent:None
-- Is there a Document scanning and archiving software?
-- How is rm command different from the delete button?
-- How to provide user permission to read and write on /dev/sdax? What is the syntax?
-- Security enhancements prevent mounting /dev/sdb1
-- How do I show grub when resuming from suspend?
-- How to record my screen?
-- How can I highlight or annotate PDFs?
-- Torrent client for the command-line?
-
-## intent:Setup Printer
+## intent:setup_printer
 - How to install a [Lexmark z600](Printer) series printer?
 - Cannot setup [HP All in one DJ3630](Printer)
 - How to add a network printer on Ubuntu [15.10](UbuntuVersion)?
@@ -82,7 +72,7 @@
 - How do I install drivers for the [Panasonic MB1900CX](Printer) All-in-One Printer/Scanner?
 - How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
 
-## intent:Shutdown Computer
+## intent:shutdown_computer
 - Keyboard shortcut to shutdown?
 - My system doesn't go shutdown
 - How to troubleshoot slow shutdown?
@@ -111,7 +101,7 @@
 - How do I fix a shutdown problem?
 - What graphical utility can I use for Ubuntu auto shutdown?
 
-## intent:Software Recommendation
+## intent:software_recommendation
 - What software can I use to view epub documents?
 - Which PDF Viewer would you recommend?
 - What IDEs are available for Ubuntu?

@@ -1,0 +1,5 @@
+// Possible departure times for a flight
+@[departure-time]
+    today
+    now = today
+    tomorrow

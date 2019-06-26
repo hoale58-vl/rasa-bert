@@ -1,4 +1,4 @@
-## intent:DepartureTime
+## intent:departure_time
 - when is the [next](Criterion) [train](Vehicle) in [muncher freiheit](StationStart)?
 - when does the [next](Criterion) [u-bahn](Vehicle) leaves from [garching forschungszentrum](StationStart)?
 - when is the [next](Criterion) [s-bahn](Vehicle) leaving at [garching](StationStart)?
@@ -78,7 +78,7 @@
 - when is the [next](Criterion) [train](Vehicle) in [münchner freiheit](StationStart)?
 - when is the [next](Criterion) [bus](Vehicle) in [garching forschungszentrum](StationStart)
 
-## intent:FindConnection
+## intent:find_connection
 - i want to go [marienplatz](StationDest)
 - from [olympia einkaufszentrum](StationStart) to [hauptbahnhof](StationDest)
 - when is the [next](Criterion) [train](Vehicle) from [winterstraße 12](StationStart) to [kieferngarten](StationDest)

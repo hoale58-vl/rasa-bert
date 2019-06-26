@@ -1,4 +1,4 @@
-## intent:Make Update
+## intent:make_update
 - Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
 - How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
 - Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
@@ -47,17 +47,8 @@
 - How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?
 - How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
 
-## intent:None
-- Is there a Document scanning and archiving software?
-- How is rm command different from the delete button?
-- How to provide user permission to read and write on /dev/sdax? What is the syntax?
-- Security enhancements prevent mounting /dev/sdb1
-- How do I show grub when resuming from suspend?
-- How to record my screen?
-- How can I highlight or annotate PDFs?
-- Torrent client for the command-line?
 
-## intent:Setup Printer
+## intent:setup_printer
 - How to install a [Lexmark z600](Printer) series printer?
 - Cannot setup [HP All in one DJ3630](Printer)
 - How to add a network printer on Ubuntu [15.10](UbuntuVersion)?
@@ -82,7 +73,7 @@
 - How do I install drivers for the [Panasonic MB1900CX](Printer) All-in-One Printer/Scanner?
 - How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
 
-## intent:Shutdown Computer
+## intent:shutdown_computer
 - Keyboard shortcut to shutdown?
 - My system doesn't go shutdown
 - How to troubleshoot slow shutdown?
@@ -111,7 +102,7 @@
 - How do I fix a shutdown problem?
 - What graphical utility can I use for Ubuntu auto shutdown?
 
-## intent:Software Recommendation
+## intent:software_recommendation
 - What software can I use to view epub documents?
 - Which PDF Viewer would you recommend?
 - What IDEs are available for Ubuntu?
@@ -170,7 +161,7 @@
 - Password Management Applications?
 - Is there an application for reading mobi files?
 
-## intent:DepartureTime
+## intent:departure_time
 - when is the [next](Criterion) [train](Vehicle) in [muncher freiheit](StationStart)?
 - when does the [next](Criterion) [u-bahn](Vehicle) leaves from [garching forschungszentrum](StationStart)?
 - when is the [next](Criterion) [s-bahn](Vehicle) leaving at [garching](StationStart)?
@@ -250,7 +241,7 @@
 - when is the [next](Criterion) [train](Vehicle) in [münchner freiheit](StationStart)?
 - when is the [next](Criterion) [bus](Vehicle) in [garching forschungszentrum](StationStart)
 
-## intent:FindConnection
+## intent:find_connection
 - i want to go [marienplatz](StationDest)
 - from [olympia einkaufszentrum](StationStart) to [hauptbahnhof](StationDest)
 - when is the [next](Criterion) [train](Vehicle) from [winterstraße 12](StationStart) to [kieferngarten](StationDest)
@@ -380,7 +371,7 @@
 - how can i get from [garching](StationStart) to [marienplatz](StationDest)
 - from [garching](StationStart) to [studentenstadt](StationDest)
 
-## intent:Change Password
+## intent:change_password
 - [Gmail](WebService) user set up through [Google](WebService) Apps can't change their password
 - How do I change my password on [ebay](WebService)?
 - [Gmail](WebService) recover password while logged in Iphone
@@ -390,7 +381,7 @@
 - How do I change my password on [TV Tropes](WebService)?
 - Why can't I change my password and login with [Skype](WebService)?
 
-## intent:Delete Account
+## intent:delete_account
 - How do I delete my [Facebook](WebService) account?
 - How can I remove myself from a [Trello](WebService) organization?
 - How can I delete my [160by2](WebService) account?
@@ -409,17 +400,15 @@
 - How can I permanently delete my [MySpace](WebService) account?
 - How to disable/delete a [Harvest](WebService) account?
 
-## intent:Download Video
-- How do I download a [YouTube](WebService) video?
 
-## intent:Export Data
+## intent:export_data
 - Is it possible to export my data from [Trello](WebService) to back it up?
 - How do I transfer my photos from [Flickr](WebService) to [Picasa](WebService)?
 - Archive/export all the blog entries from a RSS feed in [Google Reader](WebService)
 - How can I export track.scrobble data from [last.fm](WebService)?
 - How can I backup my [wordpress.com](WebService) hosted blog?
 
-## intent:Filter Spam
+## intent:filter_spam
 - Does moving a mail to the IMAP spam folder trains [Gmail](WebService)'s spam filter?
 - How can I auto-delete some spam from [Gmail](WebService)?
 - When I move spam to my inbox it goes back into the spam again
@@ -441,7 +430,7 @@
 - Discarding spam mail faster in [Gmail](WebService)
 - Stopping spam emails in [Gmail](WebService) by pattern
 
-## intent:Find Alternative
+## intent:find_alternative
 - Alternative to [Facebook](WebService)
 - Are there any good [Pandora](WebService) alternatives with general availability outside the US?
 - Is there an online alternative to [iGoogle](WebService)
@@ -466,15 +455,7 @@
 - Are there any good [Veoh](WebService) or [Youtube](WebService) alternatives?
 - [Mint](WebService) alternatives for Canada
 
-## intent:None
-- Good wireframing apps?
-- Embedding stop time in a [YouTube](WebService) video link
-- Is there a catch to [PayPal](WebService)'s Premier account type?
-- How can I get [OkCupid](WebService) search to show only matches within 5 miles of me?
-- Change subject line in new [Gmail](WebService) compose window
-- Email [Google](WebService) Form daily?
-
-## intent:Sync Accounts
+## intent:sync_accounts
 - How do I sync [Google Calendar](WebService) with my [Outlook Calendar](WebService)?
 - Can I Share/Sync My [Picasa](WebService) Web Albums Automatically to My [Facebook](WebService) Account?
 - Sync not export [Facebook](WebService) events with [Google Apps](WebService) calendar

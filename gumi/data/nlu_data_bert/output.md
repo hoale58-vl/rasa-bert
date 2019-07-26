@@ -1,0 +1,3642 @@
+## intent:greet
+- chào
+- lời chào hỏi
+- xin chào
+- xin chào, thế nào rồi
+- dạo này thế nào bạn đang làm gì
+- rất vui được gặp bạn.
+- xin chào, rất vui khi gặp bạn.
+- rất vui được gặp bạn.
+- chào bạn vào buổi sáng
+- chuyện gì xảy ra với bạn
+- chào buổi sáng
+- chào buổi tối
+- chào buổi trưa
+- làm thế nào bạn
+- bạn làm thế nào
+- làm thế nào bạn có được
+- thật vui được gặp bạn
+- hân hạnh được gặp bạn
+- lâu rồi không gặp
+- đã được một lúc rồi
+- rất vui được gặp bạn
+- ngày hôm nay của bạn thế nào
+- mọi thứ thế nào rồi
+- mọi chuyện thế nào rồi
+- cuộc sống thế nào rồi
+- bạn đang có chuyện gì thế
+- có gì mới không bạn
+- chuyện gì đang xảy ra vậy?
+- rất vui được gặp lại bạn
+- thật tuyệt khi gặp bạn
+
+- hi
+- greetings
+- hello
+- hi, how is it going
+- how are you doing
+- nice to meet you.
+- how do you do
+- hi, nice to meet you.
+- it is a pleasure to meet you.
+- top of the morning to you
+- what's up
+- hey
+- good morning
+- good evening
+- good afternoon
+- hey there
+- hiya
+- sup
+- whazzup
+- howdy
+- yo
+- how do you do
+- how have you been
+- it's nice to meet you
+- pleased to meet you
+- long time no see
+- it's been a while
+- good to see you
+- how's your day
+- how's your day going
+- how's everything
+- how are things
+- how's life
+- what's up
+- what's new
+- what's going on
+- hi bot
+- hey bot
+- hi again
+- hi folks
+- hi mister
+- hi pal!
+- hi there
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey hey
+- hello there
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+
+## intent:bye
+- tạm biệt
+- sẽ gặp lại bạn
+- hẹn gặp lại
+- hẹn sớm gặp lại
+- sẽ nói chuyện sau
+- tôi phải đi
+- bình tĩnh nào. tôi sẽ gặp lại bạn.
+- chúc một ngày tốt lành
+- tôi mong đợi gặp mặt tiếp theo của chúng ta
+- bảo trọng nhé, tôi sẽ trở lại
+- chúc ngủ ngon
+- gặp lại sau
+- tôi phải đi
+
+- byebye
+- see you
+- bye
+- goodbye
+- see you around
+- see you later
+- see you soon
+- talk to you later
+- i've got to get going
+- i must be going
+- take it easy
+- i'm off
+- have a nice day
+- i look forward to our next meeting
+- take care
+- it was nice to see you again
+- it was nice seeing you
+- goodnight
+- later, laters
+- catch you later
+- i'm out
+- i'm out of here
+- i gotta jet
+- i gotta take off
+- i gotta hit the road
+- i gotta head out
+
+## intent:affirm
+- vâng
+- thật
+- tất nhiên
+- nghe hay đấy
+- chính xác
+- có chứ
+- như vậy đi
+- đồng ý
+- nghe được đấy
+- cứ như vậy đi
+- tùy ý bạn thôi
+- chuẩn
+- tôi hoàn toàn đồng ý bạn
+- ok chấp nhận luôn
+- ừ
+- ừ cứ như thế nhé
+- rất tuyệt, tôi sẽ chấp nhận
+- theo ý bạn đi
+- cứ như vậy đi
+- cứ thế mà làm
+- ừ làm ngay đi
+
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- uh yes
+- um yes
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- yes right
+- yes and i dont care
+- right on
+- i love that
+
+## intent:deny
+- không
+- không bao giờ
+- tôi không nghĩ vậy
+- đừng như vậy
+- không đời nào
+- không hẳn
+- đừng làm thế
+- không tôi cảm ơn
+- tôi không cần đâu
+- đéo
+- tôi không làm điều đó
+- không tôi không đồng ý
+- tôi đéo cần điều này
+- tôi không cần điều đó
+- thật đáng tiếc. tôi sẽ không tham gia đâu
+- nghe hay đấy, nhưng tôi bận rồi
+- tôi bận rồi, xin lỗi nhé
+- tôi xin lỗi, nhưng tôi không thể tham dự
+- tôi không thể chấp nhận lời mời này
+- tôi đéo tham dự được rồi
+- tôi bận rồi, chắc không tới được
+- tôi từ chối nhận lời mời này
+- tôi thực sự đánh giá cao lời mời của bạn, nhưng tôi không tham dự được
+- chà, bạn thật tốt bụng, nhưng rất tiếc tôi không tham dự được
+- điều đó sẽ rất tuyệt, nhưng tôi xin lỗi tôi không tham gia
+- tôi ước tôi có thể đến, nhưng thật không may
+- tôi thực sự muốn, nhưng rất tiếc
+- tôi sợ tôi không thể tới được
+- tôi e ngày đó tôi có việc rồi
+- đó là một lời mời rất tử tế, nhưng tôi không thể tham dự được
+- cảm ơn bạn rất nhiều vì lời đề nghị, nhưng rất tiếc tôi không cần
+- tôi vô cùng xin lỗi là tôi phải từ chối lời đề nghị như vậy
+- bạn thật tốt bụng, thật không may, tôi không thể
+
+- no thanks
+- no thank you
+- uh no
+- breath no
+- no this does not work for me
+- no
+- never
+- i don't think so
+- don't like that
+- no way
+- not really
+- i'm  sorry i can't help you here
+- i'm sorry, i'll help another time, but i can't today
+- i'd love to help, but right now, i'm too busy
+- i really wish i could help, but i can't
+- i wish i could, but right now, i can't 
+- normally, i'd be able to help, but
+- no it is not
+- i didn't do that
+- i appreciate the offer, but 
+- that would really be great, but
+- thank you very much for the offer, but
+- i'm awfully sorry i have to refuse such an offer, but 
+- that's very kind of you; unfortunately, i can't  
+
+## intent:mood_great
+- hoàn hảo
+- rất tốt
+- tuyệt quá
+- kinh ngạc
+- tuyệt vời
+- tôi đang cảm thấy rất tốt
+- tôi rất tuyệt
+- tôi ổn
+- hoàn toàn vui mừng
+- thật là phê
+- phê tới nóc
+- thực sự hài lòng
+- tôi thật sự quá hài lòng
+- rất hạnh phúc
+- tôi không thể hạnh phúc hơn
+- không thể vui hơn được
+- thật tuyệt vời
+- tuyệt quá
+- tuyệt vời
+- thật tuyệt
+- một tin tức tuyệt vời
+- chúng tôi đã chờ đợi quá lâu cho việc này rồi
+- cảm ơn chúa vì điều đó
+- tôi thực sự hài lòng
+- tin gì tuyệt vời
+- có thể tốt hơn
+- thật là vui
+- bạn thật vui tính
+- yêu bạn quá
+
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- i am feeling very good
+- i am great
+- i'm good
+- absolutely delighted
+- thrilled to bits
+- over the moon
+- really pleased
+- so happy
+- i couldn't be happier.
+- that is fantastic
+- wonderful 
+- great 
+- marvellous
+- what great 
+- fantastic news
+- we've been waiting so long for this
+- thank god
+- thank god for that
+- i'm really pleased.
+- what great news!
+- could be better.
+- awesome
+
+## intent:mood_unhappy
+- buồn
+- rất buồn
+- cảm thấy không vui
+- tôi không thấy vui chút nào
+- buồn quá bạn tôi ơi
+- bực bội trong người quá
+- tôi có cảm giác bức rức trong người
+- tôi cảm thấy rất tồi tệ
+- cảm giác rất tệ
+- quá là kinh khủng
+- không tốt lắm
+- sao mà buồn quá
+- tôi thực sự buồn về
+- tôi đang rất buồn
+- thật buồn bã
+- tôi đang không vui về điều này
+- cảm thấy buồn chán
+- tôi đang chán nản
+- tôi cảm thấy thật khổ sở
+- tôi đang cảm thấy thật quẫn trí
+- thật đau lòng
+- buồn bã tột độ
+- bạn khiến tôi buồn quá
+- tôi vừa gặp một chuyện rất buồn
+- bạn có thể an ủi tôi được không
+- tôi cần một ai đó
+- tôi vừa gặp một chuyện tồi tệ
+- thật sự kinh khủng
+
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- really sad about 
+- really sad
+- upset
+- unhappy about 
+- a little down
+- down in the dumps
+- a bit depressed
+- miserable
+- in pieces
+- distraught
+- devastated
+- heart-broken
+- absolutely gutted
+
+## intent:ask_for_health
+- sức khỏe của bạn thế nào
+- vậy bạn cảm thấy thế nào
+- mọi thứ thế nào với sức khỏe của bạn?
+- bạn cảm thấy đỡ hơn chưa
+- dạo này sao rồi khỏe không
+- ăn ở sao rồi
+- bạn không thấy không khỏe à
+- bạn có thấy cảm thấy thoải mái không
+- cảm thấy như thế nào rồi
+- bạn khỏe không.
+- khỏe không bạn.
+- khỏe không bạn
+- bạn có khỏe không.
+- bạn khỏe không
+- bạn có khỏe không
+- khỏe không bạn.
+- bạn khỏe không.
+
+- how is your health
+- so how have you been feeling
+- how is everything with your health
+- are you feeling any better
+- did you get over
+- how are you
+
+## intent:ask_for_humor
+- nói với tôi một số chuyện vui
+- nói với tôi một trò đùa
+- kể cho tôi nghe vài câu chuyện cười
+- bạn có biết đùa không
+- bạn có chuyện hài nào kể tôi nghe đi
+- có cái gì đó vui kể tôi nghe đi
+- có cái gì đó hài hước để kể không
+- kể một số chuyện hài đi
+- kể tôi nghe cái gì đó thật vui đi
+- kể vài chuyện vui đi
+- bạn có chuyện vui nào không
+- hài hước tí coi
+- kể chuyện nào thư giản
+- kể tôi nghe một câu chuyện đi
+- chán quá, tâm sự đi
+- bạn nói gì đi
+- nói cái gì cũng được
+
+- tell me a joke
+- tell me some jokes
+- do know any jokes
+- what is humour
+- tell me something funny
+- tell me a story
+- say something to me
+- say anything
+- do you know any jokes
+- can you tell me something fun
+- be fun with me
+
+## intent:evaluate
+- bạn thật [kiêu ngạo](rate)
+- bạn đang [khoe khoang](rate)
+- bạn đang [xấu hổ](rate)
+- bạn thật [nhạy cảm](rate)
+- sao bạn [ngu](rate) quá vậy
+- sao bạn [thông minh](rate) quá vậy
+- bạn quá [ngu](rate)
+- bạn [ngu](rate) quá
+- [ngu](rate) ghê
+- bạn thật [ích kỷ](rate) vkl
+- [ích kỷ](rate) vkl
+- thật quá [keo kiệt](rate)
+- bạn quá [ngốc](rate)
+- bạn quá [ngốc](rate) quá
+- bạn quá [khờ](rate)
+- bạn thật quá [thông minh](rate)
+- [thông minh](rate) quá
+- trời ơi [dễ thương](rate) ghê
+- thật [đáng yêu](rate)
+- quá [đáng yêu](rate)
+- bạn [hài hước](rate) đấy
+- bạn thật [vui tính](rate)
+- [vui tính](rate) thật đấy
+- bạn [giỏi](rate) quá
+- bạn [giỏi](rate) quá
+- bạn [giỏi](rate) quá vậy
+- tôi thấy bạn [giỏi](rate) quá
+- bạn [giỏi](rate) quá đi
+- [giỏi](rate) quá
+- [giỏi](rate) quá đi nào
+- nào [giỏi](rate) quá đi
+- bạn [giỏi](rate) thật đấy
+- [giỏi](rate) thật đấy
+- [giỏi](rate) quá đi
+- bạn [hay](rate) quá
+- bạn [hay](rate) quá đi
+- [hay](rate) quá
+- bạn [hay](rate) ghê
+- [giỏi](rate) ghê
+
+- you are [arrogant](rate)
+- you are [bragging](rate)
+- you are [never sad](rate)
+- you are [jealous](rate)
+- you should be [ashamed](rate)
+- so [cute](rate)
+- so [funny](rate)
+- you are so [cute](rate)
+- too [smart](rate)
+- what a [smart](rate) bot
+- what a [stupid](rate) bot
+- how you can be so [stupid](rate)
+- you are so [helpful](rate)
+
+## intent:ask_for_emotion
+- bạn có cảm thấy đang [vui](emotion)
+- điều đó có làm bạn không [hạnh phúc](emotion)
+- nó có làm bạn [buồn](emotion) không
+- cảm xúc của bạn ra sao rồi
+- bạn có cảm thấy [sợ hãi](emotion) không
+- bạn đang cảm thấy [đau](emotion) đúng không
+- bạn có bao giờ bị [cô đơn](emotion) hay không
+- bạn có bao giờ cảm thấy [chán](emotion)
+- bạn đang [xấu hổ](emotion)
+- bạn có [vui mừng](emotion) khi thấy tôi không
+- bạn có [buồn](emotion) khi tôi nói vậy không
+
+- have you felt
+- does that make you [better](emotion)
+- does it make you [sad](emotion)
+- what your feelings now
+- do you feel [scared](emotion)
+- do you feel [emotions](emotion)
+- do you feel [pain](emotion)
+- do you ever get [lonely](emotion)
+- do you ever get [mad](emotion)
+- do you ever get [bored](emotion)
+- do you [hate](emotion) anyone
+- do you get [embarrassed](emotion)
+- do you get [mad](emotion)
+- are you [jealous](emotion)
+- are you [glad](emotion)
+- are you [amused](emotion)
+- are you [sad](emotion)
+
+## intent:ask_bot_infor
+- hãy cho tôi biết về những [giấc mơ](info:thing) của bạn 
+- hãy cho tôi biết về mối [quan hệ](info:people)
+- [cảm giác](info:emotion) của bạn bây giờ
+- hãy cho tôi biết về [thông tin cơ bản](info:basic)
+- bạn thường [ghét làm gì](info::dothing)
+- điều gì làm bạn [buồn nhất](info:dothing)
+- điều gì khiến bạn [không vui nhất](info:dothing)
+- điều gì khiến bạn [điên nhất](info:thing)
+- [nỗi sợ](info:thing) của bạn là gì 
+- [tâm trạng](info:emotion) của bạn là gì
+- bạn đã bao giờ [yêu ai](info:people) đó không
+- giới thiệu về [bản thân](info:basic) đi
+- bạn bao nhiêu [tuổi](info:age) rồi
+- bạn có thể nói cho tôi biết [tuổi](info:age) của bạn không
+- bạn [sinh năm](info:born) bao nhiêu vậy
+- bạn được sản xuất [năm nào](info:born)
+- bạn được sinh ra [năm nào](info:born)
+
+- tell me about your [dreams](info:thing)
+- tell me about [relationships](info:people)
+- your [feeling](info:emotion)
+- tell me about [yourself](info)
+- what do you [worry](info:thing)
+- what do you [hate](info:thing)
+- what makes you [sad](info:dothing)
+- what makes you [unhappy](info:dothing)
+- what makes you [mad](info:dothing)
+- what is your [fear](info:thing)
+- what is your [mood](info:emotion)
+- have you ever [love](info:people)
+
+## intent:intro_company
+- bạn giới thiệu về công ty bạn đi
+- bạn giúp tôi giới thiệu về công ty bạn đi
+- bạn biết gì về công ty bạn kể đi
+- bạn giúp biết gì về công ty bạn 
+- bạn giúp tôi tìm hiểu gì về công ty bạn 
+- giới thiệu về những công việc ở công ty bạn đi
+- giới thiệu về công ty bạn 
+- hãy giới thiệu cho tôi về công ty bạn
+- bạn hãy giới thiệu về công ty bạn
+- giới thiệu cho tôi công ty bạn 
+- trình bày về công ty bạn
+- trình bày sơ về công ty bạn 
+- phát biểu về công ty bạn đi
+- những thông tin cơ bản về công ty bạn
+- tôi muốn biết thêm về công ty của bạn
+- công ty của bạn làm như thế nào
+- bạn làm cho công ty nào
+- bạn là nhân viên công ty nào vậy
+
+- please introduce your company
+- can you help me introduce your company
+- what do you know about your company?
+- you help me introduce about your company
+- some infomation about your company
+- introduce your company
+- please introduce me to your company
+- show me some information about your company
+- introduce me to your company
+- present your company
+- a brief presentation of your company
+- talk about your company
+- basic information about your company
+- i want to know more about your company
+- how your company works
+- which company do you work for?
+
+## intent:location_company
+- địa chỉ công ty bạn ở đâu
+- vị trí công ty bạn ở đâu
+- công ty bạn có vị trí ở đâu
+- công ty bạn có địa chỉ ở đâu
+- tôi không biết địa chỉ của công ty bạn
+- tôi muốn tìm đường đến công ty của bạn
+- chỉ tôi đường đi tới công ty bạn đi
+- vị trí của công ty bạn làm ở đâu
+- tôi không biết địa chỉ công ty bạn đang làm
+- nói tôi biết địa chỉ công ty bạn đang làm đi
+- nói tôi biết địa chỉ công ty bạn
+- vị trí công ty bạn
+- vị trí chỗ bạn làm
+- đường đi đến công ty bạn
+- bạn có thể dẫn đường tới công ty bạn được không
+
+- where your company address is
+- where your company is
+- where is your company located?
+- where does your company have an address?
+- i don't know your company's address
+- i want to find a way to your company
+- show me the way to your company
+- where your company is located
+- i don't know the address of your company
+- tell me your company's address
+- tell me your company address
+- your company location
+- the location you do
+- the way to your company
+- can you lead the way to your company
+
+## intent:phone_company
+- cho tôi số điện thoại công ty đi
+- bạn có thể cho tôi số điện thoại của công ty không
+- tôi liên lạc với bạn bằng cách nào
+- làm sao để tôi liên hệ với công ty bạn
+- tôi muốn gọi cho công ty bạn thì sao
+- cho tôi xin số điện thoại của công ty bạn
+- cho tôi số điện thoại chỗ bạn làm
+- số điện thoại liên lạc của công ty là số mấy
+- tôi muốn gọi điện cho công ty của bạn
+- làm sao để gọi cho công ty bạn
+- bạn cho tôi xin số điện thoại ở đây nha
+- số điện thoại ở đây là bao nhiêu
+- đọc tôi số điện thoại ở đây với
+- đọc giúp tôi số điện thoại công ty bạn
+- cho tôi số điện thoại đi
+- bạn có thể cho tôi số điện thoại của công ty không
+- tôi liên lạc với bạn bằng cách nào
+- làm sao để tôi liên hệ với công ty bạn
+- tôi muốn gọi cho công ty bạn thì sao
+- cho tôi xin số điện thoại của công ty bạn
+- cho tôi số điện thoại chỗ bạn làm
+- số điện thoại liên lạc của công ty bạn là số mấy
+- tôi muốn gọi điện cho công ty của bạn thì sao
+- làm sao để gọi cho công ty bạn
+- bạn cho tôi xin số điện thoại ở đây nha
+- số điện thoại ở đây là bao nhiêu
+- đọc tôi số điện thoại ở đây với
+- đọc giúp tôi số điện thoại công ty bạn
+
+- please give me your phone number 
+- may i have your phone number
+- how do i contact your company
+- what is your company phone number
+- i want to contact your company, please give me your company phone number
+- who can i call if i have a questions of your product phone number
+- can i call you sometime so we can talk more
+- is there a number where i can reach you
+- is there way i can get in contact with you later
+- can i have your number
+- how can i contact with your company
+- give me your company phone numbers
+
+## intent:product_company
+- bên bạn có sản phẩm gì
+- bên bạn làm về những gì
+- giới thiệu các loại sản phẩm của công ty bạn
+- giới thiệu những gì công ty bạn đang làm
+- giới thiệu những sản phẩm của công ty bạn đang làm
+- cho tôi xin danh sách sản phẩm của công ty đi
+- bên bạn có những dòng sản phẩm nào
+- bạn bán cái gì
+- công ty bạn kinh doanh cái gì
+- tôi có thể mua được gì từ công ty
+- bạn có thể cho tôi biết công ty bạn có những dòng sản phẩm gì
+- bạn có thể cho tôi biết công ty bạn kinh doanh cái gì
+- bạn có thể cho tôi biết sản phẩm tại công ty bạn
+- sản phẩm tại công ty của bạn
+- bên bạn có nhiều dòng sản phẩm không
+- sản phẩm bên bạn có phong phú không
+- công ty bạn làm về lĩnh vực gì
+- những lĩnh vực trong công ty bạn
+
+- tell me something about your product
+- what i can buy
+- i want to know what i can buy
+- what kind of product you sell
+- what are your product
+- what product do you offer
+- what kind of product do you sell
+- what kind of product are available
+- tell me about your product
+- i need to know what i can buy
+- items available
+- items already sold
+
+## intent:ask_talk_real_person
+- tôi muốn nói chuyện với người thật
+- gọi [nhân viên](position) ra nói chuyện đi
+- bạn nói chuyện dở quá tôi không thích nói chuyện với bạn
+- tôi thích nói chuyện với người hơn
+- gọi [nhân viên](position) dùm tôi đi
+- gọi [nhân viên](position) dùm tôi đi bạn nói chuyện chán quá
+- tôi có thể nói chuyện trực tiếp với [nhân viên](position) của bạn không
+- tôi muốn nói chuyện trực tiếp với [nhân viên](position) của bạn
+- tôi không thích nói chuyện với bạn làm ơn gọi người thật đi
+- [nhân viên](position) của bạn đâu
+- gọi [nhân viên](position) của bạn ra đây
+- làm ơn gọi [nhân viên](position) dùm tôi nhé
+- tôi thích nói chuyện với người hơn
+- [nhân viên](position) bên bạn đâu hết rồi
+- gọi [nhân viên](position) ra cho tôi nói chuyện xem
+- tôi thích nói chuyện với [nhân viên](position) của bạn hơn
+- bạn nói chuyện chán quá
+- tôi cần nói chuyện với [nhân viên](position)
+- bạn không đáp ứng đủ nhu cầu của tôi
+- bạn không hiểu ý tôi rồi
+- sai rồi, gọi [nhân viên](position) ra đây
+- gọi giúp tôi [phòng](position) [kỹ thuật](dest)
+- tôi cần gặp [nhân viên](position) [kỹ thuật](dest) ngay bây giờ
+- cho tôi gặp [giám đốc](position) ngay bây giờ
+- gọi cho [nhân sự](dest) đi
+- liên lạc giúp tôi với [phòng](position) [tài chính](dest)
+- gọi cho tôi [bộ phận](position) [bán hàng](dest)
+- liên lạc giúp tôi với [phó phòng](position) [hành chính](dest)
+- tôi cần gọi cho [giám đốc](dest)
+- tôi cần gọi cho [phòng](position) [kinh doanh](dest)
+- tôi cần gọi cho [nhân viên](position) [nhân sự](dest)
+- làm ơn gọi cho tôi [bộ phận](position) [kỹ thuật](dest) và [giám đốc](position) [kỹ thuật](dest) đến gấp
+- hãy gọi giúp tôi [nhân sự](dest) đến ngay bây giờ
+- hãy gọi giúp tôi [bộ phận](position) [kinh doanh](dest) đến ngay bây giờ
+- gọi cho tôi ngay khi [trưởng phòng](position) [quản lý](dest) tới
+- tôi cần gọi [phó phòng](position) [quản lý](dest) đến kiểm tra
+- lập tức gọi cho tôi một [nhân viên](position) [kỹ thuật](dest) đến
+- lập tức gọi cho tôi một [nhân viên](position) [tài chính](dest) đến
+- tôi cần [phó giám đốc](position) [kỹ thuật](dest) đến đây ngay
+
+- i want to talk to human
+- can i talk to human
+- can i talk to your [boss](position)
+- can i speak to a person
+- can i speak with somebody
+- can i talk to someone else
+- can you connect me with a real person
+- connect me to a real person
+- i don't want to talk to robot
+- need some help from human
+- i don't like to talking with you
+- please give me a real person
+- please give me a real human
+- i don't want to talk to the machine
+
+## intent:scale_company
+- công ty bên bạn có lớn không
+- giới thiệu quy mô của công ty bạn đi
+- công ty bạn có lớn không
+- quy mô công ty bạn có lớn không
+- công ty bạn có bao nhiêu chi nhánh
+- số chi nhánh của công ty bạn
+- bạn có biết công ty bạn có lớn không
+- bạn có biết quy mô công ty bạn có lớn không
+- bạn có biết công ty bạn có bao nhiêu chi nhánh
+- bạn có biết số chi nhánh của công ty bạn
+- công ty chỗ bạn làm có bự không
+- công ty chỗ bạn làm có to không
+- bạn có chi nhánh ở nước ngoài không
+- số chi nhánh trong và ngoài nước của bạn là bao nhiêu
+- bạn có mặt ở bên nước ngoài không
+- công ty chỗ bạn làm có chi nhánh nước ngoài không
+- số lượng nhà phân phối của bạn có nhiều không
+- bạn có nhiều nhà phân phối trong vòng ngoài nước không
+- công ty bạn có bao nhiêu người
+- công ty bạn có nhiều người làm không
+- công ty bạn có bao nhiêu lập trình viên
+- bạn có thể nói về quy mô công ty bạn được không
+- công ty bạn rộng như thế nào
+- công ty bạn lớn như thế nào
+
+- is your company big?
+- introduce the size of your company
+- is your company big?
+- is your company size large?
+- how many branches does your company have?
+- your company's branch number
+- do you know if your company is big?
+- do you know if your company size is large?
+- do you know how many branches your company has?
+- do you know your company's branch number?
+- is the company where you do it?
+- is the company where you work?
+- do you have an overseas branch?
+- what is the number of branches in and outside your country?
+- are you on the foreign side?
+- does the company where you work have a foreign branch?
+- how many of your distributors are there?
+- do you have many distributors within the country?
+- how many people does your company have?
+- does your company have many people?
+- how many programmers do you have?
+- can you talk about your company size?
+- how big is your company
+- how big is your company?
+
+## intent:working_hours_company
+- giờ làm việc của công ty
+- công ty làm việc từ mấy giờ tới mấy giờ
+- mấy giờ thì công ty bạn mở cửa
+- công ty đóng cửa khi nào
+- công ty có mở cửa vào ngày lễ không
+- ngày nghỉ công ty có mở cửa không
+- bạn có biết công ty bạn có mở cửa vào các ngày nghỉ lễ không
+- tôi không biết giờ mở cửa bên công ty bạn
+- bạn làm việc từ mấy giờ tới mấy giờ
+- nói tôi biết giờ làm việc của công ty gỗ
+- giờ hành chính bên bạn là mấy giờ
+- bạn mở và đóng cửa khi nào
+- khi nào chỗ bạn ở đóng cửa
+- tôi có thể đến công ty bạn vào hai giờ chiều nay không
+- tôi đến vào ngày thứ bảy hoặc chủ nhật có được không
+
+- company working hours
+- what time does the company work from?
+- what time does your company open the door?
+- when did the company close?
+- is the company open on public holidays?
+- does the company have a day off?
+- do you know if your company is open on public holidays?
+- i don't know the opening time of your company
+- what time do you work from?
+- tell me the working time of the timber company
+- what time is your office hours?
+- when you open and close the door
+- when your place is closed
+- can i come to your company at two o'clock this afternoon?
+- can i come on saturday or sunday?
+
+## intent:ask_for_help
+- bạn có thể giúp tôi được không
+- bạn có thể giúp tôi
+- bạn sẽ giúp tôi
+- bạn có thể giúp tôi một phút được không
+- bạn có thể giúp tôi một tay
+- bạn có thể vui lòng giúp tôi với
+- bạn có phiền khi chỉ cho tôi
+- có bất kỳ cơ hội của họ mà bạn có thời gian để
+- bạn vui lòng giải thích cho tôi
+- bạn có thể giúp tôi một việc được không
+- xin hãy giúp tôi với
+- bạn có thể
+- tôi đã tự hỏi nếu bạn có thể vui lòng chỉ cho tôi làm thế nào để
+- bạn có thời gian rảnh nào không
+- bạn có biết gì về
+- tôi đã có một vấn đề với. bạn có nghĩ rằng bạn có thể giúp tôi
+- nếu bạn không phiền, tôi thực sự có thể sử dụng sự trợ giúp của bạn với
+- nếu bạn không phiền, tôi thực sự cần sự giúp đỡ của bạn với
+- tôi biết bạn tốt với, và tôi thực sự có thể sử dụng một số trợ giúp.
+- tôi nghe nói bạn thực sự giỏi. là bất kỳ cơ hội của họ, bạn có thể giúp tôi?
+- có bất kỳ cơ hội nào của họ mà bạn có thể giúp tôi với tay không?
+- tôi nghe nói rằng bạn có rất nhiều kinh nghiệm và tôi thực sự có thể sử dụng sự giúp đỡ của bạn.
+- bạn có thể giúp tôi một việc được không
+
+- can you help me?
+- can you help me
+- you will help me
+- can you give me a minute?
+- can you give me a hand?
+- can you please help me
+- do you mind pointing me out?
+- have any chance of you that you have time to
+- please explain to me
+- can you help me with a job?
+- please help me
+- you can
+- i was wondering if you could please show me how to
+- do you have any free time?
+- do you know anything about
+- i had a problem with. do you think you can help me
+- if you don't mind, i can really use your help
+- if you don't mind, i really need your help
+- i know you well with, and i can really use some help.
+- i heard you're really good. are any of their opportunities, can you help me?
+- is there any chance of them that you can help me with?
+- i heard that you have a lot of experience and i can really use your help.
+
+## intent:thankyou
+- cảm ơn bạn
+- cảm ơn và tạm biệt bạn
+- bạn thật tuyệt vời
+- okay, cảm ơn bạn
+- ok cảm ơn bạn
+- cảm ơn bạn rất nhiều
+- nhờ ơn của bạn
+- cảm ơn sự giúp đỡ của bạn
+- nhờ bạn mà tôi đã trở nên như vậy
+- bạn thật là tốt
+
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+
+## intent:ask_ai_feature
+- làm sao bạn hiểu được những gì tôi nói
+- làm cách nào để bạn hiểu người ta nói
+- sao mà bạn có thể hiểu được tôi nói
+- bạn suy nghĩ bằng cách nào
+- làm sao mà bạn có thể nghe được người ta nói
+- sao mà bạn hiểu được gì tôi nói vậy
+- sao bạn biết được người ta nói cái gì
+- làm sao bằng suy nghĩ được
+- bạn suy nghĩ bằng cách nào
+- bạn làm cách nào để suy nghĩ
+- sao bạn thông minh quá vậy
+- làm sao mà bạn thông minh quá vậy
+- sao mà bạn suy nghĩ được như người
+- làm cách nào mà bạn có thể suy nghĩ được như người
+- sao bạn hiểu được gì tôi nói
+- bạn suy nghĩ bằng cách nào mà hay quá vậy
+- tôi không biết cách mà bạn suy nghĩ
+- làm sao mà bạn hiểu được tôi
+- làm sao bạn hiểu được tôi nói gì
+- làm cách nào bạn hiểu gì người ta nói
+- bạn suy nghĩ bằng cách nào
+- sao mà bạn có thể hiểu được tôi nói
+- làm sao mà bạn có thể nghe được người ta nói
+- làm sao mà bạn có thể nghe được tôi nói
+- sao mà bạn hiểu được gì tai nói vậy
+- sao bạn biết được người ta nói cái gì
+- làm sao bạn bằng suy nghĩ được
+- bạn suy nghĩ bằng cách nào
+- bạn làm cách nào để suy nghĩ
+- sao bạn thông minh quá vậy
+- làm sao bạn thông minh quá vậy
+- sao mà bạn suy nghĩ được như người
+- làm cách nào mà bạn có thể suy nghĩ được như người
+- sao bạn hiểu được
+- bạn suy nghĩ bằng cách nào mà hay quá vậy
+- tôi không biết cách mà bạn suy nghĩ
+
+- how can you understand what i say
+- how do you think and understand me
+- how do you think
+- how do you understand what people saying
+- how can you hear and understand my voice
+- tell me how can you hear and understand people
+- how can you understand the questions and i answered them
+- how can you think like people
+- how can you think like human
+- show me the way you're thinking
+- why are you so smart
+- you are a remarkable
+- how can you understand me
+
+## intent:ask_name
+- bạn tên gì
+- bạn là ai
+- bạn tên gì
+- bạn là ai
+- bạn có tên không
+- tên bạn là gì vậy
+- tên của bạn là gì
+- bạn có tên không
+- bạn tên là gì vậy
+- bạn có tên không
+- tên của bạn là gì
+
+- do you have any name
+- do you have a name
+- who are you
+- please tell me your name
+- can i have your name
+- what's your name
+- what is your name
+
+## intent:rude
+- địt bố
+- địt mẹ
+- đụ má
+- đụ mẹ
+- ngu
+- dốt
+- đần
+- đéo
+- địt bố mầy
+- địt mẹ mầy
+- đụ má mầy
+- đụ mẹ mầy
+- ngu quá
+- mầy ngu quá
+- mầy dốt quá
+- mầy đần quá
+- mầy khùng quá
+- khùng quá
+- con cặc
+- lồn má
+- cái lồn
+- lồn mẹ
+- lồn
+- cặc
+
+- mother fuck
+- fuck you
+- fuck mom
+- ignorant
+- idiot
+- fuck
+- daddy fuck
+- fuck you
+- fuck your cheek
+- fuck you
+- son of bitch
+- fuckin
+- dump
+- you are so idiot
+
+## intent:ask_country
+- bạn đến từ đâu
+- bạn ở đâu đến vậy
+- quê bạn ở đâu
+- bạn từ đâu đến
+- bạn đến từ đâu
+- nhà bạn ở đâu
+- quê hương bạn ở đâu
+- bạn từ nơi nào đến
+- đất nước bạn là đâu
+- nước bạn là nước nào
+- bạn ở nước nào
+- bạn có thể nói cho tôi biết đất nước của bạn
+
+- where are you
+- where are you from
+- which country do you from
+- where is your house
+- which country do you from
+- where is your hometown
+- where is your country
+- what is your home town
+
+## intent:ask_do_something
+- bạn thích làm gì, bạn làm cho tôi xem đi
+- trổ tài cho tôi xem
+- trổ tài gì cho tôi xem đi
+- trổ tài gì đi
+- bạn trổ tài cho tôi xem đi
+- bạn trổ tài tôi xem đi
+- bạn trổ tài tôi xem nào
+- tôi thích xem bạn trổ tài gì đó
+- làm trò gì cho tôi xem
+- làm trò gì cho tôi xem đi
+- làm trò gì đi
+- bạn làm trò gì cho tôi xem đi
+- bạn làm trò tôi xem đi
+- bạn làm trò tôi xem nào
+- tôi thích xem bạn làm trò gì đó
+- tôi cùng làm trò gì được không
+- tôi với bạn cùng làm trò gì được không
+
+## intent:ask_entertaiment
+- tôi cùng [nhảy](action) gì được không?
+- tôi cùng [tập thể dục](action) gì được không?
+- tôi cùng [múa](action) gì được không?
+- tôi cùng [biểu diễn sở trường](action) gì được không?
+- tôi cùng [thể hiện sở trường](action) gì được không?
+- tôi cùng [biểu diễn năng khiếu](action) gì được không?
+- tôi cùng [thể hiện năng khiếu](action) gì được không?
+- tôi cùng [nhúng](action) gì được không?
+- tôi cùng [lắc](action) gì được không?
+- tôi cùng [khiêu vũ](action) gì được không?
+- [nhảy](action) gì cho tôi xem
+- [tập thể dục](action) gì cho tôi xem
+- [múa](action) gì cho tôi xem
+- [biểu diễn sở trường](action) gì cho tôi xem
+- [thể hiện sở trường](action) gì cho tôi xem
+- [biểu diễn năng khiếu](action) gì cho tôi xem
+- [thể hiện năng khiếu](action) gì cho tôi xem
+- [nhúng](action) gì cho tôi xem
+- [lắc](action) gì cho tôi xem
+- [khiêu vũ](action) gì cho tôi xem
+- bạn [nhảy](action) gì cho tôi xem đi
+- bạn [tập thể dục](action) gì cho tôi xem đi
+- bạn [múa](action) gì cho tôi xem đi
+- bạn [biểu diễn sở trường](action) gì cho tôi xem đi
+- bạn [thể hiện sở trường](action) gì cho tôi xem đi
+- bạn [biểu diễn năng khiếu](action) gì cho tôi xem đi
+- bạn [thể hiện năng khiếu](action) gì cho tôi xem đi
+- bạn [nhúng](action) gì cho tôi xem đi
+- bạn [lắc](action) gì cho tôi xem đi
+- bạn [khiêu vũ](action) gì cho tôi xem đi
+- [nhảy](action) gì đi
+- [tập thể dục](action) gì đi
+- [múa](action) gì đi
+- [biểu diễn sở trường](action) gì đi
+- [thể hiện sở trường](action) gì đi
+- [biểu diễn năng khiếu](action) gì đi
+- [thể hiện năng khiếu](action) gì đi
+- [nhúng](action) gì đi
+- [lắc](action) gì đi
+- [khiêu vũ](action) gì đi
+- tôi thích xem bạn [nhảy](action) gì đó
+- tôi thích xem bạn [tập thể dục](action) gì đó
+- tôi thích xem bạn [múa](action) gì đó
+- tôi thích xem bạn [biểu diễn sở trường](action) gì đó
+- tôi thích xem bạn [thể hiện sở trường](action) gì đó
+- tôi thích xem bạn [biểu diễn năng khiếu](action) gì đó
+- tôi thích xem bạn [thể hiện năng khiếu](action) gì đó
+- tôi thích xem bạn [nhúng](action) gì đó
+- tôi thích xem bạn [lắc](action) gì đó
+- tôi thích xem bạn [khiêu vũ](action) gì đó
+- bạn có biết [nhảy](action) không
+- bạn có biết [tập thể dục](action) không
+- bạn có biết [múa](action) không
+- bạn có biết [biểu diễn sở trường](action) không
+- bạn có biết [thể hiện sở trường](action) không
+- bạn có biết [biểu diễn năng khiếu](action) không
+- bạn có biết [thể hiện năng khiếu](action) không
+- bạn có biết [nhúng](action) không
+- bạn có biết [lắc](action) không
+- bạn có biết [khiêu vũ](action) không
+- bạn có học [nhảy](action) không
+- bạn có học [tập thể dục](action) không
+- bạn có học [múa](action) không
+- bạn có học [biểu diễn sở trường](action) không
+- bạn có học [thể hiện sở trường](action) không
+- bạn có học [biểu diễn năng khiếu](action) không
+- bạn có học [thể hiện năng khiếu](action) không
+- bạn có học [nhúng](action) không
+- bạn có học [lắc](action) không
+- bạn có học [khiêu vũ](action) không
+- bạn biết [nhảy](action) không
+- bạn biết [tập thể dục](action) không
+- bạn biết [múa](action) không
+- bạn biết [biểu diễn sở trường](action) không
+- bạn biết [thể hiện sở trường](action) không
+- bạn biết [biểu diễn năng khiếu](action) không
+- bạn biết [thể hiện năng khiếu](action) không
+- bạn biết [nhúng](action) không
+- bạn biết [lắc](action) không
+- bạn biết [khiêu vũ](action) không
+- bạn [nhảy](action) tôi xem đi
+- bạn [tập thể dục](action) tôi xem đi
+- bạn [múa](action) tôi xem đi
+- bạn [biểu diễn sở trường](action) tôi xem đi
+- bạn [thể hiện sở trường](action) tôi xem đi
+- bạn [biểu diễn năng khiếu](action) tôi xem đi
+- bạn [thể hiện năng khiếu](action) tôi xem đi
+- bạn [nhúng](action) tôi xem đi
+- bạn [lắc](action) tôi xem đi
+- bạn [khiêu vũ](action) tôi xem đi
+- [nhảy](action) đi
+- [tập thể dục](action) đi
+- [múa](action) đi
+- [biểu diễn sở trường](action) đi
+- [thể hiện sở trường](action) đi
+- [biểu diễn năng khiếu](action) đi
+- [thể hiện năng khiếu](action) đi
+- [nhúng](action) đi
+- [lắc](action) đi
+- [khiêu vũ](action) đi
+- bạn [nhảy](action) cho tôi xem đi
+- bạn [tập thể dục](action) cho tôi xem đi
+- bạn [múa](action) cho tôi xem đi
+- bạn [biểu diễn sở trường](action) cho tôi xem đi
+- bạn [thể hiện sở trường](action) cho tôi xem đi
+- bạn [biểu diễn năng khiếu](action) cho tôi xem đi
+- bạn [thể hiện năng khiếu](action) cho tôi xem đi
+- bạn [nhúng](action) cho tôi xem đi
+- bạn [lắc](action) cho tôi xem đi
+- bạn [khiêu vũ](action) cho tôi xem đi
+- bạn [nhảy](action) tôi xem nào
+- bạn [tập thể dục](action) tôi xem nào
+- bạn [múa](action) tôi xem nào
+- bạn [biểu diễn sở trường](action) tôi xem nào
+- bạn [thể hiện sở trường](action) tôi xem nào
+- bạn [biểu diễn năng khiếu](action) tôi xem nào
+- bạn [thể hiện năng khiếu](action) tôi xem nào
+- bạn [nhúng](action) tôi xem nào
+- bạn [lắc](action) tôi xem nào
+- bạn [khiêu vũ](action) tôi xem nào
+- [nhảy](action) tôi xem đi
+- [tập thể dục](action) tôi xem đi
+- [múa](action) tôi xem đi
+- [biểu diễn sở trường](action) tôi xem đi
+- [thể hiện sở trường](action) tôi xem đi
+- [biểu diễn năng khiếu](action) tôi xem đi
+- [thể hiện năng khiếu](action) tôi xem đi
+- [nhúng](action) tôi xem đi
+- [lắc](action) tôi xem đi
+- [khiêu vũ](action) tôi xem đi
+- [nhảy](action) cho tôi xem đi
+- [tập thể dục](action) cho tôi xem đi
+- [múa](action) cho tôi xem đi
+- [biểu diễn sở trường](action) cho tôi xem đi
+- [thể hiện sở trường](action) cho tôi xem đi
+- [biểu diễn năng khiếu](action) cho tôi xem đi
+- [thể hiện năng khiếu](action) cho tôi xem đi
+- [nhúng](action) cho tôi xem đi
+- [lắc](action) cho tôi xem đi
+- [khiêu vũ](action) cho tôi xem đi
+- tôi thích xem bạn [nhảy](action)
+- tôi thích xem bạn [tập thể dục](action)
+- tôi thích xem bạn [múa](action)
+- tôi thích xem bạn [biểu diễn sở trường](action)
+- tôi thích xem bạn [thể hiện sở trường](action)
+- tôi thích xem bạn [biểu diễn năng khiếu](action)
+- tôi thích xem bạn [thể hiện năng khiếu](action)
+- tôi thích xem bạn [nhúng](action)
+- tôi thích xem bạn [lắc](action)
+- tôi thích xem bạn [khiêu vũ](action)
+- tôi cùng [nhảy](action) được không
+- tôi cùng [tập thể dục](action) được không
+- tôi cùng [múa](action) được không
+- tôi cùng [biểu diễn sở trường](action) được không
+- tôi cùng [thể hiện sở trường](action) được không
+- tôi cùng [biểu diễn năng khiếu](action) được không
+- tôi cùng [thể hiện năng khiếu](action) được không
+- tôi cùng [nhúng](action) được không
+- tôi cùng [lắc](action) được không
+- tôi cùng [khiêu vũ](action) được không
+- tôi với bạn cùng [nhảy](action) nha
+- tôi với bạn cùng [tập thể dục](action) nha
+- tôi với bạn cùng [múa](action) nha
+- tôi với bạn cùng [biểu diễn sở trường](action) nha
+- tôi với bạn cùng [thể hiện sở trường](action) nha
+- tôi với bạn cùng [biểu diễn năng khiếu](action) nha
+- tôi với bạn cùng [thể hiện năng khiếu](action) nha
+- tôi với bạn cùng [nhúng](action) nha
+- tôi với bạn cùng [lắc](action) nha
+- tôi với bạn cùng [khiêu vũ](action) nha
+- vậy bạn [nhảy](action) thử cho tôi xem
+- vậy bạn [tập thể dục](action) thử cho tôi xem
+- vậy bạn [múa](action) thử cho tôi xem
+- vậy bạn [biểu diễn sở trường](action) thử cho tôi xem
+- vậy bạn [thể hiện sở trường](action) thử cho tôi xem
+- vậy bạn [biểu diễn năng khiếu](action) thử cho tôi xem
+- vậy bạn [thể hiện năng khiếu](action) thử cho tôi xem
+- vậy bạn [nhúng](action) thử cho tôi xem
+- vậy bạn [lắc](action) thử cho tôi xem
+- vậy bạn [khiêu vũ](action) thử cho tôi xem
+- vậy thì [nhảy](action) đi
+- vậy thì [tập thể dục](action) đi
+- vậy thì [múa](action) đi
+- vậy thì [biểu diễn sở trường](action) đi
+- vậy thì [thể hiện sở trường](action) đi
+- vậy thì [biểu diễn năng khiếu](action) đi
+- vậy thì [thể hiện năng khiếu](action) đi
+- vậy thì [nhúng](action) đi
+- vậy thì [lắc](action) đi
+- vậy thì [khiêu vũ](action) đi
+- [nhảy](action) bài số 10 cho tôi đi
+- [tập thể dục](action) bài số 10 cho tôi đi
+- [múa](action) bài số 10 cho tôi đi
+- [biểu diễn sở trường](action) bài số 10 cho tôi đi
+- [thể hiện sở trường](action) bài số 10 cho tôi đi
+- [biểu diễn năng khiếu](action) bài số 10 cho tôi đi
+- [thể hiện năng khiếu](action) bài số 10 cho tôi đi
+- [nhúng](action) bài số 10 cho tôi đi
+- [lắc](action) bài số 10 cho tôi đi
+- [khiêu vũ](action) bài số 10 cho tôi đi
+- bạn biết [hát](action) không
+- bạn có thể [hát](action) không
+- bạn có biết [hát](action) không
+- bạn có thể [hát](action) bài gì
+- [hát](action) tôi nghe đi
+- [hát](action) đi
+- quất bài [hát](action) đi
+- [nhảy](action) theo kiểu khá bảnh đi
+- [tập thể dục](action) theo kiểu khá bảnh đi
+- [múa](action) theo kiểu khá bảnh đi
+- [biểu diễn sở trường](action) theo kiểu khá bảnh đi
+- [thể hiện sở trường](action) theo kiểu khá bảnh đi
+- [biểu diễn năng khiếu](action) theo kiểu khá bảnh đi
+- [thể hiện năng khiếu](action) theo kiểu khá bảnh đi
+- [nhúng](action) theo kiểu khá bảnh đi
+- [lắc](action) theo kiểu khá bảnh đi
+- [khiêu vũ](action) theo kiểu khá bảnh đi
+- bạn [hát](action) cho tôi nghe đi
+- bạn [hát](action) tôi nghe đi
+- bạn [hát](action) tôi nghe nào
+- tôi thích xem bạn [hát](action)
+- tôi cùng [hát](action) được không
+- tôi với bạn cùng [hát](action) nha
+- [hát](action) tôi nghe bài số một
+- tôi thích nghe bạn [hát](action)
+- vậy thì [hát](action) đi
+- bạn [hát](action) cho tôi bài [sóng gió](song_name)
+- bạn [hát](action) cho tôi bài [bạc phận](song_name)
+- bạn [hát](action) cho tôi bài [đau để trưởng thành](song_name)
+- bạn [hát](action) cho tôi bài [sao em vô tình](song_name)
+- bạn [hát](action) cho tôi bài [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho tôi bài [hồng nhan](song_name)
+- bạn [hát](action) cho tôi bài [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho tôi bài [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho tôi bài [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho tôi bài [anh ơi ở lại](song_name)
+- bạn [hát](action) cho tôi bài [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho tôi bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho tôi bài [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho tôi bài [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho tôi bài [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho tôi bài [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho tôi bài [we don't talk anymore](song_name)
+- bạn [hát](action) cho tôi bài [bạc phận](song_name)
+- bạn [hát](action) cho tôi bài [đau để trưởng thành](song_name)
+- bạn [hát](action) cho tôi bài [sao em vô tình](song_name)
+- bạn [hát](action) cho tôi bài [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho tôi bài [hồng nhan](song_name)
+- bạn [hát](action) cho tôi bài [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho tôi bài [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho tôi bài [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho tôi bài [anh ơi ở lại](song_name)
+- bạn [hát](action) cho tôi bài [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho tôi bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho tôi bài [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho tôi bài [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho tôi bài [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho tôi bài [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho tôi bài [we don't talk anymore](song_name)
+- tôi muốn bạn [hát](action) bài [sóng gió](song_name)
+- tôi muốn bạn [hát](action) bài [bạc phận](song_name)
+- tôi muốn bạn [hát](action) bài [đau để trưởng thành](song_name)
+- tôi muốn bạn [hát](action) bài [sao em vô tình](song_name)
+- tôi muốn bạn [hát](action) bài [độ ta không độ nàng](song_name)
+- tôi muốn bạn [hát](action) bài [hồng nhan](song_name)
+- tôi muốn bạn [hát](action) bài [một bước yêu vạn dặm đau](song_name)
+- tôi muốn bạn [hát](action) bài [cuộc vui cô đơn](song_name)
+- tôi muốn bạn [hát](action) bài [đúng người đúng thời điểm](song_name)
+- tôi muốn bạn [hát](action) bài [anh ơi ở lại](song_name)
+- tôi muốn bạn [hát](action) bài [anh nhà ở đâu thế](song_name)
+- tôi muốn bạn [hát](action) bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- tôi muốn bạn [hát](action) bài [em sẽ là cô dâu](song_name)
+- tôi muốn bạn [hát](action) bài [nếu ta người lối ngược lối](song_name)
+- tôi muốn bạn [hát](action) bài [anh chẳng sao mà](song_name)
+- tôi muốn bạn [hát](action) bài [xin một lần ngoại lệ](song_name)
+- tôi muốn bạn [hát](action) bài [we don't talk anymore](song_name)
+- vậy thì [nhảy](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [nhảy](action) cho tôi bài [macarena](dance_name)
+- vậy thì [nhảy](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [nhảy](action) cho tôi bài [evolution](dance_name)
+- vậy thì [nhảy](action) cho tôi bài [taichi](dance_name)
+- vậy thì [nhảy](action) cho tôi bài [little apple](dance_name)
+- vậy thì [nhảy](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [macarena](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [evolution](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [taichi](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [little apple](dance_name)
+- vậy thì [tập thể dục](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [múa](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [múa](action) cho tôi bài [macarena](dance_name)
+- vậy thì [múa](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [múa](action) cho tôi bài [evolution](dance_name)
+- vậy thì [múa](action) cho tôi bài [taichi](dance_name)
+- vậy thì [múa](action) cho tôi bài [little apple](dance_name)
+- vậy thì [múa](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [macarena](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [evolution](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [taichi](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [little apple](dance_name)
+- vậy thì [biểu diễn sở trường](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [macarena](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [evolution](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [taichi](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [little apple](dance_name)
+- vậy thì [thể hiện sở trường](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [macarena](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [evolution](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [taichi](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [little apple](dance_name)
+- vậy thì [biểu diễn năng khiếu](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [macarena](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [evolution](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [taichi](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [little apple](dance_name)
+- vậy thì [thể hiện năng khiếu](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [macarena](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [evolution](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [taichi](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [little apple](dance_name)
+- vậy thì [nhúng](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [lắc](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [lắc](action) cho tôi bài [macarena](dance_name)
+- vậy thì [lắc](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [lắc](action) cho tôi bài [evolution](dance_name)
+- vậy thì [lắc](action) cho tôi bài [taichi](dance_name)
+- vậy thì [lắc](action) cho tôi bài [little apple](dance_name)
+- vậy thì [lắc](action) cho tôi bài [hãy trao cho anh](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [gangnam style](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [macarena](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [sát nhân](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [evolution](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [taichi](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [little apple](dance_name)
+- vậy thì [khiêu vũ](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [nhảy](action) cho tôi bài [gangnam style](dance_name)
+- bạn [nhảy](action) cho tôi bài [macarena](dance_name)
+- bạn [nhảy](action) cho tôi bài [sát nhân](dance_name)
+- bạn [nhảy](action) cho tôi bài [evolution](dance_name)
+- bạn [nhảy](action) cho tôi bài [taichi](dance_name)
+- bạn [nhảy](action) cho tôi bài [little apple](dance_name)
+- bạn [nhảy](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [gangnam style](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [macarena](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [sát nhân](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [evolution](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [taichi](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [little apple](dance_name)
+- bạn [tập thể dục](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [múa](action) cho tôi bài [gangnam style](dance_name)
+- bạn [múa](action) cho tôi bài [macarena](dance_name)
+- bạn [múa](action) cho tôi bài [sát nhân](dance_name)
+- bạn [múa](action) cho tôi bài [evolution](dance_name)
+- bạn [múa](action) cho tôi bài [taichi](dance_name)
+- bạn [múa](action) cho tôi bài [little apple](dance_name)
+- bạn [múa](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [gangnam style](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [macarena](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [sát nhân](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [evolution](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [taichi](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [little apple](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [gangnam style](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [macarena](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [sát nhân](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [evolution](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [taichi](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [little apple](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [gangnam style](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [macarena](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [sát nhân](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [evolution](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [taichi](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [little apple](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [gangnam style](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [macarena](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [sát nhân](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [evolution](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [taichi](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [little apple](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [nhúng](action) cho tôi bài [gangnam style](dance_name)
+- bạn [nhúng](action) cho tôi bài [macarena](dance_name)
+- bạn [nhúng](action) cho tôi bài [sát nhân](dance_name)
+- bạn [nhúng](action) cho tôi bài [evolution](dance_name)
+- bạn [nhúng](action) cho tôi bài [taichi](dance_name)
+- bạn [nhúng](action) cho tôi bài [little apple](dance_name)
+- bạn [nhúng](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [lắc](action) cho tôi bài [gangnam style](dance_name)
+- bạn [lắc](action) cho tôi bài [macarena](dance_name)
+- bạn [lắc](action) cho tôi bài [sát nhân](dance_name)
+- bạn [lắc](action) cho tôi bài [evolution](dance_name)
+- bạn [lắc](action) cho tôi bài [taichi](dance_name)
+- bạn [lắc](action) cho tôi bài [little apple](dance_name)
+- bạn [lắc](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [gangnam style](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [macarena](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [sát nhân](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [evolution](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [taichi](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [little apple](dance_name)
+- bạn [khiêu vũ](action) cho tôi bài [hãy trao cho anh](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [macarena](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [evolution](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [taichi](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [little apple](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [macarena](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [evolution](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [taichi](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [little apple](dance_name)
+- bạn [tập thể dục](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [múa](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [múa](action) cho tôi xem bài [macarena](dance_name)
+- bạn [múa](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [múa](action) cho tôi xem bài [evolution](dance_name)
+- bạn [múa](action) cho tôi xem bài [taichi](dance_name)
+- bạn [múa](action) cho tôi xem bài [little apple](dance_name)
+- bạn [múa](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [macarena](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [evolution](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [taichi](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [little apple](dance_name)
+- bạn [biểu diễn sở trường](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [macarena](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [evolution](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [taichi](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [little apple](dance_name)
+- bạn [thể hiện sở trường](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [macarena](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [evolution](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [taichi](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [little apple](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [macarena](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [evolution](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [taichi](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [little apple](dance_name)
+- bạn [thể hiện năng khiếu](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [macarena](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [evolution](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [taichi](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [little apple](dance_name)
+- bạn [nhúng](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [lắc](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [lắc](action) cho tôi xem bài [macarena](dance_name)
+- bạn [lắc](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [lắc](action) cho tôi xem bài [evolution](dance_name)
+- bạn [lắc](action) cho tôi xem bài [taichi](dance_name)
+- bạn [lắc](action) cho tôi xem bài [little apple](dance_name)
+- bạn [lắc](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [gangnam style](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [macarena](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [sát nhân](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [evolution](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [taichi](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [little apple](dance_name)
+- bạn [khiêu vũ](action) cho tôi xem bài [hãy trao cho anh](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [tập thể dục](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [múa](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [biểu diễn sở trường](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [thể hiện sở trường](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [biểu diễn năng khiếu](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [thể hiện năng khiếu](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [nhúng](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [lắc](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [gangnam style](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [macarena](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [evolution](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [taichi](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [little apple](dance_name)
+- bạn [khiêu vũ](action) cho mọi người thưởng thức bài hát [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [tập thể dục](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [múa](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn sở trường](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [thể hiện sở trường](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [biểu diễn năng khiếu](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [thể hiện năng khiếu](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [nhúng](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [lắc](action) có tên là [hãy trao cho anh](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [gangnam style](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [macarena](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [evolution](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [taichi](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [little apple](dance_name)
+- tôi muốn thưởng thức bài [khiêu vũ](action) có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [tập thể dục](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [múa](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [biểu diễn sở trường](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [thể hiện sở trường](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [biểu diễn năng khiếu](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [thể hiện năng khiếu](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [nhúng](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [lắc](action) bài có tên là [hãy trao cho anh](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [gangnam style](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [sát nhân](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [evolution](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [taichi](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [little apple](dance_name)
+- tôi bắt buộc bạn [khiêu vũ](action) bài có tên là [hãy trao cho anh](dance_name)
+- làm ơn [nhảy](action) bài [gangnam style](dance_name)
+- làm ơn [nhảy](action) bài [macarena](dance_name)
+- làm ơn [nhảy](action) bài [sát nhân](dance_name)
+- làm ơn [nhảy](action) bài [evolution](dance_name)
+- làm ơn [nhảy](action) bài [taichi](dance_name)
+- làm ơn [nhảy](action) bài [little apple](dance_name)
+- làm ơn [nhảy](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [tập thể dục](action) bài [gangnam style](dance_name)
+- làm ơn [tập thể dục](action) bài [macarena](dance_name)
+- làm ơn [tập thể dục](action) bài [sát nhân](dance_name)
+- làm ơn [tập thể dục](action) bài [evolution](dance_name)
+- làm ơn [tập thể dục](action) bài [taichi](dance_name)
+- làm ơn [tập thể dục](action) bài [little apple](dance_name)
+- làm ơn [tập thể dục](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [múa](action) bài [gangnam style](dance_name)
+- làm ơn [múa](action) bài [macarena](dance_name)
+- làm ơn [múa](action) bài [sát nhân](dance_name)
+- làm ơn [múa](action) bài [evolution](dance_name)
+- làm ơn [múa](action) bài [taichi](dance_name)
+- làm ơn [múa](action) bài [little apple](dance_name)
+- làm ơn [múa](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [gangnam style](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [macarena](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [sát nhân](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [evolution](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [taichi](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [little apple](dance_name)
+- làm ơn [biểu diễn sở trường](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [gangnam style](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [macarena](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [sát nhân](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [evolution](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [taichi](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [little apple](dance_name)
+- làm ơn [thể hiện sở trường](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [gangnam style](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [macarena](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [sát nhân](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [evolution](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [taichi](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [little apple](dance_name)
+- làm ơn [biểu diễn năng khiếu](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [gangnam style](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [macarena](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [sát nhân](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [evolution](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [taichi](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [little apple](dance_name)
+- làm ơn [thể hiện năng khiếu](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [nhúng](action) bài [gangnam style](dance_name)
+- làm ơn [nhúng](action) bài [macarena](dance_name)
+- làm ơn [nhúng](action) bài [sát nhân](dance_name)
+- làm ơn [nhúng](action) bài [evolution](dance_name)
+- làm ơn [nhúng](action) bài [taichi](dance_name)
+- làm ơn [nhúng](action) bài [little apple](dance_name)
+- làm ơn [nhúng](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [lắc](action) bài [gangnam style](dance_name)
+- làm ơn [lắc](action) bài [macarena](dance_name)
+- làm ơn [lắc](action) bài [sát nhân](dance_name)
+- làm ơn [lắc](action) bài [evolution](dance_name)
+- làm ơn [lắc](action) bài [taichi](dance_name)
+- làm ơn [lắc](action) bài [little apple](dance_name)
+- làm ơn [lắc](action) bài [hãy trao cho anh](dance_name)
+- làm ơn [khiêu vũ](action) bài [gangnam style](dance_name)
+- làm ơn [khiêu vũ](action) bài [macarena](dance_name)
+- làm ơn [khiêu vũ](action) bài [sát nhân](dance_name)
+- làm ơn [khiêu vũ](action) bài [evolution](dance_name)
+- làm ơn [khiêu vũ](action) bài [taichi](dance_name)
+- làm ơn [khiêu vũ](action) bài [little apple](dance_name)
+- làm ơn [khiêu vũ](action) bài [hãy trao cho anh](dance_name)
+- thử [nhảy](action) bài nhạc [gangnam style](dance_name)
+- thử [nhảy](action) bài nhạc [macarena](dance_name)
+- thử [nhảy](action) bài nhạc [sát nhân](dance_name)
+- thử [nhảy](action) bài nhạc [evolution](dance_name)
+- thử [nhảy](action) bài nhạc [taichi](dance_name)
+- thử [nhảy](action) bài nhạc [little apple](dance_name)
+- thử [nhảy](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [tập thể dục](action) bài nhạc [gangnam style](dance_name)
+- thử [tập thể dục](action) bài nhạc [macarena](dance_name)
+- thử [tập thể dục](action) bài nhạc [sát nhân](dance_name)
+- thử [tập thể dục](action) bài nhạc [evolution](dance_name)
+- thử [tập thể dục](action) bài nhạc [taichi](dance_name)
+- thử [tập thể dục](action) bài nhạc [little apple](dance_name)
+- thử [tập thể dục](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [múa](action) bài nhạc [gangnam style](dance_name)
+- thử [múa](action) bài nhạc [macarena](dance_name)
+- thử [múa](action) bài nhạc [sát nhân](dance_name)
+- thử [múa](action) bài nhạc [evolution](dance_name)
+- thử [múa](action) bài nhạc [taichi](dance_name)
+- thử [múa](action) bài nhạc [little apple](dance_name)
+- thử [múa](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [gangnam style](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [macarena](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [sát nhân](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [evolution](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [taichi](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [little apple](dance_name)
+- thử [biểu diễn sở trường](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [gangnam style](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [macarena](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [sát nhân](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [evolution](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [taichi](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [little apple](dance_name)
+- thử [thể hiện sở trường](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [gangnam style](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [macarena](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [sát nhân](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [evolution](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [taichi](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [little apple](dance_name)
+- thử [biểu diễn năng khiếu](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [gangnam style](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [macarena](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [sát nhân](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [evolution](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [taichi](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [little apple](dance_name)
+- thử [thể hiện năng khiếu](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [nhúng](action) bài nhạc [gangnam style](dance_name)
+- thử [nhúng](action) bài nhạc [macarena](dance_name)
+- thử [nhúng](action) bài nhạc [sát nhân](dance_name)
+- thử [nhúng](action) bài nhạc [evolution](dance_name)
+- thử [nhúng](action) bài nhạc [taichi](dance_name)
+- thử [nhúng](action) bài nhạc [little apple](dance_name)
+- thử [nhúng](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [lắc](action) bài nhạc [gangnam style](dance_name)
+- thử [lắc](action) bài nhạc [macarena](dance_name)
+- thử [lắc](action) bài nhạc [sát nhân](dance_name)
+- thử [lắc](action) bài nhạc [evolution](dance_name)
+- thử [lắc](action) bài nhạc [taichi](dance_name)
+- thử [lắc](action) bài nhạc [little apple](dance_name)
+- thử [lắc](action) bài nhạc [hãy trao cho anh](dance_name)
+- thử [khiêu vũ](action) bài nhạc [gangnam style](dance_name)
+- thử [khiêu vũ](action) bài nhạc [macarena](dance_name)
+- thử [khiêu vũ](action) bài nhạc [sát nhân](dance_name)
+- thử [khiêu vũ](action) bài nhạc [evolution](dance_name)
+- thử [khiêu vũ](action) bài nhạc [taichi](dance_name)
+- thử [khiêu vũ](action) bài nhạc [little apple](dance_name)
+- thử [khiêu vũ](action) bài nhạc [hãy trao cho anh](dance_name)
+- giờ [nhảy](action) bài [gangnam style](dance_name) đi bạn
+- giờ [nhảy](action) bài [macarena](dance_name) đi bạn
+- giờ [nhảy](action) bài [sát nhân](dance_name) đi bạn
+- giờ [nhảy](action) bài [evolution](dance_name) đi bạn
+- giờ [nhảy](action) bài [taichi](dance_name) đi bạn
+- giờ [nhảy](action) bài [little apple](dance_name) đi bạn
+- giờ [nhảy](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [gangnam style](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [macarena](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [sát nhân](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [evolution](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [taichi](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [little apple](dance_name) đi bạn
+- giờ [tập thể dục](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [múa](action) bài [gangnam style](dance_name) đi bạn
+- giờ [múa](action) bài [macarena](dance_name) đi bạn
+- giờ [múa](action) bài [sát nhân](dance_name) đi bạn
+- giờ [múa](action) bài [evolution](dance_name) đi bạn
+- giờ [múa](action) bài [taichi](dance_name) đi bạn
+- giờ [múa](action) bài [little apple](dance_name) đi bạn
+- giờ [múa](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [gangnam style](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [macarena](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [sát nhân](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [evolution](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [taichi](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [little apple](dance_name) đi bạn
+- giờ [biểu diễn sở trường](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [gangnam style](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [macarena](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [sát nhân](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [evolution](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [taichi](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [little apple](dance_name) đi bạn
+- giờ [thể hiện sở trường](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [gangnam style](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [macarena](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [sát nhân](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [evolution](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [taichi](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [little apple](dance_name) đi bạn
+- giờ [biểu diễn năng khiếu](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [gangnam style](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [macarena](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [sát nhân](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [evolution](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [taichi](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [little apple](dance_name) đi bạn
+- giờ [thể hiện năng khiếu](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [nhúng](action) bài [gangnam style](dance_name) đi bạn
+- giờ [nhúng](action) bài [macarena](dance_name) đi bạn
+- giờ [nhúng](action) bài [sát nhân](dance_name) đi bạn
+- giờ [nhúng](action) bài [evolution](dance_name) đi bạn
+- giờ [nhúng](action) bài [taichi](dance_name) đi bạn
+- giờ [nhúng](action) bài [little apple](dance_name) đi bạn
+- giờ [nhúng](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [lắc](action) bài [gangnam style](dance_name) đi bạn
+- giờ [lắc](action) bài [macarena](dance_name) đi bạn
+- giờ [lắc](action) bài [sát nhân](dance_name) đi bạn
+- giờ [lắc](action) bài [evolution](dance_name) đi bạn
+- giờ [lắc](action) bài [taichi](dance_name) đi bạn
+- giờ [lắc](action) bài [little apple](dance_name) đi bạn
+- giờ [lắc](action) bài [hãy trao cho anh](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [gangnam style](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [macarena](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [sát nhân](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [evolution](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [taichi](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [little apple](dance_name) đi bạn
+- giờ [khiêu vũ](action) bài [hãy trao cho anh](dance_name) đi bạn
+- [nhảy](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [nhảy](action) bài nhạc [macarena](dance_name) đi bạn
+- [nhảy](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [nhảy](action) bài nhạc [evolution](dance_name) đi bạn
+- [nhảy](action) bài nhạc [taichi](dance_name) đi bạn
+- [nhảy](action) bài nhạc [little apple](dance_name) đi bạn
+- [nhảy](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [macarena](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [evolution](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [taichi](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [little apple](dance_name) đi bạn
+- [tập thể dục](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [múa](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [múa](action) bài nhạc [macarena](dance_name) đi bạn
+- [múa](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [múa](action) bài nhạc [evolution](dance_name) đi bạn
+- [múa](action) bài nhạc [taichi](dance_name) đi bạn
+- [múa](action) bài nhạc [little apple](dance_name) đi bạn
+- [múa](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [macarena](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [evolution](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [taichi](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [little apple](dance_name) đi bạn
+- [biểu diễn sở trường](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [macarena](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [evolution](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [taichi](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [little apple](dance_name) đi bạn
+- [thể hiện sở trường](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [macarena](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [evolution](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [taichi](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [little apple](dance_name) đi bạn
+- [biểu diễn năng khiếu](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [macarena](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [evolution](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [taichi](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [little apple](dance_name) đi bạn
+- [thể hiện năng khiếu](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [nhúng](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [nhúng](action) bài nhạc [macarena](dance_name) đi bạn
+- [nhúng](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [nhúng](action) bài nhạc [evolution](dance_name) đi bạn
+- [nhúng](action) bài nhạc [taichi](dance_name) đi bạn
+- [nhúng](action) bài nhạc [little apple](dance_name) đi bạn
+- [nhúng](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [lắc](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [lắc](action) bài nhạc [macarena](dance_name) đi bạn
+- [lắc](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [lắc](action) bài nhạc [evolution](dance_name) đi bạn
+- [lắc](action) bài nhạc [taichi](dance_name) đi bạn
+- [lắc](action) bài nhạc [little apple](dance_name) đi bạn
+- [lắc](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [gangnam style](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [macarena](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [sát nhân](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [evolution](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [taichi](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [little apple](dance_name) đi bạn
+- [khiêu vũ](action) bài nhạc [hãy trao cho anh](dance_name) đi bạn
+- vậy thì [hát](action) cho tôi bài [sóng gió](song_name)
+- vậy thì [hát](action) cho tôi bài [bạc phận](song_name)
+- vậy thì [hát](action) cho tôi bài [đau để trưởng thành](song_name)
+- vậy thì [hát](action) cho tôi bài [sao em vô tình](song_name)
+- vậy thì [hát](action) cho tôi bài [độ ta không độ nàng](song_name)
+- vậy thì [hát](action) cho tôi bài [hồng nhan](song_name)
+- vậy thì [hát](action) cho tôi bài [một bước yêu vạn dặm đau](song_name)
+- vậy thì [hát](action) cho tôi bài [cuộc vui cô đơn](song_name)
+- vậy thì [hát](action) cho tôi bài [đúng người đúng thời điểm](song_name)
+- vậy thì [hát](action) cho tôi bài [anh ơi ở lại](song_name)
+- vậy thì [hát](action) cho tôi bài [anh nhà ở đâu thế](song_name)
+- vậy thì [hát](action) cho tôi bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- vậy thì [hát](action) cho tôi bài [em sẽ là cô dâu](song_name)
+- vậy thì [hát](action) cho tôi bài [nếu ta người lối ngược lối](song_name)
+- vậy thì [hát](action) cho tôi bài [anh chẳng sao mà](song_name)
+- vậy thì [hát](action) cho tôi bài [xin một lần ngoại lệ](song_name)
+- vậy thì [hát](action) cho tôi bài [we don't talk anymore](song_name)
+- bạn [hát](action) cho tôi bài [sóng gió](song_name)
+- bạn [hát](action) cho tôi bài [bạc phận](song_name)
+- bạn [hát](action) cho tôi bài [đau để trưởng thành](song_name)
+- bạn [hát](action) cho tôi bài [sao em vô tình](song_name)
+- bạn [hát](action) cho tôi bài [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho tôi bài [hồng nhan](song_name)
+- bạn [hát](action) cho tôi bài [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho tôi bài [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho tôi bài [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho tôi bài [anh ơi ở lại](song_name)
+- bạn [hát](action) cho tôi bài [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho tôi bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho tôi bài [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho tôi bài [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho tôi bài [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho tôi bài [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho tôi bài [we don't talk anymore](song_name)
+- bạn [hát](action) cho tôi bài [bạc phận](song_name)
+- bạn [hát](action) cho tôi bài [đau để trưởng thành](song_name)
+- bạn [hát](action) cho tôi bài [sao em vô tình](song_name)
+- bạn [hát](action) cho tôi bài [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho tôi bài [hồng nhan](song_name)
+- bạn [hát](action) cho tôi bài [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho tôi bài [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho tôi bài [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho tôi bài [anh ơi ở lại](song_name)
+- bạn [hát](action) cho tôi bài [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho tôi bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho tôi bài [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho tôi bài [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho tôi bài [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho tôi bài [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho tôi bài [we don't talk anymore](song_name)
+- bạn [hát](action) cho tôi xem bài [sóng gió](song_name)
+- bạn [hát](action) cho tôi xem bài [bạc phận](song_name)
+- bạn [hát](action) cho tôi xem bài [đau để trưởng thành](song_name)
+- bạn [hát](action) cho tôi xem bài [sao em vô tình](song_name)
+- bạn [hát](action) cho tôi xem bài [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho tôi xem bài [hồng nhan](song_name)
+- bạn [hát](action) cho tôi xem bài [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho tôi xem bài [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho tôi xem bài [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho tôi xem bài [anh ơi ở lại](song_name)
+- bạn [hát](action) cho tôi xem bài [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho tôi xem bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho tôi xem bài [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho tôi xem bài [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho tôi xem bài [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho tôi xem bài [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho tôi xem bài [we don't talk anymore](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [sóng gió](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [bạc phận](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [đau để trưởng thành](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [sao em vô tình](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [hồng nhan](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [anh ơi ở lại](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [we don't talk anymore](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [sóng gió](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [bạc phận](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [đau để trưởng thành](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [sao em vô tình](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [độ ta không độ nàng](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [hồng nhan](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [một bước yêu vạn dặm đau](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [cuộc vui cô đơn](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [đúng người đúng thời điểm](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [anh ơi ở lại](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [anh nhà ở đâu thế](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [em sẽ là cô dâu](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [nếu ta người lối ngược lối](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [anh chẳng sao mà](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [xin một lần ngoại lệ](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [we don't talk anymore](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [sóng gió](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [bạc phận](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [đau để trưởng thành](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [sao em vô tình](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [độ ta không độ nàng](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [hồng nhan](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [một bước yêu vạn dặm đau](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [cuộc vui cô đơn](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [đúng người đúng thời điểm](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [anh ơi ở lại](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [anh nhà ở đâu thế](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [cảm giác lúc ấy sẽ ra sao](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [em sẽ là cô dâu](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [nếu ta người lối ngược lối](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [anh chẳng sao mà](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [xin một lần ngoại lệ](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [we don't talk anymore](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [sóng gió](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [bạc phận](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [đau để trưởng thành](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [sao em vô tình](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [độ ta không độ nàng](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [hồng nhan](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [một bước yêu vạn dặm đau](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [cuộc vui cô đơn](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [đúng người đúng thời điểm](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [anh ơi ở lại](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [anh nhà ở đâu thế](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [cảm giác lúc ấy sẽ ra sao](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [em sẽ là cô dâu](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [nếu ta người lối ngược lối](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [anh chẳng sao mà](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [xin một lần ngoại lệ](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [we don't talk anymore](song_name)
+- làm ơn [hát](action) bài [sóng gió](song_name)
+- làm ơn [hát](action) bài [bạc phận](song_name)
+- làm ơn [hát](action) bài [đau để trưởng thành](song_name)
+- làm ơn [hát](action) bài [sao em vô tình](song_name)
+- làm ơn [hát](action) bài [độ ta không độ nàng](song_name)
+- làm ơn [hát](action) bài [hồng nhan](song_name)
+- làm ơn [hát](action) bài [một bước yêu vạn dặm đau](song_name)
+- làm ơn [hát](action) bài [cuộc vui cô đơn](song_name)
+- làm ơn [hát](action) bài [đúng người đúng thời điểm](song_name)
+- làm ơn [hát](action) bài [anh ơi ở lại](song_name)
+- làm ơn [hát](action) bài [anh nhà ở đâu thế](song_name)
+- làm ơn [hát](action) bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- làm ơn [hát](action) bài [em sẽ là cô dâu](song_name)
+- làm ơn [hát](action) bài [nếu ta người lối ngược lối](song_name)
+- làm ơn [hát](action) bài [anh chẳng sao mà](song_name)
+- làm ơn [hát](action) bài [xin một lần ngoại lệ](song_name)
+- làm ơn [hát](action) bài [we don't talk anymore](song_name)
+- thử [hát](action) bài nhạc [sóng gió](song_name)
+- thử [hát](action) bài nhạc [bạc phận](song_name)
+- thử [hát](action) bài nhạc [đau để trưởng thành](song_name)
+- thử [hát](action) bài nhạc [sao em vô tình](song_name)
+- thử [hát](action) bài nhạc [độ ta không độ nàng](song_name)
+- thử [hát](action) bài nhạc [hồng nhan](song_name)
+- thử [hát](action) bài nhạc [một bước yêu vạn dặm đau](song_name)
+- thử [hát](action) bài nhạc [cuộc vui cô đơn](song_name)
+- thử [hát](action) bài nhạc [đúng người đúng thời điểm](song_name)
+- thử [hát](action) bài nhạc [anh ơi ở lại](song_name)
+- thử [hát](action) bài nhạc [anh nhà ở đâu thế](song_name)
+- thử [hát](action) bài nhạc [cảm giác lúc ấy sẽ ra sao](song_name)
+- thử [hát](action) bài nhạc [em sẽ là cô dâu](song_name)
+- thử [hát](action) bài nhạc [nếu ta người lối ngược lối](song_name)
+- thử [hát](action) bài nhạc [anh chẳng sao mà](song_name)
+- thử [hát](action) bài nhạc [xin một lần ngoại lệ](song_name)
+- thử [hát](action) bài nhạc [we don't talk anymore](song_name)
+- giờ [hát](action) bài [sóng gió](song_name) đi bạn
+- giờ [hát](action) bài [bạc phận](song_name) đi bạn
+- giờ [hát](action) bài [đau để trưởng thành](song_name) đi bạn
+- giờ [hát](action) bài [sao em vô tình](song_name) đi bạn
+- giờ [hát](action) bài [độ ta không độ nàng](song_name) đi bạn
+- giờ [hát](action) bài [hồng nhan](song_name) đi bạn
+- giờ [hát](action) bài [một bước yêu vạn dặm đau](song_name) đi bạn
+- giờ [hát](action) bài [cuộc vui cô đơn](song_name) đi bạn
+- giờ [hát](action) bài [đúng người đúng thời điểm](song_name) đi bạn
+- giờ [hát](action) bài [anh ơi ở lại](song_name) đi bạn
+- giờ [hát](action) bài [anh nhà ở đâu thế](song_name) đi bạn
+- giờ [hát](action) bài [cảm giác lúc ấy sẽ ra sao](song_name) đi bạn
+- giờ [hát](action) bài [em sẽ là cô dâu](song_name) đi bạn
+- giờ [hát](action) bài [nếu ta người lối ngược lối](song_name) đi bạn
+- giờ [hát](action) bài [anh chẳng sao mà](song_name) đi bạn
+- giờ [hát](action) bài [xin một lần ngoại lệ](song_name) đi bạn
+- giờ [hát](action) bài [we don't talk anymore](song_name) đi bạn
+- [hát](action) bài nhạc [sóng gió](song_name) đi bạn
+- [hát](action) bài nhạc [bạc phận](song_name) đi bạn
+- [hát](action) bài nhạc [đau để trưởng thành](song_name) đi bạn
+- [hát](action) bài nhạc [sao em vô tình](song_name) đi bạn
+- [hát](action) bài nhạc [độ ta không độ nàng](song_name) đi bạn
+- [hát](action) bài nhạc [hồng nhan](song_name) đi bạn
+- [hát](action) bài nhạc [một bước yêu vạn dặm đau](song_name) đi bạn
+- [hát](action) bài nhạc [cuộc vui cô đơn](song_name) đi bạn
+- [hát](action) bài nhạc [đúng người đúng thời điểm](song_name) đi bạn
+- [hát](action) bài nhạc [anh ơi ở lại](song_name) đi bạn
+- [hát](action) bài nhạc [anh nhà ở đâu thế](song_name) đi bạn
+- [hát](action) bài nhạc [cảm giác lúc ấy sẽ ra sao](song_name) đi bạn
+- [hát](action) bài nhạc [em sẽ là cô dâu](song_name) đi bạn
+- [hát](action) bài nhạc [nếu ta người lối ngược lối](song_name) đi bạn
+- [hát](action) bài nhạc [anh chẳng sao mà](song_name) đi bạn
+- [hát](action) bài nhạc [xin một lần ngoại lệ](song_name) đi bạn
+- [hát](action) bài nhạc [we don't talk anymore](song_name) đi bạn
+- tôi rất thích bạn [hát](action) bài [sóng gió](song_name)
+- tôi rất thích bạn [hát](action) bài [bạc phận](song_name)
+- tôi rất thích bạn [hát](action) bài [đau để trưởng thành](song_name)
+- tôi rất thích bạn [hát](action) bài [sao em vô tình](song_name)
+- tôi rất thích bạn [hát](action) bài [độ ta không độ nàng](song_name)
+- tôi rất thích bạn [hát](action) bài [hồng nhan](song_name)
+- tôi rất thích bạn [hát](action) bài [một bước yêu vạn dặm đau](song_name)
+- tôi rất thích bạn [hát](action) bài [cuộc vui cô đơn](song_name)
+- tôi rất thích bạn [hát](action) bài [đúng người đúng thời điểm](song_name)
+- tôi rất thích bạn [hát](action) bài [anh ơi ở lại](song_name)
+- tôi rất thích bạn [hát](action) bài [anh nhà ở đâu thế](song_name)
+- tôi rất thích bạn [hát](action) bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- tôi rất thích bạn [hát](action) bài [em sẽ là cô dâu](song_name)
+- tôi rất thích bạn [hát](action) bài [nếu ta người lối ngược lối](song_name)
+- tôi rất thích bạn [hát](action) bài [anh chẳng sao mà](song_name)
+- tôi rất thích bạn [hát](action) bài [xin một lần ngoại lệ](song_name)
+- tôi rất thích bạn [hát](action) bài [we don't talk anymore](song_name)
+- cực kỳ thích bạn [hát](action) bài [sóng gió](song_name)
+- cực kỳ thích bạn [hát](action) bài [bạc phận](song_name)
+- cực kỳ thích bạn [hát](action) bài [đau để trưởng thành](song_name)
+- cực kỳ thích bạn [hát](action) bài [sao em vô tình](song_name)
+- cực kỳ thích bạn [hát](action) bài [độ ta không độ nàng](song_name)
+- cực kỳ thích bạn [hát](action) bài [hồng nhan](song_name)
+- cực kỳ thích bạn [hát](action) bài [một bước yêu vạn dặm đau](song_name)
+- cực kỳ thích bạn [hát](action) bài [cuộc vui cô đơn](song_name)
+- cực kỳ thích bạn [hát](action) bài [đúng người đúng thời điểm](song_name)
+- cực kỳ thích bạn [hát](action) bài [anh ơi ở lại](song_name)
+- cực kỳ thích bạn [hát](action) bài [anh nhà ở đâu thế](song_name)
+- cực kỳ thích bạn [hát](action) bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- cực kỳ thích bạn [hát](action) bài [em sẽ là cô dâu](song_name)
+- cực kỳ thích bạn [hát](action) bài [nếu ta người lối ngược lối](song_name)
+- cực kỳ thích bạn [hát](action) bài [anh chẳng sao mà](song_name)
+- cực kỳ thích bạn [hát](action) bài [xin một lần ngoại lệ](song_name)
+- cực kỳ thích bạn [hát](action) bài [we don't talk anymore](song_name)
+- [hát](action) bài [sóng gió](song_name)
+- [hát](action) bài [bạc phận](song_name)
+- [hát](action) bài [đau để trưởng thành](song_name)
+- [hát](action) bài [sao em vô tình](song_name)
+- [hát](action) bài [độ ta không độ nàng](song_name)
+- [hát](action) bài [hồng nhan](song_name)
+- [hát](action) bài [một bước yêu vạn dặm đau](song_name)
+- [hát](action) bài [cuộc vui cô đơn](song_name)
+- [hát](action) bài [đúng người đúng thời điểm](song_name)
+- [hát](action) bài [anh ơi ở lại](song_name)
+- [hát](action) bài [anh nhà ở đâu thế](song_name)
+- [hát](action) bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- [hát](action) bài [em sẽ là cô dâu](song_name)
+- [hát](action) bài [nếu ta người lối ngược lối](song_name)
+- [hát](action) bài [anh chẳng sao mà](song_name)
+- [hát](action) bài [xin một lần ngoại lệ](song_name)
+- [hát](action) bài [we don't talk anymore](song_name)
+- [nhảy](action) bài [gangnam style](song_name)
+- [nhảy](action) bài [macarena](song_name)
+- [nhảy](action) bài [sát nhân](song_name)
+- [nhảy](action) bài [evolution](song_name)
+- [nhảy](action) bài [taichi](song_name)
+- [nhảy](action) bài [little apple](song_name)
+- [nhảy](action) bài [hãy trao cho anh](song_name)
+- [tập thể dục](action) bài [gangnam style](song_name)
+- [tập thể dục](action) bài [macarena](song_name)
+- [tập thể dục](action) bài [sát nhân](song_name)
+- [tập thể dục](action) bài [evolution](song_name)
+- [tập thể dục](action) bài [taichi](song_name)
+- [tập thể dục](action) bài [little apple](song_name)
+- [tập thể dục](action) bài [hãy trao cho anh](song_name)
+- [múa](action) bài [gangnam style](song_name)
+- [múa](action) bài [macarena](song_name)
+- [múa](action) bài [sát nhân](song_name)
+- [múa](action) bài [evolution](song_name)
+- [múa](action) bài [taichi](song_name)
+- [múa](action) bài [little apple](song_name)
+- [múa](action) bài [hãy trao cho anh](song_name)
+- [biểu diễn sở trường](action) bài [gangnam style](song_name)
+- [biểu diễn sở trường](action) bài [macarena](song_name)
+- [biểu diễn sở trường](action) bài [sát nhân](song_name)
+- [biểu diễn sở trường](action) bài [evolution](song_name)
+- [biểu diễn sở trường](action) bài [taichi](song_name)
+- [biểu diễn sở trường](action) bài [little apple](song_name)
+- [biểu diễn sở trường](action) bài [hãy trao cho anh](song_name)
+- [thể hiện sở trường](action) bài [gangnam style](song_name)
+- [thể hiện sở trường](action) bài [macarena](song_name)
+- [thể hiện sở trường](action) bài [sát nhân](song_name)
+- [thể hiện sở trường](action) bài [evolution](song_name)
+- [thể hiện sở trường](action) bài [taichi](song_name)
+- [thể hiện sở trường](action) bài [little apple](song_name)
+- [thể hiện sở trường](action) bài [hãy trao cho anh](song_name)
+- [biểu diễn năng khiếu](action) bài [gangnam style](song_name)
+- [biểu diễn năng khiếu](action) bài [macarena](song_name)
+- [biểu diễn năng khiếu](action) bài [sát nhân](song_name)
+- [biểu diễn năng khiếu](action) bài [evolution](song_name)
+- [biểu diễn năng khiếu](action) bài [taichi](song_name)
+- [biểu diễn năng khiếu](action) bài [little apple](song_name)
+- [biểu diễn năng khiếu](action) bài [hãy trao cho anh](song_name)
+- [thể hiện năng khiếu](action) bài [gangnam style](song_name)
+- [thể hiện năng khiếu](action) bài [macarena](song_name)
+- [thể hiện năng khiếu](action) bài [sát nhân](song_name)
+- [thể hiện năng khiếu](action) bài [evolution](song_name)
+- [thể hiện năng khiếu](action) bài [taichi](song_name)
+- [thể hiện năng khiếu](action) bài [little apple](song_name)
+- [thể hiện năng khiếu](action) bài [hãy trao cho anh](song_name)
+- [nhúng](action) bài [gangnam style](song_name)
+- [nhúng](action) bài [macarena](song_name)
+- [nhúng](action) bài [sát nhân](song_name)
+- [nhúng](action) bài [evolution](song_name)
+- [nhúng](action) bài [taichi](song_name)
+- [nhúng](action) bài [little apple](song_name)
+- [nhúng](action) bài [hãy trao cho anh](song_name)
+- [lắc](action) bài [gangnam style](song_name)
+- [lắc](action) bài [macarena](song_name)
+- [lắc](action) bài [sát nhân](song_name)
+- [lắc](action) bài [evolution](song_name)
+- [lắc](action) bài [taichi](song_name)
+- [lắc](action) bài [little apple](song_name)
+- [lắc](action) bài [hãy trao cho anh](song_name)
+- [khiêu vũ](action) bài [gangnam style](song_name)
+- [khiêu vũ](action) bài [macarena](song_name)
+- [khiêu vũ](action) bài [sát nhân](song_name)
+- [khiêu vũ](action) bài [evolution](song_name)
+- [khiêu vũ](action) bài [taichi](song_name)
+- [khiêu vũ](action) bài [little apple](song_name)
+- [khiêu vũ](action) bài [hãy trao cho anh](song_name)
+
+## synonym:nhảy
+- tập thể dục
+- múa
+- biểu diễn sở trường
+- thể hiện sở trường
+- biểu diễn năng khiếu
+- thể hiện năng khiếu
+- nhúng
+- lắc
+- khiêu vũ
+
+## synonym:gangnam style
+- macarena
+- sát nhân
+- evolution
+- taichi
+- little apple
+- hãy trao cho anh
+
+## synonym:sóng gió
+- bạc phận
+- đau để trưởng thành
+- sao em vô tình
+- độ ta không độ nàng
+- hồng nhan
+- một bước yêu vạn dặm đau
+- cuộc vui cô đơn
+- đúng người đúng thời điểm
+- anh ơi ở lại
+- anh nhà ở đâu thế
+- cảm giác lúc ấy sẽ ra sao
+- em sẽ là cô dâu
+- nếu ta người lối ngược lối
+- anh chẳng sao mà
+- xin một lần ngoại lệ
+- we don't talk anymore
+
+## intent:inform_song_name
+- bài [sóng gió](song_name) đi
+- bài [bạc phận](song_name) đi
+- bài [đau để trưởng thành](song_name) đi
+- bài [sao em vô tình](song_name) đi
+- bài [độ ta không độ nàng](song_name) đi
+- bài [hồng nhan](song_name) đi
+- bài [một bước yêu vạn dặm đau](song_name) đi
+- bài [cuộc vui cô đơn](song_name) đi
+- bài [đúng người đúng thời điểm](song_name) đi
+- bài [anh ơi ở lại](song_name) đi
+- bài [anh nhà ở đâu thế](song_name) đi
+- bài [cảm giác lúc ấy sẽ ra sao](song_name) đi
+- bài [em sẽ là cô dâu](song_name) đi
+- bài [nếu ta người lối ngược lối](song_name) đi
+- bài [anh chẳng sao mà](song_name) đi
+- bài [xin một lần ngoại lệ](song_name) đi
+- bài [we don't talk anymore](song_name) đi
+- bài [sóng gió](song_name) được không
+- bài [bạc phận](song_name) được không
+- bài [đau để trưởng thành](song_name) được không
+- bài [sao em vô tình](song_name) được không
+- bài [độ ta không độ nàng](song_name) được không
+- bài [hồng nhan](song_name) được không
+- bài [một bước yêu vạn dặm đau](song_name) được không
+- bài [cuộc vui cô đơn](song_name) được không
+- bài [đúng người đúng thời điểm](song_name) được không
+- bài [anh ơi ở lại](song_name) được không
+- bài [anh nhà ở đâu thế](song_name) được không
+- bài [cảm giác lúc ấy sẽ ra sao](song_name) được không
+- bài [em sẽ là cô dâu](song_name) được không
+- bài [nếu ta người lối ngược lối](song_name) được không
+- bài [anh chẳng sao mà](song_name) được không
+- bài [xin một lần ngoại lệ](song_name) được không
+- bài [we don't talk anymore](song_name) được không
+- bạn biết bài [sóng gió](song_name) không
+- bạn biết bài [bạc phận](song_name) không
+- bạn biết bài [đau để trưởng thành](song_name) không
+- bạn biết bài [sao em vô tình](song_name) không
+- bạn biết bài [độ ta không độ nàng](song_name) không
+- bạn biết bài [hồng nhan](song_name) không
+- bạn biết bài [một bước yêu vạn dặm đau](song_name) không
+- bạn biết bài [cuộc vui cô đơn](song_name) không
+- bạn biết bài [đúng người đúng thời điểm](song_name) không
+- bạn biết bài [anh ơi ở lại](song_name) không
+- bạn biết bài [anh nhà ở đâu thế](song_name) không
+- bạn biết bài [cảm giác lúc ấy sẽ ra sao](song_name) không
+- bạn biết bài [em sẽ là cô dâu](song_name) không
+- bạn biết bài [nếu ta người lối ngược lối](song_name) không
+- bạn biết bài [anh chẳng sao mà](song_name) không
+- bạn biết bài [xin một lần ngoại lệ](song_name) không
+- bạn biết bài [we don't talk anymore](song_name) không
+- mình muốn nghe bài [sóng gió](song_name)
+- mình muốn nghe bài [bạc phận](song_name)
+- mình muốn nghe bài [đau để trưởng thành](song_name)
+- mình muốn nghe bài [sao em vô tình](song_name)
+- mình muốn nghe bài [độ ta không độ nàng](song_name)
+- mình muốn nghe bài [hồng nhan](song_name)
+- mình muốn nghe bài [một bước yêu vạn dặm đau](song_name)
+- mình muốn nghe bài [cuộc vui cô đơn](song_name)
+- mình muốn nghe bài [đúng người đúng thời điểm](song_name)
+- mình muốn nghe bài [anh ơi ở lại](song_name)
+- mình muốn nghe bài [anh nhà ở đâu thế](song_name)
+- mình muốn nghe bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- mình muốn nghe bài [em sẽ là cô dâu](song_name)
+- mình muốn nghe bài [nếu ta người lối ngược lối](song_name)
+- mình muốn nghe bài [anh chẳng sao mà](song_name)
+- mình muốn nghe bài [xin một lần ngoại lệ](song_name)
+- mình muốn nghe bài [we don't talk anymore](song_name)
+- mở bài [sóng gió](song_name)
+- mở bài [bạc phận](song_name)
+- mở bài [đau để trưởng thành](song_name)
+- mở bài [sao em vô tình](song_name)
+- mở bài [độ ta không độ nàng](song_name)
+- mở bài [hồng nhan](song_name)
+- mở bài [một bước yêu vạn dặm đau](song_name)
+- mở bài [cuộc vui cô đơn](song_name)
+- mở bài [đúng người đúng thời điểm](song_name)
+- mở bài [anh ơi ở lại](song_name)
+- mở bài [anh nhà ở đâu thế](song_name)
+- mở bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- mở bài [em sẽ là cô dâu](song_name)
+- mở bài [nếu ta người lối ngược lối](song_name)
+- mở bài [anh chẳng sao mà](song_name)
+- mở bài [xin một lần ngoại lệ](song_name)
+- mở bài [we don't talk anymore](song_name)
+- bật bài [sóng gió](song_name)
+- bật bài [bạc phận](song_name)
+- bật bài [đau để trưởng thành](song_name)
+- bật bài [sao em vô tình](song_name)
+- bật bài [độ ta không độ nàng](song_name)
+- bật bài [hồng nhan](song_name)
+- bật bài [một bước yêu vạn dặm đau](song_name)
+- bật bài [cuộc vui cô đơn](song_name)
+- bật bài [đúng người đúng thời điểm](song_name)
+- bật bài [anh ơi ở lại](song_name)
+- bật bài [anh nhà ở đâu thế](song_name)
+- bật bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bật bài [em sẽ là cô dâu](song_name)
+- bật bài [nếu ta người lối ngược lối](song_name)
+- bật bài [anh chẳng sao mà](song_name)
+- bật bài [xin một lần ngoại lệ](song_name)
+- bật bài [we don't talk anymore](song_name)
+- [sóng gió](song_name)
+- [bạc phận](song_name)
+- [đau để trưởng thành](song_name)
+- [sao em vô tình](song_name)
+- [độ ta không độ nàng](song_name)
+- [hồng nhan](song_name)
+- [một bước yêu vạn dặm đau](song_name)
+- [cuộc vui cô đơn](song_name)
+- [đúng người đúng thời điểm](song_name)
+- [anh ơi ở lại](song_name)
+- [anh nhà ở đâu thế](song_name)
+- [cảm giác lúc ấy sẽ ra sao](song_name)
+- [em sẽ là cô dâu](song_name)
+- [nếu ta người lối ngược lối](song_name)
+- [anh chẳng sao mà](song_name)
+- [xin một lần ngoại lệ](song_name)
+- [we don't talk anymore](song_name)
+- [bạc phận](song_name)
+- [đau để trưởng thành](song_name)
+- [sao em vô tình](song_name)
+- [độ ta không độ nàng](song_name)
+- [hồng nhan](song_name)
+- [một bước yêu vạn dặm đau](song_name)
+- [cuộc vui cô đơn](song_name)
+- [đúng người đúng thời điểm](song_name)
+- [anh ơi ở lại](song_name)
+- [anh nhà ở đâu thế](song_name)
+- [cảm giác lúc ấy sẽ ra sao](song_name)
+- [em sẽ là cô dâu](song_name)
+- [nếu ta người lối ngược lối](song_name)
+- [anh chẳng sao mà](song_name)
+- [xin một lần ngoại lệ](song_name)
+- [we don't talk anymore](song_name)
+- ca khúc [sóng gió](song_name) đi
+- ca khúc [bạc phận](song_name) đi
+- ca khúc [đau để trưởng thành](song_name) đi
+- ca khúc [sao em vô tình](song_name) đi
+- ca khúc [độ ta không độ nàng](song_name) đi
+- ca khúc [hồng nhan](song_name) đi
+- ca khúc [một bước yêu vạn dặm đau](song_name) đi
+- ca khúc [cuộc vui cô đơn](song_name) đi
+- ca khúc [đúng người đúng thời điểm](song_name) đi
+- ca khúc [anh ơi ở lại](song_name) đi
+- ca khúc [anh nhà ở đâu thế](song_name) đi
+- ca khúc [cảm giác lúc ấy sẽ ra sao](song_name) đi
+- ca khúc [em sẽ là cô dâu](song_name) đi
+- ca khúc [nếu ta người lối ngược lối](song_name) đi
+- ca khúc [anh chẳng sao mà](song_name) đi
+- ca khúc [xin một lần ngoại lệ](song_name) đi
+- ca khúc [we don't talk anymore](song_name) đi
+- nhạc phẩm [sóng gió](song_name) đi
+- nhạc phẩm [bạc phận](song_name) đi
+- nhạc phẩm [đau để trưởng thành](song_name) đi
+- nhạc phẩm [sao em vô tình](song_name) đi
+- nhạc phẩm [độ ta không độ nàng](song_name) đi
+- nhạc phẩm [hồng nhan](song_name) đi
+- nhạc phẩm [một bước yêu vạn dặm đau](song_name) đi
+- nhạc phẩm [cuộc vui cô đơn](song_name) đi
+- nhạc phẩm [đúng người đúng thời điểm](song_name) đi
+- nhạc phẩm [anh ơi ở lại](song_name) đi
+- nhạc phẩm [anh nhà ở đâu thế](song_name) đi
+- nhạc phẩm [cảm giác lúc ấy sẽ ra sao](song_name) đi
+- nhạc phẩm [em sẽ là cô dâu](song_name) đi
+- nhạc phẩm [nếu ta người lối ngược lối](song_name) đi
+- nhạc phẩm [anh chẳng sao mà](song_name) đi
+- nhạc phẩm [xin một lần ngoại lệ](song_name) đi
+- nhạc phẩm [we don't talk anymore](song_name) đi
+- mình thích bài [sóng gió](song_name)
+- mình thích bài [bạc phận](song_name)
+- mình thích bài [đau để trưởng thành](song_name)
+- mình thích bài [sao em vô tình](song_name)
+- mình thích bài [độ ta không độ nàng](song_name)
+- mình thích bài [hồng nhan](song_name)
+- mình thích bài [một bước yêu vạn dặm đau](song_name)
+- mình thích bài [cuộc vui cô đơn](song_name)
+- mình thích bài [đúng người đúng thời điểm](song_name)
+- mình thích bài [anh ơi ở lại](song_name)
+- mình thích bài [anh nhà ở đâu thế](song_name)
+- mình thích bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- mình thích bài [em sẽ là cô dâu](song_name)
+- mình thích bài [nếu ta người lối ngược lối](song_name)
+- mình thích bài [anh chẳng sao mà](song_name)
+- mình thích bài [xin một lần ngoại lệ](song_name)
+- mình thích bài [we don't talk anymore](song_name)
+- mình khá thích bài [sóng gió](song_name)
+- mình khá thích bài [bạc phận](song_name)
+- mình khá thích bài [đau để trưởng thành](song_name)
+- mình khá thích bài [sao em vô tình](song_name)
+- mình khá thích bài [độ ta không độ nàng](song_name)
+- mình khá thích bài [hồng nhan](song_name)
+- mình khá thích bài [một bước yêu vạn dặm đau](song_name)
+- mình khá thích bài [cuộc vui cô đơn](song_name)
+- mình khá thích bài [đúng người đúng thời điểm](song_name)
+- mình khá thích bài [anh ơi ở lại](song_name)
+- mình khá thích bài [anh nhà ở đâu thế](song_name)
+- mình khá thích bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- mình khá thích bài [em sẽ là cô dâu](song_name)
+- mình khá thích bài [nếu ta người lối ngược lối](song_name)
+- mình khá thích bài [anh chẳng sao mà](song_name)
+- mình khá thích bài [xin một lần ngoại lệ](song_name)
+- mình khá thích bài [we don't talk anymore](song_name)
+- mình sẽ nghe bài [sóng gió](song_name)
+- mình sẽ nghe bài [bạc phận](song_name)
+- mình sẽ nghe bài [đau để trưởng thành](song_name)
+- mình sẽ nghe bài [sao em vô tình](song_name)
+- mình sẽ nghe bài [độ ta không độ nàng](song_name)
+- mình sẽ nghe bài [hồng nhan](song_name)
+- mình sẽ nghe bài [một bước yêu vạn dặm đau](song_name)
+- mình sẽ nghe bài [cuộc vui cô đơn](song_name)
+- mình sẽ nghe bài [đúng người đúng thời điểm](song_name)
+- mình sẽ nghe bài [anh ơi ở lại](song_name)
+- mình sẽ nghe bài [anh nhà ở đâu thế](song_name)
+- mình sẽ nghe bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- mình sẽ nghe bài [em sẽ là cô dâu](song_name)
+- mình sẽ nghe bài [nếu ta người lối ngược lối](song_name)
+- mình sẽ nghe bài [anh chẳng sao mà](song_name)
+- mình sẽ nghe bài [xin một lần ngoại lệ](song_name)
+- mình sẽ nghe bài [we don't talk anymore](song_name)
+- mình nghe bài [sóng gió](song_name)
+- mình nghe bài [bạc phận](song_name)
+- mình nghe bài [đau để trưởng thành](song_name)
+- mình nghe bài [sao em vô tình](song_name)
+- mình nghe bài [độ ta không độ nàng](song_name)
+- mình nghe bài [hồng nhan](song_name)
+- mình nghe bài [một bước yêu vạn dặm đau](song_name)
+- mình nghe bài [cuộc vui cô đơn](song_name)
+- mình nghe bài [đúng người đúng thời điểm](song_name)
+- mình nghe bài [anh ơi ở lại](song_name)
+- mình nghe bài [anh nhà ở đâu thế](song_name)
+- mình nghe bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- mình nghe bài [em sẽ là cô dâu](song_name)
+- mình nghe bài [nếu ta người lối ngược lối](song_name)
+- mình nghe bài [anh chẳng sao mà](song_name)
+- mình nghe bài [xin một lần ngoại lệ](song_name)
+- mình nghe bài [we don't talk anymore](song_name)
+- mình nghiền bài [sóng gió](song_name) lắm
+- mình nghiền bài [bạc phận](song_name) lắm
+- mình nghiền bài [đau để trưởng thành](song_name) lắm
+- mình nghiền bài [sao em vô tình](song_name) lắm
+- mình nghiền bài [độ ta không độ nàng](song_name) lắm
+- mình nghiền bài [hồng nhan](song_name) lắm
+- mình nghiền bài [một bước yêu vạn dặm đau](song_name) lắm
+- mình nghiền bài [cuộc vui cô đơn](song_name) lắm
+- mình nghiền bài [đúng người đúng thời điểm](song_name) lắm
+- mình nghiền bài [anh ơi ở lại](song_name) lắm
+- mình nghiền bài [anh nhà ở đâu thế](song_name) lắm
+- mình nghiền bài [cảm giác lúc ấy sẽ ra sao](song_name) lắm
+- mình nghiền bài [em sẽ là cô dâu](song_name) lắm
+- mình nghiền bài [nếu ta người lối ngược lối](song_name) lắm
+- mình nghiền bài [anh chẳng sao mà](song_name) lắm
+- mình nghiền bài [xin một lần ngoại lệ](song_name) lắm
+- mình nghiền bài [we don't talk anymore](song_name) lắm
+- mình muốn bài [sóng gió](song_name) nha
+- mình muốn bài [bạc phận](song_name) nha
+- mình muốn bài [đau để trưởng thành](song_name) nha
+- mình muốn bài [sao em vô tình](song_name) nha
+- mình muốn bài [độ ta không độ nàng](song_name) nha
+- mình muốn bài [hồng nhan](song_name) nha
+- mình muốn bài [một bước yêu vạn dặm đau](song_name) nha
+- mình muốn bài [cuộc vui cô đơn](song_name) nha
+- mình muốn bài [đúng người đúng thời điểm](song_name) nha
+- mình muốn bài [anh ơi ở lại](song_name) nha
+- mình muốn bài [anh nhà ở đâu thế](song_name) nha
+- mình muốn bài [cảm giác lúc ấy sẽ ra sao](song_name) nha
+- mình muốn bài [em sẽ là cô dâu](song_name) nha
+- mình muốn bài [nếu ta người lối ngược lối](song_name) nha
+- mình muốn bài [anh chẳng sao mà](song_name) nha
+- mình muốn bài [xin một lần ngoại lệ](song_name) nha
+- mình muốn bài [we don't talk anymore](song_name) nha
+- mình cần nghe bài [sóng gió](song_name) nhé
+- mình cần nghe bài [bạc phận](song_name) nhé
+- mình cần nghe bài [đau để trưởng thành](song_name) nhé
+- mình cần nghe bài [sao em vô tình](song_name) nhé
+- mình cần nghe bài [độ ta không độ nàng](song_name) nhé
+- mình cần nghe bài [hồng nhan](song_name) nhé
+- mình cần nghe bài [một bước yêu vạn dặm đau](song_name) nhé
+- mình cần nghe bài [cuộc vui cô đơn](song_name) nhé
+- mình cần nghe bài [đúng người đúng thời điểm](song_name) nhé
+- mình cần nghe bài [anh ơi ở lại](song_name) nhé
+- mình cần nghe bài [anh nhà ở đâu thế](song_name) nhé
+- mình cần nghe bài [cảm giác lúc ấy sẽ ra sao](song_name) nhé
+- mình cần nghe bài [em sẽ là cô dâu](song_name) nhé
+- mình cần nghe bài [nếu ta người lối ngược lối](song_name) nhé
+- mình cần nghe bài [anh chẳng sao mà](song_name) nhé
+- mình cần nghe bài [xin một lần ngoại lệ](song_name) nhé
+- mình cần nghe bài [we don't talk anymore](song_name) nhé
+- mở cho mình bài [sóng gió](song_name) nhanh đi nào
+- mở cho mình bài [bạc phận](song_name) nhanh đi nào
+- mở cho mình bài [đau để trưởng thành](song_name) nhanh đi nào
+- mở cho mình bài [sao em vô tình](song_name) nhanh đi nào
+- mở cho mình bài [độ ta không độ nàng](song_name) nhanh đi nào
+- mở cho mình bài [hồng nhan](song_name) nhanh đi nào
+- mở cho mình bài [một bước yêu vạn dặm đau](song_name) nhanh đi nào
+- mở cho mình bài [cuộc vui cô đơn](song_name) nhanh đi nào
+- mở cho mình bài [đúng người đúng thời điểm](song_name) nhanh đi nào
+- mở cho mình bài [anh ơi ở lại](song_name) nhanh đi nào
+- mở cho mình bài [anh nhà ở đâu thế](song_name) nhanh đi nào
+- mở cho mình bài [cảm giác lúc ấy sẽ ra sao](song_name) nhanh đi nào
+- mở cho mình bài [em sẽ là cô dâu](song_name) nhanh đi nào
+- mở cho mình bài [nếu ta người lối ngược lối](song_name) nhanh đi nào
+- mở cho mình bài [anh chẳng sao mà](song_name) nhanh đi nào
+- mở cho mình bài [xin một lần ngoại lệ](song_name) nhanh đi nào
+- mở cho mình bài [we don't talk anymore](song_name) nhanh đi nào
+- bài [sóng gió](song_name) hay lắm đấy
+- bài [bạc phận](song_name) hay lắm đấy
+- bài [đau để trưởng thành](song_name) hay lắm đấy
+- bài [sao em vô tình](song_name) hay lắm đấy
+- bài [độ ta không độ nàng](song_name) hay lắm đấy
+- bài [hồng nhan](song_name) hay lắm đấy
+- bài [một bước yêu vạn dặm đau](song_name) hay lắm đấy
+- bài [cuộc vui cô đơn](song_name) hay lắm đấy
+- bài [đúng người đúng thời điểm](song_name) hay lắm đấy
+- bài [anh ơi ở lại](song_name) hay lắm đấy
+- bài [anh nhà ở đâu thế](song_name) hay lắm đấy
+- bài [cảm giác lúc ấy sẽ ra sao](song_name) hay lắm đấy
+- bài [em sẽ là cô dâu](song_name) hay lắm đấy
+- bài [nếu ta người lối ngược lối](song_name) hay lắm đấy
+- bài [anh chẳng sao mà](song_name) hay lắm đấy
+- bài [xin một lần ngoại lệ](song_name) hay lắm đấy
+- bài [we don't talk anymore](song_name) hay lắm đấy
+- [sóng gió](song_name) là một bài rất hay
+- [bạc phận](song_name) là một bài rất hay
+- [đau để trưởng thành](song_name) là một bài rất hay
+- [sao em vô tình](song_name) là một bài rất hay
+- [độ ta không độ nàng](song_name) là một bài rất hay
+- [hồng nhan](song_name) là một bài rất hay
+- [một bước yêu vạn dặm đau](song_name) là một bài rất hay
+- [cuộc vui cô đơn](song_name) là một bài rất hay
+- [đúng người đúng thời điểm](song_name) là một bài rất hay
+- [anh ơi ở lại](song_name) là một bài rất hay
+- [anh nhà ở đâu thế](song_name) là một bài rất hay
+- [cảm giác lúc ấy sẽ ra sao](song_name) là một bài rất hay
+- [em sẽ là cô dâu](song_name) là một bài rất hay
+- [nếu ta người lối ngược lối](song_name) là một bài rất hay
+- [anh chẳng sao mà](song_name) là một bài rất hay
+- [xin một lần ngoại lệ](song_name) là một bài rất hay
+- [we don't talk anymore](song_name) là một bài rất hay
+- [sóng gió](song_name) bạn mở cho tôi bài đó đi
+- [bạc phận](song_name) bạn mở cho tôi bài đó đi
+- [đau để trưởng thành](song_name) bạn mở cho tôi bài đó đi
+- [sao em vô tình](song_name) bạn mở cho tôi bài đó đi
+- [độ ta không độ nàng](song_name) bạn mở cho tôi bài đó đi
+- [hồng nhan](song_name) bạn mở cho tôi bài đó đi
+- [một bước yêu vạn dặm đau](song_name) bạn mở cho tôi bài đó đi
+- [cuộc vui cô đơn](song_name) bạn mở cho tôi bài đó đi
+- [đúng người đúng thời điểm](song_name) bạn mở cho tôi bài đó đi
+- [anh ơi ở lại](song_name) bạn mở cho tôi bài đó đi
+- [anh nhà ở đâu thế](song_name) bạn mở cho tôi bài đó đi
+- [cảm giác lúc ấy sẽ ra sao](song_name) bạn mở cho tôi bài đó đi
+- [em sẽ là cô dâu](song_name) bạn mở cho tôi bài đó đi
+- [nếu ta người lối ngược lối](song_name) bạn mở cho tôi bài đó đi
+- [anh chẳng sao mà](song_name) bạn mở cho tôi bài đó đi
+- [xin một lần ngoại lệ](song_name) bạn mở cho tôi bài đó đi
+- [we don't talk anymore](song_name) bạn mở cho tôi bài đó đi
+- tôi rất muốn nghe bài [sóng gió](song_name)
+- tôi rất muốn nghe bài [bạc phận](song_name)
+- tôi rất muốn nghe bài [đau để trưởng thành](song_name)
+- tôi rất muốn nghe bài [sao em vô tình](song_name)
+- tôi rất muốn nghe bài [độ ta không độ nàng](song_name)
+- tôi rất muốn nghe bài [hồng nhan](song_name)
+- tôi rất muốn nghe bài [một bước yêu vạn dặm đau](song_name)
+- tôi rất muốn nghe bài [cuộc vui cô đơn](song_name)
+- tôi rất muốn nghe bài [đúng người đúng thời điểm](song_name)
+- tôi rất muốn nghe bài [anh ơi ở lại](song_name)
+- tôi rất muốn nghe bài [anh nhà ở đâu thế](song_name)
+- tôi rất muốn nghe bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- tôi rất muốn nghe bài [em sẽ là cô dâu](song_name)
+- tôi rất muốn nghe bài [nếu ta người lối ngược lối](song_name)
+- tôi rất muốn nghe bài [anh chẳng sao mà](song_name)
+- tôi rất muốn nghe bài [xin một lần ngoại lệ](song_name)
+- tôi rất muốn nghe bài [we don't talk anymore](song_name)
+- ca khúc [sóng gió](song_name) ok đấy
+- ca khúc [bạc phận](song_name) ok đấy
+- ca khúc [đau để trưởng thành](song_name) ok đấy
+- ca khúc [sao em vô tình](song_name) ok đấy
+- ca khúc [độ ta không độ nàng](song_name) ok đấy
+- ca khúc [hồng nhan](song_name) ok đấy
+- ca khúc [một bước yêu vạn dặm đau](song_name) ok đấy
+- ca khúc [cuộc vui cô đơn](song_name) ok đấy
+- ca khúc [đúng người đúng thời điểm](song_name) ok đấy
+- ca khúc [anh ơi ở lại](song_name) ok đấy
+- ca khúc [anh nhà ở đâu thế](song_name) ok đấy
+- ca khúc [cảm giác lúc ấy sẽ ra sao](song_name) ok đấy
+- ca khúc [em sẽ là cô dâu](song_name) ok đấy
+- ca khúc [nếu ta người lối ngược lối](song_name) ok đấy
+- ca khúc [anh chẳng sao mà](song_name) ok đấy
+- ca khúc [xin một lần ngoại lệ](song_name) ok đấy
+- ca khúc [we don't talk anymore](song_name) ok đấy
+- bài nhạc [sóng gió](song_name)
+- bài nhạc [bạc phận](song_name)
+- bài nhạc [đau để trưởng thành](song_name)
+- bài nhạc [sao em vô tình](song_name)
+- bài nhạc [độ ta không độ nàng](song_name)
+- bài nhạc [hồng nhan](song_name)
+- bài nhạc [một bước yêu vạn dặm đau](song_name)
+- bài nhạc [cuộc vui cô đơn](song_name)
+- bài nhạc [đúng người đúng thời điểm](song_name)
+- bài nhạc [anh ơi ở lại](song_name)
+- bài nhạc [anh nhà ở đâu thế](song_name)
+- bài nhạc [cảm giác lúc ấy sẽ ra sao](song_name)
+- bài nhạc [em sẽ là cô dâu](song_name)
+- bài nhạc [nếu ta người lối ngược lối](song_name)
+- bài nhạc [anh chẳng sao mà](song_name)
+- bài nhạc [xin một lần ngoại lệ](song_name)
+- bài nhạc [we don't talk anymore](song_name)
+- chơi bài [sóng gió](song_name) đi
+- chơi bài [bạc phận](song_name) đi
+- chơi bài [đau để trưởng thành](song_name) đi
+- chơi bài [sao em vô tình](song_name) đi
+- chơi bài [độ ta không độ nàng](song_name) đi
+- chơi bài [hồng nhan](song_name) đi
+- chơi bài [một bước yêu vạn dặm đau](song_name) đi
+- chơi bài [cuộc vui cô đơn](song_name) đi
+- chơi bài [đúng người đúng thời điểm](song_name) đi
+- chơi bài [anh ơi ở lại](song_name) đi
+- chơi bài [anh nhà ở đâu thế](song_name) đi
+- chơi bài [cảm giác lúc ấy sẽ ra sao](song_name) đi
+- chơi bài [em sẽ là cô dâu](song_name) đi
+- chơi bài [nếu ta người lối ngược lối](song_name) đi
+- chơi bài [anh chẳng sao mà](song_name) đi
+- chơi bài [xin một lần ngoại lệ](song_name) đi
+- chơi bài [we don't talk anymore](song_name) đi
+- quất bài [sóng gió](song_name) nhé
+- quất bài [bạc phận](song_name) nhé
+- quất bài [đau để trưởng thành](song_name) nhé
+- quất bài [sao em vô tình](song_name) nhé
+- quất bài [độ ta không độ nàng](song_name) nhé
+- quất bài [hồng nhan](song_name) nhé
+- quất bài [một bước yêu vạn dặm đau](song_name) nhé
+- quất bài [cuộc vui cô đơn](song_name) nhé
+- quất bài [đúng người đúng thời điểm](song_name) nhé
+- quất bài [anh ơi ở lại](song_name) nhé
+- quất bài [anh nhà ở đâu thế](song_name) nhé
+- quất bài [cảm giác lúc ấy sẽ ra sao](song_name) nhé
+- quất bài [em sẽ là cô dâu](song_name) nhé
+- quất bài [nếu ta người lối ngược lối](song_name) nhé
+- quất bài [anh chẳng sao mà](song_name) nhé
+- quất bài [xin một lần ngoại lệ](song_name) nhé
+- quất bài [we don't talk anymore](song_name) nhé
+- hay là bài [sóng gió](song_name) cũng được đấy
+- hay là bài [bạc phận](song_name) cũng được đấy
+- hay là bài [đau để trưởng thành](song_name) cũng được đấy
+- hay là bài [sao em vô tình](song_name) cũng được đấy
+- hay là bài [độ ta không độ nàng](song_name) cũng được đấy
+- hay là bài [hồng nhan](song_name) cũng được đấy
+- hay là bài [một bước yêu vạn dặm đau](song_name) cũng được đấy
+- hay là bài [cuộc vui cô đơn](song_name) cũng được đấy
+- hay là bài [đúng người đúng thời điểm](song_name) cũng được đấy
+- hay là bài [anh ơi ở lại](song_name) cũng được đấy
+- hay là bài [anh nhà ở đâu thế](song_name) cũng được đấy
+- hay là bài [cảm giác lúc ấy sẽ ra sao](song_name) cũng được đấy
+- hay là bài [em sẽ là cô dâu](song_name) cũng được đấy
+- hay là bài [nếu ta người lối ngược lối](song_name) cũng được đấy
+- hay là bài [anh chẳng sao mà](song_name) cũng được đấy
+- hay là bài [xin một lần ngoại lệ](song_name) cũng được đấy
+- hay là bài [we don't talk anymore](song_name) cũng được đấy
+- không thể không biết bài [sóng gió](song_name) được
+- không thể không biết bài [bạc phận](song_name) được
+- không thể không biết bài [đau để trưởng thành](song_name) được
+- không thể không biết bài [sao em vô tình](song_name) được
+- không thể không biết bài [độ ta không độ nàng](song_name) được
+- không thể không biết bài [hồng nhan](song_name) được
+- không thể không biết bài [một bước yêu vạn dặm đau](song_name) được
+- không thể không biết bài [cuộc vui cô đơn](song_name) được
+- không thể không biết bài [đúng người đúng thời điểm](song_name) được
+- không thể không biết bài [anh ơi ở lại](song_name) được
+- không thể không biết bài [anh nhà ở đâu thế](song_name) được
+- không thể không biết bài [cảm giác lúc ấy sẽ ra sao](song_name) được
+- không thể không biết bài [em sẽ là cô dâu](song_name) được
+- không thể không biết bài [nếu ta người lối ngược lối](song_name) được
+- không thể không biết bài [anh chẳng sao mà](song_name) được
+- không thể không biết bài [xin một lần ngoại lệ](song_name) được
+- không thể không biết bài [we don't talk anymore](song_name) được
+- nhạc phẩm được mang tên [sóng gió](song_name)
+- nhạc phẩm được mang tên [bạc phận](song_name)
+- nhạc phẩm được mang tên [đau để trưởng thành](song_name)
+- nhạc phẩm được mang tên [sao em vô tình](song_name)
+- nhạc phẩm được mang tên [độ ta không độ nàng](song_name)
+- nhạc phẩm được mang tên [hồng nhan](song_name)
+- nhạc phẩm được mang tên [một bước yêu vạn dặm đau](song_name)
+- nhạc phẩm được mang tên [cuộc vui cô đơn](song_name)
+- nhạc phẩm được mang tên [đúng người đúng thời điểm](song_name)
+- nhạc phẩm được mang tên [anh ơi ở lại](song_name)
+- nhạc phẩm được mang tên [anh nhà ở đâu thế](song_name)
+- nhạc phẩm được mang tên [cảm giác lúc ấy sẽ ra sao](song_name)
+- nhạc phẩm được mang tên [em sẽ là cô dâu](song_name)
+- nhạc phẩm được mang tên [nếu ta người lối ngược lối](song_name)
+- nhạc phẩm được mang tên [anh chẳng sao mà](song_name)
+- nhạc phẩm được mang tên [xin một lần ngoại lệ](song_name)
+- nhạc phẩm được mang tên [we don't talk anymore](song_name)
+- ca khúc được mang tên [sóng gió](song_name)
+- ca khúc được mang tên [bạc phận](song_name)
+- ca khúc được mang tên [đau để trưởng thành](song_name)
+- ca khúc được mang tên [sao em vô tình](song_name)
+- ca khúc được mang tên [độ ta không độ nàng](song_name)
+- ca khúc được mang tên [hồng nhan](song_name)
+- ca khúc được mang tên [một bước yêu vạn dặm đau](song_name)
+- ca khúc được mang tên [cuộc vui cô đơn](song_name)
+- ca khúc được mang tên [đúng người đúng thời điểm](song_name)
+- ca khúc được mang tên [anh ơi ở lại](song_name)
+- ca khúc được mang tên [anh nhà ở đâu thế](song_name)
+- ca khúc được mang tên [cảm giác lúc ấy sẽ ra sao](song_name)
+- ca khúc được mang tên [em sẽ là cô dâu](song_name)
+- ca khúc được mang tên [nếu ta người lối ngược lối](song_name)
+- ca khúc được mang tên [anh chẳng sao mà](song_name)
+- ca khúc được mang tên [xin một lần ngoại lệ](song_name)
+- ca khúc được mang tên [we don't talk anymore](song_name)
+- tựa đề bài hát có tên [sóng gió](song_name) đó
+- tựa đề bài hát có tên [bạc phận](song_name) đó
+- tựa đề bài hát có tên [đau để trưởng thành](song_name) đó
+- tựa đề bài hát có tên [sao em vô tình](song_name) đó
+- tựa đề bài hát có tên [độ ta không độ nàng](song_name) đó
+- tựa đề bài hát có tên [hồng nhan](song_name) đó
+- tựa đề bài hát có tên [một bước yêu vạn dặm đau](song_name) đó
+- tựa đề bài hát có tên [cuộc vui cô đơn](song_name) đó
+- tựa đề bài hát có tên [đúng người đúng thời điểm](song_name) đó
+- tựa đề bài hát có tên [anh ơi ở lại](song_name) đó
+- tựa đề bài hát có tên [anh nhà ở đâu thế](song_name) đó
+- tựa đề bài hát có tên [cảm giác lúc ấy sẽ ra sao](song_name) đó
+- tựa đề bài hát có tên [em sẽ là cô dâu](song_name) đó
+- tựa đề bài hát có tên [nếu ta người lối ngược lối](song_name) đó
+- tựa đề bài hát có tên [anh chẳng sao mà](song_name) đó
+- tựa đề bài hát có tên [xin một lần ngoại lệ](song_name) đó
+- tựa đề bài hát có tên [we don't talk anymore](song_name) đó
+- tiêu đề bài hát là [sóng gió](song_name)
+- tiêu đề bài hát là [bạc phận](song_name)
+- tiêu đề bài hát là [đau để trưởng thành](song_name)
+- tiêu đề bài hát là [sao em vô tình](song_name)
+- tiêu đề bài hát là [độ ta không độ nàng](song_name)
+- tiêu đề bài hát là [hồng nhan](song_name)
+- tiêu đề bài hát là [một bước yêu vạn dặm đau](song_name)
+- tiêu đề bài hát là [cuộc vui cô đơn](song_name)
+- tiêu đề bài hát là [đúng người đúng thời điểm](song_name)
+- tiêu đề bài hát là [anh ơi ở lại](song_name)
+- tiêu đề bài hát là [anh nhà ở đâu thế](song_name)
+- tiêu đề bài hát là [cảm giác lúc ấy sẽ ra sao](song_name)
+- tiêu đề bài hát là [em sẽ là cô dâu](song_name)
+- tiêu đề bài hát là [nếu ta người lối ngược lối](song_name)
+- tiêu đề bài hát là [anh chẳng sao mà](song_name)
+- tiêu đề bài hát là [xin một lần ngoại lệ](song_name)
+- tiêu đề bài hát là [we don't talk anymore](song_name)
+- tên bài hát là [sóng gió](song_name) nhé
+- tên bài hát là [bạc phận](song_name) nhé
+- tên bài hát là [đau để trưởng thành](song_name) nhé
+- tên bài hát là [sao em vô tình](song_name) nhé
+- tên bài hát là [độ ta không độ nàng](song_name) nhé
+- tên bài hát là [hồng nhan](song_name) nhé
+- tên bài hát là [một bước yêu vạn dặm đau](song_name) nhé
+- tên bài hát là [cuộc vui cô đơn](song_name) nhé
+- tên bài hát là [đúng người đúng thời điểm](song_name) nhé
+- tên bài hát là [anh ơi ở lại](song_name) nhé
+- tên bài hát là [anh nhà ở đâu thế](song_name) nhé
+- tên bài hát là [cảm giác lúc ấy sẽ ra sao](song_name) nhé
+- tên bài hát là [em sẽ là cô dâu](song_name) nhé
+- tên bài hát là [nếu ta người lối ngược lối](song_name) nhé
+- tên bài hát là [anh chẳng sao mà](song_name) nhé
+- tên bài hát là [xin một lần ngoại lệ](song_name) nhé
+- tên bài hát là [we don't talk anymore](song_name) nhé
+- bài [sóng gió](song_name) nghe rất vui nha
+- bài [bạc phận](song_name) nghe rất vui nha
+- bài [đau để trưởng thành](song_name) nghe rất vui nha
+- bài [sao em vô tình](song_name) nghe rất vui nha
+- bài [độ ta không độ nàng](song_name) nghe rất vui nha
+- bài [hồng nhan](song_name) nghe rất vui nha
+- bài [một bước yêu vạn dặm đau](song_name) nghe rất vui nha
+- bài [cuộc vui cô đơn](song_name) nghe rất vui nha
+- bài [đúng người đúng thời điểm](song_name) nghe rất vui nha
+- bài [anh ơi ở lại](song_name) nghe rất vui nha
+- bài [anh nhà ở đâu thế](song_name) nghe rất vui nha
+- bài [cảm giác lúc ấy sẽ ra sao](song_name) nghe rất vui nha
+- bài [em sẽ là cô dâu](song_name) nghe rất vui nha
+- bài [nếu ta người lối ngược lối](song_name) nghe rất vui nha
+- bài [anh chẳng sao mà](song_name) nghe rất vui nha
+- bài [xin một lần ngoại lệ](song_name) nghe rất vui nha
+- bài [we don't talk anymore](song_name) nghe rất vui nha
+- nghe bài [sóng gió](song_name) cho sướng
+- nghe bài [bạc phận](song_name) cho sướng
+- nghe bài [đau để trưởng thành](song_name) cho sướng
+- nghe bài [sao em vô tình](song_name) cho sướng
+- nghe bài [độ ta không độ nàng](song_name) cho sướng
+- nghe bài [hồng nhan](song_name) cho sướng
+- nghe bài [một bước yêu vạn dặm đau](song_name) cho sướng
+- nghe bài [cuộc vui cô đơn](song_name) cho sướng
+- nghe bài [đúng người đúng thời điểm](song_name) cho sướng
+- nghe bài [anh ơi ở lại](song_name) cho sướng
+- nghe bài [anh nhà ở đâu thế](song_name) cho sướng
+- nghe bài [cảm giác lúc ấy sẽ ra sao](song_name) cho sướng
+- nghe bài [em sẽ là cô dâu](song_name) cho sướng
+- nghe bài [nếu ta người lối ngược lối](song_name) cho sướng
+- nghe bài [anh chẳng sao mà](song_name) cho sướng
+- nghe bài [xin một lần ngoại lệ](song_name) cho sướng
+- nghe bài [we don't talk anymore](song_name) cho sướng
+- nghe bài [sóng gió](song_name) cho mình thư giãn cái
+- nghe bài [bạc phận](song_name) cho mình thư giãn cái
+- nghe bài [đau để trưởng thành](song_name) cho mình thư giãn cái
+- nghe bài [sao em vô tình](song_name) cho mình thư giãn cái
+- nghe bài [độ ta không độ nàng](song_name) cho mình thư giãn cái
+- nghe bài [hồng nhan](song_name) cho mình thư giãn cái
+- nghe bài [một bước yêu vạn dặm đau](song_name) cho mình thư giãn cái
+- nghe bài [cuộc vui cô đơn](song_name) cho mình thư giãn cái
+- nghe bài [đúng người đúng thời điểm](song_name) cho mình thư giãn cái
+- nghe bài [anh ơi ở lại](song_name) cho mình thư giãn cái
+- nghe bài [anh nhà ở đâu thế](song_name) cho mình thư giãn cái
+- nghe bài [cảm giác lúc ấy sẽ ra sao](song_name) cho mình thư giãn cái
+- nghe bài [em sẽ là cô dâu](song_name) cho mình thư giãn cái
+- nghe bài [nếu ta người lối ngược lối](song_name) cho mình thư giãn cái
+- nghe bài [anh chẳng sao mà](song_name) cho mình thư giãn cái
+- nghe bài [xin một lần ngoại lệ](song_name) cho mình thư giãn cái
+- nghe bài [we don't talk anymore](song_name) cho mình thư giãn cái
+- [sóng gió](song_name)
+- [bạc phận](song_name)
+- [đau để trưởng thành](song_name)
+- [sao em vô tình](song_name)
+- [độ ta không độ nàng](song_name)
+- [hồng nhan](song_name)
+- [một bước yêu vạn dặm đau](song_name)
+- [cuộc vui cô đơn](song_name)
+- [đúng người đúng thời điểm](song_name)
+- [anh ơi ở lại](song_name)
+- [anh nhà ở đâu thế](song_name)
+- [cảm giác lúc ấy sẽ ra sao](song_name)
+- [em sẽ là cô dâu](song_name)
+- [nếu ta người lối ngược lối](song_name)
+- [anh chẳng sao mà](song_name)
+- [xin một lần ngoại lệ](song_name)
+- [we don't talk anymore](song_name)
+- [bạc phận](song_name)
+- [đau để trưởng thành](song_name)
+- [sao em vô tình](song_name)
+- [độ ta không độ nàng](song_name)
+- [hồng nhan](song_name)
+- [một bước yêu vạn dặm đau](song_name)
+- [cuộc vui cô đơn](song_name)
+- [đúng người đúng thời điểm](song_name)
+- [anh ơi ở lại](song_name)
+- [anh nhà ở đâu thế](song_name)
+- [cảm giác lúc ấy sẽ ra sao](song_name)
+- [em sẽ là cô dâu](song_name)
+- [nếu ta người lối ngược lối](song_name)
+- [anh chẳng sao mà](song_name)
+- [xin một lần ngoại lệ](song_name)
+- [we don't talk anymore](song_name)
+- bài [sóng gió](song_name)
+- bài [bạc phận](song_name)
+- bài [đau để trưởng thành](song_name)
+- bài [sao em vô tình](song_name)
+- bài [độ ta không độ nàng](song_name)
+- bài [hồng nhan](song_name)
+- bài [một bước yêu vạn dặm đau](song_name)
+- bài [cuộc vui cô đơn](song_name)
+- bài [đúng người đúng thời điểm](song_name)
+- bài [anh ơi ở lại](song_name)
+- bài [anh nhà ở đâu thế](song_name)
+- bài [cảm giác lúc ấy sẽ ra sao](song_name)
+- bài [em sẽ là cô dâu](song_name)
+- bài [nếu ta người lối ngược lối](song_name)
+- bài [anh chẳng sao mà](song_name)
+- bài [xin một lần ngoại lệ](song_name)
+- bài [we don't talk anymore](song_name)
+
+## intent:inform_dance_name
+- bài [gangnam style](dance_name) đi
+- bài [macarena](dance_name) đi
+- bài [sát nhân](dance_name) đi
+- bài [evolution](dance_name) đi
+- bài [taichi](dance_name) đi
+- bài [little apple](dance_name) đi
+- bài [hãy trao cho anh](dance_name) đi
+- bài [gangnam style](dance_name) được không
+- bài [macarena](dance_name) được không
+- bài [sát nhân](dance_name) được không
+- bài [evolution](dance_name) được không
+- bài [taichi](dance_name) được không
+- bài [little apple](dance_name) được không
+- bài [hãy trao cho anh](dance_name) được không
+- bạn biết bài [gangnam style](dance_name) không
+- bạn biết bài [macarena](dance_name) không
+- bạn biết bài [sát nhân](dance_name) không
+- bạn biết bài [evolution](dance_name) không
+- bạn biết bài [taichi](dance_name) không
+- bạn biết bài [little apple](dance_name) không
+- bạn biết bài [hãy trao cho anh](dance_name) không
+- mình muốn nghe bài [gangnam style](dance_name)
+- mình muốn nghe bài [macarena](dance_name)
+- mình muốn nghe bài [sát nhân](dance_name)
+- mình muốn nghe bài [evolution](dance_name)
+- mình muốn nghe bài [taichi](dance_name)
+- mình muốn nghe bài [little apple](dance_name)
+- mình muốn nghe bài [hãy trao cho anh](dance_name)
+- mở bài [gangnam style](dance_name)
+- mở bài [macarena](dance_name)
+- mở bài [sát nhân](dance_name)
+- mở bài [evolution](dance_name)
+- mở bài [taichi](dance_name)
+- mở bài [little apple](dance_name)
+- mở bài [hãy trao cho anh](dance_name)
+- bật bài [gangnam style](dance_name)
+- bật bài [macarena](dance_name)
+- bật bài [sát nhân](dance_name)
+- bật bài [evolution](dance_name)
+- bật bài [taichi](dance_name)
+- bật bài [little apple](dance_name)
+- bật bài [hãy trao cho anh](dance_name)
+- [gangnam style](dance_name)
+- [macarena](dance_name)
+- [sát nhân](dance_name)
+- [evolution](dance_name)
+- [taichi](dance_name)
+- [little apple](dance_name)
+- [hãy trao cho anh](dance_name)
+- [macarena](dance_name)
+- [sát nhân](dance_name)
+- [evolution](dance_name)
+- [taichi](dance_name)
+- [little apple](dance_name)
+- [hãy trao cho anh](dance_name)
+- ca khúc [gangnam style](dance_name) đi
+- ca khúc [macarena](dance_name) đi
+- ca khúc [sát nhân](dance_name) đi
+- ca khúc [evolution](dance_name) đi
+- ca khúc [taichi](dance_name) đi
+- ca khúc [little apple](dance_name) đi
+- ca khúc [hãy trao cho anh](dance_name) đi
+- nhạc phẩm [gangnam style](dance_name) đi
+- nhạc phẩm [macarena](dance_name) đi
+- nhạc phẩm [sát nhân](dance_name) đi
+- nhạc phẩm [evolution](dance_name) đi
+- nhạc phẩm [taichi](dance_name) đi
+- nhạc phẩm [little apple](dance_name) đi
+- nhạc phẩm [hãy trao cho anh](dance_name) đi
+- mình thích bài [gangnam style](dance_name)
+- mình thích bài [macarena](dance_name)
+- mình thích bài [sát nhân](dance_name)
+- mình thích bài [evolution](dance_name)
+- mình thích bài [taichi](dance_name)
+- mình thích bài [little apple](dance_name)
+- mình thích bài [hãy trao cho anh](dance_name)
+- mình khá thích bài [gangnam style](dance_name)
+- mình khá thích bài [macarena](dance_name)
+- mình khá thích bài [sát nhân](dance_name)
+- mình khá thích bài [evolution](dance_name)
+- mình khá thích bài [taichi](dance_name)
+- mình khá thích bài [little apple](dance_name)
+- mình khá thích bài [hãy trao cho anh](dance_name)
+- mình sẽ nghe bài [gangnam style](dance_name)
+- mình sẽ nghe bài [macarena](dance_name)
+- mình sẽ nghe bài [sát nhân](dance_name)
+- mình sẽ nghe bài [evolution](dance_name)
+- mình sẽ nghe bài [taichi](dance_name)
+- mình sẽ nghe bài [little apple](dance_name)
+- mình sẽ nghe bài [hãy trao cho anh](dance_name)
+- mình nghe bài [gangnam style](dance_name)
+- mình nghe bài [macarena](dance_name)
+- mình nghe bài [sát nhân](dance_name)
+- mình nghe bài [evolution](dance_name)
+- mình nghe bài [taichi](dance_name)
+- mình nghe bài [little apple](dance_name)
+- mình nghe bài [hãy trao cho anh](dance_name)
+- mình nghiền bài [gangnam style](dance_name)
+- mình nghiền bài [macarena](dance_name)
+- mình nghiền bài [sát nhân](dance_name)
+- mình nghiền bài [evolution](dance_name)
+- mình nghiền bài [taichi](dance_name)
+- mình nghiền bài [little apple](dance_name)
+- mình nghiền bài [hãy trao cho anh](dance_name)
+- mình muốn bài [gangnam style](dance_name)
+- mình muốn bài [macarena](dance_name)
+- mình muốn bài [sát nhân](dance_name)
+- mình muốn bài [evolution](dance_name)
+- mình muốn bài [taichi](dance_name)
+- mình muốn bài [little apple](dance_name)
+- mình muốn bài [hãy trao cho anh](dance_name)
+- mình cần nghe bài [gangnam style](dance_name) nhé
+- mình cần nghe bài [macarena](dance_name) nhé
+- mình cần nghe bài [sát nhân](dance_name) nhé
+- mình cần nghe bài [evolution](dance_name) nhé
+- mình cần nghe bài [taichi](dance_name) nhé
+- mình cần nghe bài [little apple](dance_name) nhé
+- mình cần nghe bài [hãy trao cho anh](dance_name) nhé
+- mở cho mình bài [gangnam style](dance_name)
+- mở cho mình bài [macarena](dance_name)
+- mở cho mình bài [sát nhân](dance_name)
+- mở cho mình bài [evolution](dance_name)
+- mở cho mình bài [taichi](dance_name)
+- mở cho mình bài [little apple](dance_name)
+- mở cho mình bài [hãy trao cho anh](dance_name)
+- bài [gangnam style](dance_name) hay lắm đấy
+- bài [macarena](dance_name) hay lắm đấy
+- bài [sát nhân](dance_name) hay lắm đấy
+- bài [evolution](dance_name) hay lắm đấy
+- bài [taichi](dance_name) hay lắm đấy
+- bài [little apple](dance_name) hay lắm đấy
+- bài [hãy trao cho anh](dance_name) hay lắm đấy
+- [gangnam style](dance_name) là một bài rất hay
+- [macarena](dance_name) là một bài rất hay
+- [sát nhân](dance_name) là một bài rất hay
+- [evolution](dance_name) là một bài rất hay
+- [taichi](dance_name) là một bài rất hay
+- [little apple](dance_name) là một bài rất hay
+- [hãy trao cho anh](dance_name) là một bài rất hay
+- [gangnam style](dance_name) bạn mở cho tôi bài đó đi
+- [macarena](dance_name) bạn mở cho tôi bài đó đi
+- [sát nhân](dance_name) bạn mở cho tôi bài đó đi
+- [evolution](dance_name) bạn mở cho tôi bài đó đi
+- [taichi](dance_name) bạn mở cho tôi bài đó đi
+- [little apple](dance_name) bạn mở cho tôi bài đó đi
+- [hãy trao cho anh](dance_name) bạn mở cho tôi bài đó đi
+- tôi rất muốn nghe bài [gangnam style](dance_name)
+- tôi rất muốn nghe bài [macarena](dance_name)
+- tôi rất muốn nghe bài [sát nhân](dance_name)
+- tôi rất muốn nghe bài [evolution](dance_name)
+- tôi rất muốn nghe bài [taichi](dance_name)
+- tôi rất muốn nghe bài [little apple](dance_name)
+- tôi rất muốn nghe bài [hãy trao cho anh](dance_name)
+- ca khúc [gangnam style](dance_name) ok đấy
+- ca khúc [macarena](dance_name) ok đấy
+- ca khúc [sát nhân](dance_name) ok đấy
+- ca khúc [evolution](dance_name) ok đấy
+- ca khúc [taichi](dance_name) ok đấy
+- ca khúc [little apple](dance_name) ok đấy
+- ca khúc [hãy trao cho anh](dance_name) ok đấy
+- bài nhạc [gangnam style](dance_name)
+- bài nhạc [macarena](dance_name)
+- bài nhạc [sát nhân](dance_name)
+- bài nhạc [evolution](dance_name)
+- bài nhạc [taichi](dance_name)
+- bài nhạc [little apple](dance_name)
+- bài nhạc [hãy trao cho anh](dance_name)
+- chơi bài [gangnam style](dance_name) đi
+- chơi bài [macarena](dance_name) đi
+- chơi bài [sát nhân](dance_name) đi
+- chơi bài [evolution](dance_name) đi
+- chơi bài [taichi](dance_name) đi
+- chơi bài [little apple](dance_name) đi
+- chơi bài [hãy trao cho anh](dance_name) đi
+- quất bài [gangnam style](dance_name) nhé
+- quất bài [macarena](dance_name) nhé
+- quất bài [sát nhân](dance_name) nhé
+- quất bài [evolution](dance_name) nhé
+- quất bài [taichi](dance_name) nhé
+- quất bài [little apple](dance_name) nhé
+- quất bài [hãy trao cho anh](dance_name) nhé
+- hay là bài [gangnam style](dance_name) cũng được đấy
+- hay là bài [macarena](dance_name) cũng được đấy
+- hay là bài [sát nhân](dance_name) cũng được đấy
+- hay là bài [evolution](dance_name) cũng được đấy
+- hay là bài [taichi](dance_name) cũng được đấy
+- hay là bài [little apple](dance_name) cũng được đấy
+- hay là bài [hãy trao cho anh](dance_name) cũng được đấy
+- không thể không biết bài [gangnam style](dance_name) được
+- không thể không biết bài [macarena](dance_name) được
+- không thể không biết bài [sát nhân](dance_name) được
+- không thể không biết bài [evolution](dance_name) được
+- không thể không biết bài [taichi](dance_name) được
+- không thể không biết bài [little apple](dance_name) được
+- không thể không biết bài [hãy trao cho anh](dance_name) được
+- nhạc phẩm được mang tên [gangnam style](dance_name)
+- nhạc phẩm được mang tên [macarena](dance_name)
+- nhạc phẩm được mang tên [sát nhân](dance_name)
+- nhạc phẩm được mang tên [evolution](dance_name)
+- nhạc phẩm được mang tên [taichi](dance_name)
+- nhạc phẩm được mang tên [little apple](dance_name)
+- nhạc phẩm được mang tên [hãy trao cho anh](dance_name)
+- ca khúc được mang tên [gangnam style](dance_name)
+- ca khúc được mang tên [macarena](dance_name)
+- ca khúc được mang tên [sát nhân](dance_name)
+- ca khúc được mang tên [evolution](dance_name)
+- ca khúc được mang tên [taichi](dance_name)
+- ca khúc được mang tên [little apple](dance_name)
+- ca khúc được mang tên [hãy trao cho anh](dance_name)
+- tựa đề bài hát có tên [gangnam style](dance_name) đó
+- tựa đề bài hát có tên [macarena](dance_name) đó
+- tựa đề bài hát có tên [sát nhân](dance_name) đó
+- tựa đề bài hát có tên [evolution](dance_name) đó
+- tựa đề bài hát có tên [taichi](dance_name) đó
+- tựa đề bài hát có tên [little apple](dance_name) đó
+- tựa đề bài hát có tên [hãy trao cho anh](dance_name) đó
+- tiêu đề bài hát là [gangnam style](dance_name)
+- tiêu đề bài hát là [macarena](dance_name)
+- tiêu đề bài hát là [sát nhân](dance_name)
+- tiêu đề bài hát là [evolution](dance_name)
+- tiêu đề bài hát là [taichi](dance_name)
+- tiêu đề bài hát là [little apple](dance_name)
+- tiêu đề bài hát là [hãy trao cho anh](dance_name)
+- tên bài hát là [gangnam style](dance_name) nhé
+- tên bài hát là [macarena](dance_name) nhé
+- tên bài hát là [sát nhân](dance_name) nhé
+- tên bài hát là [evolution](dance_name) nhé
+- tên bài hát là [taichi](dance_name) nhé
+- tên bài hát là [little apple](dance_name) nhé
+- tên bài hát là [hãy trao cho anh](dance_name) nhé
+- bài [gangnam style](dance_name) nghe rất vui nha
+- bài [macarena](dance_name) nghe rất vui nha
+- bài [sát nhân](dance_name) nghe rất vui nha
+- bài [evolution](dance_name) nghe rất vui nha
+- bài [taichi](dance_name) nghe rất vui nha
+- bài [little apple](dance_name) nghe rất vui nha
+- bài [hãy trao cho anh](dance_name) nghe rất vui nha
+- nghe bài [gangnam style](dance_name) cho sướng
+- nghe bài [macarena](dance_name) cho sướng
+- nghe bài [sát nhân](dance_name) cho sướng
+- nghe bài [evolution](dance_name) cho sướng
+- nghe bài [taichi](dance_name) cho sướng
+- nghe bài [little apple](dance_name) cho sướng
+- nghe bài [hãy trao cho anh](dance_name) cho sướng
+- nghe bài [gangnam style](dance_name) cho mình thư giãn cái
+- nghe bài [macarena](dance_name) cho mình thư giãn cái
+- nghe bài [sát nhân](dance_name) cho mình thư giãn cái
+- nghe bài [evolution](dance_name) cho mình thư giãn cái
+- nghe bài [taichi](dance_name) cho mình thư giãn cái
+- nghe bài [little apple](dance_name) cho mình thư giãn cái
+- nghe bài [hãy trao cho anh](dance_name) cho mình thư giãn cái
+- [gangnam style](dance_name)
+- [macarena](dance_name)
+- [sát nhân](dance_name)
+- [evolution](dance_name)
+- [taichi](dance_name)
+- [little apple](dance_name)
+- [hãy trao cho anh](dance_name)
+- [macarena](dance_name)
+- [sát nhân](dance_name)
+- [evolution](dance_name)
+- [taichi](dance_name)
+- [little apple](dance_name)
+- [hãy trao cho anh](dance_name)
+- bài [gangnam style](dance_name)
+- bài [macarena](dance_name)
+- bài [sát nhân](dance_name)
+- bài [evolution](dance_name)
+- bài [taichi](dance_name)
+- bài [little apple](dance_name)
+- bài [hãy trao cho anh](dance_name)
+
+## intent:inform_name
+- tên tôi là [hòa](first_name)
+- tên tôi là [lê](last_name) [hòa](first_name)
+- họ tên tôi là [lê](last_name) [hòa](first_name)
+- tôi họ [lê](last_name), tên là [hòa](first_name)
+- gọi tôi là [hòa](first_name)
+- tên họ của tôi là [lê](last_name) [hòa](first_name)
+- [hòa](first_name) là tên của tôi
+- [lê](last_name) [hòa](first_name) là tên của tôi
+- hãy gọi tôi là [hòa](first_name)
+- gọi là [hòa](first_name) đi
+- cứ gọi là [hòa](first_name) là được
+- tên là [hòa](first_name)
+- tôi là [hòa](first_name)
+- tên đầy đủ của tôi là [lê](last_name) [hòa](first_name)
+
+- my name is [shinichi](first_name)
+- my name is [kudo](last_name) [shinichi](first_name)
+- i am [shinichi](first_name)
+- call me [shinichi](first_name)
+- everybody call me [shinichi](first_name)
+- i'm [shinichi](first_name)
+- my name's [shinichi](first_name)
+- my full name is [kudo](last_name) [shinichi](first_name)
+- my first name is [kudo](last_name) [shinichi](first_name)
+
+## intent:inform_age
+- năm nay tôi [20](age)
+- tôi vừa tròn [21](age)
+- tôi năm nay [22](age)
+- tôi [23](age) tuổi
+- [24](age) tuổi
+- tôi được [25](age) tuổi rồi
+- tôi năm nay vừa tròn [26](age) tuổi
+- 30 ngày nữa là tôi tròn [27](age)
+- sang năm là tôi [28](age) rồi
+- đến tết là tôi được [29](age)
+- tính theo âm lịch là tôi được [30](age)
+- tôi sinh năm [1995](year_of_birth)
+- sinh năm [1996](year_of_birth)
+- [1997](year_of_birth) là năm sinh của tôi
+- [1998](year_of_birth) là năm tôi sinh
+- năm sinh của tôi là [1999](year_of_birth)
+- tôi sinh ra năm [2000](year_of_birth)
+- năm sinh theo chứng minh là [1985](year_of_birth)
+
+- i'm [31](age)
+- i am [32](age) year olds
+- my age is [33](age)
+- [34](age) is my age
+- i was living [35](age) year
+- i was born at [1989](year_of_birth)
+- my year of birth is [1988](year_of_birth)
+- [1987](year_of_birth) is my year of birth
+- [1986](year_of_birth) is the year i was born
+
+## intent:inform_gender
+- tôi giới tính [nam](gender)
+- tôi giới tính [chàng trai](gender)
+- tôi giới tính [đàn ông](gender)
+- tôi giới tính [đực](gender)
+- tôi giới tính [ông già](gender)
+- tôi giới tính [ông lão](gender)
+- tôi giới tính [ông chú](gender)
+- tôi giới tính [ông](gender)
+- tôi giới tính [quý ông](gender)
+- tôi giới tính [nữ](gender)
+- tôi giới tính [cô gái](gender)
+- tôi giới tính [đàn bà](gender)
+- tôi giới tính [cái](gender)
+- tôi giới tính [bà già](gender)
+- tôi giới tính [bà lão](gender)
+- tôi giới tính [bà cô](gender)
+- tôi giới tính [bà](gender)
+- tôi giới tính [quý cô](gender)
+- tôi giới tính [quý bà](gender)
+- tôi là [nữ](gender)
+- tôi là [cô gái](gender)
+- tôi là [đàn bà](gender)
+- tôi là [cái](gender)
+- tôi là [bà già](gender)
+- tôi là [bà lão](gender)
+- tôi là [bà cô](gender)
+- tôi là [bà](gender)
+- tôi là [quý cô](gender)
+- tôi là [quý bà](gender)
+- tôi là [nam](gender)
+- tôi là [chàng trai](gender)
+- tôi là [đàn ông](gender)
+- tôi là [đực](gender)
+- tôi là [ông già](gender)
+- tôi là [ông lão](gender)
+- tôi là [ông chú](gender)
+- tôi là [ông](gender)
+- tôi là [quý ông](gender)
+- giới tính của tôi là [nam](gender)
+- giới tính của tôi là [chàng trai](gender)
+- giới tính của tôi là [đàn ông](gender)
+- giới tính của tôi là [đực](gender)
+- giới tính của tôi là [ông già](gender)
+- giới tính của tôi là [ông lão](gender)
+- giới tính của tôi là [ông chú](gender)
+- giới tính của tôi là [ông](gender)
+- giới tính của tôi là [quý ông](gender)
+- giới tính của tôi là [nữ](gender)
+- giới tính của tôi là [cô gái](gender)
+- giới tính của tôi là [đàn bà](gender)
+- giới tính của tôi là [cái](gender)
+- giới tính của tôi là [bà già](gender)
+- giới tính của tôi là [bà lão](gender)
+- giới tính của tôi là [bà cô](gender)
+- giới tính của tôi là [bà](gender)
+- giới tính của tôi là [quý cô](gender)
+- giới tính của tôi là [quý bà](gender)
+- giới tính là [nữ](gender)
+- giới tính là [cô gái](gender)
+- giới tính là [đàn bà](gender)
+- giới tính là [cái](gender)
+- giới tính là [bà già](gender)
+- giới tính là [bà lão](gender)
+- giới tính là [bà cô](gender)
+- giới tính là [bà](gender)
+- giới tính là [quý cô](gender)
+- giới tính là [quý bà](gender)
+- giới tính là [nam](gender)
+- giới tính là [chàng trai](gender)
+- giới tính là [đàn ông](gender)
+- giới tính là [đực](gender)
+- giới tính là [ông già](gender)
+- giới tính là [ông lão](gender)
+- giới tính là [ông chú](gender)
+- giới tính là [ông](gender)
+- giới tính là [quý ông](gender)
+- tôi là một [nam](gender)
+- tôi là một [chàng trai](gender)
+- tôi là một [đàn ông](gender)
+- tôi là một [đực](gender)
+- tôi là một [ông già](gender)
+- tôi là một [ông lão](gender)
+- tôi là một [ông chú](gender)
+- tôi là một [ông](gender)
+- tôi là một [quý ông](gender)
+- tôi là một [nữ](gender)
+- tôi là một [cô gái](gender)
+- tôi là một [đàn bà](gender)
+- tôi là một [cái](gender)
+- tôi là một [bà già](gender)
+- tôi là một [bà lão](gender)
+- tôi là một [bà cô](gender)
+- tôi là một [bà](gender)
+- tôi là một [quý cô](gender)
+- tôi là một [quý bà](gender)
+- ý lộn mình là [nam](gender)
+- ý lộn mình là [chàng trai](gender)
+- ý lộn mình là [đàn ông](gender)
+- ý lộn mình là [đực](gender)
+- ý lộn mình là [ông già](gender)
+- ý lộn mình là [ông lão](gender)
+- ý lộn mình là [ông chú](gender)
+- ý lộn mình là [ông](gender)
+- ý lộn mình là [quý ông](gender)
+- ý lộn mình là [nữ](gender)
+- ý lộn mình là [cô gái](gender)
+- ý lộn mình là [đàn bà](gender)
+- ý lộn mình là [cái](gender)
+- ý lộn mình là [bà già](gender)
+- ý lộn mình là [bà lão](gender)
+- ý lộn mình là [bà cô](gender)
+- ý lộn mình là [bà](gender)
+- ý lộn mình là [quý cô](gender)
+- ý lộn mình là [quý bà](gender)
+
+- i am [male](gender)
+- i am [man](gender)
+- i am [boy](gender)
+- i am [gentleman](gender)
+- i am [female](gender)
+- i am [woman](gender)
+- i am [girl](gender)
+- i am [lady](gender)
+- i am just a [male](gender)
+- i am just a [man](gender)
+- i am just a [boy](gender)
+- i am just a [gentleman](gender)
+- i am just a [female](gender)
+- i am just a [woman](gender)
+- i am just a [girl](gender)
+- i am just a [lady](gender)
+- my gender is [male](gender)
+- my gender is [man](gender)
+- my gender is [boy](gender)
+- my gender is [gentleman](gender)
+- my gender is [female](gender)
+- my gender is [woman](gender)
+- my gender is [girl](gender)
+- my gender is [lady](gender)
+- [male](gender) is my gender
+- [man](gender) is my gender
+- [boy](gender) is my gender
+- [gentleman](gender) is my gender
+- [female](gender) is my gender
+- [woman](gender) is my gender
+- [girl](gender) is my gender
+- [lady](gender) is my gender
+- you should call me [male](gender)
+- you should call me [man](gender)
+- you should call me [boy](gender)
+- you should call me [gentleman](gender)
+- you should call me [female](gender)
+- you should call me [woman](gender)
+- you should call me [girl](gender)
+- you should call me [lady](gender)
+
+## synonym:nam
+- chàng trai
+- đàn ông
+- đực
+- ông già
+- ông lão
+- ông chú
+- ông
+- quý ông
+
+## synonym:nữ
+- cô gái
+- đàn bà
+- cái
+- bà già
+- bà lão
+- bà cô
+- bà
+- quý cô
+- quý bà
+
+## synonym:male
+- man
+- boy
+- gentleman
+
+## synonym:female
+- woman
+- girl
+- lady
+
+## intent:ask_direction
+- làm ơn chỉ đường tôi tới [nhà vệ sinh](place)
+- tôi không biết [sảnh tiếp tân](place) ở đâu hết
+- bạn có thể chỉ đường tôi tới [cầu thang lầu 3](place) được không
+- tôi cần đến [wc](place) ngay bây giờ
+- [phòng khách](place) ở đâu vậy
+- [quầy bán đồ ăn](place) có ở gần đây không
+- có cây [atm](place) nào gần đây không
+- đi tới [thang máy](place) đi hướng nào vậy
+- đường nhanh nhất đi tới [cổng chính](place)
+- có [lối thoát hiểm](place) nào gần đây không, chỉ đường giúp tôi với
+- làm sao để đi lên [sân thượng](place)
+- tôi muốn đi xuống [tầng hầm](place), làm thế nào đây
+
+- please show me the way to [toilet](place)
+- i don't know where is the [reception hall](place)
+- could you show me the direction to [stairway](place)
+- i need to go to [wc](place) right now
+- where is the [living room](place)
+- is there any [food stand](place) nearby here
+- could you show me [atm](place) around here
+- how to go to [elevator](place)
+- the fast way to go to [main door](place)
+- is there any [exits](place) around here, please show me the direction
+- how i can go to [rooftop](place)
+- i want to go down [underground](place), how?
+
+## intent:ask_rest
+- ngồi xuống đi
+- ngồi xuống
+- nghỉ ngơi đi
+- bạn nghỉ ngơi đi
+- bạn ngồi xuống nghỉ ngơi đi
+- bạn ngồi xuống nghỉ đi
+- ngồi xuống nghỉ một tí đi
+- ngồi xuống nào
+
+- please rest
+- rest
+- sit down
+- please sit down
+
+## intent:ask_wakeup
+- đứng dậy đi nào
+- đứng lên đi
+- mời bạn đứng lên
+- đứng lên dùm cái
+- đứng lên đi nào
+- thức dậy đi
+- bạn hãy đứng dậy đi
+- đứng dậy đi mà
+
+- wake up
+- wakeup
+- standup
+- stand up
+
+## intent:ask_stop
+- dừng lại ngay đi
+- dừng lại đi mà
+- đừng làm nữa
+- dừng lại ngay đi
+- dừng ngay cho mình
+- bạn đừng làm nữa
+- dừng lại
+
+- please stop
+- stop
+- do not do that
+- no please stop

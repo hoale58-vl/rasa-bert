@@ -1,0 +1,209 @@
+## intent:departure_time
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [muncher freiheit](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) rời khỏi [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [s-bahn](Xe) rời đi tại [garashing](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) bắt đầu từ [garging](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [garging](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời đi trong [garging forschungszentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) bắt đầu lúc [gặt](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [Ostbahnhof](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [munchner freiheit](StationStart)?
+- [next](Tiêu chí) [xe lửa](Xe) từ [garashing](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) từ [garging forschungszentrum](StationStart)
+- [next](Tiêu chí) [xe buýt](Xe) trong [garging](StationStart)
+- khi nào [tàu](Xe) rời đi trong [garging forschungszentrum](StationStart)
+- [next](Tiêu chí) [tàu điện ngầm](Xe) từ [garging forschungszentrum](StationStart)
+- cho tôi biết [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart)
+- [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart), xin vui lòng.
+- [next](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart)
+- [next](Tiêu chí) [xe buýt](Xe) từ [trạm trung tâm](StationStart)
+- [next](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart).
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [gác](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) khởi hành tại [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) khởi hành tại [garashing](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) khởi hành tại [garging](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe cộ) trong [gặt hái](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging forschungzentrum](StationStart)
+- [next](Tiêu chí) [xe lửa](Xe) từ [muenchen freicheit](StationStart)
+- khởi hành trong [garging](StationStart), tôi giả sử
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) khởi hành tại [garashing](StationStart)?
+- [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging forschungzentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [alte heide](StationStart)?
+- hoặc khởi hành từ [garging](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [u6](Dòng) rời khỏi [garging forschungszentrum](StationStart)
+- khi nào [tàu](Xe) từ [garging](StationStart)
+- [tiếp theo](Tiêu chí) [xe lửa](Phương tiện) từ [münchner freiheit](StationStart) là gì
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [garging](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [hauptbahnhof](StationStart)?
+- khi [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [garging, forschungszentrum](StationStart) đang rời đi?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [quiddestraße](StationStart)?
+- khi [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [garging forschungszentrum](StationStart) đang rời đi?
+- khi nào [u6](Line) tiếp theo rời khỏi [garashing](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [garging forschungszentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [u6](Dòng)?
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) rời khỏi [gác](StationStart)?
+- khi [tiếp theo](Tiêu chí) [xe lửa](Phương tiện) trong [gác] [StationStart) đang rời đi?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời đi trong [gặt hái](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [odeonsplatz](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) rời khỏi [quiddestraße](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe)
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [garging forschungszentrum](StationStart)?
+- khi nào [tàu](Xe) tiếp theo rời đi?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời đi trong [garging](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [s-bahn](Xe) rời khỏi [hauptbahnhof](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) khởi hành từ [odeonsplatz](StationStart)?
+- cho tôi xem [tiếp theo](Tiêu chí) [xe buýt](Xe cộ) từ [gặt hái](StationStart)!
+- khi nào [tiếp theo](Tiêu chí) [tram](Xe) bắt đầu từ [hauptbahnhof](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [u-bahn](Xe) sẽ khởi hành từ [garging forschungszentrum](StationStart)?
+- cho tôi xem [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [michaelibad](StationStart).
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) bắt đầu tại [sendlinger tor](StationStart)?
+- hey bot, khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) bắt đầu lúc [gặt](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [garging](StationStart)?
+- khi nào [xe buýt](Xe) từ [quiddestraße](StationStart)?
+- khi nào tôi có thể nhận [xe buýt](Xe) tại [mariahilfplatz](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [romanplatz](StationStart)?
+- khi nào [xe buýt](Xe) đến [röbledweg](StationStart) bắt đầu?
+- [tiếp theo](Tiêu chí) [xe buýt](Xe) từ [quiddestraße](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) rời khỏi [garging](StationStart)?
+- khi nào [tàu](Xe) rời đi trong [garging](StationStart)
+- khi nào [tàu](Xe) rời đi trong [gặt](StationStart)?
+- khi nào adrians [tiếp theo](Tiêu chí) [tàu điện ngầm](Xe) rời đi tại [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) từ [gác](StationStart)
+- khi đến [tiếp theo](Tiêu chí) [xe lửa](Xe)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [nordfriedhof](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) đến [garging forschungszentrum](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) từ [gác](StationStart)
+- khi nào [tiếp theo](Tiêu chí) [tên lửa](Xe) rời khỏi [garging forschungszentrum](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [nordfriedhof](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe lửa](Xe) trong [münchner freiheit](StationStart)?
+- khi nào [tiếp theo](Tiêu chí) [xe buýt](Xe) trong [garging forschungszentrum](StationStart)
+
+## intent:find_connection
+- tôi muốn đi [marienplatz] (StationDest)
+- từ [olympia einkaufszentrum] (StationStart) đến [hauptbahnhof] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Phương tiện) từ [winterstraße 12] (StationStart) đến [kieferngarten] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [tên lửa] (Xe) từ [winterstraße 12] (StationStart) đến [kieferngarte] (StationDest)
+- bạn có thể tìm thấy một kết nối từ [garging] (StationStart) đến [hauptbahnhof] (StationDest) không?
+- cách chuyển từ [untere strassäcker 21] (StationStart) sang [fröttmaning] (StationDest)
+- làm thế nào tôi có thể đi từ [marienplatz] (StationStart) đến [garging] (StationDest)
+- kết nối từ [boltzmannstraße] (StationStart) đến [kieferngarten] (StationDest)
+- làm thế nào để chuyển từ [bonner platz] (StationStart) sang [freimann] (StationDest)?
+- làm thế nào để tôi nhận được từ [oez] (StationStart) đến [hbf] (StationDest)?
+- cách đi từ [winterstr 12] (StationStart) đến [fröttmaning] (StationDest)
+- làm thế nào để tôi có được từ [garging forschungszentrum] (StationStart) đến [pasing] (StationDest)
+- [Theresienstraße] (StationStart) đến [assling] (StationDest)
+- làm thế nào tôi có thể đi từ [Theresienstraße] (StationStart) đến [munich East] (StationDest)?
+- từ [quiddestraße] (StationStart) đến [garging] (StationDest)?
+- bạn có thể tìm thấy một kết nối từ [kurt-eisner-straße] (StationStart) đến [garging forschungszentrum] (StationDest) không?
+- bạn có thể tìm thấy một kết nối từ [quiddestraße] (StationStart) đến [garging forschungszentrum] (StationDest) không?
+- từ [hauptbahnhof] (StationStart) đến [garging] (StationDest)?
+- làm thế nào tôi có thể đến [glockenbachviertel] (StationDest) từ [garging forschungszentrum] (StationStart)?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [nordfriedhof] (StationDest)
+- làm thế nào tôi có thể đến [glockenbachviertel] (StationDest) từ [garging forschungszentrum] (StationStart)?
+- làm thế nào tôi có thể nhận được từ [moosach] (StationStart) đến [quiddestraße] (StationDest)?
+- làm cách nào tôi có thể đi từ [moosach] (StationStart) đến [poccistraße] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [kurt-eisner-straße] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [moosach] (StationStart) đến [quiddestraße] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [moosach] (StationStart) đến [odeonsplatz] (StationDest)?
+- cách [ngắn nhất] (Tiêu chí) từ [quiddestraße] (StationStart) đến [odeonsplatz] (StationDest) là gì?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [neuperlach bị kiện] (StationDest)
+- làm thế nào tôi có thể đi từ [marienplatz] (StationStart) đến [garging] (StationDest)?
+- làm thế nào để tôi nhận được từ [poccistraße] (StationStart) đến [laim] (StationDest)
+- tôi muốn đi [garging] (StationDest) từ [marienplatz] (StationStart)
+- làm thế nào tôi có thể đi từ [marienplatz] (StationStart) đến [garging] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)
+- [prinzregentenplatz] (StationStart) đến [rotkreuzplatz] (StationDest)
+- tôi muốn đi đến [garging] (StationDest) từ [marienplatz] (StationStart)
+- từ [prinzregentenplatz] (StationStart) đến [rotkreuzplatz] (StationDest)
+- từ [garging] (StationStart) đến [klinikum] (StationDest)
+- từ [garging foschungszentrum] (StationStart) đến [odeonsplatz] (StationDest)
+- từ [garging] (StationStart) đến [marienplatz] (StationDest)
+- kết nối từ [garashing] (StationStart) đến [hauptbahnhof] (StationDest)?
+- tìm kết nối từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)
+- làm thế nào để đi từ [münchner freiheit] (StationStart) đến [garging] (StationDest)?
+- [implerstraße] (StationStart) đến [Ostbahnhof] (StationDest)
+- làm cách nào tôi có thể đi từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể đi từ [garging forschungszentrum] (StationStart) đến [prinzregentenplatz] (StationDest)
+- làm cách nào tôi có thể nhận được từ [mangfallplatz] (StationStart) đến [garging] (StationDest)
+- làm thế nào tôi có thể đến [hohenlindenerstraße] (StationDest)
+- [harthaus] (StationStart) thành [hackerbrücke] (StationDest)
+- làm thế nào tôi có thể nhận được từ [feldmoching] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- từ [marienplatz] (StationStart) đến [petershausen] (StationDest)
+- khi nào [tàu] (Xe) từ [garging] (StationStart) đến [marienplatz] (StationDest)
+- [neufahrn] (StationStart) thành [garging] (StationDest)
+- làm cách nào tôi có thể nhận được từ [mangfallplatz] (StationStart) đến [garging] (StationDest)
+- làm thế nào tôi có thể đến [hohenlindenerstr] (StationDest)
+- làm thế nào để tôi đi từ [spitzingplatz] (StationStart) đến [poccistraße] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [marienplatz] (StationDest)
+- làm cách nào tôi có thể nhận được từ [klinkum] (StationStart) đến [marienplatz] (StationDest)?
+- cách lấy từ [alte heide] (StationStart) đến [marienplatz] (StationDest)
+- xin chào bot thành phố munich! làm thế nào để tôi nhận được từ [münchner freiheit] (StationStart) đến [scheidplatz] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [prinzregentenplatz] (StationDest)
+- làm cách nào tôi có thể nhận được từ [neufahrn] (StationStart) đến [garging] (StationDest)
+- đưa tôi đến [sân bay] (StationDest)
+- làm thế nào tôi có thể nhận được từ [munchner freiheit] (StationStart) đến [nordfriedhof] (StationDest)?
+- từ [harthaus] (StationStart) đến [hackerbrücke] (StationDest)
+- làm thế nào tôi có thể nhận được từ [Theresienstr] (StationStart) đến [garging forschungszentrum] (StationDest)
+- làm cách nào tôi có thể nhận được từ [münchner freiheit] (StationStart) đến [odeonsplatz] (StationDest)
+- từ [garging] (StationStart) đến [hauptbahnhof] (StationDest)
+- làm cách nào tôi có thể nhận được từ [garging] (StationStart) đến [odeonsplatz] (StationDest)
+- bắt đầu: [neufahrn] (StationStart) end: [garging] (StationDest)
+- làm cách nào tôi có thể nhận được từ [studentenstadt] (StationStart) đến [garging] (StationDest)
+- đưa tôi từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)
+- kết nối [ngắn nhất] (Tiêu chí) giữa [quiddestraße] (StationStart) và [odeonsplatz] (StationDest) là gì?
+- kết nối [rẻ nhất] (Tiêu chí) giữa [quiddestraße] (StationStart) và [hauptbahnhof] (StationDest) là gì?
+- cách [ngắn nhất] (Tiêu chí) giữa [hauptbahnhof] (StationStart) và [odeonsplatz] (StationDest) là gì?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [münchner freiheit] (StationDest) là [nhanh] (Tiêu chí) càng tốt?
+- cách [rẻ nhất] (Tiêu chí) từ [neuperlach süd] (StationStart) đến [lehel] (StationDest) là gì?
+- làm cách nào tôi có thể nhận được từ [neuperlach zentrum] (StationStart) đến [karlsplatz] (StationDest) dưới dạng [nhanh] (Tiêu chí) càng tốt?
+- bạn có thể cho tôi kết nối [nhanh nhất] (Tiêu chí) giữa [brudermühlstraße] (StationStart) và [alte heide] (StationDest) không?
+- có một chuyến tàu từ [neuperlach zentrum] (StationStart) đến [garging] (StationDest) lúc [3 pm] (TimeStartTime)?
+- bạn có thể tìm thấy kết nối từ [olympiazentrum] (StationStart) đến [lehel] (StationDest) lúc [2 pm] (TimeStartTime) không?
+- tôi cần kết nối từ [harras] (StationStart) đến [karl-preis-platz] (StationDest) lúc [8 giờ sáng] (TimeStartTime).
+- cần có mặt tại [hauptbahnhof] (StationDest) lúc [1 giờ chiều] (TimeEndTime), bạn có thể tìm kiếm một kết nối từ [garging forschungszentrum] (StationStart) không?
+- tôi cần ở [garging] (StationDest) tại [9] (TimeEndTime)
+- tôi có thể đi [xe buýt] (Xe) từ [quiddestraße] (StationStart) đến [hauptbahnhof] (StationDest) không?
+- bạn có thể tìm đường [ngắn nhất] (Tiêu chí) từ [moosfeld] (StationStart) đến [milbertshofen] (StationDest) không?
+- làm cách nào tôi có thể đến [neuperlach süd] (StationDest) từ [garging forschungszentrum] (StationStart)?
+- bạn có thể tìm thấy [xe buýt] (Xe) từ [quiddestraße] (StationStart) đến [lehel] (StationDest) không?
+- có [xe điện] (Xe) từ [karlsplatz] (StationStart) đến [lehel] (StationDest) không?
+- có [xe buýt] (Xe) từ [garging] (StationStart) đến [moosach] (StationDest) vào khoảng [5] (TimeStartTime) không?
+- có [xe buýt] (Xe) từ [odeonsplatz] (StationStart) đến [hauptbahnhof] (StationDest) lúc [3 giờ chiều] (TimeStartTime)?
+- bạn có thể cho tôi biết cách [rẻ nhất] (Tiêu chí) từ [garging forschungszentrum] (StationStart) đến [quiddestraße] (StationDest) không?
+- làm thế nào tôi có thể đến [quiddestraße] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [hauptbahnhof] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [kurt-eisner-straße] (StationStart) đến [garging] (StationDest)?
+- kết nối [tiếp theo] (Tiêu chí) từ [garging forschungszentrum] (StationStart) đến [odeonsplatz] (StationDest) là gì?
+- làm thế nào tôi có thể nhận được từ [mossach] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging, forschungszentrum] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging forschungszentrum] (StationStart) đến [kurt-eisner-straße] (StationDest)?
+- làm thế nào tôi có thể đến [boltzmannstraße] (StationDest) từ [quiddestraße] (StationStart)?
+- làm cách nào tôi có thể nhận được từ [garging] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [olympiazentrum] (StationStart) đến [hauptbahnhof] (StationDest)?
+- làm thế nào tôi có thể đi từ [quiddestraße] (StationStart) đến [boltzmannstraße] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [moosach] (StationStart) đến [garging forschungszentrum] (StationDest)?
+- bạn có thể cho tôi một kết nối từ [garging] (StationStart) đến [odeonsplatz] (StationDest) không?
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe) từ [nordfriedhof] (StationStart) đến [garging forschungszentrum] (StationDest)
+- tôi muốn đi từ [garging] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào tôi có thể đến [sendlinger tor] (StationDest)?
+- làm thế nào để tôi đến [untere straussäcker] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) [garging] (StationDest) đến garging?
+- làm cách nào tôi có thể chuyển từ [garging] (StationStart) sang [sendlinger tor] (StationDest)?
+- làm thế nào tôi có thể nhận được từ [garchedto] (StationStart) [garging] (StationDest) đến garging?
+- làm thế nào để tôi nhận được từ [marienplatz] (StationStart) zu [garging] (StationDest)
+- làm cách nào tôi có thể đến [milbertshofen] (StationDest) từ [garging] (StationStart)?
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe cộ) đến [gặt hái] (StationDest)
+- làm thế nào tôi có thể nhận được từ [garging] (StationStart) đến [milbertshofen] (StationDest)?
+- kết nối từ [untere straßäcker 21] (StationStart) đến [kieferngarten] (StationDest)
+- cách chuyển từ [untere strassäcker 21] (StationStart) sang [frötmaning] (StationDest)
+- cách chuyển từ [untere strassaecker 21] (StationStart) sang [frötmaning] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe) từ [untere straßaecker 21] (StationStart) đến [kieferngarten] (StationDest)
+- khi nào [tiếp theo] (Tiêu chí) [xe lửa] (Xe) từ untere [straßaecker 21, garging] (StationStart) đến [kieferngarten] (StationDest)
+- từ [garging] (StationStart) đến [perlach] (StationDest)
+- làm thế nào để chuyển từ [garging] (StationStart) sang [perlach] (StationDest)?
+- cách truy cập từ [bonnerplatz] (StationStart) đến [freimann] (StationDest)
+- kết nối từ [hauptbahnhof] (StationStart) đến [odeonsplatz] (StationDest)?
+- làm thế nào để tôi nhận được từ [olympia einkaufszentrum] (StationStart) đến [hauptbahnhof] (StationDest)?
+- làm cách nào tôi có thể nhận được từ [garging] (StationStart) đến [marienplatz] (StationDest)
+- từ [garging] (StationStart) đến [studentenstadt] (StationDest)

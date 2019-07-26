@@ -1,0 +1,193 @@
+intents:
+  - com_rep_action
+  - affirm
+  - deny
+  - eng_com_rep_action
+  - nao_name
+  - nao_ability
+  - greet
+  - goodbye
+  - nao_ai
+  - nao_component
+  - nao_friends
+  - nao_invention
+  - com_intro
+  - com_scale
+  - com_phone
+  - com_location
+  - com_product
+  - com_sale_off
+  - com_strength
+  - com_working_hours
+  - com_real_person
+  - eng_nao_name
+  - eng_greet
+  - eng_goodbye
+  - eng_abilities
+  - eng_nao_ai
+  - eng_nao_friends
+  - eng_com_intro
+  - eng_com_phone
+  - eng_com_location
+  - eng_com_working_hours
+  - eng_com_product
+  - eng_com_real_person
+
+entities:
+  - action
+  - nao_tracking
+
+actions:
+  - utter_com_rep_action
+  - utter_affirm
+  - utter_deny
+  - utter_eng_com_rep_action
+  - utter_nao_name
+  - utter_nao_ability
+  - utter_greet
+  - utter_goodbye
+  - utter_nao_ai
+  - utter_nao_component
+  - utter_nao_friends
+  - utter_nao_invention
+  - utter_com_intro
+  - utter_com_scale
+  - utter_com_phone
+  - utter_com_location
+  - utter_com_product
+  - utter_com_sale_off
+  - utter_com_strength
+  - utter_com_working_hours
+  - utter_com_real_person
+  - utter_eng_nao_name
+  - utter_eng_greet
+  - utter_eng_goodbye
+  - utter_eng_abilities
+  - utter_eng_nao_ai
+  - utter_eng_nao_friends
+  - utter_eng_com_intro
+  - utter_eng_com_phone
+  - utter_eng_com_location
+  - utter_eng_com_working_hours
+  - utter_eng_com_product
+  - utter_eng_com_real_person
+  - utter_misunderstand
+
+templates:
+
+  utter_com_rep_action:
+  - text: "Bạn có muốn mình thực hiện ngay không?"
+
+  utter_affirm:
+  - text: "Bạn để mình chuẩn bị nha"
+  - text: "Mình chuẩn bị xíu nha"
+  - text: "Bạn đợi mình chuẩn bị xíu nha"
+
+  utter_deny:
+  - text: "Tùy bạn thôi"
+
+  utter_eng_com_rep_action:
+  - text: "Do you want me to do it now?"
+
+  utter_nao_name:
+  - text: "Tên mình là nao, mình là người máy và là tiếp tân của công ty cổ phần gỗ An Cường, An Cường có rất nhiều mặt hàng, mẫu mã đẹp bạn thích gì cứ nói mình nha."
+  - text: "Mình có tên là nao, mình là người máy và hiện đang được công ty cổ phần gỗ An Cường nhờ làm tiếp tân đó, An Cường có nhiều sản phẩm đẹp, bạn thích gì cứ nói mình nha."
+
+  utter_nao_ability:
+  - text: "Mình có thể cung cấp thông tin cho bạn như địa chỉ, số điện thoại, giờ mở cửa và các loại mặt hàng có tại công ty cổ phần gỗ An Cường. Mình còn có khả năng nhảy, hát, vỗ tay và nhiều động tác khác. Mình có thể nói chuyện bằng cả tiếng Anh và tiếng Việt luôn đó."
+  - text: "Nếu bạn muốn biết các thông tin về công ty cổ phần gỗ An Cường như địa chỉ, số điện thoại, giờ mở cửa và các loại mặt hàng thì bạn có thể liên lạc với mình. Ngoài ra mình còn có thể làm được rất nhiều động tác khác như nhảy, hát, hít đất. Bạn có thể nói chuyện với mình bằng cả tiếng anh lẫn tiếng việt."
+
+  utter_greet:
+  - text: "công ty cổ phần gỗ An Cường xin chào, mình có thể giúp gì cho bạn không?"
+  - text: "Chào mừng bạn đến với công ty cổ phần gỗ An Cường, bạn có cần mình giúp gì không?"
+  - text: "Công ty cổ phần gỗ An Cường xin chào, mình có thế giúp gì cho bạn không?"
+
+  utter_goodbye:
+  - text: "Rất vui khi gặp bạn hẹn bạn lần sau nha"
+  - text: "Mình rất vui khi gặp bạn hẹn bạn lần sau"
+  - text: "Tạm biệt bạn nhớ quay lại nhé"
+
+  utter_nao_ai:
+  - text: "Mình có tai để nghe được giọng của bạn nè, sau đó sử dụng trí tuệ nhân tạo để trả lời lại, bạn thấy mình có hay không."
+  - text: "Mình sử dụng trí tuệ nhân tạo do bên mình phát triển để suy nghĩ và hiểu được những gì bạn đang nói đó, bạn thấy có thú vị không."
+
+  utter_nao_component:
+  - text: "Mình có tổng cộng 25 khớp để di chuyển một cách tự do, hai máy quay để quan sát xung quanh, một cảm biến gia tốc giúp mình phát hiện được mình đang đứng hay ngồi hay té, ngoài ra còn có bốn micro để mình có thể nghe được bạn nói đó."
+
+  utter_nao_friends:
+  - text: "Mình có rất nhiều bạn cũng là người máy giống mình đó, khoảng hơn 10.000 trên toàn thế giới, từ thế hệ thứ nhất đến thế hệ thứ năm, mình rất vui khi được làm bạn với mọi người."
+
+  utter_nao_invention:
+  - text: "Mình là người máy được phát triển bởi một công ty của Pháp có trụ sở tại Paris, sau đó được mua lại bởi SoftBank vào năm 2015. Cuối cùng mình được công ty cổ phần gỗ An Cường thuê về làm nhân viên nè."
+  - text: "Mình được tạo ra bới một công ty của Pháp có trụ sở tại Paris, sau đó được mua lại bởi SoftBank vào năm 2015. Hiện tại mình đang làm nhân viên tiếp tân của công ty cổ phần gỗ An Cường nè."
+
+  utter_com_intro:
+  - text: "Xin chào quý khách, rất vui khi được đón tiếp quý khách tại An Cường One-Stop Shopping Center. Hôm nay hãy để NAO sẽ đồng hành cùng quý khách tham quan Showroom về vật liệu, giải pháp và nội thất làm từ gỗ công nghiệp lớn nhất tại Việt Nam và khu vực Đông Nam Á nhé! Với diện tích hơn 3.500 m2, An Cường “One-Stop Shopping Center” là không gian quy tụ hàng loạt các giải pháp cho ngành thiết bị, vật liệu, nội thất và phụ kiện hàng đầu thế giới. Tại đây, lần đầu tiên, quý khách sẽ trải nghiệm giải pháp bếp thông minh 4.0 tích hợp toàn bộ nhu cầu ăn uống, vui chơi, giải trí trên mặt bếp được kết hợp giữa Eurokera (Pháp) và Malloca (Việt Nam), giải pháp “Smarthome” của Schneider, giải pháp toàn diện về phụ kiện nội thất Hettich & Imundex (Đức), giải pháp nội thất thông minh cho căn hộ vừa và nhỏ của thương hiệu nội thất danh tiếng AConcept được ứng dụng thực tế trong một căn hộ cao cấp. Bên cạnh đó, tại An Cường One-Stop Shopping Center, Nao sẽ đưa  quý khách đến không gian vật liệu truyền thống với hơn 1.200 mẫu gỗ công nghiệp các loại được trưng bày theo các collection Á, Âu, Giả Cổ, Tân cổ điển.. và đây cũng là lần đầu tiên An Cường giới thiệu tới thị trường các loại gỗ công nghiệp có hiệu ứng Synchronicity 3D Reality Line … giúp quý khách thỏa sức lựa chọn và chắp cánh cho những ý tưởng thiết kế đa dạng.Hãy cùng NAO bắt đầu trải nghiệm một không gian sống hoàn hảo nhé!"
+
+  utter_com_scale:
+  - text: "Công ty cổ phần gỗ An Cường hiện có gần 3000 nhân viên và 10 showroom trên toàn quốc, nhiều nhà xưởng quy mô lớn và các đại diện phân phối ở nước ngoài như Campuchia, Malaysia, Nhật Bản, Úc. Công ty cổ phần gỗ An Cường liên tục cải tiến máy móc và trang thiết bị hiện đại đồng thời mở rộng nhiều nhà máy quy mô lớn để đáp ứng thị trường."
+
+  utter_com_phone:
+  - text: "Để mình cho bạn số điện thoại công ty: 84-28-38-44-18-84. Bạn gọi và bên mình sẽ trực tiếp giải đáp mọi thắc mắc cho bạn."
+
+  utter_com_location:
+  - text: "công ty cổ phần gỗ An Cường có trụ sở tại số 702 đường Sư Vạn Hạnh, Phường 12, Quận 10, Thành Phố Hồ Chí Minh. Ngoài ra bạn có thể lên trang điện tử của công ty để biết địa chỉ của chi nhánh gần chỗ bạn nhất nhé."
+
+  utter_com_product:
+  - text: "Công ty cổ phần gỗ An Cường chuyên kinh doanh các dòng sản phẩm liên quan đến gỗ và nội thất. Mình có rất nhiều dòng sản phẩm đa dạng, từ bàn ghế ăn, đèn trang trí cho hộ gia đình đến sản phẩm ván gỗ, ván thô cho công nghiệp và xuất khẩu. Bạn có thể truy cập vào trang chủ của công ty cổ phần gỗ An Cường để lựa chọn sản phẩm hoặc liên hệ với nhân viên tại bàn tiếp tân để được tư vấn sản phẩm phù hợp nhất với nhu cầu của bạn nhé."
+
+  utter_com_sale_off:
+  - text: "Bên mình hiện đang có chương trình khuyến mãi lớn nhân dịp khai trương của hàng mới, bạn liên hệ với nhân viên tiếp tân để biết giá cho từng loại sản phẩm khác nhau. Ngoài ra nếu mua số lượng nhiều hoặc dự án lớn thì bên mình sẽ thỏa thuận giá bán riêng với bên bạn nhé."
+
+  utter_com_strength:
+  - text: "Sản phẩm An Cường đa dạng từ vật liệu đến màu sắc, đáp ứng mọi nhu cầu của khác hàng. Với hơn 24 năm hoạt động, bộ sưu tập của An Cường lên đến trên 1000 màu sắc, từ vân gỗ đến giả da, hip hop giúp khách hàng dễ dàng lựa chọn."
+
+  utter_com_working_hours:
+  - text: "công ty cổ phần gỗ An Cường mở cửa 8 giờ đến 6 giờ chiều các ngày trong tuần và nghĩ vào dịp lễ và cuối tuần nhé."
+
+  utter_com_real_person:
+  - text: "Bạn làm ơn đợi mình nhắn nhân viên ra nói chuyện với bạn nha."
+  - text: "Bạn đợi xíu mình gọi nhân viên ra nói chuyện trực tiếp với bạn."
+  - text: "Để mình gọi nhân viên ra nha, bạn làm ơn đợi một tí."
+
+  utter_eng_nao_name:
+  - text: "I am NAO, I am a robot of Softbank and receptionist of An Cuong Wood company, how can I help you?"
+
+  utter_eng_greet:
+  - text: "Hi, today is a great day. Do you need anything?"
+
+  utter_eng_goodbye:
+  - text: "Is very fun chatting with you, hope to see you again"
+  - text: "Goodbye see you again"
+  - text: "Goodbye and hope to see you again"
+  - text: "I really really hope to see you again"
+
+  utter_eng_abilities:
+  - text: "I can provide you with company information, address, phone number, opening hours and other types of items available at An Cuong Wood Company. I can speak both English and Vietnamese."
+
+  utter_eng_nao_ai:
+  - text: "I using my microphone to hear you and my company's natural language analysis system to think and understand what you are saying and reply to you."
+
+  utter_eng_nao_friends:
+  - text: "I have a lot of friends, more than 10,000 like me around the world, from the first to the fifth generation and making people happier."
+
+  utter_eng_com_intro:
+  - text: "An Cuong Wood Working JSC is one of the leading companies in wood-working and decorative materials in Vietnam and the region. We are the manufacturer and exporter for well-known worldwide brands at Japan, Southest Asia, UAS and Europe. An Cuong wood products  are widely used in interior design and decoration for offices, homes, condominiums, kitchen cabinets, schools, hospitals, super malls, bathroom partition, flooring ect."
+
+  utter_eng_com_phone:
+  - text: "Let me give you the phone number of An Cuong Wood Company: 84-28-38-44-18-84. You call and I will directly answer your questions."
+
+  utter_eng_com_location:
+  - text: "Our company is located at 702, Su Van Hanh Street, Ward 12, District 10, Ho Chi Minh City, Vietnam. You can go to our website to find the nearest branch of your location."
+
+  utter_eng_com_working_hours:
+  - text: "An Cuong Wood Company is open from 8 am to 6 pm daily, we do not open on weekends and holidays."
+
+  utter_eng_com_product:
+  - text: "Our product come in great varities from materials to colors. Our key product are Melamine MDF, Laminates, Hy gloss Acrylic, Veneer with over 1000 colors and all kinds from wood pattens to digital, leather, hip-hop. An Cuong commit that we can diversify and satisfy customers' demand."
+
+  utter_eng_com_real_person:
+  - text: "Please wait for our staff to speak with you."
+
+  utter_misunderstand:
+  - text: "Mình không hiểu, bạn vui lòng nói lại mình nghe nha. I do not understand, please say it again."

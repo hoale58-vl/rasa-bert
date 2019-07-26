@@ -1,0 +1,14 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: en
+pipeline:
+# - name: WhitespaceTokenizer
+- name: "components.coccoc_tokenizer.CoccocTokenizer"
+- name: "components.bert_nlu.BertNLU"
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+  - name: MemoizationPolicy
+  - name: KerasPolicy
+  - name: MappingPolicy

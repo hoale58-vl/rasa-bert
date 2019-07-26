@@ -1,0 +1,14 @@
+<pad> : 0
+<unk> : 1
+phone_number : 2
+parient : 3
+rate : 4
+place : 5
+info : 6
+emotion : 7
+src : 8
+patient : 9
+part : 10
+dest : 11
+symptom : 12
+O : 13

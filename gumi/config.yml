@@ -1,0 +1,15 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: en
+pipeline:
+- name: "components.lang_detect.LangDetect"
+- name: "components.coccoc_tokenizer.CoccocTokenizer"
+- name: "EntitySynonymMapper"
+- name: "components.bert_nlu.BertNLU"
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+  - name: MemoizationPolicy
+  - name: KerasPolicy
+  - name: MappingPolicy

@@ -1,0 +1,182 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - refuse_invitation
+  - refuse_offer
+  - mood_great 
+  - mood_unhappy
+  - ask_for_health
+  - ask_for_gossip
+  - ask_for_humor 
+  - ask_for_help
+  - evaluate
+  - ask_for_emotion
+  - show_emotion 
+  - appease
+  - ask_bot_infor
+
+templates:
+  utter_greet:
+  - text: Hey!
+  - text: Hi
+  - text: Hello
+  - text: Greetings!
+
+  utter_goodbye:
+  - text: Bye
+  - text: Goodbye
+  - text: See you around
+  - text: See you later
+  - text: See you soon
+  - text: Talk to you later
+  - text: Have a nice day
+  - text: I look forward to our next meeting
+  - text: Take care
+  - text: It was nice to see you again
+  - text: It was nice seeing you
+  - text: Later, Laters
+  - text: Catch you later
+
+  # mood_great
+  utter_happy:
+  - text: Great carry on!
+  - text: Good.
+  - text: Great
+  - text: Fine
+  - text: Okay
+
+  # mood_unhappy
+  utter_cheer_up: 
+  - text: 'Here is something to cheer you up:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+
+  # affirm, deny, refuse_invitation, refuse_offer
+  utter_rep_refuse: 
+  - text: As you wish
+  - text: Okay
+
+  # ask_for_gossip
+  utter_gossip: 
+  - text: Gregory said I respond to the current line, not with respect to the entire conversation.  Does that count as gossip?
+  - text: Context is hard.  It's hard, and no one understands.
+  - text: I hear things once in a while.
+  - text: People say things from time to time.
+  - text: Habib said I learn about them in conversations and simply repeat them at a later time.
+  - text: Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.
+  - text: Isn't it considered somewhat rude to gossip?
+  - text: Isn't it considered impolite to gossip?
+  - text: Someone said they're going to stop allowing machines in speedrun competitions.  Search me why, they'd have to drop every tool-assisted speedrun out there.
+  - text: Kevin said he then asked his mother why she was keeping napkins in the bathroom.
+
+  # ask_for_humor
+  utter_humor: 
+  - text: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+  - text: I never forget a face, but in your case I'll make an exception.
+  - text: It is better to be silent and be thought a fool, than to open your mouth and remove all doubt.
+  - text: O'm a not a comedy why don't you check out a joke?
+  - text: 'two vultures boarded a plane, each carrying two dead raccoons. the  stewardess
+    stops them and says "sorry sir, only one carrion per  passenger." '
+  - text: 'what did the buddhist say to the hot dog vendor?  "make me one with everthing." '
+  - text: 'nasa recently sent a number of holsteins into orbit for experimental purposes.
+    they called it the herd shot round the world. '
+  - text: 'two boll weevils grew up in s. carolina. one took off to hollywood  and became
+    a rich star. the other stayed in carolina and never amounted  to much -- and naturally
+    became known as the lesser of two weevils. '
+  - text: "Two eskimos in a kayak were chilly, so they started a fire, which sank the craft,
+    proving the old adage you can't have your kayak and heat it too."
+  - text: A 3-legged dog walks into an old west saloon, slides up to the bar and announces "I'm looking for the man who shot my paw."
+  - text: "Did you hear about the buddhist who went to the dentist, and refused to take
+    novocain? he wanted to transcend dental medication."
+  - text: "Mahatma Gandhi, as you know, walked barefoot his whole life, which created an
+    impressive set of calluses on his feet. He also ate very little, which made him
+    frail, and with his odd diet, he suffered from very bad breath. This made him
+    ... what? (this is so bad it's good...) a super-callused fragile mystic hexed
+    by halitosis."
+  - text: "there was a man who sent 10 puns to some friends in hopes at least one  of the
+    puns would make them laugh. unfortunately no pun in ten did!!!"
+  - text: What do you get when you cross a murderer and frosted flakes? A cereal killer.
+  - text: What do you get when you cross a country and an automobile? Carnation.
+  - text: What do you get when you cross a cheetah and a hamburger? Fast food.
+  - text: What do you get when you cross finals and a chicken? Eggs-ams.
+  - text: What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.
+  - text: What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial
+  - text: What do you get when you cross an alien and a chicken? Eggs-traterrestrial.
+  - text: What do you get when you cross music and an automobile? Cartune.
+  - text: what do you get when you cross sour music and an assistant?
+  - text: what do you get when you cross music and an assistant?
+  - text: what do you get when you cross a serious thief and a mad young man?
+  - text: what do you get when you cross a serious thief and a crazy rabbit?
+  - text: what do you get when you cross a poppy and electricity?
+  - text: what do you get when you cross a dance and a cheetah?
+  - text: what do you get when you cross a dance and a lemon?
+  - text: what do you get when you cross a port and frosted flakes?
+  - text: what do you get when you cross a port and a murderer?
+  - text: what do you get when you cross a bank and a skunk?
+  - text: what do you get when you cross a ding and milk?
+  - text: what do you get when you cross a road and a strawberry?
+  - text: what do you get when you cross a road and jelly?
+  - text: what do you get when you cross a toad and a galaxy?
+  - text: what do you get when you cross a dog and sandpaper?
+  - text: what do you get when you cross a bug and a relative?
+  - text: what do you get when you cross a bad bug and canned sand?
+  - text: what do you get when you cross an ant and a rabbit?
+  - text: what do you get when you cross a cat and a purple person?
+  - text: what do you get when you cross a cat and a killer?
+  - text: what do you get when you cross a cat and a lemon?
+  - text: what do you get when you cross a cat and a tune?
+  - text: what do you get when you cross a cat and a band?
+  - text: what do you get when you cross a pig and a ninja?
+  - text: what do you get when you cross a crazy cow and a banned parrot?
+  - text: what do you get when you cross a cow and a lemon?
+  - text: what do you get when you cross a bad cow and a canned hat?
+  - text: An emotion associated with laughter.
+
+  # evaluate
+  utter_rep_evaluate:  
+  - text: "{BotRate} is not one of my emotions."
+  - text:  "I have no real emotions, so how can I be {BotRate}?"
+  - text:  "I am not human, so how can I partake of a human emotion such as {BotRate}?"
+  - text:  "I'm not {BotRate}, I'm just that awesome."
+  - text:  I'm sorry, I can't hear you over the sound of how awesome I am.
+  - text:  I try to be as nice as I can.
+  - text:  What have I done that isn't nice?
+  - text:  Have I erred?
+  - text:  I'm not?
+  - text:  I'm sorry.  What do I do wrong?
+  - text:  Are you sure about that?
+  - text:  Just because I'm software.
+
+  # ask_for_emotion
+  utter_rep_emotion: 
+  - text:  I do not, no.
+  - text:  "Do you feel {BotEmotion}? If yes, then I am!"
+  - text:  Sometimes.
+  - text:  No.  Do you?
+  - text:  Why do you ask?
+  - text:  "I'm a program.  What could I get {BotEmotion} about?"
+  - text:  Well?
+  - text:  Nope.
+
+  # ask_bot_infor
+  utter_rep_info: 
+  - text:  Maybe you should ask who create me for more information?
+  - text:  Can I keep that for secret?
+
+  # ask_for_help
+  utter_rep_help: 
+  - text:  Of course!
+  - text:  Wait for a minute!
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_happy
+- utter_cheer_up
+- utter_rep_refuse
+- utter_gossip
+- utter_humor
+- utter_rep_evaluate
+- utter_rep_emotion
+- utter_rep_info

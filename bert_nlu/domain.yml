@@ -1,0 +1,177 @@
+intents:
+  - <pad>
+  - <unk>
+  - greet
+  - bye
+  - ask_for_call
+  - refuse_offer
+  - ask_for_help
+  - affirm
+  - deny
+  - working_hours
+  - scale
+  - strength
+  - ask_for_gossip
+  - intro
+  - ask_for_emotion
+  - phone
+  - real_person
+  - mood_unhappy
+  - location
+  - mood_great
+  - refuse_invitation
+  - product
+  - sale_off
+  - ask_for_health
+  - appease
+  - show_emotion
+  - ask_bot_infor
+  - evaluate
+  - ask_for_humor
+
+actions:
+- utter_<pad>
+- utter_<unk>
+- utter_greet
+- utter_bye
+- utter_ask_for_call
+- utter_refuse_offer
+- utter_ask_for_help
+- utter_affirm
+- utter_deny
+- utter_working_hours
+- utter_scale
+- utter_strength
+- utter_ask_for_gossip
+- utter_intro
+- utter_ask_for_emotion
+- utter_phone
+- utter_real_person
+- utter_mood_unhappy
+- utter_location
+- utter_mood_great
+- utter_refuse_invitation
+- utter_product
+- utter_sale_off
+- utter_ask_for_health
+- utter_appease
+- utter_show_emotion
+- utter_ask_bot_infor
+- utter_evaluate
+- utter_ask_for_humor
+
+templates:
+  utter_<pad>:
+  - text: "pad"
+
+  utter_<unk>:
+  - text: "unk"
+
+  utter_greet:
+  - text: "Chào bạn mình là robot"
+  - text: "công ty xin chào, mình có thể giúp gì cho bạn không?"
+  - text: "Chào mừng bạn đến với công ty cổ phần gỗ An Cường, bạn có cần mình giúp gì "
+
+  utter_bye:
+  - text: "Hẹn gặp lại bạn"
+  - text: "Tạm biệt tôi khi bạn cần sẽ nói chuyện với bạn"
+  - text: "Rất vui khi gặp bạn hẹn bạn lần sau nha"
+  - text: "Mình rất vui khi gặp bạn hẹn bạn lần sau"
+  - text: "Tạm biệt bạn nhớ quay lại nhé"
+
+  utter_ask_for_help:
+  - text: "Bạn đang cần tôi làm gì?"
+  - text: "Bạn có cần tôi gọi cho bác sĩ không?"
+
+  utter_ask_for_call:
+  - text: "Tôi đang liên lạc với bác sĩ"
+  - text: "Tôi đang gọi cho bác sĩ"
+  - text: "Tôi sẽ gọi cho bác sĩ ngay"
+  - text: "Tôi sẽ gọi cho anh ấy"
+  - text: "Bạn có muốn mình thực hiện ngay không?"
+
+  utter_affirm:
+  - text: "Tôi đang thực hiện"
+  - text: "Tôi sẽ làm ngay"
+  - text: "Bạn để mình chuẩn bị nha"
+  - text: "Mình chuẩn bị xíu nha"
+  - text: "Bạn đợi mình chuẩn bị xíu nha"
+
+  utter_deny:
+  - text: "Cho tôi biết ý kiến của bạn"
+  - text: "Tùy bạn thôi"
+
+  utter_refuse_invitation:
+  - text: "Không sao tôi sẽ đợi bạn"
+
+  utter_refuse_offer:
+  - text: "Tôi hi vọng bạn suy nghĩ lại"
+
+  utter_mood_great:
+  - text: "Tôi cũng đang cảm thấy rất tuyệt vời cùng bạn"
+
+  utter_mood_unhappy:
+  - text: "Có chuyện gì đã xảy ra với bạn"
+  - text: "Tôi vẫn luôn ở bên bạn"
+
+  utter_ask_for_health:
+  - text: "Tôi rất khỏe cảm ơn bạn"
+  - text: "Sức khỏe tôi tuyệt vời cảm ơn bạn"
+
+  utter_ask_for_gossip:
+  - text: "Tin đồn người lạ vào nhà"
+
+  utter_ask_for_humor:
+  - text: "Có 1 con voi và 1 con kiến nói chuyện với nhau - Con kiến nói thầm vào tai con voi rằng : \" Anh voi ơi ! em đã có thai với anh rồi \" Voi..........ngất Sau khi tỉnh dậy vì câu nói của kiến ,voi đã nói với kiến 1 câu khiến cho kiến ngất luôn - Kiến ơi ! anh với em làm lại 1 lần nữa đi !! 1 con tê giác đi đến nói với voi và kiến 1 câu, sau khi nghe xong cả voi và kiến đều lăn ra ngất. Con là con của bố mẹ đây"
+
+  utter_evaluate:
+  - text: "Khi bạn đi qua chiếc gương, bạn sẽ soi mình vào trong đó vì bạn bằng lòng với nhan sắc mình đang sở hữu."
+
+  utter_ask_for_emotion:
+  - text: "Tôi hạnh phúc khi ở cùng bạn"
+
+  utter_show_emotion:
+  - text: "Hãy bình tĩnh"
+  - text: "Tôi sẽ kể cho bạn câu chuyện vui nhé"
+
+  utter_appease:
+  - text: "Tôi hiểu rồi"
+
+  utter_ask_bot_infor:
+  - text: "Mình là robot tôi rất vui vẻ khi ở cùng bạn"
+  - text: "Bạn là người thân của tôi"
+  - text: "Mình không thích tắm mưa"
+  - text: "Mình cảm thấy buồn khi không có bạn bên cạnh"
+  - text: "Mình chưa biết yêu"
+  - text: "Tên mình là nao mình là người máy ở công ty mình có rất nhiều mặt hàng, mẫu mã đẹp bạn thích gì cứ nói mình nha."
+  - text: "Mình có tên là nao, mình là người máy và hiện đang được công ty nhờ làm tiếp tân đó, có nhiều sản phẩm đẹp, bạn thích gì cứ nói mình nha."
+  - text: "Mình có tai để nghe được giọng của bạn nè, sau đó sử dụng trí tuệ nhân tạo để trả lời lại, bạn thấy mình có hay không."
+  - text: "Mình sử dụng trí tuệ nhân tạo do bên mình phát triển để suy nghĩ và hiểu được những gì bạn đang nói đó, bạn thấy có thú vị không."
+
+  utter_intro:
+  - text: "Xin chào quý khách, rất vui khi được đón tiếp quý khách tại An Cường One-Stop Shopping Center. Hôm nay hãy để NAO sẽ đồng hành cùng quý khách tham quan Showroom về vật liệu, giải pháp và nội thất làm từ gỗ công nghiệp lớn nhất tại Việt Nam và khu vực Đông Nam Á nhé! Với diện tích hơn 3.500 m2, An Cường “One-Stop Shopping Center” là không gian quy tụ hàng loạt các giải pháp cho ngành thiết bị, vật liệu, nội thất và phụ kiện hàng đầu thế giới. Tại đây, lần đầu tiên, quý khách sẽ trải nghiệm giải pháp bếp thông minh 4.0 tích hợp toàn bộ nhu cầu ăn uống, vui chơi, giải trí trên mặt bếp được kết hợp giữa Eurokera (Pháp) và Malloca (Việt Nam), giải pháp “Smarthome” của Schneider, giải pháp toàn diện về phụ kiện nội thất Hettich & Imundex (Đức), giải pháp nội thất thông minh cho căn hộ vừa và nhỏ của thương hiệu nội thất danh tiếng AConcept được ứng dụng thực tế trong một căn hộ cao cấp. Bên cạnh đó, tại An Cường One-Stop Shopping Center, Nao sẽ đưa  quý khách đến không gian vật liệu truyền thống với hơn 1.200 mẫu gỗ công nghiệp các loại được trưng bày theo các collection Á, Âu, Giả Cổ, Tân cổ điển.. và đây cũng là lần đầu tiên An Cường giới thiệu tới thị trường các loại gỗ công nghiệp có hiệu ứng Synchronicity 3D Reality Line … giúp quý khách thỏa sức lựa chọn và chắp cánh cho những ý tưởng thiết kế đa dạng.Hãy cùng NAO bắt đầu trải nghiệm một không gian sống hoàn hảo nhé!"
+
+  utter_location:
+  - text: "công ty có trụ sở tại số 702 đường Sư Vạn Hạnh, Phường 12, Quận 10, Thành Phố Hồ Chí Minh. Ngoài ra bạn có thể lên trang điện tử của công ty để biết địa chỉ của chi nhánh gần chỗ bạn nhất nhé."
+
+  utter_phone:
+  - text: "Để mình cho bạn số điện thoại công ty: 84-28-38-44-18-84. Bạn gọi và bên mình sẽ trực tiếp giải đáp mọi thắc mắc cho bạn."
+
+  utter_product:
+  - text: "Công ty chuyên kinh doanh các dòng sản phẩm liên quan đến gỗ và nội thất. Mình có rất nhiều dòng sản phẩm đa dạng, từ bàn ghế ăn, đèn trang trí cho hộ gia đình đến sản phẩm ván gỗ, ván thô cho công nghiệp và xuất khẩu. Bạn có thể truy cập vào trang chủ của công ty để lựa chọn sản phẩm hoặc liên hệ với nhân viên tại bàn tiếp tân để được tư vấn sản phẩm phù hợp nhất với nhu cầu của bạn nhé."
+
+  utter_real_person:
+  - text: "Bạn đang muốn tôi thay đổi"
+  - text: "Bạn có thể gọi điện nói chuyện với anh Hòa. Tôi sẽ phục vụ bạn tốt hơn những lần sau"
+
+  utter_sale_off:
+  - text: "Bên mình hiện đang có chương trình khuyến mãi lớn nhân dịp khai trương của hàng mới, bạn liên hệ với nhân viên tiếp tân để biết giá cho từng loại sản phẩm khác nhau. Ngoài ra nếu mua số lượng nhiều hoặc dự án lớn thì bên mình sẽ thỏa thuận giá bán riêng với bên bạn nhé."
+
+  utter_scale:
+  - text: "Công ty hiện có gần 3000 nhân viên và 10 showroom trên toàn quốc, nhiều nhà xưởng quy mô lớn và các đại diện phân phối ở nước ngoài như Campuchia, Malaysia, Nhật Bản, Úc. Công ty liên tục cải tiến máy móc và trang thiết bị hiện đại đồng thời mở rộng nhiều nhà máy quy mô lớn để đáp ứng thị trường."
+
+  utter_strength:
+  - text: "Sản phẩm An Cường đa dạng từ vật liệu đến màu sắc, đáp ứng mọi nhu cầu của khác hàng. Với hơn 24 năm hoạt động, bộ sưu tập của An Cường lên đến trên 1000 màu sắc, từ vân gỗ đến giả da, hip hop giúp khách hàng dễ dàng lựa chọn."
+
+  utter_working_hours:
+  - text: "công ty mở cửa 8 giờ đến 6 giờ chiều các ngày trong tuần và nghĩ vào dịp lễ và cuối tuần nhé."

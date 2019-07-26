@@ -1,0 +1,161 @@
+## intent:make_update
+- Upgrading from [11.10](UbuntuVersion) to [12.04](UbuntuVersion)
+- How do I upgrade to the release version of [16.04](UbuntuVersion) if I am running Beta?
+- Doubts regarding the [15.04](UbuntuVersion) upgrade (is it inevitable and unavoidable?)
+- Is any offline upgrade from [13.10](UbuntuVersion) to [14.04](UbuntuVersion) possible?
+- Upgrading from ubuntu [12.04](UbuntuVersion) to [13.10](UbuntuVersion)
+- Ubuntu upgrade failed
+- Upgrading from [12.04](UbuntuVersion) to [13.10](UbuntuVersion) ( Unanswered questions )
+- upgrading to Ubuntu [13.10](UbuntuVersion) from Ubuntu [13.04](UbuntuVersion)
+- Force upgrade [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- How to partially upgrade Ubuntu [11.10](UbuntuVersion) from Ubuntu [11.04](UbuntuVersion)?
+- Problem upgrading [Ubuntu 9.10](UbuntuVersion)
+- Is it necessary to upgrade to [15.10](UbuntuVersion) from [14.04](UbuntuVersion)?
+- How do I update [Xubuntu 11.10](UbuntuVersion) to [Xubuntu 12.04 LTS?](UbuntuVersion)
+- Why did the upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) ruin my system?
+- Problems upgrading from [12.04](UbuntuVersion) to [14.04](UbuntuVersion)
+- Problems upgrading Ubuntu [12.10](UbuntuVersion) to [13.04](UbuntuVersion)
+- Upgrade from [12.04](UbuntuVersion) to [12.10](UbuntuVersion) without losing files?
+- Do I need to uninstall [10.04](UbuntuVersion) to upgrade to [12.04](UbuntuVersion)?
+- Do I need to reinstall everything to upgrade from [13.10](UbuntuVersion) to [14.10](UbuntuVersion)?
+- update-manager: upgrade to [15.04](UbuntuVersion) rather than [16.04](UbuntuVersion)
+- Upgrading [16.04](UbuntuVersion) to [16.04.1](UbuntuVersion)
+- Upgrading Ubuntu Server [9.10](UbuntuVersion) to [10.04](UbuntuVersion)
+- Ho do I update to [13.04](UbuntuVersion) from the beta?
+- How to upgrade from [12.10](UbuntuVersion) to [14.04](UbuntuVersion)
+- Upgrading from [10.10](UbuntuVersion) to [11.04](UbuntuVersion) how much space is needed?
+- Do I need to backup my [12.04](UbuntuVersion) system to upgrade to [12.04.1](UbuntuVersion)?
+- Cannot upgrade from [12.04LTS](UbuntuVersion) to [14.04](UbuntuVersion)
+- Upgrade [10.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- How to upgrade from [14.04 LTS](UbuntuVersion) or [15.10](UbuntuVersion) to [16.04](UbuntuVersion) from terminal
+- How to upgrade from [16.04 LTS](UbuntuVersion) to [16.04.1 LTS](UbuntuVersion)
+- Upgrading from [10.04](UbuntuVersion) to [11.10](UbuntuVersion)
+- How can i upgrade to Ubuntu [14.04](UbuntuVersion) final from [14.04 Beta](UbuntuVersion) correctly?
+- Is there an upgrade procedure from [12.04 LTS](UbuntuVersion) to [14.04 LTS](UbuntuVersion)
+- Upgrade from [9.10](UbuntuVersion) to [11.04](UbuntuVersion)
+- How to upgrade Ubuntu [12.04](UbuntuVersion) to [14.04](UbuntuVersion) if I have dual boot with windows 7?
+- Using [12.04](UbuntuVersion) can I compile packages with gcc for [10.04](UbuntuVersion)?
+- Upgrading From [11.04 (32bit)](UbuntuVersion) to [12.04 (64bit)](UbuntuVersion)
+- Is it worth upgrading from [12.04 LTS](UbuntuVersion) to [13.04](UbuntuVersion)
+- Upgrade to [12.04 64 bit](UbuntuVersion)
+- How to upgrade Ubuntu [14.04.1](UbuntuVersion) to [14.04.2](UbuntuVersion)?
+- Upgrading from Ubuntu [14.04](UbuntuVersion) to [15.04](UbuntuVersion)
+- how to upgrade from ubuntu [15.04](UbuntuVersion) to [15.10](UbuntuVersion)?
+- Upgrade [12.04](UbuntuVersion) to [12.10](UbuntuVersion) using startup disk
+- How to Upgrade from [11.10](UbuntuVersion) to [12.04](UbuntuVersion) when you've got a problem?
+- Update [11.04](UbuntuVersion) to [12.04](UbuntuVersion) with LiveCD
+- How to upgrade Ubuntu [9.10](UbuntuVersion) to [12.10](UbuntuVersion) via terminal?
+- How to upgrade from Ubuntu [10.10](UbuntuVersion) to [11.04](UbuntuVersion)?
+
+## intent:setup_printer
+- How to install a [Lexmark z600](Printer) series printer?
+- Cannot setup [HP All in one DJ3630](Printer)
+- How to add a network printer on Ubuntu [15.10](UbuntuVersion)?
+- Cannot install printer driver [epson l210](Printer)
+- How do I install [Dell 2150cdn](Printer) printer
+- Installing [Epson XP-424](Printer) wireless printer
+- Installing [EPSON L355](Printer) on Ubuntu [14.04](UbuntuVersion)
+- How do I install the [HP F4280](Printer) printer?
+- How to Install [Brother DCP-8110DN](Printer) Laser Printer on Ubuntu?
+- How to Install a [Canon MF8040Cn](Printer) Printer on Ubuntu [12.04](UbuntuVersion)
+- How Do I Install [Canon MF8000C](Printer) Printer in Ubuntu [15.10](UbuntuVersion)?
+- How to install [Canon LBP330](Printer) in [Lts 16.04](UbuntuVersion)
+- Install printer [Lexmark X4690](Printer) (ubuntu [12.04](UbuntuVersion))
+- No matter what I do Ubuntu [15.04](UbuntuVersion) does not recognize [HP LaserJet 1020](Printer)
+- How to setup HP printer/scanner on ubuntu?
+- How do I setup my [HP C4140](Printer) printer wirelessly?
+- How to setup wireless printing from a printer connected via usb on Ubuntu Server [12.10](UbuntuVersion)?
+- How can I install a [Pantum 2502W](Printer) laser printer on Ubuntu
+- Install [Canon MP560](Printer) Ubuntu [15.04](UbuntuVersion)
+- How to install a [Brother MFC-5890CN](Printer) network printer?
+- How do I install drivers for a [Konica Minolta 200](Printer)?
+- How do I install drivers for the [Panasonic MB1900CX](Printer) All-in-One Printer/Scanner?
+- How To Install [Canon LBP2900B](Printer) printer in [14.04 LTS](UbuntuVersion) ? I tried the method for LBP2900 but it didnt work
+
+## intent:shutdown_computer
+- Keyboard shortcut to shutdown?
+- My system doesn't go shutdown
+- How to troubleshoot slow shutdown?
+- How can I shutdown the computer when a certain process ends?
+- Ubuntu Shut down app
+- What does my computer do when I click 'Shut Down'?
+- How do I shut down without the confirmation prompt?
+- No action when shutdown pressed
+- what is the right way to shutdown ubuntu using the command line?
+- How can I make shutdown not require admin password?
+- shutdown in specific way if no-one uses computer
+- What is the command to open the shutdown dialog?
+- How to Shut down Ubuntu by using keyboard?
+- shutdown 5:30pm every day
+- shut down without extra question
+- How to shutdown computer when users are logged on?
+- What is the proper terminal-way to shutdown?
+- How can I automatically shutdown the system after a specific time?
+- Hotkey to shut down from login screen?
+- How to shutdown the computer after Xsession ends?
+- How can one shutdown a PC using the keyboard?
+- How can I enable shutdown verbosity?
+- Are there any Keyboard Shortcuts to Shutdown?
+- Shutdown after a certain time
+- Shutdown problem in [Ubuntu 16.04](UbuntuVersion)
+- How do I fix a shutdown problem?
+- What graphical utility can I use for Ubuntu auto shutdown?
+
+## intent:software_recommendation
+- What software can I use to view epub documents?
+- Which PDF Viewer would you recommend?
+- What IDEs are available for Ubuntu?
+- What's the best Mind Mapping Software?
+- Software to read a QR code?
+- PDF to word conversion software?
+- Is there software that can view .dwg files?
+- What are some good PHP editors?
+- Is there a software utility to adjust screen gamma/brightness/contrast?
+- Please recommend a hex editor for shell
+- Is there LAN topology mapping software available in Ubuntu?
+- Is there a tool like wifi analyzer for ubuntu?
+- Tool for recovering deleted data from a flash drive
+- What's a simple "colour picker" app for GNOME?
+- Any app that tells me to take regular breaks from working?
+- What are some good ASCII art generators?
+- What are some good GUI binary viewers/editors?
+- Which is the best PDF metadata viewer for Ubuntu?
+- Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+- Which application do you recommend for watching TV (DVB)?
+- What Is The Best HDR Software?
+- What do you use to edit Microsoft [Word](SoftwareName) documents (docx)?
+- What's the best Wireframing tool?
+- Is there any software that will do face recognition in photos?
+- Applications to replace [iTunes](SoftwareName) for iPod synchronization?
+- Is there an SSH connection manager?
+- A light alternative to gnome-system-monitor?
+- Software to create a video slideshow?
+- Is there a project management software for Ubuntu like Microsoft [Project](SoftwareName)?
+- Is there any recovery software available for ext4?
+- What blog editor software are available?
+- Can you recommend a good modern GUI download manager (wget wrapper?)
+- Is there any program for fuzzy string matching which provides a match score?
+- Are there any hardware diagnostic tools?
+- Recommendation for Regex editor?
+- Is it recommended to upgrade to [Lubuntu 15.04](UbuntuVersion)?
+- On really old Ubuntu [6.06](UbuntuVersion) - How to upgrade
+- Wubi Device /dev/loop0 full. How to get more space?
+- Removing Recently used items in [12.04](UbuntuVersion)
+- In [Unity](SoftwareName) how do I see the details of a given launcher?
+- Any command line calculator for Ubuntu?
+- Extracting embedded images from a PDF
+- What to use to quickly cut Audio/Video
+- [MySQL](SoftwareName) GUI Tools
+- What developer text editors are available for Ubuntu?
+- What screenshot tools are available?
+- Which programs can I use to edit PDF files?
+- Is there a lightweight tool to crop images quickly?
+- What [IRC](SoftwareName) clients are available?
+- What new games are available for Ubuntu in 2011?
+- UPNP / DLNA (client) player recommendations?
+- What scientific plotting software is available?
+- Can you recommend a password generator?
+- What tools do you use to monitor a web server?
+- What is a good [MongoDB](SoftwareName) GUI client?
+- Password Management Applications?
+- Is there an application for reading mobi files?

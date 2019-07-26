@@ -1,0 +1,15 @@
+rate
+year_of_birth
+song_name
+action
+position
+first_name
+gender
+emotion
+dance_name
+info
+place
+last_name
+dest
+age
+O

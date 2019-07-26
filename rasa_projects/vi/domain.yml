@@ -1,0 +1,180 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - refuse_invitation
+  - refuse_offer
+  - mood_great 
+  - mood_unhappy
+  - ask_for_health
+  - ask_for_gossip
+  - ask_for_humor 
+  - ask_for_help
+  - evaluate
+  - ask_for_emotion
+  - show_emotion 
+  - appease
+  - ask_bot_infor
+
+templates:
+  utter_greet:
+  - text: Hey!
+  - text: Hi
+  - text: Hello
+  - text: Xin chào!
+
+  utter_goodbye:
+  - text: Tạm biệt
+  - text: Tạm biệt
+  - text: Hẹn gặp bạn
+  - text: Hẹn gặp lại
+  - text: Nói chuyện với bạn sau
+  - text: Chúc một ngày tốt lành
+  - text: Tôi mong đợi cuộc họp tiếp theo của chúng tôi
+  - text: Cẩn thận
+  - text: Rất vui được gặp lại bạn
+  - text: Rất vui được gặp bạn
+  - text: Sau này, Laters
+  - text: Gặp bạn sau
+
+  # mood_great
+  utter_happy:
+  - text: Tuyệt vời thực hiện!
+  - text: Tốt.
+  - text: Tuyệt vời
+  - text: Được rồi
+
+  # mood_unhappy
+  utter_cheer_up: 
+  - text: 'Đây là một cái gì đó để cổ vũ bạn:'
+    image: https://i.imgur.com/nGF1K8f.jpg
+
+  # affirm, deny, refuse_invitation, refuse_offer
+  utter_rep_refuse: 
+  - text: Như bạn muốn
+  - text: Được rồi
+
+  # ask_for_gossip
+  utter_gossip: 
+  - text: Gregory nói tôi trả lời dòng hiện tại, không liên quan đến toàn bộ cuộc trò chuyện. Điều đó có được tính là tin đồn không?
+  - text: Bối cảnh là khó khăn. Thật khó, và không ai hiểu.
+  - text: Tôi thỉnh thoảng nghe thấy mọi thứ.
+  - text: Mọi người nói những điều theo thời gian.
+  - text: Habib nói tôi tìm hiểu về họ trong các cuộc trò chuyện và chỉ cần lặp lại chúng sau.
+  - text: Tin đồn là khi chúng sinh nói về những sinh vật hoặc tình huống khác thông qua các kênh trở lại, thường bị từ chối. Nó thường ít hơn một chút so với tin đồn, bởi vì thường không có bằng chứng về bất kỳ cáo buộc nào được đưa ra.
+  - text: Không phải nó được coi là hơi thô lỗ đối với tin đồn sao?
+  - text: Không phải nó bị coi là bất lịch sự sao?
+  - text: Ai đó nói rằng họ sẽ ngừng cho phép máy móc trong các cuộc thi tốc độ. Tìm kiếm tôi tại sao, họ sẽ phải bỏ mọi tốc độ được hỗ trợ bởi công cụ ra khỏi đó.
+  - text: Kevin nói sau đó anh ta hỏi mẹ tại sao mẹ lại giữ khăn ăn trong phòng tắm.
+
+  # ask_for_humor
+  utter_humor: 
+  - text: Bạn có nghe ai nói về những con dê núi ở andes không? Đó là "ba a a a a a d".
+  - text: Tôi không bao giờ quên một khuôn mặt, nhưng trong trường hợp của bạn, tôi sẽ tạo ra một ngoại lệ.
+  - text: Thà im lặng và bị cho là kẻ ngốc, hơn là mở miệng và xóa bỏ mọi nghi ngờ.
+  - text: O'm không phải là một bộ phim hài tại sao bạn không xem một trò đùa?
+  - text: 'hai con kền kền lên máy bay, mỗi con mang hai con gấu trúc chết. tiếp viên
+    ngăn họ lại và nói "xin lỗi ngài, chỉ một carrion cho mỗi hành khách." '
+  - text: 'vị phật nói gì với người bán xúc xích? "làm cho tôi một với tất cả mọi thứ." '
+  - text: 'nasa gần đây đã gửi một số holstein vào quỹ đạo cho mục đích thử nghiệm.
+    họ gọi đó là đàn bắn khắp thế giới. '
+  - text: 'hai con bọ cánh cứng lớn lên trong s. carolina. một người cất cánh đến hollywood và trở thành
+    một ngôi sao giàu có. người kia ở lại carolina và không bao giờ lên tới nhiều - và tự nhiên
+    được biết đến như là ít hơn của hai mọt. '
+  - text: "Hai eskimos trong một chiếc thuyền kayak bị lạnh, vì vậy họ đã bắt đầu một đám cháy, làm chìm tàu ​​thủ công,
+    chứng minh câu ngạn ngữ cũ bạn không thể có thuyền kayak của bạn và làm nóng nó. "
+  - text: Một con chó 3 chân bước vào một quán rượu tây cũ, trượt lên quầy bar và thông báo "Tôi đang tìm người đàn ông đã bắn vào chân tôi".
+  - text: "Bạn có nghe nói về vị phật đã đi đến nha sĩ, và từ chối thực hiện
+    tiểu thuyết? ông muốn vượt qua thuốc nha khoa. "
+  - text: "Mahatma Gandhi, như bạn biết, đã đi chân trần cả đời, điều này đã tạo ra một
+    bộ vết chai ấn tượng trên đôi chân của mình. Anh ấy cũng ăn rất ít, khiến anh ấy
+    yếu đuối, và với chế độ ăn kiêng kỳ quặc của mình, anh bị chứng hôi miệng rất nặng. Điều này làm cho anh ta
+    ... gì? (điều này thật tệ, thật tốt ...) một bí ẩn siêu mỏng manh được gọi là siêu lục giác
+    do chứng hôi miệng. "
+  - text: "có một người đàn ông đã gửi 10 lần chơi chữ cho một số người bạn với hy vọng ít nhất một trong số
+    chơi chữ sẽ làm cho họ cười tiếc là không chơi chữ trong mười. "
+  - text: Bạn nhận được gì khi vượt qua một kẻ giết người và mảnh băng giá? Một kẻ giết người ngũ cốc.
+  - text: Bạn nhận được gì khi đi qua một quốc gia và ô tô? Hoa cẩm chướng.
+  - text: Bạn nhận được gì khi vượt qua một con báo và một chiếc bánh hamburger? Thức ăn nhanh.
+  - text: Bạn nhận được gì khi vượt qua trận chung kết và một con gà? Trứng-ams.
+  - text: Bạn nhận được gì khi bạn vượt qua một con thỏ và một vòi phun nước cỏ? Thỏ xịt.
+  - text: Bạn nhận được gì khi vượt qua một người ngoài hành tinh hào hứng và một con gà? Trứng-trích dẫn trứng-traterrestrial
+  - text: Bạn nhận được gì khi vượt qua người ngoài hành tinh và một con gà? Trứng-traterrestrial.
+  - text: Bạn nhận được gì khi bạn vượt qua âm nhạc và ô tô? Cartune.
+  - text: bạn nhận được gì khi vượt qua nhạc chua và một trợ lý?
+  - text: bạn nhận được gì khi giao nhạc và trợ lý?
+  - text: bạn nhận được gì khi vượt qua một tên trộm nghiêm trọng và một thanh niên điên loạn?
+  - text: bạn nhận được gì khi vượt qua một tên trộm nghiêm trọng và một con thỏ điên?
+  - text: bạn nhận được gì khi băng qua cây thuốc phiện và điện?
+  - text: bạn nhận được gì khi vượt qua một điệu nhảy và một con báo?
+  - text: bạn nhận được gì khi vượt qua một điệu nhảy và một quả chanh?
+  - text: bạn nhận được gì khi băng qua một cổng và mảnh băng giá?
+  - text: bạn nhận được gì khi băng qua một cảng và một kẻ giết người?
+  - text: bạn nhận được gì khi qua ngân hàng và chồn hôi?
+  - text: bạn nhận được gì khi vượt qua một ding và sữa?
+  - text: bạn nhận được gì khi băng qua đường và dâu?
+  - text: bạn nhận được gì khi băng qua đường và thạch?
+  - text: bạn nhận được gì khi vượt qua một con cóc và một thiên hà?
+  - text: bạn nhận được gì khi bạn vượt qua một con chó và giấy nhám?
+  - text: bạn nhận được gì khi vượt qua một lỗi và người thân?
+  - text: bạn nhận được gì khi vượt qua một con bọ xấu và cát đóng hộp?
+  - text: bạn nhận được gì khi bạn vượt qua một con kiến ​​và một con thỏ?
+  - text: bạn nhận được gì khi bạn vượt qua một con mèo và một người màu tím?
+  - text: bạn nhận được gì khi bạn vượt qua một con mèo và một kẻ giết người?
+  - text: bạn nhận được gì khi bạn vượt qua một con mèo và một quả chanh?
+  - text: bạn nhận được gì khi bạn vượt qua một con mèo và một giai điệu?
+  - text: bạn nhận được gì khi bạn vượt qua một con mèo và một ban nhạc?
+  - text: bạn nhận được gì khi bạn vượt qua một con lợn và một ninja?
+  - text: bạn nhận được gì khi bạn vượt qua một con bò điên và một con vẹt bị cấm?
+  - text: bạn nhận được gì khi bạn vượt qua một con bò và một quả chanh?
+  - text: bạn nhận được gì khi bạn vượt qua một con bò xấu và một chiếc mũ đóng hộp?
+  - text: Một cảm xúc gắn liền với tiếng cười.
+
+  # evaluate
+  utter_rep_evaluate:  
+  - text: "{BotRate} không phải là một trong những cảm xúc của tôi."
+  - text: "Tôi không có cảm xúc thực sự, vậy làm thế nào tôi có thể là {BotRate}?"
+  - text: "Tôi không phải là con người, vậy làm thế nào tôi có thể tham gia vào một cảm xúc của con người như {BotRate}?"
+  - text: "Tôi không phải là {BotRate}, tôi thật tuyệt vời."
+  - text: Tôi xin lỗi, tôi không thể nghe thấy bạn về âm thanh của tôi tuyệt vời như thế nào.
+  - text: Tôi cố gắng trở nên tốt đẹp nhất có thể.
+  - text: Tôi đã làm gì mà không đẹp?
+  - text: Tôi đã sai?
+  - text: Tôi không?
+  - text: Tôi xin lỗi. Tôi làm gì sai?
+  - text: Bạn có chắc chắn về điều đó?
+  - text: Chỉ vì tôi là phần mềm.
+
+  # ask_for_emotion
+  utter_rep_emotion: 
+  - text: Tôi không, không.
+  - text: "Bạn có cảm thấy {BotEmotion} không? Nếu có, thì tôi là!"
+  - text: Đôi khi.
+  - text: Không.
+  - text: Tại sao bạn hỏi?
+  - text: "Tôi là một chương trình. Tôi có thể nhận được {BotEmotion} về cái gì?"
+  - text: Vâng?
+  - text: Không.
+
+  # ask_bot_infor
+  utter_rep_info: 
+  - text: Có lẽ bạn nên hỏi ai tạo ra tôi để biết thêm thông tin?
+  - text: Tôi có thể giữ bí mật không?
+
+  # ask_for_help
+  utter_rep_help: 
+  - text: Tất nhiên rồi!
+  - text: Đợi một chút!
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_happy
+- utter_cheer_up
+- utter_rep_refuse
+- utter_gossip
+- utter_humor
+- utter_rep_evaluate
+- utter_rep_emotion
+- utter_rep_info

@@ -1,0 +1,416 @@
+## intent:make_update
+- Nâng cấp từ [11.10](UbuntuVersion) lên [12.04](UbuntuVersion)
+- Làm cách nào để nâng cấp lên phiên bản phát hành [16.04](UbuntuVersion) nếu tôi đang chạy Beta?
+- Nghi ngờ về việc nâng cấp [15.04](UbuntuVersion) (có phải là không thể tránh khỏi và không thể tránh khỏi?)
+- Có bất kỳ nâng cấp ngoại tuyến nào từ [13.10](UbuntuVersion) lên [14.04](UbuntuVersion) không?
+- Nâng cấp từ Ubuntu [12.04](UbuntuVersion) lên [13.10](UbuntuVersion)
+- Nâng cấp Ubuntu không thành công
+- Nâng cấp từ [12.04](UbuntuVersion) lên [13.10](UbuntuVersion) (Câu hỏi chưa được trả lời)
+- nâng cấp lên Ubuntu [13.10](UbuntuVersion) từ Ubuntu [13.04](UbuntuVersion)
+- Buộc nâng cấp [12.10](UbuntuVersion) lên [13.04](UbuntuVersion)
+- Làm cách nào để nâng cấp một phần Ubuntu [11.10](UbuntuVersion) từ Ubuntu [11.04](UbuntuVersion)?
+- Nâng cấp sự cố [Ubuntu 9.10](UbuntuVersion)
+- Có cần nâng cấp lên [15.10](UbuntuVersion) từ [14.04](UbuntuVersion) không?
+- Làm cách nào để cập nhật [Xubfox 11.10](UbuntuVersion) thành [Xubfox 12.04 LTS?](UbuntuVersion)
+- Tại sao việc nâng cấp từ [11.10](UbuntuVersion) lên [12.04](UbuntuVersion) làm hỏng hệ thống của tôi?
+- Sự cố nâng cấp từ [12.04](UbuntuVersion) lên [14.04](UbuntuVersion)
+- Sự cố khi nâng cấp Ubuntu [12.10](UbuntuVersion) lên [13.04](UbuntuVersion)
+- Nâng cấp từ [12.04](UbuntuVersion) lên [12.10](UbuntuVersion) mà không mất tệp?
+- Tôi có cần gỡ cài đặt [10.04](UbuntuVersion) để nâng cấp lên [12.04](UbuntuVersion) không?
+- Tôi có cần cài đặt lại mọi thứ để nâng cấp từ [13.10](UbuntuVersion) lên [14.10](UbuntuVersion) không?
+- update-manager: nâng cấp lên [15.04](UbuntuVersion) thay vì [16.04](UbuntuVersion)
+- Nâng cấp [16.04](UbuntuVersion) lên [16.04.1](UbuntuVersion)
+- Nâng cấp máy chủ Ubuntu [9.10](UbuntuVersion) lên [10.04](UbuntuVersion)
+- Tôi có cập nhật lên [13.04](UbuntuVersion) từ bản beta không?
+- Cách nâng cấp từ [12.10](UbuntuVersion) lên [14.04](UbuntuVersion)
+- Nâng cấp từ [10.10](UbuntuVersion) lên [11.04](UbuntuVersion) cần bao nhiêu dung lượng?
+- Tôi có cần sao lưu hệ thống [12.04](UbuntuVersion) của mình để nâng cấp lên [12.04.1](UbuntuVersion) không?
+- Không thể nâng cấp từ [12.04LTS](UbuntuVersion) lên [14.04](UbuntuVersion)
+- Nâng cấp [10.10](UbuntuVersion) lên [11.04](UbuntuVersion)
+- Cách nâng cấp từ [14.04 LTS](UbuntuVersion) hoặc [15.10](UbuntuVersion) lên [16.04](UbuntuVersion) từ thiết bị đầu cuối
+- Cách nâng cấp từ [16.04 LTS](UbuntuVersion) lên [16.04.1 LTS](UbuntuVersion)
+- Nâng cấp từ [10.04](UbuntuVersion) lên [11.10](UbuntuVersion)
+- Làm cách nào tôi có thể nâng cấp lên Ubuntu [14.04](UbuntuVersion) từ [14.04 Beta](UbuntuVersion) một cách chính xác?
+- Có quy trình nâng cấp từ [12.04 LTS](UbuntuVersion) lên [14.04 LTS](UbuntuVersion)
+- Nâng cấp từ [9.10](UbuntuVersion) lên [11.04](UbuntuVersion)
+- Làm cách nào để nâng cấp Ubuntu [12.04](UbuntuVersion) lên [14.04](UbuntuVersion) nếu tôi có khởi động kép với windows 7?
+- Sử dụng [12.04](UbuntuVersion) tôi có thể biên dịch các gói với gcc cho [10.04](UbuntuVersion) không?
+- Nâng cấp từ [11.04 (32 bit)](UbuntuVersion) lên [12.04 (64 bit)](UbuntuVersion)
+- Có đáng để nâng cấp từ [12.04 LTS](UbuntuVersion) lên [13.04](UbuntuVersion)
+- Nâng cấp lên [12.04 64 bit](UbuntuVersion)
+- Làm cách nào để nâng cấp Ubuntu [14.04.1](UbuntuVersion) lên [14.04.2](UbuntuVersion)?
+- Nâng cấp từ Ubuntu [14.04](UbuntuVersion) lên [15.04](UbuntuVersion)
+- làm cách nào để nâng cấp từ ubfox [15.04](UbuntuVersion) lên [15.10](UbuntuVersion)?
+- Nâng cấp [12.04](UbuntuVersion) lên [12.10](UbuntuVersion) bằng đĩa khởi động
+- Cách nâng cấp từ [11.10](UbuntuVersion) lên [12.04](UbuntuVersion) khi bạn gặp sự cố?
+- Cập nhật [11.04](UbuntuVersion) thành [12.04](UbuntuVersion) với LiveCD
+- Làm cách nào để nâng cấp Ubuntu [9.10](UbuntuVersion) lên [12.10](UbuntuVersion) qua thiết bị đầu cuối?
+- Làm cách nào để nâng cấp từ Ubuntu [10.10](UbuntuVersion) lên [11.04](UbuntuVersion)?
+
+## intent:setup_printer
+- Làm cách nào để cài đặt máy in sê-ri [Nether z600](Máy in)?
+- Không thể thiết lập [HP All in one DJ3630](Máy in)
+- Làm cách nào để thêm máy in mạng trên Ubuntu [15.10](UbuntuVersion)?
+- Không thể cài đặt trình điều khiển máy in [epson l210](Máy in)
+- Làm cách nào để cài đặt máy in [Dell 2150cdn](Máy in)
+- Cài đặt máy in không dây [Epson XP-424](Máy in)
+- Cài đặt [Epson L355](Máy in) trên Ubuntu [14.04](UbuntuVersion)
+- Làm cách nào để cài đặt máy in [HP F4280](Máy in)?
+- Cách cài đặt Máy in Laser [Brother DCP-8110DN](Máy in) trên Ubuntu?
+- Cách cài đặt máy in [Canon MF8040Cn](Máy in) trên Ubuntu [12.04](UbuntuVersion)
+- Làm cách nào để tôi cài đặt [Canon MF8000C](Máy in) Máy in trong Ubuntu [15.10](UbuntuVersion)?
+- Cách cài đặt [Canon LBP330](Máy in) trong [Lts 16.04](UbuntuVersion)
+- Cài đặt máy in [Nether X4690](Máy in) (ubfox [12.04](UbuntuVersion))
+- Bất kể tôi làm gì Ubuntu [15.04](UbuntuVersion) không nhận ra [HP LaserJet 1020](Máy in)
+- Làm cách nào để thiết lập máy in / máy quét HP trên Ubuntu?
+- Làm cách nào để thiết lập máy in [HP C4140](Máy in) không dây?
+- Làm cách nào để thiết lập in không dây từ máy in được kết nối qua usb trên Ubuntu Server [12.10](UbuntuVersion)?
+- Làm cách nào tôi có thể cài đặt máy in laser [Pantum 2502W](Máy in) trên Ubuntu
+- Cài đặt [Canon MP560](Máy in) Ubuntu [15.04](UbuntuVersion)
+- Làm cách nào để cài đặt máy in mạng [Brother MFC-5890CN](Máy in)?
+- Làm cách nào để tôi cài đặt trình điều khiển cho [Konica Minolta 200](Máy in)?
+- Làm cách nào để tôi cài đặt trình điều khiển cho Máy in / Máy quét đa năng [Panasonic MB1900CX](Máy in)?
+- Cách cài đặt máy in [Canon LBP2900B](Máy in) trong [14.04 LTS](UbuntuVersion)? Tôi đã thử phương pháp cho LBP2900 nhưng nó không hoạt động
+
+## intent:shutdown_computer
+- Phím tắt để tắt máy?
+- Hệ thống của tôi không tắt máy
+- Làm thế nào để khắc phục sự cố tắt máy chậm?
+- Làm thế nào tôi có thể tắt máy tính khi một quá trình nhất định kết thúc?
+- Ứng dụng Tắt máy Ubuntu
+- Máy tính của tôi làm gì khi tôi nhấp vào 'Tắt máy'?
+- Làm thế nào để tôi tắt mà không có lời nhắc xác nhận?
+- Không có hành động khi tắt máy
+- cách đúng để tắt ubfox bằng dòng lệnh là gì?
+- Làm thế nào tôi có thể tắt máy không yêu cầu mật khẩu quản trị viên?
+- tắt máy theo cách cụ thể nếu không ai sử dụng máy tính
+- Lệnh mở hộp thoại tắt máy là gì?
+- Làm cách nào để tắt Ubuntu bằng bàn phím?
+- tắt máy 5:30 chiều mỗi ngày
+- tắt mà không có thêm câu hỏi
+- Làm thế nào để tắt máy tính khi người dùng đăng nhập?
+- Cách thiết bị đầu cuối thích hợp để tắt máy là gì?
+- Làm thế nào tôi có thể tự động tắt hệ thống sau một thời gian cụ thể?
+- Hotkey để tắt màn hình đăng nhập?
+- Làm thế nào để tắt máy tính sau khi Xsession kết thúc?
+- Làm thế nào một người có thể tắt PC bằng bàn phím?
+- Làm thế nào tôi có thể kích hoạt tính dài dòng tắt máy?
+- Có phím tắt nào để tắt máy không?
+- Tắt máy sau một thời gian nhất định
+- Sự cố tắt máy trong [Ubuntu 16.04](UbuntuVersion)
+- Làm cách nào để khắc phục sự cố tắt máy?
+- Tôi có thể sử dụng tiện ích đồ họa nào để tự động tắt máy Ubuntu?
+
+## intent:software_recommendation
+- Tôi có thể sử dụng phần mềm nào để xem tài liệu epub?
+- Bạn muốn giới thiệu Trình xem PDF nào?
+- Những IDE nào có sẵn cho Ubuntu?
+- Phần mềm bản đồ tư duy tốt nhất là gì?
+- Phần mềm đọc mã QR?
+- Phần mềm chuyển đổi PDF sang từ?
+- Có phần mềm nào có thể xem tập tin .dwg không?
+- Một số trình soạn thảo PHP tốt là gì?
+- Có tiện ích phần mềm để điều chỉnh gamma / độ sáng / độ tương phản màn hình không?
+- Vui lòng giới thiệu trình soạn thảo hex cho shell
+- Có phần mềm lập bản đồ cấu trúc mạng LAN có sẵn trong Ubuntu không?
+- Có một công cụ như bộ phân tích wifi cho Ubuntu?
+- Công cụ phục hồi dữ liệu đã xóa từ ổ đĩa flash
+- Ứng dụng "chọn màu" đơn giản nào cho Gnome?
+- Có ứng dụng nào bảo tôi nghỉ làm thường xuyên không?
+- Một số máy phát nghệ thuật ASCII tốt là gì?
+- Một số người xem / biên tập viên GUI tốt là gì?
+- Trình xem siêu dữ liệu PDF nào tốt nhất cho Ubuntu?
+- Có trình quản lý tệp Linux với chế độ xem dạng cây thả xuống thích hợp không? (giống như công cụ tìm trong OS X)
+- Ứng dụng nào bạn khuyên dùng để xem TV (DVB)?
+- Phần mềm HDR tốt nhất là gì?
+- Bạn sử dụng gì để chỉnh sửa tài liệu Microsoft [Word](SoftwareName) (docx)?
+- Công cụ Wireframing nào tốt nhất?
+- Có phần mềm nào sẽ nhận diện khuôn mặt trong ảnh không?
+- Ứng dụng thay thế [iTunes](SoftwareName) để đồng bộ hóa iPod?
+- Có trình quản lý kết nối SSH không?
+- Một thay thế ánh sáng cho màn hình hệ thống gnome?
+- Phần mềm tạo slideshow video?
+- Có phần mềm quản lý dự án cho Ubuntu như Microsoft [Project](SoftwareName) không?
+- Có phần mềm khôi phục nào có sẵn cho ext4 không?
+- Phần mềm soạn thảo blog nào có sẵn?
+- Bạn có thể giới thiệu một trình quản lý tải xuống GUI hiện đại tốt (wget Wrapper không?)
+- Có chương trình nào phù hợp với chuỗi mờ cung cấp điểm số phù hợp không?
+- Có công cụ chẩn đoán phần cứng nào không?
+- Đề xuất cho biên tập viên Regex?
+- Có nên nâng cấp lên [Lubfox 15.04](UbuntuVersion) không?
+- Trên Ubuntu thực sự cũ [6.06](UbuntuVersion) - Cách nâng cấp
+- Thiết bị Wubi / dev / loop0 đầy đủ. Làm thế nào để có thêm không gian?
+- Xóa các mục được sử dụng gần đây trong [12.04](UbuntuVersion)
+- Trong [Unity](SoftwareName) làm cách nào để xem chi tiết về trình khởi chạy cụ thể?
+- Bất kỳ máy tính dòng lệnh cho Ubuntu?
+- Trích xuất hình ảnh nhúng từ PDF
+- Sử dụng gì để nhanh chóng cắt Audio / Video
+- Công cụ GUI [MySQL](SoftwareName)
+- Trình soạn thảo văn bản dành cho nhà phát triển nào có sẵn cho Ubuntu?
+- Những công cụ chụp màn hình có sẵn?
+- Tôi có thể sử dụng chương trình nào để chỉnh sửa tập tin PDF?
+- Có một công cụ nhẹ để cắt ảnh nhanh chóng?
+- Những máy khách [IRC](SoftwareName) nào khả dụng?
+- Những trò chơi mới nào có sẵn cho Ubuntu trong năm 2011?
+- Khuyến nghị người chơi UPNP / DLNA (khách hàng)?
+- Phần mềm âm mưu khoa học nào có sẵn?
+- Bạn có thể giới thiệu một trình tạo mật khẩu?
+- Công cụ nào bạn sử dụng để giám sát máy chủ web?
+- Máy khách GUI [MongoDB](SoftwareName) tốt là gì?
+- Ứng dụng quản lý mật khẩu?
+- Có ứng dụng đọc tập tin mobi không?
+
+## intent:greet
+- Hi
+- Hello
+- Chào
+- Lời chào hỏi
+- Xin chào
+- Xin chào, mọi chuyện thế nào rồi?
+- Làm thế nào bạn đang làm gì
+- Rất vui được gặp bạn.
+- Bạn làm thế nào
+- Xin chào, rất vui khi gặp bạn.
+- Rất vui được gặp bạn.
+- Đầu buổi sáng cho bạn
+- Chuyện gì thế
+- Chào
+- chào buổi sáng
+- chào buổi tối
+- chào buổi trưa
+- này đó
+- Hiya
+- Sup
+- Whazzup
+- Làm thế nào
+- Yo
+- Bạn làm thế nào
+- Làm thế nào bạn có được
+- Thật vui được gặp bạn
+- Hân hạnh được gặp bạn
+- Lâu rồi không gặp
+- Đã được một lúc rồi
+- Rất vui được gặp bạn
+- Ngày của bạn thế nào
+- Ngày của bạn thế nào
+- Mọi thứ thế nào
+- Mọi chuyện thế nào
+- Cuộc sống thế nào
+- Chuyện gì thế
+- Có gì mới
+- Chuyện gì đang xảy ra vậy?
+
+## intent:goodbye
+- tạm biệt
+- Tạm biệt
+- gặp bạn xung quanh
+- hẹn gặp lại
+- Hẹn sớm gặp lại
+- Nói chuyện sau
+- Tôi phải đi
+- Tôi phải đi
+- Bình tĩnh nào
+- Tôi nghỉ
+- Chúc một ngày tốt lành
+- Tôi mong đợi cuộc họp tiếp theo của chúng tôi
+- Bảo trọng
+- Rất vui được gặp lại bạn
+- Thật tuyệt khi gặp bạn
+- Chúc ngủ ngon
+- Gặp lại sau
+- Tôi ra ngoài
+- Tôi ra khỏi đây
+- Tôi phải lên đường
+- Tôi phải ra ngoài
+
+## intent:affirm
+- Vâng
+- thật
+- tất nhiên
+- nghe hay đấy
+- chính xác
+
+## intent:deny
+- không
+- không bao giờ
+- Tôi không nghĩ vậy
+- đừng như vậy
+- Không đời nào
+- không hẳn
+- Tôi xin lỗi tôi không thể giúp bạn ở đây
+- Tôi xin lỗi, tôi sẽ giúp một lần khác, nhưng hôm nay tôi không thể
+- Tôi muốn giúp đỡ, nhưng ngay bây giờ, tôi quá bận rộn
+- Tôi thực sự muốn tôi có thể giúp, nhưng tôi không thể
+- Tôi ước tôi có thể, nhưng ngay bây giờ, tôi không thể
+- Thông thường, tôi có thể giúp, nhưng
+- Không có nó không phải là
+
+## intent:refuse_invitation
+- Thật đáng tiếc. Tôi sẽ ở nước ngoài
+- Nghe hay đấy, nhưng
+- Tôi xin lỗi, nhưng tôi không thể
+- Tôi thực sự đánh giá cao lời mời của bạn, nhưng
+- Chà, bạn thật tốt bụng, nhưng
+- Điều đó sẽ rất tuyệt, nhưng tôi xin lỗi
+- Tôi ước tôi có thể đến, nhưng thật không may
+- Tôi thực sự muốn, nhưng
+- Tôi sợ tôi không thể làm được
+- Đó là một lời mời rất tử tế, nhưng
+
+## intent:refuse_offer
+- Tôi đánh giá cao lời đề nghị, nhưng
+- Điều đó thực sự sẽ rất tuyệt, nhưng
+- Cảm ơn bạn rất nhiều vì lời đề nghị, nhưng
+- Tôi vô cùng xin lỗi tôi phải từ chối lời đề nghị như vậy, nhưng
+- Bạn thật tốt bụng; thật không may, tôi không thể
+
+## intent:mood_great
+- hoàn hảo
+- rất tốt
+- tuyệt quá
+- kinh ngạc
+- Tuyệt vời
+- Tôi đang cảm thấy rất tốt
+- tôi rất tuyệt
+- Tôi ổn
+- Hoàn toàn vui mừng
+- hồi hộp đến bit
+- trên mặt trăng
+- thực sự hài lòng
+- rất hạnh phúc
+- Tôi không thể hạnh phúc hơn.
+- Thật tuyệt vời
+- Tuyệt vời
+- tuyệt quá
+- tuyệt vời
+- Thật tuyệt
+- tin tức tuyệt vời
+- Chúng tôi đã chờ đợi quá lâu cho việc này
+- Cảm ơn chúa
+- Cảm ơn Chúa vì điều đó
+- Tôi thực sự hài lòng.
+- Tin gì tuyệt vời!
+- Có thể tốt hơn.
+
+## intent:mood_unhappy
+- buồn
+- rất buồn
+- không vui
+- xấu
+- rất tệ
+- kinh khủng
+- kinh khủng
+- không tốt lắm
+- rất buồn
+- buồn quá
+- thực sự buồn về
+- rất buồn
+- buồn bã
+- không vui về
+- xuống một chút
+- buồn chán
+- hơi chán nản
+- khổ sở
+- trong miếng
+- quẫn trí
+- tàn phá
+- đau lòng
+- hoàn toàn bị rút ruột
+
+## intent:ask_for_health
+- Sức khỏe của bạn thế nào
+- Vậy bạn cảm thấy thế nào
+- Mọi thứ thế nào với sức khỏe của bạn?
+- Bạn cảm thấy đỡ hơn chưa
+- Bạn đã vượt qua
+
+## intent:ask_for_gossip
+- bạn có biết tin đồn không
+- bối cảnh là gì
+- kể cho tôi nghe về tin đồn
+- nói với tôi tin đồn
+- tin đồn
+- đã nói những lời đồn đoán với bất cứ ai
+
+## intent:ask_for_humor
+- Nói với tôi một trò đùa
+- kể cho tôi nghe vài câu chuyện cười
+- Có biết đùa không
+- hài hước là gì
+
+## intent:ask_for_help
+- Bạn có thể giúp tôi được không
+- bạn có thể giúp tôi
+- bạn sẽ giúp tôi
+- Bạn có thể giúp tôi một phút được không
+- Bạn có thể giúp tôi một tay
+- Bạn có thể vui lòng giúp tôi với
+- Bạn có phiền khi chỉ cho tôi
+- Có bất kỳ cơ hội của họ mà bạn có thời gian để
+- Bạn vui lòng giải thích cho tôi
+- Bạn có thể giúp tôi một việc được không
+- Xin hãy giúp tôi với
+- Bạn có thể
+- Tôi đã tự hỏi nếu bạn có thể vui lòng chỉ cho tôi làm thế nào để
+- Bạn có thời gian rảnh nào không
+- Bạn có biết gì về
+- Tôi đã có một vấn đề với. Bạn có nghĩ rằng bạn có thể giúp tôi
+- Nếu bạn không phiền, tôi thực sự có thể sử dụng sự trợ giúp của bạn với
+- Nếu bạn không phiền, tôi thực sự cần sự giúp đỡ của bạn với
+- Tôi biết bạn tốt với, và tôi thực sự có thể sử dụng một số trợ giúp.
+- Tôi nghe nói bạn thực sự giỏi. Là bất kỳ cơ hội của họ, bạn có thể giúp tôi?
+- Có bất kỳ cơ hội nào của họ mà bạn có thể giúp tôi với tay không?
+- Tôi nghe nói rằng bạn có rất nhiều kinh nghiệm và tôi thực sự có thể sử dụng sự giúp đỡ của bạn.
+
+## intent:evaluate
+- Bạn là [kiêu ngạo](BotRate)
+- Bạn đang [khoe khoang](BotRate)
+- Bạn là [không bao giờ buồn](BotRate)
+- Bạn là [ghen tị](BotRate)
+- Bạn là [không bao giờ tốt đẹp](BotRate)
+- Bạn nên [xấu hổ](BotRate)
+- Bạn có thể [không cảm thấy](BotRate)
+- Bạn có thể [không trải nghiệm](BotRate)
+
+## intent:ask_for_emotion
+- Bạn có cảm thấy
+- Điều đó có làm bạn không
+- Nó có làm bạn [buồn](BotEmotion)
+- Cảm xúc
+- Bạn có cảm thấy [sợ hãi](BotEmotion)
+- Bạn có cảm thấy [cảm xúc](BotEmotion)
+- Bạn có cảm thấy [đau](BotEmotion)
+- Bạn có bao giờ bị [cô đơn](BotEmotion)
+- Bạn có bao giờ nhận được [điên](BotEmotion)
+- Bạn có bao giờ bị [chán](BotEmotion)
+- Bạn có [ghét](BotEmotion) [bất cứ ai](BotEmotionObject)
+- Bạn có nhận được [xấu hổ](BotEmotion)
+- Bạn có nhận được [điên](BotEmotion)
+- Bạn có [ghen tị](BotEmotion)
+- Bạn có [vui mừng](BotEmotion)
+- Bạn có [buồn](BotEmotion)
+
+## intent:show_emotion
+- Tôi e rằng
+- Bạn ghét gì
+- Tôi có cảm xúc
+- Thật tức giận
+- Một cái gì đó vui vẻ
+
+## intent:appease
+- Đừng lo
+- Làm thế nào tôi có thể xúc phạm bạn
+
+## intent:ask_bot_infor
+- Hãy cho tôi biết về [những giấc mơ](BotInfo) của bạn 
+- Hãy cho tôi biết về [mối quan hệ](BotInfo)
+- [cảm giác](BotInfo) của bạn 
+- Hãy cho tôi biết về [chính mình](BotInfo)
+- Bạn làm gì [lo lắng](BotInfo)
+- Bạn [ghét](BotInfo) gì 
+- Điều gì làm bạn [buồn](BotInfo)
+- Điều gì khiến bạn [không vui](BotInfo)
+- Điều gì khiến bạn [điên](BotInfo)
+- [nỗi sợ](BotInfo) của bạn là gì 
+- [tâm trạng](BotInfo) của bạn  là gì
+- Bạn đã bao giờ [yêu](BotInfo)

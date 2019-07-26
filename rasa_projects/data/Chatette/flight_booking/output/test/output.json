@@ -1,0 +1,105 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "help",
+        "text": "aid please"
+      },
+      {
+        "entities": [],
+        "intent": "help",
+        "text": "Would you be so kind and aid us"
+      },
+      {
+        "entities": [
+          {
+            "end": 46,
+            "entity": "source-airport",
+            "start": 37,
+            "value": "Amsterdam"
+          },
+          {
+            "end": 50,
+            "entity": "departure-time",
+            "start": 47,
+            "value": "today"
+          }
+        ],
+        "intent": "book",
+        "text": "i want to register a flight to go to Amsterdam now please"
+      },
+      {
+        "entities": [
+          {
+            "end": 25,
+            "entity": "source-airport",
+            "start": 17,
+            "value": "Brussels"
+          },
+          {
+            "end": 34,
+            "entity": "departure-time",
+            "start": 26,
+            "value": "tomorrow"
+          }
+        ],
+        "intent": "book",
+        "text": "Book a flight to Brussels tomorrow please"
+      },
+      {
+        "entities": [
+          {
+            "end": 42,
+            "entity": "source-airport",
+            "start": 33,
+            "value": "Amsterdam"
+          },
+          {
+            "end": 60,
+            "entity": "source-airport",
+            "start": 52,
+            "value": "Brussels"
+          },
+          {
+            "end": 64,
+            "entity": "departure-time",
+            "start": 61,
+            "value": "today"
+          }
+        ],
+        "intent": "book",
+        "text": "I need to register a flight from Amsterdam to go to Brussels now"
+      },
+      {
+        "entities": [
+          {
+            "end": 37,
+            "entity": "source-airport",
+            "start": 29,
+            "value": "Brussels"
+          },
+          {
+            "end": 56,
+            "entity": "source-airport",
+            "start": 47,
+            "value": "Amsterdam"
+          }
+        ],
+        "intent": "book",
+        "text": "I want to book a flight from Brussels to go to Amsterdam"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "synonyms": [
+          "today",
+          "now"
+        ],
+        "value": "today"
+      }
+    ],
+    "lookup_tables": [],
+    "regex_features": []
+  }
+}

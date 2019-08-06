@@ -1,0 +1,779 @@
+## intent:greet
+- chào
+- lời chào hỏi
+- xin chào
+- xin chào, thế nào rồi
+- dạo này thế nào bạn đang làm gì
+- rất vui được gặp bạn.
+- xin chào, rất vui khi gặp bạn.
+- rất vui được gặp bạn.
+- chào bạn vào buổi sáng
+- chuyện gì xảy ra với bạn
+- chào buổi sáng
+- chào buổi tối
+- chào buổi trưa
+- làm thế nào bạn
+- bạn làm thế nào
+- làm thế nào bạn có được
+- thật vui được gặp bạn
+- hân hạnh được gặp bạn
+- lâu rồi không gặp
+- đã được một lúc rồi
+- rất vui được gặp bạn
+- ngày hôm nay của bạn thế nào
+- mọi thứ thế nào rồi
+- mọi chuyện thế nào rồi
+- cuộc sống thế nào rồi
+- bạn đang có chuyện gì thế
+- có gì mới không bạn
+- chuyện gì đang xảy ra vậy?
+- rất vui được gặp lại bạn
+- thật tuyệt khi gặp bạn
+
+## intent:bye
+- tạm biệt
+- sẽ gặp lại bạn
+- hẹn gặp lại
+- hẹn sớm gặp lại
+- sẽ nói chuyện sau
+- tôi phải đi
+- bình tĩnh nào. tôi sẽ gặp lại bạn.
+- chúc một ngày tốt lành
+- tôi mong đợi gặp mặt tiếp theo của chúng ta
+- bảo trọng nhé, tôi sẽ trở lại
+- chúc ngủ ngon
+- gặp lại sau
+- tôi phải đi
+
+## intent:affirm
+- vâng
+- thật
+- tất nhiên
+- nghe hay đấy
+- chính xác
+- có chứ
+- như vậy đi
+- đồng ý
+- nghe được đấy
+- cứ như vậy đi
+- tùy ý bạn thôi
+- chuẩn
+- tôi hoàn toàn đồng ý bạn
+- ok chấp nhận luôn
+- ừ
+- ừ cứ như thế nhé
+- rất tuyệt, tôi sẽ chấp nhận
+- theo ý bạn đi
+- cứ như vậy đi
+- cứ thế mà làm
+- ừ làm ngay đi
+
+## intent:deny
+- không
+- không bao giờ
+- tôi không nghĩ vậy
+- đừng như vậy
+- không đời nào
+- không hẳn
+- đừng làm thế
+- không tôi cảm ơn
+- tôi không cần đâu
+- đéo
+- tôi không làm điều đó
+- không tôi không đồng ý
+- tôi đéo cần điều này
+- tôi không cần điều đó
+- thật đáng tiếc. tôi sẽ không tham gia đâu
+- nghe hay đấy, nhưng tôi bận rồi
+- tôi bận rồi, xin lỗi nhé
+- tôi xin lỗi, nhưng tôi không thể tham dự
+- tôi không thể chấp nhận lời mời này
+- tôi đéo tham dự được rồi
+- tôi bận rồi, chắc không tới được
+- tôi từ chối nhận lời mời này
+- tôi thực sự đánh giá cao lời mời của bạn, nhưng tôi không tham dự được
+- chà, bạn thật tốt bụng, nhưng rất tiếc tôi không tham dự được
+- điều đó sẽ rất tuyệt, nhưng tôi xin lỗi tôi không tham gia
+- tôi ước tôi có thể đến, nhưng thật không may
+- tôi thực sự muốn, nhưng rất tiếc
+- tôi sợ tôi không thể tới được
+- tôi e ngày đó tôi có việc rồi
+- đó là một lời mời rất tử tế, nhưng tôi không thể tham dự được
+- cảm ơn bạn rất nhiều vì lời đề nghị, nhưng rất tiếc tôi không cần
+- tôi vô cùng xin lỗi là tôi phải từ chối lời đề nghị như vậy
+- bạn thật tốt bụng, thật không may, tôi không thể
+
+## intent:mood_great
+- hoàn hảo
+- rất tốt
+- tuyệt quá
+- kinh ngạc
+- tuyệt vời
+- tôi đang cảm thấy rất tốt
+- tôi rất tuyệt
+- tôi ổn
+- hoàn toàn vui mừng
+- thật là phê
+- phê tới nóc
+- thực sự hài lòng
+- tôi thật sự quá hài lòng
+- rất hạnh phúc
+- tôi không thể hạnh phúc hơn
+- không thể vui hơn được
+- thật tuyệt vời
+- tuyệt quá
+- tuyệt vời
+- thật tuyệt
+- một tin tức tuyệt vời
+- chúng tôi đã chờ đợi quá lâu cho việc này rồi
+- cảm ơn chúa vì điều đó
+- tôi thực sự hài lòng
+- tin gì tuyệt vời
+- có thể tốt hơn
+- thật là vui
+- bạn thật vui tính
+- yêu bạn quá
+
+## intent:mood_unhappy
+- buồn
+- rất buồn
+- cảm thấy không vui
+- tôi không thấy vui chút nào
+- buồn quá bạn tôi ơi
+- bực bội trong người quá
+- tôi có cảm giác bức rức trong người
+- tôi cảm thấy rất tồi tệ
+- cảm giác rất tệ
+- quá là kinh khủng
+- không tốt lắm
+- sao mà buồn quá
+- tôi thực sự buồn về
+- tôi đang rất buồn
+- thật buồn bã
+- tôi đang không vui về điều này
+- cảm thấy buồn chán
+- tôi đang chán nản
+- tôi cảm thấy thật khổ sở
+- tôi đang cảm thấy thật quẫn trí
+- thật đau lòng
+- buồn bã tột độ
+- bạn khiến tôi buồn quá
+- tôi vừa gặp một chuyện rất buồn
+- bạn có thể an ủi tôi được không
+- tôi cần một ai đó
+- tôi vừa gặp một chuyện tồi tệ
+- thật sự kinh khủng
+
+## intent:ask_for_health
+- sức khỏe của bạn thế nào
+- vậy bạn cảm thấy thế nào
+- mọi thứ thế nào với sức khỏe của bạn?
+- bạn cảm thấy đỡ hơn chưa
+- dạo này sao rồi khỏe không
+- ăn ở sao rồi
+- bạn không thấy không khỏe à
+- bạn có thấy cảm thấy thoải mái không
+- cảm thấy như thế nào rồi
+- bạn khỏe không.
+- khỏe không bạn.
+- khỏe không bạn
+- bạn có khỏe không.
+- bạn khỏe không
+- bạn có khỏe không
+- khỏe không bạn.
+- bạn khỏe không.
+
+## intent:ask_for_humor
+- nói với tôi một số chuyện vui
+- nói với tôi một trò đùa
+- kể cho tôi nghe vài câu chuyện cười
+- bạn có biết đùa không
+- bạn có chuyện hài nào kể tôi nghe đi
+- có cái gì đó vui kể tôi nghe đi
+- có cái gì đó hài hước để kể không
+- kể một số chuyện hài đi
+- kể tôi nghe cái gì đó thật vui đi
+- kể vài chuyện vui đi
+- bạn có chuyện vui nào không
+- hài hước tí coi
+- kể chuyện nào thư giản
+- kể tôi nghe một câu chuyện đi
+- chán quá, tâm sự đi
+- bạn nói gì đi
+- nói cái gì cũng được
+
+## intent:evaluate
+- thật là [khờ](rate) quá đi mà
+- quá [khờ](rate)
+- bạn quá [giỏi](rate)
+- bạn [giỏi](rate) đấy
+- bạn thật [nhạy cảm](rate)
+- thật [nhạy cảm](rate)
+- bạn thật [ngốc](rate) vkl
+- [ngốc](rate) thật đấy
+- bạn đang [xạo](rate)
+- bạn [xạo](rate) quá vậy
+- sao bạn [kiêu ngạo](rate) quá vậy
+- tôi thấy bạn [kiêu ngạo](rate) quá
+- bạn thật [khoe khoang](rate)
+- bạn [khoe khoang](rate) quá đi
+- [ích kỷ](rate) quá
+- bạn [ích kỷ](rate) quá
+- [keo kiệt](rate) quá đi
+- [keo kiệt](rate) ghê
+- bạn [hài hước](rate) quá đi
+- [hài hước](rate) vkl
+- thật quá [đáng yêu](rate)
+- bạn [đáng yêu](rate) thật đấy
+- bạn quá [thông minh](rate) quá
+- bạn [thông minh](rate) quá đi
+- bạn thật quá [vui tính](rate)
+- [vui tính](rate) quá
+- [hay](rate) quá
+- bạn [hay](rate) ghê
+- [ngu](rate) ghê
+- trời ơi [ngu](rate) ghê
+
+## lookup:rate
+- ngu
+- hay
+- vui tính
+- thông minh
+- đáng yêu
+- hài hước
+- ngốc
+- keo kiệt
+- ích kỷ
+- khoe khoang
+- kiêu ngạo
+- xạo
+- nhạy cảm
+- khờ
+- giỏi
+
+## intent:ask_for_emotion
+- cảm xúc của bạn ra sao rồi
+- bạn cảm thấy thế nào
+- bạn cảm giác ra sao
+- bạn có thấy [buồn](emotion) lắm không
+- bạn đang cảm thấy [buồn](emotion) à
+- bạn có cảm thấy đang [vui](emotion) không
+- điều đó có làm bạn [vui](emotion) không 
+- nó có làm bạn [hạnh phúc](emotion) không
+- bạn có cảm thấy [hạnh phúc](emotion) không
+- bạn đang cảm thấy [sợ hãi](emotion) đúng không
+- bạn có bao giờ bị [sợ hãi](emotion) hay không
+- bạn có bao giờ cảm thấy [đau](emotion) chưa
+- bạn đang [đau](emotion) à
+- bạn có [cô đơn](emotion) khi thấy tôi không
+- bạn đang [cô đơn](emotion) sao
+- bạn có [xấu hổ](emotion) khi không có tôi không
+- bạn có [xấu hổ](emotion) khi tôi nói vậy không
+- có cảm thấy [chán](emotion) hay không
+- đang [chán](emotion) phải không
+
+## lookup:emotion
+- vui
+- hạnh phúc
+- buồn
+- sợ hãi
+- đau
+- cô đơn
+- chán
+- xấu hổ
+
+## intent:intro_company
+- bạn giới thiệu về công ty bạn đi
+- bạn giúp tôi giới thiệu về công ty bạn đi
+- bạn biết gì về công ty bạn kể đi
+- bạn giúp biết gì về công ty bạn 
+- bạn giúp tôi tìm hiểu gì về công ty bạn 
+- giới thiệu về những công việc ở công ty bạn đi
+- giới thiệu về công ty bạn 
+- hãy giới thiệu cho tôi về công ty bạn
+- bạn hãy giới thiệu về công ty bạn
+- giới thiệu cho tôi công ty bạn 
+- trình bày về công ty bạn
+- trình bày sơ về công ty bạn 
+- phát biểu về công ty bạn đi
+- những thông tin cơ bản về công ty bạn
+- tôi muốn biết thêm về công ty của bạn
+- công ty của bạn làm như thế nào
+- bạn làm cho công ty nào
+- bạn là nhân viên công ty nào vậy
+
+## intent:location_company
+- địa chỉ công ty bạn ở đâu
+- vị trí công ty bạn ở đâu
+- công ty bạn có vị trí ở đâu
+- công ty bạn có địa chỉ ở đâu
+- tôi không biết địa chỉ của công ty bạn
+- tôi muốn tìm đường đến công ty của bạn
+- chỉ tôi đường đi tới công ty bạn đi
+- vị trí của công ty bạn làm ở đâu
+- tôi không biết địa chỉ công ty bạn đang làm
+- nói tôi biết địa chỉ công ty bạn đang làm đi
+- nói tôi biết địa chỉ công ty bạn
+- vị trí công ty bạn
+- vị trí chỗ bạn làm
+- đường đi đến công ty bạn
+- bạn có thể dẫn đường tới công ty bạn được không
+
+## intent:phone_company
+- cho tôi số điện thoại công ty đi
+- bạn có thể cho tôi số điện thoại của công ty không
+- tôi liên lạc với bạn bằng cách nào
+- làm sao để tôi liên hệ với công ty bạn
+- tôi muốn gọi cho công ty bạn thì sao
+- cho tôi xin số điện thoại của công ty bạn
+- cho tôi số điện thoại chỗ bạn làm
+- số điện thoại liên lạc của công ty là số mấy
+- tôi muốn gọi điện cho công ty của bạn
+- làm sao để gọi cho công ty bạn
+- bạn cho tôi xin số điện thoại ở đây nha
+- số điện thoại ở đây là bao nhiêu
+- đọc tôi số điện thoại ở đây với
+- đọc giúp tôi số điện thoại công ty bạn
+- cho tôi số điện thoại đi
+- bạn có thể cho tôi số điện thoại của công ty không
+- tôi liên lạc với bạn bằng cách nào
+- làm sao để tôi liên hệ với công ty bạn
+- tôi muốn gọi cho công ty bạn thì sao
+- cho tôi xin số điện thoại của công ty bạn
+- cho tôi số điện thoại chỗ bạn làm
+- số điện thoại liên lạc của công ty bạn là số mấy
+- tôi muốn gọi điện cho công ty của bạn thì sao
+- làm sao để gọi cho công ty bạn
+- bạn cho tôi xin số điện thoại ở đây nha
+- số điện thoại ở đây là bao nhiêu
+- đọc tôi số điện thoại ở đây với
+- đọc giúp tôi số điện thoại công ty bạn
+
+## intent:product_company
+- bên bạn có sản phẩm gì
+- bên bạn làm về những gì
+- giới thiệu các loại sản phẩm của công ty bạn
+- giới thiệu những gì công ty bạn đang làm
+- giới thiệu những sản phẩm của công ty bạn đang làm
+- cho tôi xin danh sách sản phẩm của công ty đi
+- bên bạn có những dòng sản phẩm nào
+- bạn bán cái gì
+- công ty bạn kinh doanh cái gì
+- tôi có thể mua được gì từ công ty
+- bạn có thể cho tôi biết công ty bạn có những dòng sản phẩm gì
+- bạn có thể cho tôi biết công ty bạn kinh doanh cái gì
+- bạn có thể cho tôi biết sản phẩm tại công ty bạn
+- sản phẩm tại công ty của bạn
+- bên bạn có nhiều dòng sản phẩm không
+- sản phẩm bên bạn có phong phú không
+- công ty bạn làm về lĩnh vực gì
+- những lĩnh vực trong công ty bạn
+
+## intent:ask_talk_real_person
+- tôi muốn nói chuyện với người thật
+- bạn nói chuyện dở quá tôi không thích nói chuyện với bạn
+- tôi thích nói chuyện với người hơn
+- tôi không thích nói chuyện với bạn làm ơn gọi người thật đi
+- bạn không đáp ứng đủ nhu cầu của tôi
+- bạn nói chuyện chán quá
+- bạn không hiểu ý tôi rồi
+
+- gọi [nhân viên](position) ra nói chuyện đi
+- gọi [nhân viên](position) dùm tôi đi
+- gọi [nhân viên](position) dùm tôi đi bạn nói chuyện chán quá
+- tôi có thể nói chuyện trực tiếp với [giám đốc](position) của bạn không
+- tôi muốn nói chuyện trực tiếp với [giám đốc](position) của bạn
+- [giám đốc](position) của bạn đâu
+- tôi cần gặp [giám đốc](position) phòng [nhân sự](dest) ngay bây giờ
+- gọi [phó phòng](position) của bạn ra đây
+- làm ơn gọi [phó phòng](position) dùm tôi nhé
+- [phó phòng](position) bên bạn đâu hết rồi
+- gọi [trưởng phòng](position) ra cho tôi nói chuyện xem
+- tôi thích nói chuyện với [trưởng phòng](position) của bạn hơn
+- tôi cần nói chuyện với [trưởng phòng](position)
+- tôi cần gọi cho [chủ tịch](position)
+- sai rồi, gọi [chủ tịch](position) ra đây
+- cho tôi gặp [chủ tịch](position) ngay bây giờ
+- tôi muốn [thư ký](position) ra nói chuyện
+- liên hệ với [thư ký](position) dùm tôi đi
+- liên lạc [thư ký](position) dùm tôi
+- tôi có thể nói chuyện trực tiếp với [quản lý](position) của bạn không
+- tôi muốn nói chuyện trực tiếp với [quản lý](position) của bạn
+- [quản lý](position) của bạn đâu
+- gọi [trưởng nhóm](position) của bạn ra đây
+- làm ơn gọi [trưởng nhóm](position) dùm tôi nhé
+- [trưởng nhóm](position) bên bạn đâu hết rồi
+- gọi giúp tôi phòng [kỹ thuật](dest)
+- tôi cần gặp [nhân viên](position) [kỹ thuật](dest) ngay bây giờ
+- gọi cho [kỹ thuật](dest) đi
+- liên lạc giúp tôi với phòng [nhân sự](dest)
+- gọi cho tôi bộ phận [nhân sự]](dest)
+- liên lạc giúp tôi với [nhân viên](position) [nhân sự](dest)
+- tôi cần gọi cho phòng [kinh doanh](dest)
+- tôi cần gọi cho [nhân viên](position) [kinh doanh](dest)
+- làm ơn gọi cho tôi bộ phận [kinh doanh](dest) và [nhân viên](position) [bảo vệ](dest) đến gấp
+- hãy gọi giúp tôi [bảo vệ](dest) đến ngay bây giờ
+- hãy gọi giúp tôi bộ phận [bảo vệ](dest) đến ngay bây giờ
+- gọi cho tôi ngay khi [nhân viên](position) [hành chính](dest) tới
+- tôi cần gọi [nhân viên](position) [hành chính](dest) đến kiểm tra
+- lập tức gọi cho tôi một [nhân viên](position) [hành chính](dest) đến
+- lập tức gọi cho tôi một [nhân viên](position) của [ban quản trị](dest) đến
+- tôi cần [nhân viên](position) của [ban quản trị](dest) đến đây ngay
+
+## lookup:position
+- nhân viên
+- giám đốc
+- phó phòng
+- trưởng phòng
+- chủ tịch
+- phó giám đốc
+- thư ký
+- quản lý
+- trưởng nhóm
+
+## lookup:dest
+- kỹ thuật
+- nhân sự
+- kinh doanh
+- bảo vệ
+- hành chính
+- ban quản trị
+
+## intent:scale_company
+- công ty bên bạn có lớn không
+- giới thiệu quy mô của công ty bạn đi
+- công ty bạn có lớn không
+- quy mô công ty bạn có lớn không
+- công ty bạn có bao nhiêu chi nhánh
+- số chi nhánh của công ty bạn
+- bạn có biết công ty bạn có lớn không
+- bạn có biết quy mô công ty bạn có lớn không
+- bạn có biết công ty bạn có bao nhiêu chi nhánh
+- bạn có biết số chi nhánh của công ty bạn
+- công ty chỗ bạn làm có bự không
+- công ty chỗ bạn làm có to không
+- bạn có chi nhánh ở nước ngoài không
+- số chi nhánh trong và ngoài nước của bạn là bao nhiêu
+- bạn có mặt ở bên nước ngoài không
+- công ty chỗ bạn làm có chi nhánh nước ngoài không
+- số lượng nhà phân phối của bạn có nhiều không
+- bạn có nhiều nhà phân phối trong vòng ngoài nước không
+- công ty bạn có bao nhiêu người
+- công ty bạn có nhiều người làm không
+- công ty bạn có bao nhiêu lập trình viên
+- bạn có thể nói về quy mô công ty bạn được không
+- công ty bạn rộng như thế nào
+- công ty bạn lớn như thế nào
+
+## intent:working_hours_company
+- giờ làm việc của công ty
+- công ty làm việc từ mấy giờ tới mấy giờ
+- mấy giờ thì công ty bạn mở cửa
+- công ty đóng cửa khi nào
+- công ty có mở cửa vào ngày lễ không
+- ngày nghỉ công ty có mở cửa không
+- bạn có biết công ty bạn có mở cửa vào các ngày nghỉ lễ không
+- tôi không biết giờ mở cửa bên công ty bạn
+- bạn làm việc từ mấy giờ tới mấy giờ
+- nói tôi biết giờ làm việc của công ty gỗ
+- giờ hành chính bên bạn là mấy giờ
+- bạn mở và đóng cửa khi nào
+- khi nào chỗ bạn ở đóng cửa
+- tôi có thể đến công ty bạn vào hai giờ chiều nay không
+- tôi đến vào ngày thứ bảy hoặc chủ nhật có được không
+
+## intent:ask_for_help
+- bạn có thể giúp tôi được không
+- bạn có thể giúp tôi
+- bạn sẽ giúp tôi
+- bạn có thể giúp tôi một phút được không
+- bạn có thể giúp tôi một tay
+- bạn có thể vui lòng giúp tôi với
+- bạn có phiền khi chỉ cho tôi
+- có bất kỳ cơ hội của họ mà bạn có thời gian để
+- bạn vui lòng giải thích cho tôi
+- bạn có thể giúp tôi một việc được không
+- xin hãy giúp tôi với
+- bạn có thể
+- tôi đã tự hỏi nếu bạn có thể vui lòng chỉ cho tôi làm thế nào để
+- bạn có thời gian rảnh nào không
+- bạn có biết gì về
+- tôi đã có một vấn đề với. bạn có nghĩ rằng bạn có thể giúp tôi
+- nếu bạn không phiền, tôi thực sự có thể sử dụng sự trợ giúp của bạn với
+- nếu bạn không phiền, tôi thực sự cần sự giúp đỡ của bạn với
+- tôi biết bạn tốt với, và tôi thực sự có thể sử dụng một số trợ giúp.
+- tôi nghe nói bạn thực sự giỏi. là bất kỳ cơ hội của họ, bạn có thể giúp tôi?
+- có bất kỳ cơ hội nào của họ mà bạn có thể giúp tôi với tay không?
+- tôi nghe nói rằng bạn có rất nhiều kinh nghiệm và tôi thực sự có thể sử dụng sự giúp đỡ của bạn.
+- bạn có thể giúp tôi một việc được không
+
+## intent:thankyou
+- cảm ơn bạn
+- cảm ơn và tạm biệt bạn
+- bạn thật tuyệt vời
+- okay, cảm ơn bạn
+- ok cảm ơn bạn
+- cảm ơn bạn rất nhiều
+- nhờ ơn của bạn
+- cảm ơn sự giúp đỡ của bạn
+- nhờ bạn mà tôi đã trở nên như vậy
+- bạn thật là tốt
+
+## intent:ask_ai_feature
+- làm sao bạn hiểu được những gì tôi nói
+- làm cách nào để bạn hiểu người ta nói
+- sao mà bạn có thể hiểu được tôi nói
+- bạn suy nghĩ bằng cách nào
+- làm sao mà bạn có thể nghe được người ta nói
+- sao mà bạn hiểu được gì tôi nói vậy
+- sao bạn biết được người ta nói cái gì
+- làm sao bằng suy nghĩ được
+- bạn suy nghĩ bằng cách nào
+- bạn làm cách nào để suy nghĩ
+- sao bạn thông minh quá vậy
+- làm sao mà bạn thông minh quá vậy
+- sao mà bạn suy nghĩ được như người
+- làm cách nào mà bạn có thể suy nghĩ được như người
+- sao bạn hiểu được gì tôi nói
+- bạn suy nghĩ bằng cách nào mà hay quá vậy
+- tôi không biết cách mà bạn suy nghĩ
+- làm sao mà bạn hiểu được tôi
+- làm sao bạn hiểu được tôi nói gì
+- làm cách nào bạn hiểu gì người ta nói
+- bạn suy nghĩ bằng cách nào
+- sao mà bạn có thể hiểu được tôi nói
+- làm sao mà bạn có thể nghe được người ta nói
+- làm sao mà bạn có thể nghe được tôi nói
+- sao mà bạn hiểu được gì tai nói vậy
+- sao bạn biết được người ta nói cái gì
+- làm sao bạn bằng suy nghĩ được
+- bạn suy nghĩ bằng cách nào
+- bạn làm cách nào để suy nghĩ
+- sao bạn thông minh quá vậy
+- làm sao bạn thông minh quá vậy
+- sao mà bạn suy nghĩ được như người
+- làm cách nào mà bạn có thể suy nghĩ được như người
+- sao bạn hiểu được
+- bạn suy nghĩ bằng cách nào mà hay quá vậy
+- tôi không biết cách mà bạn suy nghĩ
+
+## intent:ask_name
+- bạn tên gì
+- bạn là ai
+- bạn tên gì
+- bạn là ai
+- bạn có tên không
+- tên bạn là gì vậy
+- tên của bạn là gì
+- bạn có tên không
+- bạn tên là gì vậy
+- bạn có tên không
+- tên của bạn là gì
+
+## intent:rude
+- địt bố
+- địt mẹ
+- đụ má
+- đụ mẹ
+- ngu
+- dốt
+- đần
+- đéo
+- địt bố mầy
+- địt mẹ mầy
+- đụ má mầy
+- đụ mẹ mầy
+- ngu quá
+- mầy ngu quá
+- mầy dốt quá
+- mầy đần quá
+- mầy khùng quá
+- khùng quá
+- con cặc
+- lồn má
+- cái lồn
+- lồn mẹ
+- lồn
+- cặc
+
+## intent:ask_country
+- bạn đến từ đâu
+- bạn ở đâu đến vậy
+- quê bạn ở đâu
+- bạn từ đâu đến
+- bạn đến từ đâu
+- nhà bạn ở đâu
+- quê hương bạn ở đâu
+- bạn từ nơi nào đến
+- đất nước bạn là đâu
+- nước bạn là nước nào
+- bạn ở nước nào
+- bạn có thể nói cho tôi biết đất nước của bạn
+
+- where are you
+- where are you from
+- which country do you from
+- where is your house
+- which country do you from
+- where is your hometown
+- where is your country
+- what is your home town
+
+## intent:inform_name
+- tên tôi là hòa
+- tên tôi là lê hòa
+- họ tên tôi là lê hòa
+- tôi họ lê, tên là hòa
+- gọi tôi là hòa
+- tên họ của tôi là lê hòa
+- hòa là tên của tôi
+- lê hòa là tên của tôi
+- hãy gọi tôi là hòa
+- gọi là hòa đi
+- cứ gọi là hòa là được
+- tên là hòa
+- tôi là hòa
+- tên đầy đủ của tôi là lê hòa
+
+## intent:inform_age
+- năm nay tôi [20](age)
+- tôi vừa tròn [21](age)
+- tôi năm nay [22](age)
+- tôi [23](age) tuổi
+- [24](age) tuổi
+- tôi được [25](age) tuổi rồi
+- tôi năm nay vừa tròn [26](age) tuổi
+- [30](age) ngày nữa là tôi tròn [27](age)
+- sang năm là tôi [28](age) rồi
+- đến tết là tôi được [29](age)
+- tính theo âm lịch là tôi được [30](age) tuổi
+- tôi năm nay lên [8](age) tuổi
+
+## regex:age
+- [2-9][0-9]|[1-9]
+
+## intent:inform_birth_year
+- tôi sinh năm [1995](birth_year)
+- sinh năm [1996](birth_year)
+- [1997](birth_year) là năm sinh của tôi
+- [1998](birth_year) là năm tôi sinh
+- năm sinh của tôi là [1999](birth_year)
+- tôi sinh ra năm [2000](birth_year)
+- năm sinh theo chứng minh là [1985](birth_year)
+
+## regex:birth_year
+- 1[8-9][0-9]{2}|20[0-1][0-9]
+
+## intent:inform_gender
+- tôi giới tính [nam](gender)
+- tôi là [nam](gender)
+- giới tính của tôi là [nam](gender)
+- giới tính là [nam](gender)
+- tôi giới tính [nữ](gender)
+- tôi là [nữ](gender)
+- giới tính của tôi là [nữ](gender)
+- giới tính là [nữ](gender)
+- tôi là một người [đàn ông](gender)
+- tôi là [đàn ông](gender)
+- tôi là một thằng [đàn ông](gender)
+- tôi là một người [đàn bà](gender)
+- tôi là [đàn bà](gender)
+- tôi là một con [đàn bà](gender)
+- tôi là một [chàng trai](gender)
+- tôi là một [cô gái](gender)
+- tôi giống [đực](gender)
+- tôi giống [cái](gender)
+- tôi là một [ông già](gender)
+- tôi là một [bà già](gender)
+- tôi là một [ông lão](gender)
+- tôi là một [bà lão](gender)
+- tôi là một [ông chú](gender)
+- tôi là một [bà cô](gender)
+- tôi là một [quý ông](gender)
+- gọi tôi là [quý ông](gender)
+- tôi là một [quý bà](gender)
+- gọi tôi là [quý bà](gender)
+- gọi tôi là [ông](gender)
+- gọi tôi là [bà](gender)
+
+## lookup:gender
+- nam
+- nữ
+- đàn ông
+- đàn bà
+- chàng trai
+- cô gái
+- đực
+- cái
+- ông già
+- bà già
+- ông lão
+- bà lão
+- ông chú
+- bà cô
+- ông
+- bà
+- quý ông
+- quý bà
+- quý cô
+
+## synonym:male
+- chàng trai
+- đàn ông
+- đực
+- ông già
+- ông lão
+- ông chú
+- ông
+- quý ông
+
+## synonym:female
+- cô gái
+- đàn bà
+- cái
+- bà già
+- bà lão
+- bà cô
+- bà
+- quý cô
+- quý bà
+
+## intent:ask_direction
+- làm ơn chỉ đường tôi tới cây [atm](place) gần nhất
+- tôi không biết cây nào [atm](place) ở quanh đây
+- bạn có thể chỉ đường tôi tới [sảnh tiếp tân](place) được không
+- tôi cần đến [sảnh tiếp tân](place) ngay bây giờ
+- [wc](place) ở đâu vậy
+- [wc](place) có ở gần đây không
+- có cây [quầy bán đồ ăn](place) nào gần đây không
+- đi tới [quầy bán đồ ăn](place) đi hướng nào vậy
+- đường nhanh nhất đi tới [căn tin](place)
+- có [căn tin](place) nào gần đây không, chỉ đường giúp tôi với
+- làm sao để đi lên [cầu thang lầu 3](place)
+- tôi muốn đi xuống [cầu thang lầu 3](place), làm thế nào đây
+- [lối thoát hiểm](place) gần nhất là ở đâu vậy
+- [lối thoát hiểm](place) đi hướng nào thế
+- đi hướng nào để lên [sân thượng](place)
+- tôi muốn lên tới [sân thượng](place)
+- tôi muốn đi xuống [tầng hầm](place)
+- tòa nhà này có [tầng hầm](place) không, chỉ tôi với
+- tôi cần đi [toilet](place) ngay bây giờ
+- bạn chỉ tôi đường tới [toilet](place) được không
+- [phòng khách](place) ở đâu vậy
+- [phòng khách](place) có ở gần đây không
+
+## lookup:place
+- atm
+- sảnh tiếp tân
+- cầu thang lầu 3
+- wc
+- phòng khách
+- quầy bán đồ ăn
+- căn tin
+- nhà vệ sinh
+- thang máy
+- cổng chính
+- lối thoát hiểm
+- sân thượng
+- tầng hầm
+- toilet

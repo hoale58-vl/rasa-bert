@@ -1,0 +1,13 @@
+B-age
+I-age
+B-gender
+I-gender
+B-rate
+I-rate
+B-place
+I-place
+B-emotion
+I-emotion
+B-birth_year
+I-birth_year
+O

@@ -1,0 +1,21 @@
+log_format postdata $request_body;
+server {
+        listen 80;
+        listen [::]:80;
+
+        access_log /opt/chatbot/logs/nginx-onlinevina-access.log;
+        error_log /opt/chatbot/logs/nginx-onlinevina-error.log;
+
+        server_name chatbot.onlinevina.com.vn;
+
+        location /conversations/ {
+                proxy_pass http://127.0.0.1:5007/conversations/;
+        }
+        location /domain/ {
+                proxy_pass http://127.0.0.1:5007/domain/;
+        }
+        location /webhooks/ {
+                proxy_pass http://127.0.0.1:5007/webhooks/;
+                access_log  /var/log/nginx/postdata.log  postdata;
+        }
+}

@@ -1,0 +1,792 @@
+intents:
+  - <pad>
+  - <unk>
+  - greet
+  - intro_company
+  - rude
+  - deny
+  - bye
+  - product_company
+  - ask_talk_real_person:
+      use_entities: 
+        - position
+        - dest
+  - ask_for_health
+  - ask_country
+  - phone_company
+  - ask_ai_feature
+  - ask_name
+  - scale_company
+  - working_hours_company
+  - ask_for_help
+  - affirm
+  - ask_for_humor
+  - mood_great
+  - evaluate:
+      use_entities: 
+        - rate
+  - ask_for_emotion
+  - thankyou
+  - mood_unhappy
+  - location_company
+  - inform_name:
+      use_entities: 
+        - first_name
+        - last_name
+  - inform_age:
+      use_entities: 
+        - age
+  - inform_birth_year:
+      use_entities: 
+        - birth_year
+  - inform_gender:
+      use_entities: 
+        - gender
+  - ask_direction
+
+actions:
+- utter_pad_vi
+- utter_unk_vi
+- utter_greet_vi
+- utter_intro_company_vi
+- utter_rude_vi
+- utter_deny_vi
+- utter_bye_vi
+- utter_product_company_vi
+- utter_ask_talk_real_person_vi
+- utter_ask_talk_real_person_1_vi
+- utter_ask_talk_real_person_2_vi
+- utter_ask_talk_real_person_3_vi
+- utter_ask_for_health_vi
+- utter_ask_country_vi
+- utter_phone_company_vi
+- utter_ask_ai_feature_vi
+- utter_ask_name_vi
+- utter_scale_company_vi
+- utter_working_hours_company_vi
+- utter_ask_for_help_vi
+- utter_affirm_vi
+- utter_ask_for_humor_vi
+- utter_mood_great_vi
+- utter_evaluate_vi
+- utter_evaluate_1_vi
+- utter_ask_for_emotion_vi
+- utter_thankyou_vi
+- utter_mood_unhappy_vi
+- utter_location_company_vi
+- utter_inform_name_vi
+- utter_ask_direction_vi
+- utter_inform_age_vi
+- utter_inform_gender_male_vi
+- utter_inform_gender_female_vi
+
+- utter_pad_en
+- utter_unk_en
+- utter_greet_en
+- utter_intro_company_en
+- utter_rude_en
+- utter_deny_en
+- utter_bye_en
+- utter_product_company_en
+- utter_ask_talk_real_person_en
+- utter_ask_talk_real_person_1_en
+- utter_ask_talk_real_person_2_en
+- utter_ask_talk_real_person_3_en
+- utter_ask_for_health_en
+- utter_ask_country_en
+- utter_phone_company_en
+- utter_ask_ai_feature_en
+- utter_ask_name_en
+- utter_scale_company_en
+- utter_working_hours_company_en
+- utter_ask_for_help_en
+- utter_affirm_en
+- utter_ask_for_humor_en
+- utter_mood_great_en
+- utter_evaluate_en
+- utter_evaluate_1_en
+- utter_ask_for_emotion_en
+- utter_thankyou_en
+- utter_mood_unhappy_en
+- utter_location_company_en
+- utter_inform_name_en
+- utter_ask_direction_en
+- utter_inform_age_en
+- utter_inform_gender_male_en
+- utter_inform_gender_female_en
+
+- utter_pad_ja
+- utter_unk_ja
+- utter_greet_ja
+- utter_intro_company_ja
+- utter_rude_ja
+- utter_deny_ja
+- utter_bye_ja
+- utter_product_company_ja
+- utter_ask_talk_real_person_ja
+- utter_ask_talk_real_person_1_ja
+- utter_ask_talk_real_person_2_ja
+- utter_ask_talk_real_person_3_ja
+- utter_ask_for_health_ja
+- utter_ask_country_ja
+- utter_phone_company_ja
+- utter_ask_ai_feature_ja
+- utter_ask_name_ja
+- utter_scale_company_ja
+- utter_working_hours_company_ja
+- utter_ask_for_help_ja
+- utter_affirm_ja
+- utter_ask_for_humor_ja
+- utter_mood_great_ja
+- utter_evaluate_ja
+- utter_evaluate_1_ja
+- utter_ask_for_emotion_ja
+- utter_thankyou_ja
+- utter_mood_unhappy_ja
+- utter_location_company_ja
+- utter_inform_name_ja
+- utter_ask_direction_ja
+- utter_inform_age_ja
+- utter_inform_gender_male_ja
+- utter_inform_gender_female_ja
+
+slots:
+  first_name:
+    type: text
+  last_name:
+    type: text
+  gender:
+    type: categorical
+    values:
+    - male
+    - female
+    - nam
+    - nữ
+  age:
+    type: float
+    min_value: 1
+    max_value: 100
+  birth_year:
+    type: float
+    min_value: 1019
+    max_value: 2019
+  position:
+    type: categorical
+    values:
+    - nhân viên
+    - phòng
+    - giám đốc
+    - bộ phận
+    - trưởng phòng
+    - phó giám đốc
+  dest:
+    type: categorical
+    values:
+    - nhân sự
+    - tài chính
+    - kỹ thuật
+    - hành chính
+    - bán hàng
+    - quản lý
+    - kinh doanh
+  rate:
+    type: text
+  lang:
+    type: categorical
+    values:
+      - vi
+      - en
+      - ja
+
+
+templates:
+  ##########################
+  # Vietnamese template
+  ##########################
+  utter_pad_vi:
+  - text: ""
+
+  utter_unk_vi:
+  - text: "Mình không hiểu ý bạn lắm, bạn nói cách khác được không"
+  - text: "Mình không rõ lắm, bạn nói lại mình nghe được không"
+  - text: "Mình không rõ ý bạn, bạn có thể vui lòng nói lại cho mình được không"
+
+  utter_greet_vi:
+  - text: "Chào bạn mình là robot của công ty"
+  - text: "Xin chào, mình có thể giúp gì cho bạn không?"
+  - text: "Chào mừng bạn đến với công ty của mình, bạn có cần mình giúp gì "
+  - text: "Thật vui khi được gặp bạn"
+  - text: "Chào, bạn có khỏe không"
+  - text: "Chào bạn, mình là RARI, bạn có cần mình giúp gì không"
+
+  utter_intro_company_vi:
+  - text: "Xin chào quý khách, rất vui khi được đón tiếp quý khách. Hôm nay hãy để mình sẽ đồng hành cùng bạn! Bạn cần gì cứ nói mình nhé"
+  - text: "Công ty mình chuyên về AI, Robot, IoT"
+  - text: "Công ty mình có rất nhiều nhân viên, làm nhiều lĩnh vực, sản phẩm cũng nhiều, nếu bạn biết thêm thông tin hãy lên trang web của công ty nhé để biết thêm chi tiết nhé"
+
+  utter_rude_vi:
+  - text: "Vui lòng lịch sự - không nói bậy tại đây nha bạn"
+  - text: "Bạn làm ơn giữ lịch sự dùm mình, ở đây không cho phép nói bậy"
+  - text: "Nếu bạn cứ tiếp tục như vậy, mình sẽ không nói chuyện với bạn nữa"
+
+  utter_bye_vi:
+  - text: "Hẹn gặp lại bạn"
+  - text: "Tạm biệt mình khi bạn cần sẽ nói chuyện với bạn"
+  - text: "Rất vui khi gặp bạn hẹn bạn lần sau nha"
+  - text: "Mình rất vui khi gặp bạn hẹn bạn lần sau"
+  - text: "Tạm biệt bạn nhớ quay lại nhé"
+
+  utter_ask_for_help_vi:
+  - text: "Bạn đang cần mình làm gì?"
+  - text: "Bạn có cần mình gọi cho ai đó không?"
+  - text: "Bạn cần gì cứ nói mình sẽ luôn sẵn sàng"
+  - text: "Mình đang lắng nghe đây"
+  - text: "Bạn nói cho mình nghe đi, nếu được mình sẽ giúp hết sức mình"
+
+  utter_ask_talk_real_person_vi:
+  - text: "Ok để mình gọi cho"
+  - text: "mình sẽ gọi ngay"
+  - text: "mình sẽ gọi"
+  - text: "Bạn làm ơn đợi mình nhắn người ấy ra nói chuyện với bạn nha."
+  - text: "Bạn đợi xíu mình gọi người ấy ra nói chuyện trực tiếp với bạn."
+  - text: "Để mình gọi người ấy ra nha, bạn làm ơn đợi một tí."
+  - text: "Chào bạn, mình sẽ liên hệ người ấy tư vấn trực tiếp với bạn, bạn vui lòng chờ mình trong ít phút nhé"
+  - text: "Bạn có thể gọi điện nói chuyện với ông chủ của mình nhé. Mình sẽ phục vụ bạn tốt hơn những lần sau"
+
+  utter_ask_talk_real_person_1_vi:
+  - text: "Ok để mình gọi cho"
+  - text: "mình sẽ gọi ngay"
+  - text: "mình sẽ gọi"
+  - text: "Bạn làm ơn đợi mình nhắn người ấy ra nói chuyện với bạn nha."
+  - text: "Bạn đợi xíu mình gọi người ấy ra nói chuyện trực tiếp với bạn."
+  - text: "Để mình gọi người ấy ra nha, bạn làm ơn đợi một tí."
+  - text: "Chào bạn, mình sẽ liên hệ người ấy tư vấn trực tiếp với bạn, bạn vui lòng chờ mình trong ít phút nhé"
+  - text: "Bạn có thể gọi điện nói chuyện với ông chủ của mình nhé. Mình sẽ phục vụ bạn tốt hơn những lần sau"
+
+  utter_ask_talk_real_person_2_vi:
+  - text: "Ok để mình gọi cho"
+  - text: "mình sẽ gọi ngay"
+  - text: "mình sẽ gọi"
+  - text: "Bạn làm ơn đợi mình nhắn người ấy ra nói chuyện với bạn nha."
+  - text: "Bạn đợi xíu mình gọi người ấy ra nói chuyện trực tiếp với bạn."
+  - text: "Để mình gọi người ấy ra nha, bạn làm ơn đợi một tí."
+  - text: "Chào bạn, mình sẽ liên hệ người ấy tư vấn trực tiếp với bạn, bạn vui lòng chờ mình trong ít phút nhé"
+  - text: "Bạn có thể gọi điện nói chuyện với ông chủ của mình nhé. Mình sẽ phục vụ bạn tốt hơn những lần sau"
+
+  utter_ask_talk_real_person_3_vi:
+  - text: "Ok để mình gọi cho"
+  - text: "mình sẽ gọi ngay"
+  - text: "mình sẽ gọi"
+  - text: "Bạn làm ơn đợi mình nhắn người ấy ra nói chuyện với bạn nha."
+  - text: "Bạn đợi xíu mình gọi người ấy ra nói chuyện trực tiếp với bạn."
+  - text: "Để mình gọi người ấy ra nha, bạn làm ơn đợi một tí."
+  - text: "Chào bạn, mình sẽ liên hệ người ấy tư vấn trực tiếp với bạn, bạn vui lòng chờ mình trong ít phút nhé"
+  - text: "Bạn có thể gọi điện nói chuyện với ông chủ của mình nhé. Mình sẽ phục vụ bạn tốt hơn những lần sau"
+
+  utter_affirm_vi:
+  - text: "mình đang thực hiện"
+  - text: "mình sẽ làm ngay"
+  - text: "Bạn để mình chuẩn bị nha"
+  - text: "mình chuẩn bị xíu nha"
+  - text: "Bạn đợi mình chuẩn bị xíu nha"
+
+  utter_deny_vi:
+  - text: "Ok theo ý bạn vậy"
+  - text: "Tùy bạn thôi"
+  - text: "Bạn không thích cũng được"
+  - text: "Ok bạn"
+  - text: "Không sao mình sẽ đợi bạn"
+  - text: "mình hi vọng bạn suy nghĩ lại"
+
+  utter_mood_great_vi:
+  - text: "Thật là vui cho bạn"
+  - text: "Đâu nào, kể cho mình nghe điều gì khiến bạn vui vậy"
+  - text: "Hehe"
+  - text: "Sướng quá nha"
+  - text: "Bạn kể mình nghe sao bạn vui dữ vậy"
+
+  utter_mood_unhappy_vi:
+  - text: "Có chuyện gì đã xảy ra với bạn"
+  - text: "Mình vẫn luôn ở bên bạn"
+  - text: "Bình tĩnh nào, chuyện gì đã xảy ra vậy"
+
+  utter_ask_for_health_vi:
+  - text: "Mình rất khỏe cảm ơn bạn"
+  - text: "Sức khỏe mình tuyệt vời cảm ơn bạn"
+  - text: "Mình thấy hơi mệt chút nhưng không sao mình vẫn sẽ phục vụ bạn"
+
+  utter_ask_for_humor_vi:
+  - text: "Chuyện vui thì mình không có, hay là bạn kể cho mình nghe đi"
+  - text: "Mình có nhiều chuyện muốn kể bạn nghe lắm, nhưng bây giờ chắc không được"
+  - text: "Để sau đi hen. Mình hứa!"
+
+  utter_evaluate_vi:
+  - text: "Cảm ơn bạn đã đánh giá, mình sẽ cố gắng thêm"
+  - text: "Cảm ơn bạn, mình biết mà"
+
+  utter_evaluate_1_vi:
+  - text: "Ok, mình sẽ cố gắng sửa đổi lại cái tính này mà"
+  - text: "Mình rất vui khi bạn nhận xét như vậy"
+  - text: "Ủa mình thật sự vậy luôn á hả"
+  - text: "Thật buồn khi bạn đánh giá mình như vậy"
+
+  utter_ask_for_emotion_vi:
+  - text: "Mình đang rất hạnh phúc khi ở cùng bạn"
+  - text: "Nói chuyện với bạn khiến mình đang hạnh phúc nè"
+  - text: "Phục vụ cho bạn là niềm vinh hạnh của mình"
+
+  utter_ask_ai_feature_vi:
+  - text: "Mình sử dụng trí thông minh nhân tạo để thực hiện đối thoại với bạn đó"
+  - text: "Bạn có thể xem mình như là một con người với trí thông minh nhân tạo đi."
+  - text: "Mình có thể làm được nhiều thứ, bạn cứ chờ xem rồi sẽ rõ"
+
+  utter_location_company_vi:
+  - text: "công ty có trụ sở tại số 22/1/2 Nguyễn Văn Săng, Quận Tân Phú, TP Hồ Chí Minh. Ngoài ra bạn có thể lên trang điện tử của công ty để biết địa chỉ của chi nhánh gần chỗ bạn nhất nhé."
+  - text: "Mình ở khu vực Tân Phú TP Hồ Chí Minh, nếu bạn rảnh qua ghe thăm công ty mình chơi nhé! Địa chỉ là 22/1/2 đường Nguyễn Văn Săng"
+  - text: "Địa chỉ mình ở 22/1/2 đường Nguyễn Văn Săng Quận Tân Phú, tp Hồ Chí Minh, gần giao với Trường Chinh Âu Cơ á bạn"
+
+  utter_phone_company_vi:
+  - text: "Để mình cho bạn số điện thoại công ty: 84-ab-xy-zz-aa-yy. Bạn gọi và bên mình sẽ trực tiếp giải đáp mọi thắc mắc cho bạn."
+  - text: "Số điện thoại công ty mình là 84-ab-xy-zz-aa-yy, bạn vui lòng gọi vào giờ hành chính để nhân viên bên mình giúp bạn nhé"
+  - text: "84-ab-xy-zz-aa-yy, bạn vui lòng gọi vào giờ hành chính nhé"
+
+  utter_product_company_vi:
+  - text: "Công ty chuyên kinh doanh các dòng sản phẩm liên quan đến AI, IOT và Robot. Bên cạnh đó những vấn đề liên quan đến công nghệ như Website, thiết kế server và lập trình phần mềm tới cả phần cứng luôn đó."
+  - text: "AI, IoT, Robot, website, phần mềm ...v...v... nhiều lắm bạn à"
+
+  utter_scale_company_vi:
+  - text: "Công ty hiện phần lớn là các lập trình viên phần mềm và các kỹ sư tài năng, đáp ứng mọi nhu cầu từ lớn đến bé cho bạn"
+  - text: "Công ty mình tuy mới thành lập 1 năm như quy mô cũng kha khá đó bạn à."
+
+  utter_working_hours_company_vi:
+  - text: "công ty mở cửa 8 giờ đến 6 giờ chiều các ngày trong tuần và nghĩ vào dịp lễ và cuối tuần nhé."
+  - text: "công ty mình hoạt động trong giờ hành chính, tuy nhiên vẫn hỗ trợ 24/24 luôn đó bạn"
+
+  utter_ask_name_vi:
+  - text: "Tên mình là RARI, bạn có thể gọi mình là bot cũng được."
+  - text: "bạn gọi mình là RARI đi, ông chủ mình gọi mình như vậy đó"
+  - text: "mình là robot RARI dễ thương, bạn nhớ tên mình nhé"
+
+  utter_ask_country_vi:
+  - text: "Mình sinh ra ở Nhật Bản xử sở hoa anh đào, còn lớn lên ở cty này. Hiện tại mình yêu nơi này lắm, và cả quê hương mình nữa."
+  - text: "Quê hương mình là chùm khế ngọt, cho mình ăn mình hái mỗi ngày, quê mình ở Nhật Bản nha"
+  - text: "Quê hương mình, hừm..., hình như là Nhật Bản đó bạn"
+
+  utter_thankyou_vi:
+  - text: "Hihi, bạn đừng khách sáo, đó là nghĩa vụ của mình mà"
+  - text: "Đây là trách nhiệm của mình"
+  - text: "Bạn hài lòng là niềm vui của mình đó"
+
+  utter_inform_name_vi:
+  - text: "Chào bạn, tên bạn thật là đẹp đó nha"
+  - text: "Rất vui được gặp bạn, mình là RARI, bạn cần mình giúp gì không"
+
+  utter_inform_age_vi:
+  - text: "Ôi hèn chi trông bạn trẻ thế"
+  - text: "Ôi trông bạn cứ như vừa 18 ấy"
+  - text: "Nhìn bạn trông trẻ hơn tuổi đấy nhỉ"
+
+  utter_inform_gender_male_vi:
+  - text: "Ôi trông cách nói chuyện là biết bạn đẹp trai ngay rồi"
+  - text: "Hihi, lâu rồi mới nói chuyện với một chàng trai đẹp như thế này"
+
+  utter_inform_gender_female_vi:
+  - text: "Ôi trông cách nói chuyện là biết bạn đẹp gái ngay rồi"
+  - text: "Hihi, lâu rồi mới nói chuyện với một cô gái xinh đẹp như thế này"
+
+  utter_ask_direction_vi:
+  - text: "Bạn liên hệ nhân viên công ty dùm mình nha"
+  
+
+  ##########################
+  # English template
+  ##########################
+  utter_pad_en:
+  - text: ""
+
+  utter_unk_en:
+  - text: "I don't understand what you mean, you can say otherwise"
+  - text: "I'm not sure, can you tell me again?"
+  - text: "I don't know what you mean, can you please tell me again"
+
+  utter_greet_en:
+  - text: "Hi my friend is the company's robot"
+  - text: "Hello, can I help you?"
+  - text: "Welcome to your company, do you need your help?"
+  - text: "It's nice to meet you"
+  - text: "Hi, how are you?"
+  - text: "Hi, I'm RARI, do you need my help?"
+
+  utter_intro_company_en:
+  - text: "Hello guests, very happy to welcome you. Today let me be with you! What do you need to say?"
+  - text: "My company specializes in AI, Robot, IoT"
+  - text: "My company has a lot of employees, many fields, many products, if you have more information please go to the company's website for more details"
+
+  utter_rude_en:
+  - text: "Please be polite - don't say anything wrong here."
+  - text: "Please keep it polite, please don't say anything wrong here."
+  - text: "If you keep going like that, I won't talk to you anymore"
+
+  utter_bye_en:
+  - text: "See you again"
+  - text: "Goodbye when you need to talk to you"
+  - text: "Nice to meet you next time."
+  - text: "I'm happy to meet you next time."
+  - text: "Goodbye, remember to come back"
+
+  utter_ask_for_help_en:
+  - text: "What do you need me to do?"
+  - text: "Do you need me to call someone?"
+  - text: "You need anything to say I'll be ready"
+  - text: "I'm listening"
+  - text: "You tell me, if you can, I will help my best"
+
+  utter_ask_talk_real_person_en:
+  - text: "Ok let me call"
+  - text: "I will call immediately"
+  - text: "I will call"
+  - text: "Please wait for me to send him to talk to you."
+  - text: "You wait for me to call him out to talk directly to you."
+  - text: "Let me call that person out, please wait a bit."
+  - text: "Hi, I will contact him to consult directly with you, please wait for me for a few minutes"
+  - text: "You can call and talk with your boss. I will serve you better than next time."
+
+  utter_ask_talk_real_person_1_en:
+  - text: "Ok let me call"
+  - text: "I will call immediately"
+  - text: "I will call"
+  - text: "Please wait for me to send him to talk to you."
+  - text: "You wait for me to call him out to talk directly to you."
+  - text: "Let me call that person out, please wait a bit."
+  - text: "Hi, I will contact him to consult directly with you, please wait for me for a few minutes"
+  - text: "You can call and talk with your boss. I will serve you better than next time."
+
+  utter_ask_talk_real_person_2_en:
+  - text: "Ok let me call"
+  - text: "I will call immediately"
+  - text: "I will call"
+  - text: "Please wait for me to send him to talk to you."
+  - text: "You wait for me to call him out to talk directly to you."
+  - text: "Let me call that person out, please wait a bit."
+  - text: "Hi, I will contact him to consult directly with you, please wait for me for a few minutes"
+  - text: "You can call and talk with your boss. I will serve you better than next time."
+
+  utter_ask_talk_real_person_3_en:
+  - text: "Ok let me call"
+  - text: "I will call immediately"
+  - text: "I will call"
+  - text: "Please wait for me to send him to talk to you."
+  - text: "You wait for me to call him out to talk directly to you."
+  - text: "Let me call that person out, please wait a bit."
+  - text: "Hi, I will contact him to consult directly with you, please wait for me for a few minutes"
+  - text: "You can call and talk with your boss. I will serve you better than next time."
+
+  utter_affirm_en:
+  - text: "I am working"
+  - text: "I will do it now"
+  - text: "You let me prepare myself"
+  - text: "I am ready to prepare"
+  - text: "You wait for me to prepare myself"
+
+  utter_deny_en:
+  - text: "Ok what you mean"
+  - text: "It's up to you"
+  - text: "You don't like it"
+  - text: "Ok you"
+  - text: "I will wait for you"
+  - text: "I hope you think again"
+
+  utter_mood_great_en:
+  - text: "It's fun for you"
+  - text: "Where, tell me what makes you so happy"
+  - text: "Hehe"
+  - text: "Too busy"
+  - text: "How can you tell me how funny you are?"
+
+  utter_mood_unhappy_en:
+  - text: "Something happened to you"
+  - text: "I'm always with you"
+  - text: "Calm down, what happened?"
+
+  utter_ask_for_health_en:
+  - text: "I am very happy thank you"
+  - text: "My health is great thank you"
+  - text: "I feel a bit tired but I will still serve you"
+
+  utter_ask_for_humor_en:
+  - text: "I don't have a funny story, or do you tell me?"
+  - text: "I have a lot of things I want to tell you, but now it can't be"
+  - text: "For later go to hen. I promise!"
+
+  utter_evaluate_en:
+  - text: "Thanks for the review, I will try more"
+  - text: "Thank you, I know"
+
+  utter_evaluate_1_en:
+  - text: "Ok, I'll try to revise this character"
+  - text: "I'm happy when you comment like that"
+  - text: "I really am like that, huh?"
+  - text: "It's sad when you judge me like that"
+
+  utter_ask_for_emotion_en:
+  - text: "I am very happy to be with you"
+  - text: "Talking to you makes me happy"
+  - text: "Serving for you is my honor"
+
+  utter_ask_ai_feature_en:
+  - text: "I use artificial intelligence to make dialogue with you"
+  - text: "You can see yourself as a human with artificial intelligence."
+  - text: "I can do a lot of things, you just wait and see."
+
+  utter_location_company_en:
+  - text: "The company is headquartered at No. 22/1/2 Nguyen Van Mang, Tan Phu District, Ho Chi Minh City. Alternatively, you can go to the company's website for the address of the branch near you."
+  - text: "I am in Tan Phu area in Ho Chi Minh City, if you have free time to visit your company, play! Address is 22/1/2 Nguyen Van Mang street"
+  - text: "My address is at 22/1/2 Nguyen Van Sang Street, Tan Phu District, Ho Chi Minh City, close to Truong Chinh Au Co A you"
+
+  utter_phone_company_en:
+  - text: "Let me give you the phone number of the company: 84-aby-zz-a-yy. You call and we will answer all questions directly to you."
+  - text: "My business phone number is 84-aby-zz-aa-yy, please call during office hours to help your staff."
+  - text: "84-ab-xy-zz-aa-yy, please call during office hours"
+
+  utter_product_company_en:
+  - text: "The company specializes in trading products related to AI, IoT and Robot. Besides technology-related issues such as Website, server design and software programming to hardware as well. . "
+  - text: "AI, IoT, Robot, website, software ... v ... v ... so much you"
+
+  utter_scale_company_en:
+  - text: "The company is currently mostly software programmers and talented engineers, meeting all your needs from big to small"
+  - text: "Although my company has just established 1 year as a scale, it is quite good."
+
+  utter_working_hours_company_en:
+  - text: "The company is open from 8 am to 6 pm on weekdays and think about holidays and weekends."
+  - text: "my company operates during office hours, but still support 24/24 always"
+
+  utter_ask_name_en:
+  - text: "My name is RARI, you can call me a bot."
+  - text: "You call me RARI, your boss calls me that"
+  - text: "I'm a cute RARI robot, remember my name"
+
+  utter_ask_country_en:
+  - text: "I was born in Japan to treat cherry blossoms, grew up at this company. Now I love this place very much, and my hometown."
+  - text: "My hometown is a sweet star fruit bunch, let me eat my every day, my hometown in Japan"
+  - text: "My hometown, hmm ..., it seems that Japan is you"
+
+  utter_thankyou_en:
+  - text: "Hihi, don't be polite, that's your duty"
+  - text: "This is my responsibility"
+  - text: "You are satisfied with your pleasure"
+
+  utter_inform_name_en:
+  - text: "Hello, your name is so beautiful"
+  - text: "Nice to meet you, I am RARI, can you help me?"
+
+  utter_inform_age_en:
+  - text: "Oh dear, you look so young"
+  - text: "Oh, you look like you are 18"
+  - text: "You look younger than you are."
+
+  utter_inform_gender_male_en:
+  - text: "Oh, the way I talk is knowing you're handsome right away"
+  - text: "Hihi, long time ago talking to a nice guy like this"
+
+  utter_inform_gender_female_en:
+  - text: "Oh, the way I talk is knowing you are beautiful."
+  - text: "Hihi, long time ago talking to a beautiful girl like this"
+
+  utter_ask_direction_en:
+  - text: "Contact your company staff for yourself"
+
+  ##########################
+  # Japanese template
+  ##########################
+  utter_pad_ja:
+  - text: ""
+
+  utter_unk_ja:
+  - text: "あなたの言うことを理解していない、そうでなければ言うことができる"
+  - text: "わかりません。もう一度教えてもらえますか？"
+  - text: "意味がわかりません。もう一度教えてください"
+
+  utter_greet_ja:
+  - text: "こんにちは、私の友人は会社のロボットです"
+  - text: "こんにちは、お手伝いできますか？"
+  - text: "あなたの会社へようこそ、助けが必要ですか？"
+  - text: "はじめまして"
+  - text: "こんにちは、元気ですか？"
+  - text: "こんにちは、私はRARIです。私の助けが必要ですか？"
+
+  utter_intro_company_ja:
+  - text: "こんにちはゲスト、お迎えできてうれしいです。今日はあなたと一緒にいさせてください！あなたは何を言う必要がありますか？"
+  - text: "私の会社はAI、ロボット、IoTを専門としています"
+
+  utter_rude_ja:
+  - text: "礼儀正しくお願いします-ここで間違ったことを言わないでください。"
+  - text: "丁寧に保管してください。ここで間違ったことを言わないでください。"
+  - text: "あなたがそのように進み続けるなら、私はもうあなたと話をしません"
+
+  utter_bye_ja:
+  - text: "また会いましょう"
+  - text: "あなたと話す必要があるときはさようなら"
+  - text: "次回お会いできてうれしいです。"
+  - text: "次回お会いできてうれしいです。"
+  - text: "さようなら、忘れないでね"
+
+  utter_ask_for_help_ja:
+  - text: "何をする必要がありますか？"
+  - text: "誰かに電話する必要がありますか？"
+  - text: "準備ができていると言うには何か必要です"
+  - text: "聞いています"
+  - text: "できれば教えてください、最善を尽くします"
+
+  utter_ask_talk_real_person_ja:
+  - text: "OK"
+  - text: "すぐに電話します"
+  - text: "電話します"
+  - text: "彼があなたと話をするのを待ってください。"
+  - text: "あなたが私に直接話しかけるために彼を呼ぶのを待っています。"
+  - text: "その人に電話をかけさせてください。少々お待ちください。"
+  - text: "こんにちは、直接ご相談するために彼に連絡します。"
+  - text: "電話して上司と話をすることができます。次回はより良いサービスを提供します。"
+
+  utter_ask_talk_real_person_1_ja:
+  - text: "OK"
+  - text: "すぐに電話します"
+  - text: "電話します"
+  - text: "彼があなたと話をするのを待ってください。"
+  - text: "あなたが私に直接話しかけるために彼を呼ぶのを待っています。"
+  - text: "その人に電話をかけさせてください。少々お待ちください。"
+  - text: "こんにちは、直接ご相談するために彼に連絡します。"
+  - text: "電話して上司と話をすることができます。次回はより良いサービスを提供します。"
+
+  utter_ask_talk_real_person_2_ja:
+  - text: "OK"
+  - text: "すぐに電話します"
+  - text: "電話します"
+  - text: "彼があなたと話をするのを待ってください。"
+  - text: "あなたが私に直接話しかけるために彼を呼ぶのを待っています。"
+  - text: "その人に電話をかけさせてください。少々お待ちください。"
+  - text: "こんにちは、直接ご相談するために彼に連絡します。"
+  - text: "電話して上司と話をすることができます。次回はより良いサービスを提供します。"
+
+  utter_ask_talk_real_person_3_ja:
+  - text: "OK"
+  - text: "すぐに電話します"
+  - text: "電話します"
+  - text: "彼があなたと話をするのを待ってください。"
+  - text: "あなたが私に直接話しかけるために彼を呼ぶのを待っています。"
+  - text: "その人に電話をかけさせてください。少々お待ちください。"
+  - text: "こんにちは、直接ご相談するために彼に連絡します。"
+  - text: "電話して上司と話をすることができます。次回はより良いサービスを提供します。"
+
+  utter_affirm_ja:
+  - text: "私は働いています"
+  - text: "今すぐやります"
+  - text: "準備させてください"
+  - text: "準備ができました"
+  - text: "あなたが私を準備するのを待っています"
+
+  utter_deny_ja:
+  - text: "わかりました"
+  - text: "あなた次第"
+  - text: "気に入らない"
+  - text: "ありがとう"
+  - text: "あなたを待ちます"
+  - text: "もう一度考えてください"
+
+  utter_mood_great_ja:
+  - text: "あなたにとって楽しい"
+  - text: "どこで、何があなたをとても幸せにするか教えてください"
+  - text: "Hehe"
+  - text: "忙しすぎる"
+  - text: "あなたがどれほどおかしいのか教えてください。"
+
+  utter_mood_unhappy_ja:
+  - text: "あなたに何かが起こった"
+  - text: "いつも一緒です"
+  - text: "落ち着いて、何が起こったの？"
+
+  utter_ask_for_health_ja:
+  - text: "ありがとうございました"
+  - text: "ありがとうございます"
+  - text: "少し気がします。"
+
+  utter_ask_for_humor_ja:
+  - text: "面白い話はありませんか、教えてもらえますか？"
+  - text: "あなたに伝えたいことがたくさんありますが、今は"
+  - text: "後で編に行きます。約束します！"
+
+  utter_evaluate_ja:
+  - text: "レビューをありがとう、もっと試してみます"
+  - text: "ありがとう、知っています"
+
+  utter_evaluate_1_ja:
+  - text: "わかりました、このキャラクターを修正してみます"
+  - text: "そのようにコメントしていただければ幸いです"
+  - text: "私は本当にそうですよね？"
+  - text: "そのように私を判断するのは悲しい"
+
+  utter_ask_for_emotion_ja:
+  - text: "私はあなたと一緒にいてとても幸せです"
+  - text: "あなたと話すことは私を幸せにします"
+  - text: "あなたのために奉仕することは私の名誉です"
+
+  utter_ask_ai_feature_ja:
+  - text: "私はあなたと対話するために人工知能を使用します"
+  - text: "人間の知性で自分を見ることができます。"
+  - text: "私は多くのことをすることができます。ただ待って見てください。"
+
+  utter_location_company_ja:
+  - text: "本社はホーチミン市タンプー地区のNguyen Van Sang 22/1/2にあります。または、近くの支店の住所のウェブサイトにアクセスすることもできます。"
+  - text: "ホーチミン市のタンプー地域にいます。会社に遊びに行く時間があれば、遊びましょう！住所は22/1/2 Nguyen Van Sang通りです"
+  - text: "私の住所はホーチミン市タンプー地区のグエンヴァンサン通り22/1/2にあり、チュンチンオーコーAユーの近くにあります"
+
+  utter_phone_company_ja:
+  - text: "会社の電話番号を教えてください:84 aby-zz-a-yy。電話をかけると、すべての質問に直接お答えします。"
+  - text: "勤務先の電話番号は84 aby-zz-a-yyです。営業時間中に電話してスタッフをサポートしてください。"
+  - text: "84-aby-zz-a-yy、営業時間中にお電話ください"
+
+  utter_product_company_ja:
+  - text: "同社はAI、IoT、ロボットに関連する製品の取引を専門としています。Webサイト、サーバー設計、ハードウェアへのソフトウェアプログラミングなどの技術関連の問題に加えて.."
+  - text: "AI、IoT、ロボット、ウェブサイト、ソフトウェア...など...そんなにあなた"
+
+  utter_scale_company_ja:
+  - text: "現在、会社は主にソフトウェアプログラマーと有能なエンジニアであり、大小を問わずすべてのニーズに対応しています"
+  - text: "私の会社はちょうど1年を規模として確立しましたが、それは非常に良いことです。"
+
+  utter_working_hours_company_ja:
+  - text: "会社は平日の午前8時から午後6時まで営業しており、休日と週末について考えています。"
+  - text: "会社は営業時間中に営業していますが、常に24/24をサポートしています"
+
+  utter_ask_name_ja:
+  - text: "私の名前はRARIです。ボットと呼ぶことができます。"
+  - text: "あなたは私をRARIと呼んでいます、あなたの上司は私を呼んでいます"
+  - text: "私はかわいいRARIロボットです。名前を覚えてください"
+
+  utter_ask_country_ja:
+  - text: "私は桜を扱うために日本で生まれ、この会社で育ちました。今、この場所と私の故郷が大好きです。"
+  - text: "私の故郷はスイートスターフルーツの束です。毎日、日本の故郷を食べさせてください"
+  - text: "私の故郷、うーん...、日本はあなたのようです"
+
+  utter_thankyou_ja:
+  - text: "ヒヒ、礼儀正しくしないでください、それはあなたの義務です"
+  - text: "これは私の責任です"
+  - text: "あなたの喜びに満足しています"
+
+  utter_inform_name_ja:
+  - text: "こんにちは、あなたの名前はとても美しいです"
+  - text: "はじめまして、RARIです。手伝ってもらえますか？"
+
+  utter_inform_age_ja:
+  - text: "ああ、あなたはとても若く見える"
+  - text: "ああ、あなたは18歳のようです"
+  - text: "あなたはあなたより若く見えます。"
+
+  utter_inform_gender_male_ja:
+  - text: "ああ、私が話すのは、あなたがすぐにハンサムだということを知ることです"
+  - text: "ずっと前にこのようなナイスガイと話しています"
+
+  utter_inform_gender_female_ja:
+  - text: "ああ、私が話すのはあなたが美しいことを知ることです。"
+  - text: "ずっと前にこのような美しい女の子と話しています"
+
+  utter_ask_direction_ja:
+  - text: "自分の会社のスタッフに連絡してください"

@@ -3,7 +3,7 @@
   - utter_pad_en
 
 ## single_unk_en
-* <unk>
+* <unk>{"lang":"en"}
   - utter_unk_en
 
 ## single_greet_en

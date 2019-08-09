@@ -13,6 +13,7 @@ import rasa.utils.io
 class EntitySynonymMapper(EntityExtractor):
 
     provides = ["entities"]
+    requires = ["lang"]
 
     def __init__(
         self,
@@ -39,7 +40,8 @@ class EntitySynonymMapper(EntityExtractor):
     def process(self, message: Message, **kwargs: Any) -> None:
 
         updated_entities = message.get("entities", [])[:]
-        self.replace_synonyms(updated_entities)
+        lang = message.get("lang")
+        self.replace_synonyms(updated_entities, lang)
         message.set("entities", updated_entities, add_to_output=True)
 
     def persist(self, file_name: Text, model_dir: Text) -> Optional[Dict[Text, Any]]:
@@ -79,10 +81,12 @@ class EntitySynonymMapper(EntityExtractor):
             )
         return cls(meta, synonyms)
 
-    def replace_synonyms(self, entities):
+    def replace_synonyms(self, entities, lang):
         for entity in entities:
             # need to wrap in `str` to handle e.g. entity values of type int
             entity_value = str(entity["value"])
+            if lang in ['vi']:
+                entity_value = entity_value.replace("_", " ")
             if entity_value.lower() in self.synonyms:
                 entity["value"] = self.synonyms[entity_value.lower()]
                 self.add_processor_name(entity)

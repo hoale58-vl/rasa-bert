@@ -1,7 +1,6 @@
 from rasa.nlu.components import Component
 import typing
 from typing import Any, Optional, Text, Dict
-
 if typing.TYPE_CHECKING:
     from rasa.nlu.model import Metadata
 
@@ -17,7 +16,8 @@ from utils.bert_xlnet_inputs import prepare_inputs_for_bert_xlnet
 import itertools
 import numpy as np
 import re
-
+from .slot_nlu_train import SlotNluTrain
+from rasa.nlu.training_data.training_data import TrainingData
 
 emb_size = None
 hidden_size = 200 # 100, 200 
@@ -103,13 +103,36 @@ class XlnetBertNLU(Component):
         self.model_dir = os.path.join(os.path.dirname(__file__), "model")
         self.device = torch.device("cpu")
         self.pretrained_model_type = "bert" # bert, xlnet
-
-        self.ja_model = self.load_lang_model('ja')
-        self.vi_model = self.load_lang_model('vi')
-        self.en_model = self.load_lang_model('en')
+        self.intent_confidence = 0.3
+        self.intent_unk = "<unk>"
+        try:
+            self.ja_model = self.load_lang_model('ja')
+            self.vi_model = self.load_lang_model('vi')
+            self.en_model = self.load_lang_model('en')
+        except OSError as e:
+            print("Pass error : Please train this model before using - " + str(e))
 
     def train(self, training_data, cfg, **kwargs):
-        pass
+        multi_lang_training_data = self.splitMultiLang(training_data)
+        for lang in multi_lang_training_data:
+            print(lang)
+            lang_training_data = TrainingData(
+                multi_lang_training_data[lang],
+                entity_synonyms=training_data.entity_synonyms,
+                regex_features=training_data.regex_features,
+                lookup_tables=training_data.lookup_tables,
+            )
+            slotNluTrain = SlotNluTrain(lang_training_data, lang)
+            slotNluTrain.train()
+
+    def splitMultiLang(self, training_data):
+        multi_lang_training_data = {}
+        for example in training_data.training_examples:
+            if example.get("lang") not in multi_lang_training_data:
+                multi_lang_training_data[example.get("lang")] = [example]
+            else:
+                multi_lang_training_data[example.get("lang")].append(example)
+        return multi_lang_training_data
 
     def process(self, message, **kwargs):
         """Retrieve the tokens of the new message, pass it to the classifier
@@ -162,8 +185,14 @@ class XlnetBertNLU(Component):
 
         class_scores = lang_model.model_class(encoder_info_filter(encoder_info))
         snt_probs = class_scores.data.cpu().numpy()
+        
+        confidence = float(np.exp(snt_probs.max(axis=-1))[0])
+        if confidence < self.intent_confidence:
+            intent_name = lang_model.idx_to_class[snt_probs.argmax(axis=-1)[0]]
+            intent = {"name": self.intent_unk, "confidence": confidence, "cls_name": intent_name}
+        else:
+            intent = {"name": lang_model.idx_to_class[snt_probs.argmax(axis=-1)[0]], "confidence": confidence}
 
-        intent = {"name": lang_model.idx_to_class[snt_probs.argmax(axis=-1)[0]], "confidence": float(np.exp(snt_probs.max(axis=-1))[0])}
         message.set("intent", intent, add_to_output=True)
 
     def persist(self, file_name: Text, model_dir: Text) -> Optional[Dict[Text, Any]]:

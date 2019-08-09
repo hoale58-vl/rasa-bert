@@ -3,7 +3,7 @@
   - utter_pad_ja
 
 ## single_unk_ja
-* <unk>
+* <unk>{"lang":"ja"}
   - utter_unk_ja
 
 ## single_greet_ja

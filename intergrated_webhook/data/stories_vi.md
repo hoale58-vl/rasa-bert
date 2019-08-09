@@ -3,7 +3,7 @@
   - utter_pad_vi
 
 ## single_unk_vi
-* <unk>
+* <unk>{"lang":"vi"}
   - utter_unk_vi
 
 ## single_greet_vi

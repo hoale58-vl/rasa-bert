@@ -12,7 +12,6 @@ import rasa.utils.endpoints
 from rasa.core import utils
 
 from rasa.core.channels.channel import InputChannel, UserMessage, OutputChannel
-from . import api
 
 try:
     from urlparse import urljoin  # pytype: disable=import-error
@@ -162,7 +161,7 @@ class MultiLang(InputChannel):
         async def health(request: Request):
             return response.json({"status": "ok"})
 
-        @custom_webhook.route("/webhook", methods=["POST"])
+        @custom_webhook.route("/chat", methods=["POST"])
         async def receive(request: Request):
             sender_id = await self._extract_sender(request)
             text = self._extract_message(request)
@@ -197,30 +196,10 @@ class MultiLang(InputChannel):
                         "An exception occured while handling "
                         "user message '{}'.".format(text)
                     )
-                return response.json(collector.messages)
-
-        @custom_webhook.route("/intents", methods=["GET"])
-        async def intents(request: Request):
-            return response.json(api.list_intents())
-
-        @custom_webhook.route("/entities", methods=["GET"])
-        async def entities(request: Request):
-            return response.json(api.list_entities())
-
-        @custom_webhook.route("/actions", methods=["GET"])
-        async def actions(request: Request):
-            return response.json(api.list_actions())
-
-        @custom_webhook.route("/utter-msgs/<utter_name:utter_[\w]+>", methods=["GET"])
-        async def utters(request: Request, utter_name):
-            return response.json(api.list_utter_msgs(utter_name))
-
-        @custom_webhook.route("/stories", methods=["GET"])
-        async def stories(request: Request):
-            return response.json(api.list_stories())
-
-        @custom_webhook.route("/update/nlu", methods=["POST"])
-        async def update_nlu(request: Request):
-            return response.json(api.update_nlu(request.json))
+                if len(collector.messages) > 0:
+                    result = collector.messages[0]['text']
+                else:
+                    result = ''
+                return response.json({"result":result, "collector": collector})
 
         return custom_webhook

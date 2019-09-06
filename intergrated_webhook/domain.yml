@@ -577,7 +577,7 @@ templates:
 
   utter_inform_name_en:
   - text: "Hello, your name is so beautiful"
-  - text: "Nice to meet you, I am RARI, can you help me?"
+  - text: "Nice to meet you, I am RARI, can I help you?"
 
   utter_inform_age_en:
   - text: "Oh dear, you look so young"

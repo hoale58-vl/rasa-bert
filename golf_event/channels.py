@@ -7,12 +7,11 @@ from asyncio import Queue, CancelledError
 from sanic import Sanic, Blueprint, response
 from sanic.request import Request
 from typing import Text, List, Dict, Any, Optional, Callable, Iterable, Awaitable
-
 import rasa.utils.endpoints
 from rasa.core import utils
 
 from rasa.core.channels.channel import InputChannel, UserMessage, OutputChannel
-from . import api
+
 
 try:
     from urlparse import urljoin  # pytype: disable=import-error
@@ -162,7 +161,7 @@ class MultiLang(InputChannel):
         async def health(request: Request):
             return response.json({"status": "ok"})
 
-        @custom_webhook.route("/webhook", methods=["POST"])
+        @custom_webhook.route("/chat", methods=["POST"])
         async def receive(request: Request):
             sender_id = await self._extract_sender(request)
             text = self._extract_message(request)
@@ -197,30 +196,33 @@ class MultiLang(InputChannel):
                         "An exception occured while handling "
                         "user message '{}'.".format(text)
                     )
-                return response.json(collector.messages)
+                if len(collector.messages) > 0:
+                    result = collector.messages[0]['text']
+                else:
+                    result = ''
+                return response.json({"result":result, "collector": collector})
 
-        @custom_webhook.route("/intents", methods=["GET"])
-        async def intents(request: Request):
-            return response.json(api.list_intents())
+        @custom_webhook.route("/lang/change", methods=["POST"])
+        async def langChange(request: Request):
+            with open("config.json", "r+") as jsonFile:
+                data = json.load(jsonFile)
+                if request.json['lang'] in ["vi", "en", "ja"]:
+                    data["lang"] = request.json['lang']
+                else:
+                    return response.json({"status": False, "error":"Supported languages are vi, en and ja"})
 
-        @custom_webhook.route("/entities", methods=["GET"])
-        async def entities(request: Request):
-            return response.json(api.list_entities())
+                jsonFile.seek(0)  # rewind
+                json.dump(data, jsonFile)
+                jsonFile.truncate()
+            return response.json({"status": True})
 
-        @custom_webhook.route("/actions", methods=["GET"])
-        async def actions(request: Request):
-            return response.json(api.list_actions())
-
-        @custom_webhook.route("/utter-msgs/<utter_name:utter_[\w]+>", methods=["GET"])
-        async def utters(request: Request, utter_name):
-            return response.json(api.list_utter_msgs(utter_name))
-
-        @custom_webhook.route("/stories", methods=["GET"])
-        async def stories(request: Request):
-            return response.json(api.list_stories())
-
-        @custom_webhook.route("/update/nlu", methods=["POST"])
-        async def update_nlu(request: Request):
-            return response.json(api.update_nlu(request.json))
+        @custom_webhook.route("/lang/change", methods=["GET"])
+        async def getCurrentLang(request: Request):
+            with open("config.json", "r") as jsonFile:
+                data = json.load(jsonFile)
+                return response.json({"lang": data["lang"]})
+            return response.json({"lang": "not set"})
 
         return custom_webhook
+
+        

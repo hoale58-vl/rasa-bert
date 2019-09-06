@@ -38,20 +38,15 @@ class LangModel(object):
         self.model_class = None
         self.model_tag = None
 
-    
-
 class XlnetBertNLU(Component):
     name = "xlnet_bert_nlu"
     provides = ["intent", "entities"]
     requires = ["tokens"]
     defaults = {}
-    language_list = ["en", "vi", "jp"]
+    language_list = ["vi", "en"]
 
     def load_model(self, lang, tag_to_idx, class_to_idx):
-        if lang in ['ja']:
-            pretrained_model_name = "bert-base-multilingual-uncased"
-        else:
-            pretrained_model_name = "bert-base-uncased"
+        pretrained_model_name = "bert-base-uncased"
         MODEL_CLASSES = {
             'bert': (BertModel, BertTokenizer),
             'xlnet': (XLNetModel, XLNetTokenizer),
@@ -106,45 +101,19 @@ class XlnetBertNLU(Component):
         self.intent_confidence = 0.3
         self.intent_unk = "<unk>"
         try:
-            self.ja_model = self.load_lang_model('ja')
             self.vi_model = self.load_lang_model('vi')
-            self.en_model = self.load_lang_model('en')
         except OSError as e:
             print("Pass error : Please train this model before using - " + str(e))
 
     def train(self, training_data, cfg, **kwargs):
-        multi_lang_training_data = self.splitMultiLang(training_data)
-        for lang in multi_lang_training_data:
-            print(lang)
-            lang_training_data = TrainingData(
-                multi_lang_training_data[lang],
-                entity_synonyms=training_data.entity_synonyms,
-                regex_features=training_data.regex_features,
-                lookup_tables=training_data.lookup_tables,
-            )
-            slotNluTrain = SlotNluTrain(lang_training_data, lang)
-            slotNluTrain.train()
-
-    def splitMultiLang(self, training_data):
-        multi_lang_training_data = {}
-        for example in training_data.training_examples:
-            if example.get("lang") not in multi_lang_training_data:
-                multi_lang_training_data[example.get("lang")] = [example]
-            else:
-                multi_lang_training_data[example.get("lang")].append(example)
-        return multi_lang_training_data
+        slotNluTrain = SlotNluTrain(training_data)
+        slotNluTrain.train()
 
     def process(self, message, **kwargs):
         """Retrieve the tokens of the new message, pass it to the classifier
             and append prediction results to the message class."""
-
         tokens = [t.text for t in message.get("tokens")]
-        if message.get("lang") in ['ja']:
-            self.feed_model(self.ja_model, tokens, message)
-        elif message.get("lang") in ['vi']:
-            self.feed_model(self.vi_model, tokens, message)
-        elif message.get("lang") in ['en']:
-            self.feed_model(self.en_model, tokens, message)
+        self.feed_model(self.vi_model, tokens, message)
 
     def feed_model(self, lang_model, tokens, message):
         inputs = prepare_inputs_for_bert_xlnet([tokens], [len(tokens)], lang_model.tokenizer, 
@@ -174,13 +143,14 @@ class XlnetBertNLU(Component):
                     })
                 entity_value = tokens[idx] + " "
                 pre_entity = entity
+            
 
         if pre_entity != "O":
             entities.append({
                 "value" : entity_value.rstrip(),
                 "entity" : pre_entity
             })
-        self.compose_entities(entities, message.get("lang"))
+        entities = self.compose_entities(entities, message.get("lang"))
         message.set("entities", message.get("entities", []) + entities)
 
         class_scores = lang_model.model_class(encoder_info_filter(encoder_info))
@@ -215,30 +185,28 @@ class XlnetBertNLU(Component):
             return cls(meta)
 
     def compose_entities(self, entities, lang):
+        composed_entities = []
         self.begin_entity = False
         composed_entity = None
         for entity in entities:
             entity_value = str(entity["value"])
             entity_name = str(entity["entity"])
+            print(entity, bool(re.match(r"B-(.*)", entity_name)))
             if re.match(r"I-(.*)", entity_name):
                 if self.begin_entity:
-                    if lang in ['ja', 'zh-cn', 'zh']:
-                        composed_entity["value"] = str(composed_entity["value"]) + entity_value
-                    else:
-                        composed_entity["value"] = str(composed_entity["value"]) + " " + entity_value
+                    composed_entity["value"] = str(composed_entity["value"]) + " " + entity_value
                 else:
                     composed_entity = None
-                entities.remove(entity)
             elif re.match(r"B-(.*)", entity_name):
                 self.begin_entity = True
                 composed_entity = entity
                 composed_entity["entity"] = composed_entity["entity"][2:]
-                entities.remove(entity)
-                continue
             elif self.begin_entity and composed_entity is not None:
-                entities.append(composed_entity)
+                composed_entities.append(composed_entity)
                 self.begin_entity = False
                 composed_entity = None
 
         if self.begin_entity and composed_entity is not None:
-            entities.append(composed_entity)
+            composed_entities.append(composed_entity)
+
+        return composed_entities

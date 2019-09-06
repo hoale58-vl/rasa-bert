@@ -39,3 +39,13 @@
 #  username: username
 #  password: password
 #  queue: queue
+
+tracker_store:
+    type: SQL
+    dialect: "sqlite"  # the dialect used to interact with the db
+    db: "rasa.db"  # path to your db
+    username:  # username used for authentication
+    password:  # password used for authentication
+
+action_endpoint:
+    url: "http://localhost:5055/webhook"

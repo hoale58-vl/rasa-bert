@@ -1,7 +1,11 @@
 # Configuration for Rasa NLU.
 # https://rasa.com/docs/rasa/nlu/components/
 language: en
-pipeline: supervised_embeddings
+pipeline:
+- name: "components.lang_detect.LangDetect"
+- name: "components.tokenizer.MyTokenizer"
+- name: "components.xlnet_bert_nlu.XlnetBertNLU"
+- name: "components.entity_synonym.EntitySynonymMapper"
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/

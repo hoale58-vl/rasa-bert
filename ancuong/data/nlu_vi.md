@@ -1,0 +1,2099 @@
+## intent:ask_location
+- địa chỉ công ty bạn ở đâu
+- vị trí công ty bạn ở đâu
+- công ty bạn có vị trí ở đâu
+- công ty an cường có địa chỉ ở đâu
+- tôi không biết địa chỉ của công ty an cường
+- tôi không biết địa chỉ của công ty bạn
+- tôi muốn tìm đường đến công ty an cường
+- tôi muốn tìm đường đến công ty của bạn
+- chỉ tôi đường đi tới công ty an cường đi
+- vị trí của công ty an cường làm ở đâu
+- tôi không biết địa chỉ công ty bạn đang làm
+- nói tôi biết địa chỉ công ty bạn đang làm đi
+- nói tôi biết địa chỉ công ty gỗ an cường
+- vị trí công ty gỗ an cường
+- vị trí chỗ bạn làm
+- đường đi đến công ty gỗ an cường
+- đường đi đến công ty của bạn
+- trụ sở chính cty nằm ở đâu 
+- trụ sở chính cty ở địa chỉ nào
+
+- looking for your company location
+- i need some help to find your store
+- is there any store around me
+- what is the nearest branch
+- where are you location
+- address of your company
+- can you give me the location of your company
+- where is your company location
+- give me the location of your company
+- how do i get to your store
+- how do i get to use your showroom
+- tell me how to go to your company
+- i don't know how to go to your stores
+- where is your location
+- what is your address
+- address of your company
+- where is an cuong company
+- where is an cuong located 
+- show me the way to get to an cuong company
+- can you give me direction to an cuong company
+
+## intent:ask_phone
+- cho tôi số điện thoại đi
+- bạn có thể cho tôi số điện thoại của công ty không
+- tôi liên lạc với bạn bằng cách nào
+- làm sao để tôi liên hệ với công ty bạn
+- tôi muốn gọi cho công ty an cường thì sao
+- cho tôi xin số điện thoại của công ty an cường
+- cho tôi số điện thoại chỗ bạn làm
+- số điện thoại liên lạc của công ty là số mấy
+- tôi muốn gọi điện cho công ty của bạn
+- làm sao để gọi cho công ty gỗ an cường
+- bạn cho tôi xin số điện thoại ở đây nha
+- số điện thoại ở đây là bao nhiêu
+- đọc tôi số điện thoại ở đây với
+- đọc giúp tôi số điện thoại công ty gỗ an cường
+- cho tôi số điện thoại đi
+- bạn có thể cho tôi số điện thoại của công ty không
+- tôi liên lạc với bạn bằng cách nào
+- làm sao để tôi liên hệ với công ty bạn
+- tôi muốn gọi cho công ty an cường thì sao
+- cho tôi xin số điện thoại của công ty an cường
+- cho tôi số điện thoại chỗ bạn làm
+- số điện thoại liên lạc của công ty bạn là số mấy
+- tôi muốn gọi điện cho công ty của bạn thì sao
+- làm sao để gọi cho công ty gỗ an cường
+- bạn cho tôi xin số điện thoại ở đây nha
+- số điện thoại ở đây là bao nhiêu
+- đọc tôi số điện thoại ở đây với
+- đọc giúp tôi số điện thoại công ty gỗ an cường
+- liên hệ đặt hàng qua số điện thoại nào 
+- liên hệ mua hàng qua số điện thoại nào
+
+- please give me your phone number
+- may i have your phone number
+- how do i contact your company
+- what is your company phone number
+- i want to call an cuong wood company
+- please give me your company phone number
+- who can i call if i have a questions of your product
+- phone number
+- can i call you sometime so we can talk more
+- is there a number where i can reach you
+- is there way i can get in contact with you later
+- how can i contact you
+- how can we reach you
+- how can i reach you
+- is there a way for me to contact the company
+- i need the way for contact in touch
+- i need the way for keep in touch
+- tell me the number for me to keep in touch
+- is there a way for me to reach your staff
+- is there a way for me to reach your service
+- is there a way for me to reach your company
+- how can i keep in touch with your services
+- what is your service number 
+
+## intent:ask_product
+- bên bạn có sản phẩm gì
+- mẫu mã bên bạn có đa dạng không
+- bạn có biết các loại sản phẩm của công ty an cường
+- cho tôi xin danh sách sản phẩm của công ty đi
+- bên bạn có những dòng sản phẩm nào
+- bạn bán cái gì
+- tôi có thể mua được gì từ công ty
+- bạn có biết công ty gỗ an cường có những dòng sản phẩm gì
+- bạn có biết công ty gỗ an cường kinh doanh cái gì
+- bạn có biết sản phẩm tại công ty gỗ an cường
+- bạn có biết sản phẩm tại công ty gỗ
+- sản phẩm tại công ty của bạn
+- bên bạn có nhiều dòng sản phẩm không
+- sản phẩm bên bạn có phong phú không
+
+- tell me something about your product
+- what i can buy
+- i want to know what i can buy
+- what kind of product you sell
+- what are your product
+- what product do you offer
+- what kind of product do you sell
+- what kind of product are available
+- tell me about your product
+- i need to know what i can buy
+- items available
+- items already sold
+
+## intent:ask_real_person
+- tôi muốn nói chuyện với người thật
+- gọi nhân viên ra nói chuyện đi
+- bạn nói chuyện dở quá tôi không thích nói chuyện với bạn
+- bạn nói chuyện dở quá
+- tôi thích nói chuyện với người hơn
+- gọi nhân viên dùm tôi đi
+- tôi có thể nói chuyện trực tiếp với nhân viên của bạn không
+- tôi muốn nói chuyện trực tiếp với nhân viên của bạn
+- tôi không thích nói chuyện với bạn làm ơn gọi người thật đi
+- nhân viên của bạn đâu
+- gọi nhân viên của bạn ra đây
+- làm ơn gọi nhân viên dùm tôi nhé
+- tôi thích nói chuyện với người hơn
+- nhân viên bên bạn đâu hết rồi
+- gọi nhân viên nói chuyện xem nào
+- gọi nhân viên ra cho tôi nói chuyện xem
+- tôi thích nói chuyện với nhân viên của bạn hơn
+- bạn nói chuyện chán quá
+
+- i want to talk to human
+- can i talk to human
+- can i talk to you boss
+- can i speak to a live person
+- can i speak with somebody
+- can i talk to someone else
+- can you connect me with a real person
+- connect me to a real person
+- i don't want to talk to robot
+- need some help from human
+- i don't like to talking with you
+- please give me a real person
+- please give me a real human
+- i don't want to talk to the machine
+
+## intent:ask_sale_off
+- bên bạn có chương trình khuyến mãi không
+- bạn có giảm giá thì mua số lượng nhiều không
+- làm sao để được khuyến mãi hoặc giảm giá của công ty bạn
+- khuyến mãi của công ty như thế nào
+- nhắn cho tôi chương trình khuyến mãi đi
+- bạn đang có chương trình giảm giá gì không
+- nếu tôi mua số lượng lớn thì có giảm giá không
+- bạn có chiết khấu thì phí mua số lượng lớn không
+- tôi không có thông tin về chương trình giảm giá
+- bạn có biết an cường đang có chương trình khuyến mãi gì không
+
+## intent:ask_scale
+- công ty bên bạn có lớn không
+- quy mô của công ty bạn
+- công ty gỗ an cường có lớn không
+- quy mô công ty an cường có lớn không
+- công ty an cường có bao nhiêu chi nhánh
+- số chi nhánh của công ty an cường
+- bạn có biết công ty gỗ an cường có lớn không
+- bạn có biết quy mô công ty an cường có lớn không
+- bạn có biết công ty an cường có bao nhiêu chi nhánh
+- bạn có biết số chi nhánh của công ty an cường
+- công ty chỗ bạn làm có bự không
+- công ty chỗ bạn làm có to không
+- bạn có chi nhánh ở nước ngoài không
+- số chi nhánh trong và ngoài nước của bạn là bao nhiêu
+- bạn có mặt ở bên nước ngoài không
+- công ty chỗ bạn làm có chi nhánh nước ngoài không
+- số lượng nhà phân phối của bạn có nhiều không
+- bạn có nhiều nhà phân phối trong vòng ngoài nước không
+- công ty ăn cường có nhiều nhà phân phối không
+
+- your company scale?
+- an cuong scale?
+- is your company large?
+- how huge is your company
+- how big/large is your company
+- how large is an cuong
+- tell me the scale of the company
+- what is the company scale 
+- do an cuong have oversea branches 
+- do an cuong have an oversea branch 
+- what is the number of branches in and outside your country?
+- how many branches does the company own?
+- how many branches does an cuong own?
+- how many distributors do your company have?
+- how many distributors do an cuong have?
+- do your company have many distributors within the country?
+- do an cuong have many distributors within the country?
+
+## intent:ask_strength
+- điểm mạnh của công ty là gì
+- công ty bạn có điểm mạnh là gì
+- bạn có biết ưu điểm sản phẩm của công ty an cường
+- bạn có biết điểm nổi bật về sản phẩm của công ty an cường là gì
+- điểm nổi bật về công ty của bạn
+- bạn có biết những điểm cạnh tranh về chất lượng sản phẩm của công ty gỗ an cường
+- bạn có biết công ty gỗ an cường có lợi thế cạnh tranh như thế nào
+- bạn có biết sản phẩm của công ty an cường có tốt hơn chỗ khác không
+- bạn có biết sản phẩm của công ty gỗ an cường có đến nổi bật gì
+- bạn có biết điểm nổi bật với chất lượng của công ty gỗ an cường
+- bạn có biết chất lượng sản phẩm gỗ an cường có cạnh tranh được với công ty khác không
+- bạn có biết lợi thế khi mua sản phẩm bên công ty gỗ an cường
+- bạn có biết những điểm cạnh tranh về chất lượng sản phẩm của công ty gỗ an cường
+- bạn  có biết công ty gỗ an cường có lợi thế cạnh tranh như thế nào
+- bạn có biết sản phẩm của công ty an cường có tốt hơn chỗ khác không
+- bạn có biết sản phẩm của công ty gỗ an cường có đến nổi bật gì
+- bạn có biết điểm nổi bật với chất lượng của công ty gỗ an cường
+- bạn có biết chất lượng sản phẩm gỗ an cường có cạnh tranh được với công ty khác không
+- bạn có biết lợi thế khi mua sản phẩm bên công ty gỗ an cường
+- các thế mạnh của công ty là gì
+- ưu thế về sản phẩm của công ty gỗ an cường sao với công ty khác
+- tại sao tôi nên mua hàng ở công ty gỗ an cường
+- điểm mạnh của công ty bạn là gì
+- công ty nao chuyên về dòng sản phẩm gì 
+- công ty nổi bật về dòng sản phẩm nào 
+- thế mạnh của bên mình là sản phẩm gì
+
+- tell me something about your product
+- what i can buy
+- i want to know what i can buy
+- what kind of product you sell
+- what are your product
+- what product do you offer
+- what kind of product do you sell
+- what kind of product are available
+- tell me about your product
+- i need to know what i can buy
+- items available
+- items already sold
+- what are their specialities
+- best-selling product
+- what are your key products
+- what are the company strength 
+- how advantage of an cuong’s products compared to other companies?
+- what are some highlights 
+- what are some highlights from an cuong 
+- what are an cuong’s highlights
+- why should i buy an cuong's goods
+- why should i buy an cuong's products
+- why should i purchase an cuong's goods
+- why should i purchase an cuong's products
+- what are an cuong’s best selling products
+- some advatanges when buying an cuong's goods
+- some highlights of an cuong's goods
+
+## intent:ask_working_hours
+- giờ làm việc của công ty
+- công ty làm việc từ mấy giờ tới mấy giờ
+- mấy giờ thì công ty bạn mở cửa
+- công ty đóng cửa khi nào
+- công ty có mở cửa vào ngày lễ không
+- ngày nghỉ công ty có mở cửa không
+- bạn có biết công ty gỗ anh cường có mở cửa vào các ngày nghỉ lễ không
+- tôi không biết giờ mở cửa bên công ty bạn
+- bạn làm việc từ mấy giờ tới mấy giờ
+- nói tôi biết giờ làm việc của công ty gỗ
+- giờ hành chính bên bạn là mấy giờ
+- bạn mở và đóng cửa khi nào
+- khi nào chỗ bạn ở đông cửa
+- tôi đến vào ngày thứ bảy hoặc chủ nhật có được không
+- giờ hoạt động bên mình như thế nào 
+- mình muốn lên cty AN Cường vào khung giờ nào được
+- công ty làm việc vào khung giờ nào 
+
+- are you opening in weekend
+- are you opening on holidays
+- are you open on sundays
+- what is yours working hour
+- is your branch open now
+- can you tell me what time your store open
+- how early do you open your store
+- how long are your open
+- is your branch open now
+- what are the business hours
+- what are the hours of operation
+- what are the saturday opening times for local store
+- what are you are opening hours
+- what is the opening time
+- what time are you closing today
+- is your store open at the moment
+- what is your company walk in hours
+- what is your company working hours
+- what is the company's working hours
+- when will you close ?
+- what is the showroom's service hours
+- when will you open ?
+
+## intent:goodbye
+- tạm biệt
+- sẽ gặp lại bạn
+- hẹn gặp lại
+- hẹn sớm gặp lại
+- sẽ nói chuyện sau
+- tôi phải đi
+- bình tĩnh nào. tôi sẽ gặp lại bạn.
+- chúc một ngày tốt lành
+- tôi mong đợi gặp mặt tiếp theo của chúng ta
+- bảo trọng nhé, tôi sẽ trở lại
+- chúc ngủ ngon
+- gặp lại sau
+- tôi phải đi
+- bye bạn nhe
+- bye nhe nao
+- bye nhe
+- bye nha
+- về nhe nao
+- về nhe bạn
+- đi nhe 
+- đi nhe nao
+- đi nhe bạn
+- bái bai
+
+- byebye
+- see you
+- bye
+- goodbye
+- see you around
+- see you later
+- see you soon
+- talk to you later
+- i've got to get going
+- i must be going
+- take it easy
+- i'm off
+- have a nice day
+- i look forward to our next meeting
+- take care
+- it was nice to see you again
+- it was nice seeing you
+- goodnight
+- later, laters
+- catch you later
+- i'm out
+- i'm out of here
+- i gotta jet
+- i gotta take off
+- i gotta hit the road
+- i gotta head out
+- i'm done goodbye
+- goodbye
+- bye-bye
+- i am leaving
+- i am out of here
+- i've got to go
+- it was nice chatting with you
+- thank you very much bye-bye
+- thank you for sending time with me
+- thank you for your time
+- thank you
+- i've got to go see you again
+- hope to see you again
+- i really want to talk with you but i have to go
+- i have to go
+- ok i have done
+- ok i'm done
+- everything is finished here
+- see you!
+- See you later
+- See you again
+- Later!
+- Bye
+- Got to go now
+
+## intent:ask_ability
+- bạn làm được cái gì
+- bạn làm được gì
+- bạn có thể làm được gì
+- bạn có khả năng làm được gì
+- khả năng của bạn là gì
+- nói tôi nghe khả năng của bạn đi
+- nói tôi nghe những thứ bạn làm được
+- bạn có thể làm được những thứ gì
+- tôi có thể sử dụng bạn như thế nào
+- làm sao để sử dụng bạn
+- làm cách nào để tôi sử dụng bạn
+- sử dụng bạn bằng cách nào
+- bạn có thể giúp gì được tôi
+- nói tôi nghe tính năng của bạn
+- cho tôi xem tính năng của bạn đi
+- cho tôi xem khả năng của bạn đi
+- danh sách những thứ bạn có thể làm được
+- cho tôi danh sách những thứ bạn có thể làm
+- bạn có thể cho tôi danh sách những thứ bạn có thể làm không
+- ngoài hát bạn còn làm được gì không
+- ngoài nhảy bạn còn làm được gì không
+- ngoài tập thể dục bạn còn làm được gì không
+- bạn có khả năng làm được gì
+- khả năng của bạn là gì
+- nói tôi nghe khả năng của bạn đi
+- nói tôi nghe những thứ bạn làm được
+- bạn có thể làm được những thứ gì
+- tôi có thể sử dụng bạn như thế nào
+- làm sao để sử dụng bạn
+- làm cách nào để tôi/tôi sử dụng bạn
+- sử dụng bạn bằng cách nào
+- bạn có thể giúp gì được cho tôi/tôi
+- bạn có kỹ năng gì
+- kỹ năng của bạn là gì
+- những thứ bạn có thể làm được
+- tính năng của bạn là gì
+- nói tôi nghe tính năng của bạn
+- cho tôi xem tính năng của bạn đi
+- cho tôi xem khả năng của bạn đi
+- nói tôi nghe tính năng của bạn
+- cho tôi xem tính năng của bạn đi
+- cho tôi xem khả năng của bạn đi
+- danh sách những thứ bạn có thể làm được
+- cho tôi danh sách những thứ bạn có thể làm
+- bạn có thể cho tôi danh sách những thứ bạn có thể làm không
+- ngoài hát bạn còn làm được gì không
+- ngoài nhảy bạn còn làm được gì không
+- ngoài tập thể dục bạn còn làm được gì không
+- bạn biết làm gì
+- bạn có thể làm được gì
+- bạn biết làm trò gi
+- bạn có sở trường gì
+- bạn thích hoạt động gì
+- bạn biết biểu diễn gì
+
+- what are you capable of
+- what can you do
+- how can you help me
+- tell me something about what you can do
+- what kind of thing you can do
+- can you give me a list of things you can help me
+- how can i use you
+- what can you do
+- what are your abilities
+- give me a list of your abilities
+- tell me about your abilities
+- what is your skills
+- give me a list of your skill
+- tell me something you can do
+- show me your skills
+- show me your abilities
+- list of your abilities
+- list of your skills
+- can you give me a list of your abilities
+- i don't know your abilities
+- what are your abilities
+- give me a list of your ability
+- tell me about your ability
+- show me your ability
+- list of your ability
+- can you give me a list of your ability
+- i don't know your ability
+
+## intent:ask_ai
+- làm sao bạn hiểu được những gì tôi nói
+- làm cách nào để bạn hiểu người ta nói
+- sao mà bạn có thể hiểu được tôi nói
+- bạn suy nghĩ bằng cách nào
+- làm sao mà bạn có thể nghe được người ta nói
+- sao mà bạn hiểu được gì tôi nói vậy
+- sao bạn biết được người ta nói cái gì
+- làm sao bằng suy nghĩ được
+- bạn suy nghĩ bằng cách nào
+- bạn làm cách nào để suy nghĩ
+- sao bạn thông minh quá vậy
+- làm sao mà bạn thông minh quá vậy
+- sao mà bạn suy nghĩ được như người
+- làm cách nào mà bạn có thể suy nghĩ được như người
+- sao bạn hiểu được gì tôi nói
+- bạn suy nghĩ bằng cách nào mà hay quá vậy
+- tôi không biết cách mà bạn suy nghĩ
+- làm sao mà bạn hiểu được tôi
+- làm sao bạn hiểu được tôi nói gì
+- làm cách nào bạn hiểu gì người ta nói
+- bạn suy nghĩ bằng cách nào
+- sao mà bạn có thể hiểu được tôi nói
+- làm sao mà bạn có thể nghe được người ta nói
+- làm sao mà bạn có thể nghe được tôi nói
+- sao mà bạn hiểu được gì tai nói vậy
+- sao bạn biết được người ta nói cái gì
+- làm sao  bạn bằng suy nghĩ được
+- bạn suy nghĩ bằng cách nào
+- bạn làm cách nào để suy nghĩ
+- sao bạn thông minh quá vậy
+- làm sao bạn thông minh quá vậy
+- sao mà bạn suy nghĩ được như người
+- làm cách nào mà bạn có thể suy nghĩ được như người
+- sao bạn hiểu được
+- bạn suy nghĩ bằng cách nào mà hay quá vậy
+- tôi không biết cách mà bạn suy nghĩ
+- làm sao mà bạn hiểu được tôi
+
+- how can you understand what i say
+- how do you think and understand me
+- how do you think
+- how do you understand what people saying
+- how can you hear and understand my voice
+- tell me how can you hear and understand people
+- how can you understand the questions and i answered them
+- how can you think like people
+- how can you think like human
+- show me the way you're thinking
+- why are you so smart
+- you are a remarkable
+- how can you understand me
+
+## intent:compliment
+- bạn giỏi quá
+- bạn giỏi quá vậy
+- tôi thấy bạn giỏi quá
+- bạn giỏi quá đi
+- giỏi quá
+- giỏi quá đi nào
+- nào giỏi quá đi
+- bạn giỏi thật đấy
+- giỏi thật đấy
+- giỏi quá đi
+- bạn hay quá
+- bạn hay quá đi
+- hay quá
+- bạn hay ghê
+- giỏi ghê
+
+## intent:ask_component
+- trên người bạn có những bộ phận nào
+- bạn có tổng cộng bao nhiêu bộ phận
+- những bộ phận trên cơ thể của bạn
+- bạn được tạo ra từ những bộ phận nào
+- có mấy phần trên cơ thể của bạn
+- cơ thể của bạn gồm mấy phần
+- robot như bạn có bao nhiêu cảm biến
+- bạn có những loại cảm biến nào
+- cảm biến trên người của bạn
+- bạn có tổng cộng bao nhiêu khớp
+- số lượng khớp trên người của bạn
+- những loại cảm biến nào có trên người của bạn
+- kể tôi nghe các bộ phận trên người của bạn đi
+- tôi không biết bạn có bộ phận gì
+- tôi không biết bạn được tạo ra từ bao nhiêu bộ phận
+- trên người bạn có gì
+- người bạn cấu tạo như thể nào
+- trên người bạn có những bộ phận nào
+- bạn có tổng cộng bao nhiêu bộ phận
+- những bộ phận trên cơ thể của bạn
+- bạn được tạo ra từ những bộ phận nào
+- có mấy phần trên cơ thể của bạn
+- cơ thể của bạn  gồm mấy phần
+- robot như bạn có bao nhiêu cảm biến
+- bạn có những loại cảm biến nào
+- cảm biến trên người của bạn
+- bạn có tổng cộng bao nhiêu khớp
+- số lượng khớp trên người của bạn
+- những loại cảm biến nào có trên người của bạn
+- kể tôi nghe các bộ phận trên người của bạn đi
+- tôi không biết bạn có bộ phận gì
+- tôi không biết bạn được tạo ra từ bao nhiêu bộ phận
+- trên người bạn có gì
+- người bạn cấu tạo như thể nào
+- bạn có cử động được không
+- bạn có cử động được không
+- bạn có cử động được không
+- làm sao bạn cử động được
+- cử động như thế nào
+- bạn cử động như thế nào
+
+## intent:ask_friends
+- bạn có bạn không
+- trên thế giới có nhiều robot số giống bạn không
+- có nhiều robot giống bạn không
+- bạn có biết những robot khác không
+- bạn có nhiều bạn không
+- robot như bạn có nhiều không
+- robot giống bạn trên thế giới này có nhiều không
+- bạn bè của bạn đâu
+- bạn bè của bạn đông không
+- bạn bè thì sao
+- tôi muốn biết bạn bè của bạn ở đâu
+- bạn ở một tôi hả
+- bạn có bạn không
+- trên thế giới có nhiều robot số giống bạn vậy
+- có nhiều robot giống bạn không
+- bạn có biết những robot khác không
+- bạn có nhiều bạn không
+- robot như bạn có nhiều không
+- robot giống bạn trên thế giới này có nhiều không
+- bạn bè của bạn đâu
+- bạn bè của bạn đông không
+- bạn bè thì bạn thì sao
+- tôi muốn biết bạn bè của bạn ở đâu
+- bạn ở một tôi hả
+
+- do you have friends
+- tell me about your friends
+- do you have any friends
+- are there many robots like you around the world
+- are you alone
+- are you single
+- do you know any robot like you
+- where are your friends
+- do you have any friends
+- how about your friends
+- show me your friends
+- do you know about another robot
+
+## intent:ask_invention
+- ai là người tạo ra bạn
+- bạn được tạo ra như thế nào
+- bạn được tạo ra bởi ai
+- ai là người phát minh ra bạn
+- bạn được ai phát minh ra
+- bạn được phát minh bằng cách nào
+- nói tôi nghe cách mà bạn được tạo ra đi
+- cách mà bạn được tạo ra
+- làm cách nào mà bạn được phát minh ra
+- kể tôi nghe cách mà bạn được phát minh ra đi
+- để tôi cách mà bạn được tạo ra
+- bạn được phát minh ra bằng cách nào
+- tôi thắc mắc với cách bạn được tạo ra
+- người máy như bạn được tạo ra như thế nào
+- người máy như bạn được ai tạo ra
+- tôi không biết cách để tạo ra được người máy
+- người ta tạo ra bạn sao vậy
+- ai là người tạo ra bạn vậy
+- bạn được tạo ra như thế nào
+- bạn được tạo ra bởi ai
+- ai là người phát minh ra bạn
+- bạn được ai phát minh ra
+- bạn được phát minh bằng cách nào
+- nói tôi nghe cách mà bạn được tạo ra đi
+- cách mà bạn được tạo ra
+- làm cách nào mà bạn được phát minh ra
+- kể tôi nghe cách mà bạn được phát minh ra đi
+- để tôi cách mà bạn được tạo ra
+- bạn được phát minh ra bằng cách nào
+- tôi thắc mắc với cách mà bạn được tạo ra
+- người máy như bạn được tạo ra như thế nào
+- người máy như bạn được ai tạo ra
+- tôi không biết cách để tạo ra được người máy
+- người ta tạo ra bạn sao vậy
+
+## intent:ask_show
+- bạn thích làm gì, bạn làm cho tôi xem đi
+- trổ tài cho tôi xem
+- trổ tài gì cho tôi xem đi
+- trổ tài gì đi
+- bạn trổ tài cho tôi xem đi
+- bạn trổ tài tôi xem đi
+- bạn trổ tài tôi xem nào
+- tôi thích xem bạn trổ tài gì đó
+- làm trò gì cho tôi xem
+- làm trò gì cho tôi xem đi
+- làm trò gì đi
+- bạn làm trò gì cho tôi xem đi
+- bạn làm trò tôi xem đi
+- bạn làm trò tôi xem nào
+- tôi thích xem bạn làm trò gì đó
+- tôi cùng làm trò gì được không
+- tôi với bạn cùng làm trò gì được không
+- biểu diễn năng khiếu gì cho tôi xem đi
+- biểu diễn năng khiếu gì cho tôi xem đi
+- thể hiện năng khiếu gì đi
+- bạn biểu diễn năng khiếu gì cho tôi xem đi
+- bạn thể hiện năng khiếu gì cho tôi xem đi
+- bạn biểu diễn năng khiếu gì cho tôi xem đi
+- bạn thể hiện năng khiếu gì cho tôi xem đi
+- tôi thích xem bạn biểu diễn năng khiếu gì đó
+- tôi cùng biểu diễn năng khiếu gì được không?
+- biểu diễn sở trường gì cho tôi xem
+- bạn biểu diễn sở trường gì cho tôi xem đi
+- thể hiện sở trường gì đi
+- biểu diễn sở trường gì cho tôi xem đi
+- bạn biểu diễn sở trường gì cho tôi xem đi
+- bạn thể hiện sở trường gì cho tôi xem đi
+- bạn biểu diễn sở trường gì cho tôi xem đi
+- bạn thể hiện sở trường gì cho tôi xem đi
+- tôi thích xem bạn biểu diễn sở trường gì đó
+
+## intent:ask_entertaiment
+- tôi cùng [nhảy](action) gì được không?
+- [nhảy](action) gì cho tôi xem
+- bạn [nhảy](action) gì cho tôi xem đi
+- [nhảy](action) gì đi
+- tôi thích xem bạn [nhảy](action) gì đó
+- bạn có biết [nhảy](action) không
+- bạn có học [nhảy](action) không
+- bạn biết [nhảy](action) không
+- bạn [nhảy](action) tôi xem đi
+- [nhảy](action) đi
+- bạn [nhảy](action) cho tôi xem đi
+- bạn [nhảy](action) tôi xem nào
+- [nhảy](action) tôi xem đi
+- [nhảy](action) cho tôi xem đi
+- tôi thích xem bạn [nhảy](action)
+- tôi cùng [nhảy](action) được không
+- tôi với bạn cùng [nhảy](action) nha
+- vậy bạn [nhảy](action) thử cho tôi xem
+- vậy thì [nhảy](action) đi
+- bạn biết [hát](action) không
+- bạn có thể [hát](action) không
+- bạn có biết [hát](action) không
+- bạn có thể [hát](action) bài gì
+- [hát](action) tôi nghe đi
+- [hát](action) đi
+- quất bài [hát](action) đi
+- [nhảy](action) theo kiểu khá bảnh đi
+- bạn [hát](action) cho tôi nghe đi
+- bạn [hát](action) tôi nghe đi
+- bạn [hát](action) tôi nghe nào
+- tôi thích xem bạn [hát](action)
+- tôi cùng [hát](action) được không
+- tôi với bạn cùng [hát](action) nha
+- [hát](action) tôi nghe bài số một
+- tôi thích nghe bạn [hát](action)
+- vậy thì [hát](action) đi
+
+- vậy thì [nhảy](action) cho tôi bài [little apple](dance_name)
+- bạn [nhảy](action) cho tôi bài [taichi](dance_name)
+- bạn [nhảy](action) cho tôi xem bài [evolution](dance_name)
+- bạn [nhảy](action) cho mọi người thưởng thức bài hát [sát nhân](dance_name)
+- tôi muốn thưởng thức bài [nhảy](action) có tên là [macarena](dance_name)
+- tôi bắt buộc bạn [nhảy](action) bài có tên là [hãy trao cho anh](dance_name)
+- làm ơn [nhảy](action) bài [gangnam style](dance_name)
+- thử [nhảy](action) bài nhạc [chicken dance](dance_name)
+- giờ [nhảy](action) bài [cavaran](dance_name) đi bạn
+- [nhảy](action) bài nhạc [disco](dance_name) đi bạn
+- [nhảy](action) bài [harder better faster stronger](dance_name)
+- [nhảy](action) bài nhạc [disco](dance_name) đi bạn
+- [nhảy](action) bài [tập thể dục](dance_name)
+- bạn [nhảy](action) cho tôi bài [angle](dance_name)
+
+- vậy thì [hát](action) cho tôi bài [havana](song_name)
+- bạn [hát](action) cho tôi bài [something just like this](song_name)
+- bạn [hát](action) cho tôi xem bài [shape of you](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [don't let me down](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [how long](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [thunder](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [believer](song_name)
+- làm ơn [hát](action) bài [in the end](song_name)
+- thử [hát](action) bài nhạc [lily](song_name)
+- giờ [hát](action) bài [faded](song_name) đi bạn
+- [hát](action) bài nhạc [see you again](song_name) đi bạn
+- tôi rất thích bạn [hát](action) bài [let her go](song_name)
+- cực kỳ thích bạn [hát](action) bài [that girl](song_name)
+- [hát](action) bài [cry on my shoulder](song_name)
+- bạn [hát](action) cho tôi bài [until you](song_name)
+- tôi muốn bạn [hát](action) bài [the day you went away](song_name)
+- vậy thì [hát](action) cho tôi bài [beautiful in white](song_name)
+- bạn [hát](action) cho tôi bài [despacito](song_name)
+- bạn [hát](action) cho tôi xem bài [girls like you](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [i love you 3000](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài [we don't talk anymore](song_name)
+- tôi muốn thưởng thức bài [hát](action) có tên là [whatever it takes](song_name)
+- tôi bắt buộc bạn [hát](action) bài có tên là [birds](song_name)
+- làm ơn [hát](action) bài [anh nhà ở đâu thế](song_name)
+- thử [hát](action) bài nhạc [bạc phận](song_name)
+- giờ [hát](action) bài [độ ta không độ nàng](song_name) đi bạn
+- [hát](action) bài nhạc [sóng gió](song_name) đi bạn
+- tôi rất thích bạn [hát](action) bài [lãng quên chiều thu](song_name)
+- cực kỳ thích bạn [hát](action) bài [hai triệu năm](song_name)
+- [hát](action) bài [để mị nói cho mà nghe](song_name)
+- bạn [hát](action) cho tôi bài [vẽ](song_name)
+- tôi muốn bạn [hát](action) bài [người ta nói](song_name)
+- vậy thì [hát](action) cho tôi bài [gió vẫn hát](song_name)
+- bạn [hát](action) cho tôi bài [có chàng trai viết lên cây](song_name)
+- bạn [hát](action) cho tôi xem bài [trọn tình](song_name)
+- bạn [hát](action) cho mọi người thưởng thức bài hát [lớn rồi còn khóc nhè](song_name)
+
+- [sing](action)
+- can you [sing](action)
+- can you [sing](action) or something
+- can you [sing](action)
+- please [sing](action) 
+- can you [dance](action) or something
+- [dance](action)
+- please [dance](action)
+- [dance](action) song 
+- can you [dance](action)
+
+- [sing](action) the song [havana](song_name)
+- can you [sing](action) [something just like this](song_name)
+- please [sing](action) [shape of you](song_name)
+- can you [sing](action) the song [don't let me down](song_name)
+- do you [sing](action) the song [how long](song_name)
+- i want you [sing](action) the song [thunder](song_name)
+- i want to hear you [sing](action) [believer](song_name) 
+- could you [sing](action) [in the end](song_name)
+- have you ever [sing](action) [lily](song_name)
+- please [sing](action) [faded](song_name)
+- now [sing](action) the song [see you again](song_name)
+- i want you sing [sing](action) the song [let her go](song_name)
+- do you know [sing](action) the song [that girl](song_name)
+- [sing](action) the song [cry on my shoulder](song_name) now
+
+- [dance](action)
+- please [dance](action)
+- [dance](action) song 
+- can you [dance](action) or something
+- can you [dance](action)
+
+- [dance](action)
+- please [dance](action)
+- [dance](action) song 
+- can you [dance](action) or something
+- can you [dance](action)
+
+## synonym:tập thể_dục
+- bài_tập thể_dục
+- nhảy thể_dục
+
+## synonym:despacito
+- d ' esposito
+
+## synonym:anh nhà ở đâu thế
+- anh nhà_ở đâu thế
+
+## intent:ask_rest
+- ngồi xuống đi
+- ngồi xuống
+- nghỉ ngơi đi
+- bạn nghỉ ngơi đi
+- bạn ngồi xuống nghỉ ngơi đi
+- bạn ngồi xuống nghỉ đi
+- ngồi xuống nghỉ một tí đi
+- ngồi xuống nào
+
+- please rest
+- rest
+- sit down
+- please sit down
+
+## intent:ask_wakeup
+- đứng dậy đi nào
+- đứng lên đi
+- mời bạn đứng lên
+- đứng lên dùm cái
+- đứng lên đi nào
+- thức dậy đi
+- bạn hãy đứng dậy đi
+- đứng dậy đi mà
+
+- wake up
+- wakeup
+- standup
+- stand up
+
+## intent:ask_stop
+- dừng lại ngay đi
+- dừng lại đi mà
+- đừng làm nữa
+- dừng lại ngay đi
+- dừng ngay cho mình
+- bạn đừng làm nữa
+- dừng lại
+
+- please stop
+- stop
+- do not do that
+- no please stop
+
+
+## intent:inform_song_name
+- bài [havana](song_name) đi
+- bài [something just like this](song_name) được không
+- bạn biết bài [shape of you](song_name) không
+- mình muốn nghe bài [don't let me down](song_name)
+- mở bài [how long](song_name)
+- bật bài [thunder](song_name)
+- [believer](song_name)
+- ca khúc [in the end](song_name) đi
+- nhạc phẩm [lily](song_name) đi
+- mình thích bài [faded](song_name)
+- mình khá thích bài [see you again](song_name)
+- mình sẽ nghe bài [let her go](song_name)
+- mình nghe bài [that girl](song_name)
+- mình nghiền bài [cry on my shoulder](song_name) lắm
+- mình muốn bài [until you](song_name) nha
+- mình cần nghe bài [the day you went away](song_name) nhé
+- mở cho mình bài [beautiful in white](song_name) nhanh đi nào
+- bài [despacito](song_name) hay lắm đấy
+- [girls like you](song_name) là một bài rất hay
+- [i love you 3000](song_name) bạn mở cho tôi bài đó đi
+- tôi rất muốn nghe bài [we don't talk anymore](song_name)
+- ca khúc [whatever it takes](song_name) ok đấy
+- bài nhạc [birds](song_name)
+- chơi bài [anh nhà ở đâu thế](song_name) đi
+- quất bài [bạc phận](song_name) nhé
+- hay là bài [độ ta không độ nàng](song_name) cũng được đấy
+- không thể không biết bài [sóng gió](song_name) được
+- nhạc phẩm được mang tên [lãng quên chiều thu](song_name)
+- ca khúc được mang tên [hai triệu năm](song_name)
+- tựa đề bài hát có tên [để mị nói cho mà nghe](song_name) đó
+- tiêu đề bài hát là [vẽ](song_name)
+- tên bài hát là [người ta nói](song_name) nhé
+- bài [gió vẫn hát](song_name) nghe rất vui nha
+- nghe bài [có chàng trai viết lên cây](song_name) cho sướng
+- nghe bài [trọn tình](song_name) cho mình thư giãn cái
+- [lớn rồi còn khóc nhè](song_name)
+- bài [havana](song_name)
+- [havana](song_name)
+- [something just like this](song_name)
+- [shape of you](song_name)
+- [don't let me down](song_name)
+- [how long](song_name)
+- [thunder](song_name)
+- [believer](song_name)
+- [in the end](song_name)
+- [lily](song_name)
+- [faded](song_name)
+- [see you again](song_name)
+- [let her go](song_name)
+- [that girl](song_name)
+- [cry on my shoulder](song_name)
+- [until you](song_name)
+- [the day you went away](song_name)
+- [beautiful in white](song_name)
+- [despacito](song_name)
+- [girls like you](song_name)
+- [i love you 3000](song_name)
+- [we don't talk anymore](song_name)
+- [whatever it takes](song_name)
+- [birds](song_name)
+- [anh nhà ở đâu thế](song_name)
+- [bạc phận](song_name)
+- [độ ta không độ nàng](song_name)
+- [sóng gió](song_name)
+- [lãng quên chiều thu](song_name)
+- [hai triệu năm](song_name)
+- [để mị nói cho mà nghe](song_name)
+- [vẽ](song_name)
+- [người ta nói](song_name)
+- [gió vẫn hát](song_name)
+- [có chàng trai viết lên cây](song_name)
+- [trọn tình](song_name)
+- [lớn rồi còn khóc nhè](song_name)
+
+## intent:inform_dance_name
+- bài [little apple](dance_name) đi
+- bài [taichi](dance_name) được không
+- bạn biết bài [evolution](dance_name) không
+- mình muốn nghe bài [sát nhân](dance_name)
+- mở bài [macarena](dance_name)
+- bật bài [gangnam style](dance_name)
+- [disco](dance_name)
+- ca khúc [chicken dance](dance_name) đi
+- nhạc phẩm [cavaran](dance_name) đi
+- mình thích bài [harder better faster stronger](dance_name)
+- mình khá thích bài [tập thể dục](dance_name)
+- mình sẽ nghe bài [angle](dance_name)
+- mình nghe bài [little apple](dance_name)
+- mình nghiền bài [taichi](dance_name)
+- mình muốn bài [evolution](dance_name)
+- mình cần nghe bài [sát nhân](dance_name) nhé
+- mở cho mình bài [macarena](dance_name)
+- bài [disco](dance_name) hay lắm đấy
+- [chicken dance](dance_name) là một bài rất hay
+- [cavaran](dance_name) bạn mở cho tôi bài đó đi
+- tôi rất muốn nghe bài [harder better faster stronger](dance_name)
+- ca khúc [tập thể dục](dance_name) ok đấy
+- bài nhạc [angle](dance_name)
+- chơi bài [little apple](dance_name) đi
+- quất bài [taichi](dance_name) nhé
+- hay là bài [evolution](dance_name) cũng được đấy
+- không thể không biết bài [sát nhân](dance_name) được
+- nhạc phẩm được mang tên [macarena](dance_name)
+- ca khúc được mang tên [disco](dance_name)
+- tựa đề bài hát có tên [chicken dance](dance_name) đó
+- tiêu đề bài hát là [cavaran](dance_name)
+- tên bài hát là [harder better faster stronger](dance_name) nhé
+- bài [tập thể dục](dance_name) nghe rất vui nha
+- nghe bài [gangnam style](dance_name) cho sướng
+- nghe bài [angle](dance_name) cho mình thư giãn cái
+- [gangnam style](dance_name)
+- bài [sát nhân](dance_name)
+- [little apple](dance_name)
+- [taichi](dance_name)
+- [evolution](dance_name)
+- [sát nhân](dance_name)
+- [macarena](dance_name)
+- [gangnam style](dance_name)
+- [hãy trao cho anh](dance_name)
+- [chicken dance](dance_name)
+- [cavaran](dance_name)
+- [disco](dance_name)
+- [harder better faster stronger](dance_name)
+- [tập thể dục](dance_name)
+- [angle](dance_name)
+
+## lookup:dance_name
+- little apple
+- taichi
+- evolution
+- sát nhân
+- macarena
+- gangnam style
+- hãy trao cho anh
+- chicken dance
+- cavaran
+- disco
+- harder better faster stronger
+- tập thể dục
+- angle
+
+## synonym:dance
+- nhảy
+- múa
+
+## synonym:sing
+- hát
+
+## intent:ask_country
+- bạn đến từ đâu
+- bạn ở đâu đến vậy
+- quê bạn ở đâu
+- bạn từ đâu đến
+- bạn đến từ đâu
+- nhà bạn ở đâu
+- quê hương bạn ở đâu
+- bạn từ nơi nào đến
+- đất nước bạn là đâu
+- nước bạn là nước nào
+- bạn ở nước nào
+- bạn có thể nói cho tôi biết đất nước của bạn
+
+- where are you
+- where are you from
+- which country do you from
+- where is your house
+- which country do you from
+- where is your hometown
+- where is your country
+- what is your home town
+
+## intent:ask_do_something
+- bạn thích làm gì, bạn làm cho tôi xem đi
+- trổ tài cho tôi xem
+- trổ tài gì cho tôi xem đi
+- trổ tài gì đi
+- bạn trổ tài cho tôi xem đi
+- bạn trổ tài tôi xem đi
+- bạn trổ tài tôi xem nào
+- tôi thích xem bạn trổ tài gì đó
+- làm trò gì cho tôi xem
+- làm trò gì cho tôi xem đi
+- làm trò gì đi
+- bạn làm trò gì cho tôi xem đi
+- bạn làm trò tôi xem đi
+- bạn làm trò tôi xem nào
+- tôi thích xem bạn làm trò gì đó
+- tôi cùng làm trò gì được không
+- tôi với bạn cùng làm trò gì được không
+
+## intent:greet
+- chào
+- lời chào hỏi
+- xin chào
+- xin chào, thế nào rồi
+- dạo này thế nào bạn đang làm gì
+- rất vui được gặp bạn.
+- xin chào, rất vui khi gặp bạn.
+- rất vui được gặp bạn.
+- chào bạn vào buổi sáng
+- chuyện gì xảy ra với bạn
+- chào buổi sáng
+- chào buổi tối
+- chào buổi trưa
+- làm thế nào bạn
+- bạn làm thế nào
+- làm thế nào bạn có được
+- thật vui được gặp bạn
+- hân hạnh được gặp bạn
+- lâu rồi không gặp
+- đã được một lúc rồi
+- rất vui được gặp bạn
+- ngày hôm nay của bạn thế nào
+- mọi thứ thế nào rồi
+- mọi chuyện thế nào rồi
+- cuộc sống thế nào rồi
+- bạn đang có chuyện gì thế
+- có gì mới không bạn
+- chuyện gì đang xảy ra vậy?
+- rất vui được gặp lại bạn
+- thật tuyệt khi gặp bạn
+- chào ngày mới
+- chào nao
+
+- hi
+- greetings
+- hello
+- hi, how is it going
+- how are you doing
+- nice to meet you.
+- how do you do
+- hi, nice to meet you.
+- it is a pleasure to meet you.
+- top of the morning to you
+- what's up
+- hey
+- good morning
+- good evening
+- good afternoon
+- hey there
+- hiya
+- sup
+- whazzup
+- howdy
+- yo
+- how do you do
+- how have you been
+- it's nice to meet you
+- pleased to meet you
+- long time no see
+- it's been a while
+- good to see you
+- how's your day
+- how's your day going
+- how's everything
+- how are things
+- how's life
+- what's up
+- what's new
+- what's going on
+- hi bot
+- hey bot
+- hi again
+- hi folks
+- hi mister
+- hi pal!
+- hi there
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey hey
+- hello there
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+
+## intent:ask_health
+- sức khỏe của bạn thế nào
+- vậy bạn cảm thấy thế nào
+- mọi thứ thế nào với sức khỏe của bạn?
+- bạn cảm thấy đỡ hơn chưa
+- dạo này sao rồi khỏe không
+- ăn ở sao rồi
+- bạn không thấy không khỏe à
+- bạn có thấy cảm thấy thoải mái không
+- cảm thấy như thế nào rồi
+- bạn khỏe không.
+- khỏe không bạn.
+- khỏe không bạn
+- bạn có khỏe không.
+- bạn khỏe không
+- bạn có khỏe không
+- khỏe không bạn.
+- bạn khỏe không.
+
+- how is your health
+- so how have you been feeling
+- how is everything with your health
+- are you feeling any better
+- did you get over
+- how are you
+
+
+## intent:change_mode
+- [bật](mode_action) chế độ theo dõi [giọng nói](mode)
+- [tắt](mode_action) chế độ theo dõi [giọng nói](mode)
+- [bật](mode_action) theo dõi [giọng nói](mode)
+- [tất](mode_action) theo dõi [giọng nói](mode)
+- [bật](mode_action) chế độ theo giỏi [giọng nói](mode)
+- [tắt](mode_action) chế độ theo giỏi [giọng nói](mode)
+- [bật](mode_action) theo giỏi [giọng nói](mode)
+- [tất](mode_action) theo giỏi [giọng nói](mode)
+- [bật](mode_action) chế độ [micro](mode)
+- [tắt](mode_action) chế độ [micro](mode)
+- [bật](mode_action) [micro](mode)
+- [tất](mode_action) [micro](mode)
+- [bật](mode_action) [camera](mode)
+- [tắt](mode_action) [camera](mode)
+
+## synonym:tắt
+- tất
+
+## intent:ask_name
+- bạn tên gì
+- bạn là ai
+- bạn tên gì
+- bạn là ai
+- bạn có tên không
+- tên bạn là gì vậy
+- tên của bạn là gì
+- bạn có tên không
+- bạn tên là gì vậy
+- bạn có tên không
+- tên của bạn là gì
+
+- do you have any name
+- do you have a name
+- who are you
+- please tell me your name
+- can i have your name
+- what's your name
+- what is your name
+
+## intent:rude
+- địt bố
+- địt mẹ
+- đụ má
+- đụ mẹ
+- ngu
+- dốt
+- đần
+- đéo
+- địt bố mầy
+- địt mẹ mầy
+- đụ má mầy
+- đụ mẹ mầy
+- ngu quá
+- mầy ngu quá
+- mầy dốt quá
+- mầy đần quá
+- mầy khùng quá
+- khùng quá
+- con cặc
+- lồn má
+- cái lồn
+- lồn mẹ
+- lồn
+- cặc
+
+- mother fuck
+- fuck you
+- fuck mom
+- ignorant
+- idiot
+- fuck
+- daddy fuck
+- fuck you
+- fuck your cheek
+- fuck you
+- son of bitch
+- fuckin
+- dump
+- you are so idiot
+
+## intent:affirm
+- vâng
+- thật
+- tất nhiên
+- nghe hay đấy
+- chính xác
+- có chứ
+- như vậy đi
+- đồng ý
+- nghe được đấy
+- cứ như vậy đi
+- tùy ý bạn thôi
+- chuẩn
+- tôi hoàn toàn đồng ý bạn
+- ok chấp nhận luôn
+- ừ
+- ừ cứ như thế nhé
+- rất tuyệt, tôi sẽ chấp nhận
+- theo ý bạn đi
+- cứ như vậy đi
+- cứ thế mà làm
+- ừ làm ngay đi
+- được
+- ok bạn
+
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- ye
+- uh yes
+- let's do it
+- yeah
+- uh yes
+- um yes
+- yes knocking
+- that's correct
+- yes yes
+- right
+- yea
+- yes right
+- yes and i dont care
+- right on
+- i love that
+
+## intent:deny
+- không
+- không bao giờ
+- tôi không nghĩ vậy
+- đừng như vậy
+- không đời nào
+- không hẳn
+- đừng làm thế
+- không tôi cảm ơn
+- tôi không cần đâu
+- đéo
+- tôi không làm điều đó
+- không tôi không đồng ý
+- tôi đéo cần điều này
+- tôi không cần điều đó
+- thật đáng tiếc. tôi sẽ không tham gia đâu
+- nghe hay đấy, nhưng tôi bận rồi
+- tôi bận rồi, xin lỗi nhé
+- tôi xin lỗi, nhưng tôi không thể tham dự
+- tôi không thể chấp nhận lời mời này
+- tôi đéo tham dự được rồi
+- tôi bận rồi, chắc không tới được
+- tôi từ chối nhận lời mời này
+- tôi thực sự đánh giá cao lời mời của bạn, nhưng tôi không tham dự được
+- chà, bạn thật tốt bụng, nhưng rất tiếc tôi không tham dự được
+- điều đó sẽ rất tuyệt, nhưng tôi xin lỗi tôi không tham gia
+- tôi ước tôi có thể đến, nhưng thật không may
+- tôi thực sự muốn, nhưng rất tiếc
+- tôi sợ tôi không thể tới được
+- tôi e ngày đó tôi có việc rồi
+- đó là một lời mời rất tử tế, nhưng tôi không thể tham dự được
+- cảm ơn bạn rất nhiều vì lời đề nghị, nhưng rất tiếc tôi không cần
+- tôi vô cùng xin lỗi là tôi phải từ chối lời đề nghị như vậy
+- bạn thật tốt bụng, thật không may, tôi không thể
+
+- no thanks
+- no thank you
+- uh no
+- breath no
+- no this does not work for me
+- no
+- never
+- i don't think so
+- don't like that
+- no way
+- not really
+- i'm  sorry i can't help you here
+- i'm sorry, i'll help another time, but i can't today
+- i'd love to help, but right now, i'm too busy
+- i really wish i could help, but i can't
+- i wish i could, but right now, i can't 
+- normally, i'd be able to help, but
+- no it is not
+- i didn't do that
+- i appreciate the offer, but 
+- that would really be great, but
+- thank you very much for the offer, but
+- i'm awfully sorry i have to refuse such an offer, but 
+- that's very kind of you; unfortunately, i can't  
+- please don't
+
+## intent:mood_great
+- hoàn hảo
+- rất tốt
+- tuyệt quá
+- kinh ngạc
+- tuyệt vời
+- tôi đang cảm thấy rất tốt
+- tôi rất tuyệt
+- tôi ổn
+- hoàn toàn vui mừng
+- thật là phê
+- phê tới nóc
+- thực sự hài lòng
+- tôi thật sự quá hài lòng
+- rất hạnh phúc
+- tôi không thể hạnh phúc hơn
+- không thể vui hơn được
+- thật tuyệt vời
+- tuyệt quá
+- tuyệt vời
+- thật tuyệt
+- một tin tức tuyệt vời
+- chúng tôi đã chờ đợi quá lâu cho việc này rồi
+- cảm ơn chúa vì điều đó
+- tôi thực sự hài lòng
+- tin gì tuyệt vời
+- có thể tốt hơn
+- thật là vui
+- bạn thật vui tính
+- yêu bạn quá
+
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- i am feeling very good
+- i am great
+- i'm good
+- absolutely delighted
+- thrilled to bits
+- over the moon
+- really pleased
+- so happy
+- i couldn't be happier.
+- that is fantastic
+- wonderful 
+- great 
+- marvellous
+- what great 
+- fantastic news
+- we've been waiting so long for this
+- thank god
+- thank god for that
+- i'm really pleased.
+- what great news!
+- could be better.
+- awesome
+
+## intent:mood_unhappy
+- buồn
+- rất buồn
+- cảm thấy không vui
+- tôi không thấy vui chút nào
+- buồn quá bạn tôi ơi
+- bực bội trong người quá
+- tôi có cảm giác bức rức trong người
+- tôi cảm thấy rất tồi tệ
+- cảm giác rất tệ
+- quá là kinh khủng
+- không tốt lắm
+- sao mà buồn quá
+- tôi thực sự buồn về
+- tôi đang rất buồn
+- thật buồn bã
+- tôi đang không vui về điều này
+- cảm thấy buồn chán
+- tôi đang chán nản
+- tôi cảm thấy thật khổ sở
+- tôi đang cảm thấy thật quẫn trí
+- thật đau lòng
+- buồn bã tột độ
+- bạn khiến tôi buồn quá
+- tôi vừa gặp một chuyện rất buồn
+- bạn có thể an ủi tôi được không
+- tôi cần một ai đó
+- tôi vừa gặp một chuyện tồi tệ
+- thật sự kinh khủng
+
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+- really sad about 
+- really sad
+- upset
+- unhappy about 
+- a little down
+- down in the dumps
+- a bit depressed
+- miserable
+- in pieces
+- distraught
+- devastated
+- heart-broken
+- absolutely gutted
+
+## intent:ask_for_humor
+- nói với tôi một số chuyện vui
+- nói với tôi một trò đùa
+- kể cho tôi nghe vài câu chuyện cười
+- bạn có biết đùa không
+- bạn có chuyện hài nào kể tôi nghe đi
+- có cái gì đó vui kể tôi nghe đi
+- có cái gì đó hài hước để kể không
+- kể một số chuyện hài đi
+- kể tôi nghe cái gì đó thật vui đi
+- kể vài chuyện vui đi
+- bạn có chuyện vui nào không
+- hài hước tí coi
+- kể chuyện nào thư giản
+- kể tôi nghe một câu chuyện đi
+- chán quá, tâm sự đi
+- bạn nói gì đi
+- nói cái gì cũng được
+
+- tell me a joke
+- tell me some jokes
+- do know any jokes
+- what is humour
+- tell me something funny
+- tell me a story
+- say something to me
+- say anything
+- do you know any jokes
+- can you tell me something fun
+- be fun with me
+
+## intent:ask_show_room
+- bạn giới thiệu về showroom one-stop shopping center đi
+- nao giúp mình giới thiệu về showroom one-stop shopping center
+- bạn giúp mình giới thiệu về showroom one-stop shopping center
+- bạn giúp tao giới thiệu về showroom one-stop shopping center đi
+- nao giúp biết gì về showroom one-stop shopping center
+- bạn giúp tao tìm hiểu gì về showroom one-stop shopping center
+- giới thiệu về showroom 
+- giới thiệu về showroom one-stop shopping center đi
+- hãy giới thiệu cho mình về showroom one-stop shopping center
+- hãy giới thiệu cho tao về showroom one-stop shopping center0
+- nao hãy giới thiệu về showroom one-stop shopping center.
+- bạn hãy giới thiệu về showroom one-stop shopping center.
+- giới thiệu showroom one-stop shopping center
+- trình bày về showroom one-stop shopping center
+- phát biểu về showroom one-stop shopping center
+- đây là showroom về gì ?
+- showroom này là sao ?
+- showroom này là gì vậy ?
+- showroom này có gì ?
+- nao giúp mình giới thiệu về showroom này đi  
+- bạn giúp mình giới thiệu về showroom nguyễn văn trỗi
+- bạn giới thiệu về showroom đi/này đi
+- bạn giới thiệu về showroom nguyễn văn trỗi đi
+- bạn giúp tao giới thiệu về showroom này đi
+- bạn biết gì về showroom này
+- nao biết gì về showroom này nguyễn văn trổi
+- bạn biết gì về showroom nguyễn văn trổi
+- bạn biết gì về showroom one-stop này
+- bạn biết gì về showroom one-stop shopping center
+- hãy giới thiệu cho tôi về showroom này đi
+- hãy giới thiệu cho tao về showroom này đi
+- nao hãy giới thiệu về showroom nguyễn văn trổi
+- giới thiệu showroom nguyễn văn trổi
+- trình bày về showroom nguyễn văn trổi
+- phát biểu về showroom nguyễn văn trổi
+
+- tell me about this place 
+- tell me about this showroom 
+- where am i 
+- what do you know about this showroom/ one-stop shopping center 
+- what do you know about this place
+- can you tell me about this showroom
+- what is this showroom about
+- can/could you tell me about this place
+- can/could you introduce about this showroom for me 
+- introduce about this place/ this showroom
+- introduce about this place/ this showroom for me
+- present about this place for me
+- present about this showroom for me
+
+## intent:ask_why_named_nao
+- tại sao bạn có tên là nao
+- nguyên nhân gì bạn có tên là nao
+- tên nao là sao 
+- từ đâu mà lại có tên nao
+- tại sao lại là nao
+
+- why your name is nao ?
+- is there a reason for your name, nao?
+- why your creator chose your name as nao
+- why they decided to call you like that
+- why is nao
+
+## intent:ask_manufactory
+- cty an cường có nhà máy sản xuất không
+- an cường phải nhập hàng về hay có nhà máy sản xuất
+- nhà máy an cường có rộng/ lớn không
+- nhà máy an cường ở đâu 
+- vị trí của nhà máy an cường 
+- quy mô của nhà máy sản xuất như thế nào
+- nhà máy an cường nằm ở đâu vậy
+
+- do an cuong have manufactor?
+- where is an cuong manufacturering factory
+- how big is an cuong factor 
+- where is the factory 
+- do you have facrtory
+- where is the company factory located?
+- where is an cuong factory located?
+- an cuong’s factory location
+- an cuong has to import goods or has their own factory 
+- do an cuong own a manufacturing factory
+
+## intent:ask_policy
+- chính sách bảo hành của cty như thế nào
+- bên mình dịch vụ bảo hành ra sao 
+- dịch vụ bảo hành ở đây như thế nào 
+- cty có chính sách bảo hành không 
+- cty hỗ trợ bảo hành như thế nào 
+- thời gian bảo hành như thế nào 
+- thời gian bảo hành sản phẩm
+- liên hệ bảo hành như thế nào
+- bảo hành kéo dài bao lâu
+- gỗ an cường bảo hành được bao lâu
+- cho tôi xin chính sách bảo hành của gỗ an cường
+- ván sàn laminate bảo hành bao lâu 
+- bảo hành gỗ nội thất an cường như thế nào
+- tôi muốn biết thêm về bảo hành 
+- tôi muốn biết bảo hành như thế nào
+- tôi muốn liên hệ bảo hành như thế nào
+- sản phẩm bên an cường được bảo hành như thế nào
+- sản phẩm bên an cường được bảo hành trong trường hợp nào
+
+- can/could you tell me about the warranty policies 
+- what is the warranty policies about
+- tell me the detail of warranty policies
+- tell me more about the warranty policies
+- tell me more about the warranty period
+- what are the detail from the warranty policies
+- detail about warranty period
+- detail about warranty policy
+- what is the warranty period for different products
+- how long does the warranty period last
+- warranty period for how long
+- i want to know the detail of the warranty policy
+- i want to know how long does the warranty period last
+- which case does the company/ an cuong responsible for the warranty for each products
+- in which case will an cuong responsible for warranty the product
+- in any case, the company will guarantee its products
+- in this cases will an cuong apply the warranty policy for the product
+
+## intent:ask_showroom_floor
+- tôi muốn xem căn hộ mẫu thì lên tầng nào 
+- tầng nào có căn hộ mẫu
+- cho tôi biết tầng nào trưng bày căn hộ mẫu
+- tôi muốn xem thiết bị nhà bếp thì lên đâu
+- tôi muốn mua bếp thì xem ở đâu
+- tôi muốn xem mẫu gỗ an cường thì lên tầng nào 
+- tôi muốn biết nội dung trưng bày của các tầng
+- mỗi tầng trưng bày những gì 
+- tôi xem mẫu bếp từ/tủ lạnh/ máy rửa chén/ bồn rửa chén tại đâu
+- xem gỗ nội thất ở đâu vậy nao/bạn/mày
+- xem nội thất lên tầng mấy 
+- showroom gỗ an cường ở tầng/lầu nào
+- ở đây còn nhà bếp mẫu nữa không 
+- muốn xem ván sàn gỗ thì lên tầng mấy
+- tôi muốn xem ván sàn gỗ thì lên tầng/lầu mấy
+- tôi muốn biết tổng quát các lầu 
+- tổng quát các lầu như thế nào 
+
+- i would like to take a look at the kitchen model, where should i go 
+- i would like to see some interior/furniture model, where can i go
+- which floor can i go if i want to see kitchen devices/ wood interior
+- what is on each floor?
+- where is the apartment model 
+- where is kitchen devices
+- can i go upstair?
+- what is on upstair?
+- does the showroom continue upstair 
+- where can i find an cuong’s wood color sample?
+- do you know where are kitchen devices placed ?
+- where can i see the kitchen devices 
+- where can i see intrior/furniture sample
+- where can i see wood samples
+- i want to see some kitchen’s model 
+- which floor should i go if i want to see wood samples
+- which floor should i go if i want to see kitchen devices
+- which floor should i go if i want to see furnitures
+- where should i go when i 
+
+## intent:ask_delivery_method
+- chừng nào mới có hàng 
+- ở đây giao hàng lâu không 
+- hàng của tôi/tao/mình chừng nào có
+- bao lâu sẽ có hàng
+- hàng khi nào tới nhà
+- giao hàng liền được không
+- chừng nào hàng về đến nhà tôi/mình/tao
+- khi nào hàng về đến nhà tôi/mình/tao
+- thời gian giao hàng lâu không 
+- có hàng trong chiểu nay được không
+- bên mình có nhận giao hàng tận nhà không
+- thời gian mất bao lâu mới nhận được hang
+
+- how long will the product arrive at my front door
+- how long does it take for shipment/delivery
+- can i get my product for today/tonight/tomorrow/ this week 
+- how long does it take for my product arrive at my house 
+- how long is the shipment 
+- how long is the delivery
+- detail about delivery method
+- detail about the shipment method
+- can the goods/products be delivered immediately?
+- will the goods/products be delivered on time?
+- when the goods/products arrive at my house
+- is the delivery time taking long
+
+## intent:ask_passwifi
+- passwifi ở đây là gì 
+- mật khẩu wifi là gì vậy
+- passwifi là gì vậy
+- mật khẩu wifi là gì 
+- wifi showroom password là gì vậy
+- mật khẩu wifi showroom là gì
+- wifi có mật khẩu là gì vậy
+- cho tôi/mình/tao xin pass wifi
+- cho tôi/mình/tao xin mật khẩu wifi 
+- cho hỏi là passwifi ở đây là gì
+- làm ơn cho tôi xin mật khẩu wifi
+- làm ơn cho tôi xin pass wifi
+- tôi muốn biết mật khẩu wifi ở đây
+- tôi muốn biết passwifi ở đây
+- ở đây có wifi không 
+- showroom có wifi không
+- cho tôi/mình/tao hỏi là ở đây có wifi không 
+- dùng wifi nào vậy ?
+- tên và password wifi là gì vậy
+- tên và mật khẩu wifi là gì vậy
+
+- nao, what is the wifi password
+- i want to connect to the wifi
+- tell me the wifi password
+- do we have wifi here 
+- could/can you tell me the wifi password 
+- does this showroom have wifi 
+- does this place have wifi 
+
+## intent:evaluate
+- thật là [khờ](rate) quá đi mà
+- quá [khờ](rate)
+- bạn quá [giỏi](rate)
+- bạn [giỏi](rate) đấy
+- bạn thật [nhạy cảm](rate)
+- thật [nhạy cảm](rate)
+- bạn thật [ngốc](rate) vkl
+- [ngốc](rate) thật đấy
+- bạn đang [xạo](rate)
+- bạn [xạo](rate) quá vậy
+- sao bạn [kiêu ngạo](rate) quá vậy
+- tôi thấy bạn [kiêu ngạo](rate) quá
+- bạn thật [khoe khoang](rate)
+- bạn [khoe khoang](rate) quá đi
+- [ích kỷ](rate) quá
+- bạn [ích kỷ](rate) quá
+- [keo kiệt](rate) quá đi
+- [keo kiệt](rate) ghê
+- bạn [hài hước](rate) quá đi
+- [hài hước](rate) vkl
+- thật quá [đáng yêu](rate)
+- bạn [đáng yêu](rate) thật đấy
+- bạn quá [thông minh](rate) quá
+- bạn [thông minh](rate) quá đi
+- bạn thật quá [vui tính](rate)
+- [vui tính](rate) quá
+- [hay](rate) quá
+- bạn [hay](rate) ghê
+- [ngu](rate) ghê
+- trời ơi [ngu](rate) ghê
+
+- you are [arrogant](rate)
+- you looks [bragging](rate)
+- you should be [sad](rate)
+- so [jealous](rate)
+- you are so [ashamed](rate)
+- too [cute](rate)
+- what a [funny](rate) bot
+- how you can be so [smart](rate)
+- how [stupid](rate)
+- you are so [helpful](rate) to me
+- so [arrogant](rate) you are
+- [bragging](rate) are you
+- you looks so [sad](rate)
+- are you [jealous](rate)
+- don't be so [ashamed](rate)
+- you are [cute](rate) too
+- how you can be so [funny](rate)
+- what a [smart](rate)
+- [stupid](rate) bot
+- you are very [helpful](rate)
+
+## intent:feedback
+- tôi muốn nhận xét về showroom
+- tôi muốn nhận xét về công ty
+- tôi muốn nhận xét về dịch vụ đây
+- làm thế nào để báo lỗi
+- làm thế nào để góp ý 
+- tôi muốn góp ý về dịch vụ
+- gửi ý kiến về dịch vụ thì gửi qua đâu
+- tôi mình cần góp ý dịch vụ ở đây
+- tôi mình cần góp về showroom
+- tôi mình cần góp sản phẩm
+- tôi mình cần góp với nhân viên ở đây
+- tôi mình đến đâu để góp ý
+
+- where can i give feedback for your services
+- where can i give feedback for your showroom 
+- where can i give feedback for your company 
+- i want to give feedback for this place showroom
+- i need to give feedback for this this showroom
+- how to report for error 
+- i want to feedback on the services
+- i have some problems about ther services
+
+## intent:ask_for_emotion
+- cảm xúc của bạn ra sao rồi
+- bạn cảm thấy thế nào
+- bạn cảm giác ra sao
+- bạn có thấy [buồn](emotion) lắm không
+- bạn đang cảm thấy [buồn](emotion) à
+- bạn có cảm thấy đang [vui](emotion) không
+- điều đó có làm bạn [vui](emotion) không 
+- nó có làm bạn [hạnh phúc](emotion) không
+- bạn có cảm thấy [hạnh phúc](emotion) không
+- bạn đang cảm thấy [sợ hãi](emotion) đúng không
+- bạn có bao giờ bị [sợ hãi](emotion) hay không
+- bạn có bao giờ cảm thấy [đau](emotion) chưa
+- bạn đang [đau](emotion) à
+- bạn có [cô đơn](emotion) khi thấy tôi không
+- bạn đang [cô đơn](emotion) sao
+- bạn có [xấu hổ](emotion) khi không có tôi không
+- bạn có [xấu hổ](emotion) khi tôi nói vậy không
+- có cảm thấy [chán](emotion) hay không
+- đang [chán](emotion) phải không
+
+- have you felt
+- what your feelings now
+- does that make you [better](emotion)
+- does it make you [sad](emotion)
+- do you feel [scared](emotion)
+- do you feel [emotions](emotion)
+- do you feel [pain](emotion)
+- do you ever get [lonely](emotion)
+- do you ever get [mad](emotion)
+- do you ever get [bored](emotion)
+- do you [hate](emotion) me
+- do you get [embarrassed](emotion)
+- do you get [glad](emotion)
+- are you [amused](emotion)
+- are you [jealous](emotion)
+- are you [better](emotion)
+- are you [sad](emotion)
+- do you [scared](emotion)
+- what your [emotions](emotion) now
+- does that make you [pain](emotion)
+- are you [lonely](emotion) now
+- does it make you [mad](emotion)
+- you [bored](emotion), aren't you?
+- you don't [hate](emotion) me, do you?
+- have you felt [embarrassed](emotion)
+- have you just felt [glad](emotion)
+- do you [jealous](emotion) because of that
+
+## intent:thankyou
+- cảm ơn bạn
+- cảm ơn và tạm biệt bạn
+- bạn thật tuyệt vời
+- okay, cảm ơn bạn
+- ok cảm ơn bạn
+- cảm ơn bạn rất nhiều
+- nhờ ơn của bạn
+- cảm ơn sự giúp đỡ của bạn
+- nhờ bạn mà tôi đã trở nên như vậy
+- bạn thật là tốt
+
+- um thank you good bye
+- okay cool uh good bye thank you
+- okay thank you good bye
+- you rock
+- and thats all thank you and good bye
+- thank you and good bye
+- sorry about my mistakes thank you good bye
+- noise thank you good bye
+- thank you goodbye noise
+- okay thank you goodbye
+- uh thank you good bye
+- thank you goodbye
+- thank you goodbye noise thank you goodbye
+- breath thank you goodbye
+- thank you
+- okay thank you
+- thanks goodbye
+- ah thank you goodbye
+- thank you noise
+- thank you good bye
+- breath thank you very much goodbye
+- thanks
+- noise thank you goodbye
+- unintelligible thank you goodbye
+- uh okay thank you good bye
+- thank you bye
+- um okay thank you good bye
+
+## intent:inform_name
+- tên tôi là hòa
+- tên tôi là lê hòa
+- họ tên tôi là lê hòa
+- tôi họ lê, tên là hòa
+- gọi tôi là hòa
+- tên họ của tôi là lê hòa
+- hòa là tên của tôi
+- lê hòa là tên của tôi
+- hãy gọi tôi là hòa
+- gọi là hòa đi
+- cứ gọi là hòa là được
+- tên là hòa
+- tôi là hòa
+- tên đầy đủ của tôi là lê hòa
+
+- my name is shinichi
+- my name is kudo shinichi
+- i am shinichi
+- call me shinichi
+- everybody call me shinichi
+- i'm shinichi
+- my name's shinichi
+- my full name is kudo shinichi
+- my first name is kudo shinichi
+
+## intent:inform_age
+- năm nay tôi [20](age)
+- tôi vừa tròn [21](age)
+- tôi năm nay [22](age)
+- tôi [23](age) tuổi
+- [24](age) tuổi
+- tôi được [25](age) tuổi rồi
+- tôi năm nay vừa tròn [26](age) tuổi
+- [30](age) ngày nữa là tôi tròn [27](age)
+- sang năm là tôi [28](age) rồi
+- đến tết là tôi được [29](age)
+- tính theo âm lịch là tôi được [30](age) tuổi
+- tôi năm nay lên [8](age) tuổi
+
+- i'm [26](age)
+- i am [27](age) year olds
+- my age is [28](age)
+- [29](age) is my age
+- i was living [30](age) year
+
+## regex:age
+- [2-9][0-9]|[1-9]
+
+## intent:inform_birth_year
+- tôi sinh năm [1995](birth_year)
+- sinh năm [1996](birth_year)
+- [1997](birth_year) là năm sinh của tôi
+- [1998](birth_year) là năm tôi sinh
+- năm sinh của tôi là [1999](birth_year)
+- tôi sinh ra năm [2000](birth_year)
+- năm sinh theo chứng minh là [1985](birth_year)
+
+- i was born at [1995](birth_year)
+- my year of birth is [1996](birth_year)
+- [1997](birth_year) is my year of birth
+- [1998](birth_year) is the year i was born
+
+## regex:birth_year
+- 1[8-9][0-9]{2}|20[0-1][0-9]
+
+## intent:inform_gender
+- tôi giới tính [nam](gender)
+- tôi là [nam](gender)
+- giới tính của tôi là [nam](gender)
+- giới tính là [nam](gender)
+- tôi giới tính [nữ](gender)
+- tôi là [nữ](gender)
+- giới tính của tôi là [nữ](gender)
+- giới tính là [nữ](gender)
+- tôi là một người [đàn ông](gender)
+- tôi là [đàn ông](gender)
+- tôi là một thằng [đàn ông](gender)
+- tôi là một người [đàn bà](gender)
+- tôi là [đàn bà](gender)
+- tôi là một con [đàn bà](gender)
+- tôi là một [chàng trai](gender)
+- tôi là một [cô gái](gender)
+- tôi giống [đực](gender)
+- tôi giống [cái](gender)
+- tôi là một [ông già](gender)
+- tôi là một [bà già](gender)
+- tôi là một [ông lão](gender)
+- tôi là một [bà lão](gender)
+- tôi là một [ông chú](gender)
+- tôi là một [bà cô](gender)
+- tôi là một [quý ông](gender)
+- gọi tôi là [quý ông](gender)
+- tôi là một [quý bà](gender)
+- gọi tôi là [quý bà](gender)
+- gọi tôi là [ông](gender)
+- gọi tôi là [bà](gender)
+
+- i am [male](gender)
+- my gender is [male](gender)
+- [male](gender) is my gender
+- i am [female](gender)
+- my gender is [female](gender)
+- [female](gender) is my gender
+- i am just a [man](gender)
+- i am [man](gender)
+- i am a [man](gender)
+- i am just a [woman](gender)
+- i am [woman](gender)
+- i am a [woman](gender)
+- i am [boy](gender)
+- i am a [boy](gender)
+- i am just a [boy](gender)
+- i am [girl](gender)
+- i am a [girl](gender)
+- i am just a [girl](gender)
+- call me [lady](gender)
+- call me [gentleman](gender)
+
+## synonym:male
+- chàng trai
+- đàn ông
+- đực
+- ông già
+- ông lão
+- ông chú
+- ông
+- quý ông
+- nam
+
+- man
+- boy
+- gentleman
+
+## synonym:female
+- cô gái
+- đàn bà
+- cái
+- bà già
+- bà lão
+- bà cô
+- bà
+- quý cô
+- quý bà
+- nữ
+- woman
+- girl
+- lady
+
+## intent:ask_direction
+- làm ơn chỉ đường tôi tới cây [atm](place) gần nhất
+- tôi không biết cây nào [atm](place) ở quanh đây
+- bạn có thể chỉ đường tôi tới [sảnh tiếp tân](place) được không
+- tôi cần đến [sảnh tiếp tân](place) ngay bây giờ
+- [wc](place) ở đâu vậy
+- [wc](place) có ở gần đây không
+- có cây [quầy bán đồ ăn](place) nào gần đây không
+- đi tới [quầy bán đồ ăn](place) đi hướng nào vậy
+- đường nhanh nhất đi tới [căn tin](place)
+- có [căn tin](place) nào gần đây không, chỉ đường giúp tôi với
+- làm sao để đi lên [cầu thang lầu 3](place)
+- tôi muốn đi xuống [cầu thang lầu 3](place), làm thế nào đây
+- [lối thoát hiểm](place) gần nhất là ở đâu vậy
+- [lối thoát hiểm](place) đi hướng nào thế
+- đi hướng nào để lên [sân thượng](place)
+- tôi muốn lên tới [sân thượng](place)
+- tôi muốn đi xuống [tầng hầm](place)
+- tòa nhà này có [tầng hầm](place) không, chỉ tôi với
+- tôi cần đi [toilet](place) ngay bây giờ
+- bạn chỉ tôi đường tới [toilet](place) được không
+- [phòng khách](place) ở đâu vậy
+- [phòng khách](place) có ở gần đây không
+
+- please show me the way to [atm](place)
+- i don't know where is the [toilet](place)
+- could you show me the direction to [reception hall](place)
+- i need to go to [stairway](place) right now
+- where is the [wc](place)
+- is there any [living room](place) nearby here
+- could you show me [food stand](place) around here
+- how to go to [elevator](place)
+- the fast way to go to [main door](place)
+- is there any [exits](place) around here, please show me the direction
+- how i can go to [rooftop](place)
+- i want to go down [underground](place), how?
+- could you direct me to [atm](place)
+- i want to go to [toilet](place)
+- i dont know where is [reception hall](place)
+- can you show me the way to [stairway](place)
+- where is the [wc](place)
+- where is the place of [living room](place)
+- where is the [food stand](place) located
+- show me the way to [elevator](place)
+- how i go to [main door](place)
+- i want to go to [exits](place)
+- how come to [rooftop](place)
+- how go to [underground](place)

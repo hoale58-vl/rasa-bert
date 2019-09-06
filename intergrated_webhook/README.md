@@ -19,4 +19,5 @@ pip install pytorch_transformers
 pip install pymysql
 
 # Mecab - Japanese tokenizer
+sudo apt-get install swig libmecab-dev mecab-ipadic-utf8
 pip install mecab-python3

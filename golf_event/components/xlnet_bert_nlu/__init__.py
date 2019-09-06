@@ -10,7 +10,7 @@ import utils.vocab_reader as vocab_reader
 import models.slot_tagger as slot_tagger
 import models.snt_classifier as snt_classifier
 import torch
-from pytorch_transformers import BertTokenizer, BertModel, XLNetTokenizer, XLNetModel 
+from pytorch_transformers import BertTokenizer, BertModel, XLNetTokenizer, XLNetModel , DistilBertTokenizer, DistilBertModel
 from utils.bert_xlnet_inputs import prepare_inputs_for_bert_xlnet
 
 import itertools
@@ -18,6 +18,10 @@ import numpy as np
 import re
 from .slot_nlu_train import SlotNluTrain
 from rasa.nlu.training_data.training_data import TrainingData
+from watchdog.observers import Observer
+from watchdog.events import PatternMatchingEventHandler
+
+import json
 
 emb_size = None
 hidden_size = 200 # 100, 200 
@@ -27,6 +31,13 @@ dropout = 0.1 # 0.1, 0.5
 multiClass = False
 encoder_info_filter = lambda info: info
 fix_pretrained_model = False
+
+configPath = os.path.join(os.path.dirname(__file__), "..", "..")
+def getLangFromConfig():
+    configFile = os.path.join(configPath, "config.json")
+    with open(configFile, "r+") as jsonFile:
+        data = json.load(jsonFile)
+        return data["lang"]
 
 class LangModel(object):
     def __init__(self):
@@ -38,22 +49,22 @@ class LangModel(object):
         self.model_class = None
         self.model_tag = None
 
-    
-
 class XlnetBertNLU(Component):
     name = "xlnet_bert_nlu"
     provides = ["intent", "entities"]
     requires = ["tokens"]
     defaults = {}
-    language_list = ["en", "vi", "jp"]
+    language_list = ["vi", "en", "ja"]
 
     def load_model(self, lang, tag_to_idx, class_to_idx):
         if lang in ['ja']:
             pretrained_model_name = "bert-base-multilingual-uncased"
         else:
             pretrained_model_name = "bert-base-uncased"
+        # pretrained_model_name = 'distilbert-base-uncased'
         MODEL_CLASSES = {
             'bert': (BertModel, BertTokenizer),
+            'distil-bert': (DistilBertModel, DistilBertTokenizer),
             'xlnet': (XLNetModel, XLNetTokenizer),
         }
         pretrained_model_class, tokenizer_class = MODEL_CLASSES[self.pretrained_model_type]
@@ -98,24 +109,35 @@ class XlnetBertNLU(Component):
         lang_model.tokenizer, lang_model.model_tag, lang_model.model_class = self.load_model(lang, lang_model.tag_to_idx, lang_model.class_to_idx)
         return lang_model
 
+    def on_modified(self, event):
+        configLang = getLangFromConfig()
+        self.nluModel = self.load_lang_model(configLang)
+
     def __init__(self, component_config=None):
         super(XlnetBertNLU, self).__init__(component_config)
         self.model_dir = os.path.join(os.path.dirname(__file__), "model")
         self.device = torch.device("cpu")
-        self.pretrained_model_type = "bert" # bert, xlnet
+        self.pretrained_model_type = "bert" # bert, xlnet, distil-bert
         self.intent_confidence = 0.3
         self.intent_unk = "<unk>"
+
+        event_handler = PatternMatchingEventHandler(patterns=["*.json"],
+                                    ignore_patterns=[],
+                                    ignore_directories=True)
+        event_handler.on_modified = self.on_modified
+        observer = Observer()
+        observer.schedule(event_handler, path=configPath, recursive=False)
+        observer.start()
+
         try:
-            self.ja_model = self.load_lang_model('ja')
-            self.vi_model = self.load_lang_model('vi')
-            self.en_model = self.load_lang_model('en')
+            configLang = getLangFromConfig()
+            self.nluModel = self.load_lang_model(configLang)
         except OSError as e:
             print("Pass error : Please train this model before using - " + str(e))
 
     def train(self, training_data, cfg, **kwargs):
         multi_lang_training_data = self.splitMultiLang(training_data)
         for lang in multi_lang_training_data:
-            print(lang)
             lang_training_data = TrainingData(
                 multi_lang_training_data[lang],
                 entity_synonyms=training_data.entity_synonyms,
@@ -139,12 +161,7 @@ class XlnetBertNLU(Component):
             and append prediction results to the message class."""
 
         tokens = [t.text for t in message.get("tokens")]
-        if message.get("lang") in ['ja']:
-            self.feed_model(self.ja_model, tokens, message)
-        elif message.get("lang") in ['vi']:
-            self.feed_model(self.vi_model, tokens, message)
-        elif message.get("lang") in ['en']:
-            self.feed_model(self.en_model, tokens, message)
+        self.feed_model(self.nluModel, tokens, message)
 
     def feed_model(self, lang_model, tokens, message):
         inputs = prepare_inputs_for_bert_xlnet([tokens], [len(tokens)], lang_model.tokenizer, 
@@ -162,25 +179,30 @@ class XlnetBertNLU(Component):
         entities = []
         pre_entity = "O"
         entity_value = ""
+        lang = message.get("lang")
         for idx, slot in enumerate(top_pred_slots[0]):
-            entity = list(lang_model.tag_to_idx.keys())[list(lang_model.tag_to_idx.values()).index(slot)]
+            entity = list(lang_model.tag_to_idx.keys()) [list(lang_model.tag_to_idx.values()).index(slot)]
             if entity[2:] == pre_entity[2:]:
-                entity_value += tokens[idx] + " "
+                if lang == "ja":
+                    entity_value = entity_value + tokens[idx]
+                else:
+                    entity_value = entity_value + " " + tokens[idx]
             else:
                 if pre_entity != "O":
                     entities.append({
                         "value" : entity_value.rstrip(),
                         "entity" : pre_entity
                     })
-                entity_value = tokens[idx] + " "
+                entity_value = tokens[idx]
                 pre_entity = entity
+
 
         if pre_entity != "O":
             entities.append({
                 "value" : entity_value.rstrip(),
                 "entity" : pre_entity
             })
-        self.compose_entities(entities, message.get("lang"))
+        entities = self.compose_entities(entities, lang)
         message.set("entities", message.get("entities", []) + entities)
 
         class_scores = lang_model.model_class(encoder_info_filter(encoder_info))
@@ -215,6 +237,7 @@ class XlnetBertNLU(Component):
             return cls(meta)
 
     def compose_entities(self, entities, lang):
+        composed_entities = []
         self.begin_entity = False
         composed_entity = None
         for entity in entities:
@@ -222,23 +245,22 @@ class XlnetBertNLU(Component):
             entity_name = str(entity["entity"])
             if re.match(r"I-(.*)", entity_name):
                 if self.begin_entity:
-                    if lang in ['ja', 'zh-cn', 'zh']:
+                    if lang in ['ja']:
                         composed_entity["value"] = str(composed_entity["value"]) + entity_value
                     else:
                         composed_entity["value"] = str(composed_entity["value"]) + " " + entity_value
                 else:
                     composed_entity = None
-                entities.remove(entity)
             elif re.match(r"B-(.*)", entity_name):
                 self.begin_entity = True
                 composed_entity = entity
                 composed_entity["entity"] = composed_entity["entity"][2:]
-                entities.remove(entity)
-                continue
             elif self.begin_entity and composed_entity is not None:
-                entities.append(composed_entity)
+                composed_entities.append(composed_entity)
                 self.begin_entity = False
                 composed_entity = None
 
         if self.begin_entity and composed_entity is not None:
-            entities.append(composed_entity)
+            composed_entities.append(composed_entity)
+
+        return composed_entities

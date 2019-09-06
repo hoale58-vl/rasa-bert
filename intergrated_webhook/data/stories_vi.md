@@ -1,5 +1,5 @@
 ## single_pad_vi
-* <pad>
+* <pad>{"lang":"vi"}
   - utter_pad_vi
 
 ## single_unk_vi

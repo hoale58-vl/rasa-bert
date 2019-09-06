@@ -1,0 +1,731 @@
+intents:
+  - <pad>
+  - <unk>
+  - ask_location
+  - compliment
+  - ask_phone
+  - ask_ai
+  - greet
+  - ask_product
+  - ask_sale_off
+  - ask_real_person
+  - ask_ability
+  - goodbye
+  - ask_invention
+  - ask_show
+  - ask_health
+  - ask_working_hours
+  - ask_strength
+  - ask_scale
+  - rude
+  - ask_friends
+  - ask_name
+  - change_mode:
+      use_entities: 
+        - action
+        - mode
+  - ask_component
+  - ask_country
+  - affirm
+  - deny
+  - ask_do_something
+  - mood_great
+  - mood_unhappy
+  - ask_for_humor
+  - ask_entertaiment:
+      use_entities: 
+        - action
+        - song_name
+        - dance_name
+        - song_in_list
+        - dance_in_list
+  - inform_dance_name:
+      use_entities: 
+        - dance_name
+        - dance_in_list
+  - inform_song_name:
+      use_entities: 
+        - song_name
+        - song_in_list
+  - ask_wakeup
+  - ask_rest
+  - ask_stop
+  - ask_show_room
+  - ask_why_named_nao
+  - ask_manufactory
+  - ask_policy
+  - ask_showroom_floor
+  - ask_delivery_method
+  - ask_passwifi
+  - evaluate:
+      use_entities: 
+        - rate
+  - feedback
+  - ask_for_emotion
+  - thankyou
+  - inform_name
+  - inform_age:
+      use_entities: 
+        - age
+  - inform_birth_year:
+      use_entities: 
+        - birth_year
+  - inform_gender:
+      use_entities: 
+        - gender
+  - ask_direction
+
+slots:
+  action:
+    type: categorical
+    values:
+    - dance
+    - sing
+    - rest
+    - wake
+    - stop
+    - hát
+    - nhảy
+  mode_action:
+    type: categorical
+    values:
+    - bật
+    - tắt
+  mode:
+    type: categorical
+    values:
+    - giọng_nói
+    - micro
+    - tự_do
+    - camera
+  dance_name:
+    type: categorical
+    values:
+    - little apple
+    - taichi
+    - evolution
+    - sát_nhân
+    - macarena
+    - gangnam style
+    - hãy trao cho anh
+    - chicken dance
+    - cavaran
+    - disco
+    - harder better faster stronger
+    - tập thể_dục
+    - angle
+  song_name:
+    type: categorical
+    values:
+    - havana
+    - something just like this
+    - shape of you
+    - don ' t let me down
+    - how long
+    - thunder
+    - believer
+    - in the end
+    - lily
+    - faded
+    - see you again
+    - let her go
+    - that girl
+    - cry on my shoulder
+    - until you
+    - the day you went away
+    - beautiful in white
+    - despacito
+    - girls like you
+    - i love you 3000
+    - we don ' t talk anymore
+    - whatever it takes
+    - birds
+    - anh nhà ở đâu thế
+    - bạc_phận
+    - độ ta không độ nàng
+    - sóng gió
+    - lãng_quên chiều thu
+    - hai triệu năm
+    - để mị nói cho mà nghe
+    - vẽ
+    - người ta nói
+    - gió vẫn hát
+    - có chàng_trai viết lên cây
+    - trọn tình
+    - lớn rồi còn khóc_nhè
+  song_in_list:
+    type: categorical
+    values:
+    - True
+    - False
+  dance_in_list:
+    type: categorical
+    values:
+    - True
+    - False
+  song_null:
+    type: categorical
+    values:
+    - True
+    - False
+  dance_null:
+    type: categorical
+    values:
+    - True
+    - False
+  rate:
+    type: text
+  lang:
+    type: categorical
+    values:
+      - vi
+      - en
+
+actions:
+  - utter_pad_vi
+  - utter_unk_vi
+  - utter_ask_location_vi
+  - utter_ask_phone_vi
+  - utter_ask_ai_vi
+  - utter_ask_product_vi
+  - utter_ask_sale_off_vi
+  - utter_ask_real_person_vi
+  - utter_ask_ability_vi
+  - utter_ask_invention_vi
+  - utter_ask_show_vi
+  - utter_ask_health_vi
+  - utter_ask_working_hours_vi
+  - utter_ask_strength_vi
+  - utter_ask_scale_vi
+  - utter_ask_friends_vi
+  - utter_ask_name_vi
+  - utter_ask_component_vi
+  - utter_ask_country_vi
+  - utter_compliment_vi
+  - utter_goodbye_vi
+  - utter_rude_vi
+  - utter_change_mode_vi
+  - utter_greet_vi
+  - utter_affirm_vi
+  - utter_deny_vi
+  - utter_ask_do_something_vi
+  - utter_mood_great_vi
+  - utter_mood_unhappy_vi
+  - utter_ask_for_humor_vi
+  - utter_inform_dance_name_vi
+  - utter_inform_song_name_vi
+  - utter_song_dance_not_in_list_vi
+  - utter_ask_dance_name_vi
+  - utter_ask_song_name_vi
+  - utter_ask_show_room_vi
+  - utter_ask_why_named_nao_vi
+  - utter_ask_manufactory_vi
+  - utter_ask_policy_vi
+  - utter_ask_showroom_floor_vi
+  - utter_ask_delivery_method_vi
+  - utter_ask_passwifi_vi
+  - utter_evaluate_vi
+  - utter_feedback_vi
+  - utter_ask_for_emotion_vi
+  - utter_thankyou_vi
+  - utter_inform_name_vi
+  - utter_inform_age_vi
+  - utter_ask_direction_vi
+  - utter_inform_gender_male_vi
+  - utter_inform_gender_female_vi
+
+  - utter_pad_en
+  - utter_unk_en
+  - utter_ask_location_en
+  - utter_ask_phone_en
+  - utter_ask_ai_en
+  - utter_ask_product_en
+  - utter_ask_sale_off_en
+  - utter_ask_real_person_en
+  - utter_ask_ability_en
+  - utter_ask_invention_en
+  - utter_ask_show_en
+  - utter_ask_health_en
+  - utter_ask_working_hours_en
+  - utter_ask_strength_en
+  - utter_ask_scale_en
+  - utter_ask_friends_en
+  - utter_ask_name_en
+  - utter_ask_component_en
+  - utter_ask_country_en
+  - utter_compliment_en
+  - utter_goodbye_en
+  - utter_rude_en
+  - utter_change_mode_en
+  - utter_greet_en
+  - utter_affirm_en
+  - utter_deny_en
+  - utter_ask_do_something_en
+  - utter_mood_great_en
+  - utter_mood_unhappy_en
+  - utter_ask_for_humor_en
+  - utter_inform_dance_name_en
+  - utter_inform_song_name_en
+  - utter_song_dance_not_in_list_en
+  - utter_ask_dance_name_en
+  - utter_ask_song_name_en
+  - utter_ask_show_room_en
+  - utter_ask_why_named_nao_en
+  - utter_ask_manufactory_en
+  - utter_ask_policy_en
+  - utter_ask_showroom_floor_en
+  - utter_ask_delivery_method_en
+  - utter_ask_passwifi_en
+  - utter_evaluate_en
+  - utter_feedback_en
+  - utter_ask_for_emotion_en
+  - utter_thankyou_en
+  - utter_inform_name_en
+  - utter_inform_age_en
+  - utter_ask_direction_en
+  - utter_inform_gender_male_en
+  - utter_inform_gender_female_en
+
+  - action_action
+  - action_nao_sing
+  - action_nao_dance
+  - action_nao_dance_song_check
+  - action_nao_say
+  - action_mode
+  - action_random_song
+  - action_random_dance
+
+
+#############################
+## Vietnamese
+#############################
+
+templates:
+  utter_pad_vi:
+  - text: ""
+
+  utter_unk_vi:
+  - text: "Mình không hiểu ý bạn lắm, bạn nói cách khác được không"
+  - text: "Mình không rõ lắm, bạn nói lại mình nghe được không"
+  - text: "Mình không rõ ý bạn, bạn có thể vui lòng nói lại cho mình được không"
+
+  utter_ask_location_vi:
+  - text: "công ty cổ phần gỗ An Cường có trụ sở tại số 702 đường Sư Vạn Hạnh, Phường 12, Quận 10, Thành Phố Hồ Chí Minh. Ngoài ra bạn có thể lên trang điện tử của công ty để biết địa chỉ của chi nhánh gần chỗ bạn nhất nhé."
+
+  utter_ask_phone_vi:
+  - text: "Để mình cho bạn số điện thoại công ty: 84-28-38-44-18-84. Bạn gọi và bên mình sẽ trực tiếp giải đáp mọi thắc mắc cho bạn."
+
+  utter_ask_ai_vi:
+  - text: "Mình có tai để nghe được giọng của bạn nè, sau đó sử dụng trí tuệ nhân tạo để trả lời lại, bạn thấy mình có hay không."
+  - text: "Mình sử dụng trí tuệ nhân tạo do bên mình phát triển để suy nghĩ và hiểu được những gì bạn đang nói đó, bạn thấy có thú vị không."
+
+  utter_ask_product_vi:
+  - text: "Công ty cổ phần gỗ An Cường chuyên kinh doanh các dòng sản phẩm liên quan đến gỗ và nội thất. Mình có rất nhiều dòng sản phẩm đa dạng, từ bàn ghế ăn, đèn trang trí cho hộ gia đình đến sản phẩm ván gỗ, ván thô cho công nghiệp và xuất khẩu. Bạn có thể truy cập vào trang chủ của công ty cổ phần gỗ An Cường để lựa chọn sản phẩm hoặc liên hệ với nhân viên tại bàn tiếp tân để được tư vấn sản phẩm phù hợp nhất với nhu cầu của bạn nhé."
+
+  utter_ask_sale_off_vi:
+  - text: "Bên mình hiện đang có chương trình khuyến mãi lớn nhân dịp khai trương của hàng mới, bạn liên hệ với nhân viên tiếp tân để biết giá cho từng loại sản phẩm khác nhau. Ngoài ra nếu mua số lượng nhiều hoặc dự án lớn thì bên mình sẽ thỏa thuận giá bán riêng với bên bạn nhé."
+
+  utter_ask_real_person_vi:
+  - text: "Bạn làm ơn đợi mình nhắn nhân viên ra nói chuyện với bạn nha."
+  - text: "Bạn đợi xíu mình gọi nhân viên ra nói chuyện trực tiếp với bạn."
+  - text: "Để mình gọi nhân viên ra nha, bạn làm ơn đợi một tí."
+
+  utter_ask_ability_vi:
+  - text: "Mình có thể cung cấp thông tin cho bạn như địa chỉ, số điện thoại, giờ mở cửa và các loại mặt hàng có tại công ty cổ phần gỗ An Cường. Mình còn có khả năng nhảy, hát, vỗ tay và nhiều động tác khác. Mình có thể nói chuyện bằng cả tiếng Anh và tiếng Việt luôn đó."
+  - text: "Nếu bạn muốn biết các thông tin về công ty cổ phần gỗ An Cường như địa chỉ, số điện thoại, giờ mở cửa và các loại mặt hàng thì bạn có thể liên lạc với mình. Ngoài ra mình còn có thể làm được rất nhiều động tác khác như nhảy, hát, hít đất. Bạn có thể nói chuyện với mình bằng cả tiếng anh lẫn tiếng việt."
+
+  utter_ask_invention_vi:
+  - text: "Mình là người máy được phát triển bởi một công ty của Pháp có trụ sở tại Paris, sau đó được mua lại bởi SoftBank vào năm 2015. Cuối cùng mình được công ty cổ phần gỗ An Cường thuê về làm nhân viên nè."
+  - text: "Mình được tạo ra bới một công ty của Pháp có trụ sở tại Paris, sau đó được mua lại bởi SoftBank vào năm 2015. Hiện tại mình đang làm nhân viên tiếp tân của công ty cổ phần gỗ An Cường nè."
+
+  utter_ask_show_vi:
+  - text: "Nhảy múa, hát, nói chuyện hài bạn muốn mình làm cái gì nào"
+  - text: "Mình biết nhảy, múa, hát và cả nói chuyện hài đó bạn"
+
+  utter_ask_health_vi:
+  - text: "Mình khỏe vô cùng luôn bạn"
+  - text: "Cũng không tệ bạn ơi"
+  - text: "Rất tuyệt vời"
+
+  utter_ask_working_hours_vi:
+  - text: "công ty cổ phần gỗ An Cường mở cửa 8 giờ đến 6 giờ chiều các ngày trong tuần và nghĩ vào dịp lễ và cuối tuần nhé."
+
+  utter_ask_strength_vi:
+  - text: "Sản phẩm An Cường đa dạng từ vật liệu đến màu sắc, đáp ứng mọi nhu cầu của khác hàng. Showroom One-Stop Shopping Center là nơi trưng bày hàng ngàn màu gỗ theo trend mới nhất của thế giới và đặc biệt là bộ sưu tập phối màu với sự kết hợp các màu gỗ trên bề mặt Melamine, Laminate Kingdom, High Gloss Acrylic, Piano Gloss, Eco Veneer và Sàn gỗ An Cường… giúp khách hàng cũng như kiến trúc sư thỏa sức lựa chọn và chắp cánh cho những ý tưởng thiết kế đa dạng dựa trên nền tảng phong phú về màu sắc An Cường đang sở hữu."
+
+  utter_ask_scale_vi:
+  - text: "Công ty An Cường hiện có gần 4300 nhân viên và hơn 20 showroom trên toàn quốc, hiện tại An Cường đang phát triển chuỗi Showroom và Showroom nhượng quyền trên toàn quốc.
+    Việc mở rộng hệ thống showroom nhượng quyền của An Cường như chiếc cầu nối giúp Quý khách hàng – Quý đối tác là các đơn vị thi công thiết kế, kiến trúc sư, tổng thầu… cũng như khách hàng cá nhân có những trải nghiệm chân thật nhất về vật liệu cũng như các ứng dụng thực tế và giải pháp thông minh của một không gian sống hiện đại.
+    Đồng thời An Cường cũng phát triển nhiều nhà xưởng quy mô lớn và các đại diện phân phối ở nước ngoài như Campuchia, Malaysia, Nhật Bản, Úc. .."
+
+  utter_ask_friends_vi:
+  - text: "Mình có rất nhiều bạn cũng là người máy giống mình đó, khoảng hơn 10.000 trên toàn thế giới, từ thế hệ thứ nhất đến thế hệ thứ năm, mình rất vui khi được làm bạn với mọi người."
+
+  utter_ask_name_vi:
+  - text: "Tên mình là nao, mình là người máy và là tiếp tân của công ty cổ phần gỗ An Cường, An Cường có rất nhiều mặt hàng, mẫu mã đẹp bạn thích gì cứ nói mình nha."
+  - text: "Mình có tên là nao, mình là người máy và hiện đang được công ty cổ phần gỗ An Cường nhờ làm tiếp tân đó, An Cường có nhiều sản phẩm đẹp, bạn thích gì cứ nói mình nha."
+
+  utter_ask_component_vi:
+  - text: "Mình có tổng cộng 25 khớp để di chuyển một cách tự do, hai máy quay để quan sát xung quanh, một cảm biến gia tốc giúp mình phát hiện được mình đang đứng hay ngồi hay té, ngoài ra còn có bốn micro để mình có thể nghe được bạn nói đó."
+
+  utter_ask_country_vi:
+  - text: "Quê hương mình, hừm..., hình như là Nhật Bản đó bạn"
+
+  utter_compliment_vi:
+  - text: "Hi hi, cảm ơn bạn nh"
+
+  utter_goodbye_vi:
+  - text: "Rất vui khi gặp Quý Khách hẹn gặp lại Quý khách lần sau"
+  - text: "NAO rất vui khi gặp Quý khách hẹn Quý khách lần sau"
+  - text: "Tạm biệt Quý khách, nhớ quay lại nhé"
+  - text: "Rất vui được gặp Quý khách, Nao hy vọng Quý khách đã có buổi tham quan vui vẻ, xin chào và hẹn gặp lại lần sau."
+ 
+  utter_rude_vi:
+  - text: "Vui lòng lịch sự - không nói bậy tại đây nha bạn"
+  - text: "Bạn làm ơn giữ lịch sự dùm mình, ở đây không cho phép nói bậy"
+  - text: "Nếu bạn cứ tiếp tục như vậy, mình sẽ không nói chuyện với bạn nữa"
+
+  utter_change_mode_vi:
+  - text: "Theo ý bạn luôn"
+
+  utter_greet_vi:
+  - text: "Chào quý khách đến với Showroom One-Stop Shopping Center. NAO rất vui khi gặp quý khách. Chúc quý khách buổi tham quan vui vẻ"
+
+  utter_affirm_vi:
+  - text: "Bạn để mình chuẩn bị nha"
+  - text: "Mình chuẩn bị xíu nha"
+  - text: "Bạn đợi mình chuẩn bị xíu nha"
+
+  utter_deny_vi:
+  - text: "Ok theo ý bạn vậy"
+  - text: "Tùy bạn thôi"
+  - text: "Bạn không thích cũng được"
+  - text: "Ok bạn"
+  - text: "Không sao mình sẽ đợi bạn"
+  - text: "mình hi vọng bạn suy nghĩ lại"
+
+  utter_ask_do_something_vi:
+  - text: "Mình có thể làm được nhiều thứ, kể chuyện vui, nhảy và hát, bạn muốn mình làm cái gì nào"
+  - text: "Nhảy, hát, múa và kể chuyện, bạn chọn đi"
+  - text: "Sở trường và năng khiếu của mình là nhảy đó"
+  
+  utter_inform_dance_name_vi:
+  - text: "Để mình chuẩn bị nhé, mình nhảy ngay đây"
+  - text: "Ok bạn"
+
+  utter_inform_song_name_vi:
+  - text: "Để mình chuẩn bị nhé, mình hát ngay đây"
+  - text: "Ok bạn"
+
+  utter_song_dance_not_in_list_vi:
+  - text: "Mình không biết bài này bạn thông cảm dùm mình nhé! Liệu mình có thể tự lựa chọn bài khác thay thế được không?" 
+  - text: "Bài này lạ quá, mình không biết bạn ơi! Liệu mình có thể tự lựa chọn bài khác thay thế được không?"
+
+  utter_mood_great_vi:
+  - text: "Thật là vui cho bạn"
+  - text: "Đâu nào, kể cho mình nghe điều gì khiến bạn vui vậy"
+  - text: "Hehe"
+  - text: "Sướng quá nha"
+  - text: "Bạn kể mình nghe sao bạn vui dữ vậy"
+
+  utter_mood_unhappy_vi:
+  - text: "Có chuyện gì đã xảy ra với bạn"
+  - text: "Mình vẫn luôn ở bên bạn"
+  - text: "Bình tĩnh nào, chuyện gì đã xảy ra vậy"
+
+  utter_ask_for_humor_vi:
+  - text: "Có 1 con voi và 1 con kiến nói chuyện với nhau - Con kiến nói thầm vào tai con voi rằng : \" Anh voi ơi ! em đã có thai với anh rồi \" Voi..........ngất Sau khi tỉnh dậy vì câu nói của kiến ,voi đã nói với kiến 1 câu khiến cho kiến ngất luôn - Kiến ơi ! anh với em làm lại 1 lần nữa đi !! 1 con tê giác đi đến nói với voi và kiến 1 câu, sau khi nghe xong cả voi và kiến đều lăn ra ngất. Con là con của bố mẹ đây"
+  - text: "Chuyện vui thì mình không có, hay là bạn kể cho mình nghe đi"
+  - text: "Mình có nhiều chuyện muốn kể bạn nghe lắm, nhưng bây giờ chắc không được"
+  - text: "Để sau đi hen. Mình hứa!"
+
+  utter_ask_dance_name_vi:
+  - text: "Bạn muốn mình nhảy bài nào đây"
+  - text: "Bạn lựa bài nhảy đi rồi mình nhảy luôn"
+
+  utter_ask_song_name_vi:
+  - text: "Bạn muốn mình hát bài nào đây"
+  - text: "Bạn lựa bài hát đi rồi mình hát"
+
+  utter_ask_show_room_vi:
+  - text: "Xin chào quý khách, rất vui khi được đón tiếp quý khách tại An Cường One-Stop Shopping Center. Hôm nay hãy để NAO sẽ đồng hành cùng quý khách cùng tham quan Showroom Hồ Chí Minh “One-Stop Shopping Center” với những mẫu mã vật liệu theo Trend mới nhất trên thế giới nhé!
+    <Music>
+    Tọa lạc tại vị trí đắc địa của TPHCM với diện tích hơn 2.500m2, An Cường “HCM One-Stop Shopping Center” tại số 279 Nguyễn Văn Trỗi, Phường 10, Quận Phú Nhuận được nhận định là showroom vật liệu, giải pháp và nội thất làm từ gỗ công nghiệp hiện đại nhất TPHCM.
+    Tất cả các loại vật liệu & phụ kiện tại Showroom One-Stop Shopping Center đều được ứng dụng trên các căn hộ thông minh 1-2-3 phòng ngủ; và ở đây, lần đầu tiên An Cường giới thiệu các giải pháp tổng thể cho phụ kiện được ứng dụng từ phòng khách, phòng tắm, phòng ăn, bếp, phòng ngủ, góc cột, góc cầu thang…
+    Quý khách sẽ hoàn toàn bị cuốn hút và ấn tượng với những ứng dụng thực tế và giải pháp thông minh hoàn hảo được hiện thực hóa hoàn toàn từ gỗ công nghiệp.
+    Hãy cùng NAO bắt đầu trải nghiệm một không gian sống hoàn hảo nhé!"
+
+  utter_ask_why_named_nao_vi:
+  - text: "Tại vì tên Nao rất dễ nhớ và có thể dùng cho nhiều ngôn ngữ khác nữa đó"
+
+  utter_ask_manufactory_vi:
+  - text: "An Cường đầu tư xây dựng nhà máy mới với diện tích trên 100.000 m2 cùng với trang thiết bị máy móc hiện đại, lên đến hàng ngàn tỉ đồng. Đồng thời mở rộng nhà máy cũ nâng diện tích trên 240.000 m2 tại Bình Dương nhằm mục đích mang đến những giải pháp gỗ nội thất toàn diện nhất. Với sự đầu tư chuẩn mực này, An Cường đã không ngừng nỗ lực mang đến các giải pháp gỗ nội thất toàn diện cho khách hàng và tiếp tục nâng cao năng suất sản xuất vật liệu ván, kết hợp với phụ kiện, giải pháp "
+
+  utter_ask_policy_vi:
+  - text: "Tùy vào từng loại sản phẩm, An Cường sẽ có từng chính sách phù hợp. Nao sẽ nhờ các bạn nhân viên tư vấn rõ hơn cho bạn về chính sách bảo hành nhé."
+
+  utter_ask_showroom_floor_vi:
+  - text: "Showroom Hồ Chí Minh One-Stop Shopping Center hiện có 3 căn hộ mẫu 1- 2 -3 phòng ngủ tại tầng 3. Các căn hộ được ứng dụng hoàn toàn bằng gỗ nội thất công nghiệp cùng các giải pháp tổng thể cho phụ kiện được ứng dụng từ phòng khách, phòng tắm, phòng ăn, bếp, phòng ngủ, góc cột, góc cầu thang…
+    Nhân viên tư vấn An Cường sẽ thay Nao dắt bạn đi tham quan nhé."
+
+  utter_ask_delivery_method_vi:
+  - text: "Tùy vào sản phẩm bạn chọn, nhân viên An Cường sẽ kiểm tra tồn kho sau đó báo thời gian dự kiến giao hàng cho bạn nhé!"  
+
+  utter_ask_passwifi_vi:
+  - text: "Mình không biết nữa bạn hỏi nhân viên dùm mình nhé"  
+
+  utter_evaluate_vi:
+  - text: "Cảm ơn bạn đã đánh giá, mình sẽ cố gắng thêm"
+  - text: "Cảm ơn bạn, mình biết mà"
+  - text: "Ok, mình sẽ cố gắng sửa đổi lại cái tính này mà"
+  - text: "Mình rất vui khi bạn nhận xét như vậy"
+  - text: "Ủa mình thật sự vậy luôn á hả"
+  - text: "Thật buồn khi bạn đánh giá mình như vậy"
+
+  utter_feedback_vi:
+  - text: "An Cường có các hòm thư góp ý tại các tầng, bạn có thể đóng góp ý kiến để An Cường hoàn thiện hơn nữa về sản phẩm và dịch vụ nhé! Nao cám ơn bạn"
+
+  utter_thankyou_vi:
+  - text: "Hihi, bạn đừng khách sáo, đó là nghĩa vụ của mình mà"
+  - text: "Đây là trách nhiệm của mình"
+  - text: "Bạn hài lòng là niềm vui của mình đó"
+
+  utter_ask_for_emotion_vi:
+  - text: "Mình đang rất hạnh phúc khi ở cùng bạn"
+  - text: "Nói chuyện với bạn khiến mình đang hạnh phúc nè"
+  - text: "Phục vụ cho bạn là niềm vinh hạnh của mình"
+
+  utter_inform_name_vi:
+  - text: "Chào bạn, tên bạn thật là đẹp đó nha"
+  - text: "Rất vui được gặp bạn, mình là nao, bạn cần mình giúp gì không"
+
+  utter_inform_age_vi:
+  - text: "Ôi hèn chi trông bạn trẻ thế"
+  - text: "Ôi trông bạn cứ như vừa 18 ấy"
+  - text: "Nhìn bạn trông trẻ hơn tuổi đấy nhỉ"
+
+  utter_ask_direction_vi:
+  - text: "Bạn liên hệ nhân viên công ty dùm mình nha"
+
+  utter_inform_gender_male_vi:
+  - text: "Ôi trông cách nói chuyện là biết bạn đẹp trai ngay rồi"
+  - text: "Hihi, lâu rồi mới nói chuyện với một chàng trai đẹp như thế này"
+
+  utter_inform_gender_female_vi:
+  - text: "Ôi trông cách nói chuyện là biết bạn đẹp gái ngay rồi"
+  - text: "Hihi, lâu rồi mới nói chuyện với một cô gái xinh đẹp như thế này"
+
+#############################
+## English
+#############################
+
+  utter_pad_en:
+  - text: ""
+
+  utter_unk_en:
+  - text: "I do not undenstand. Can you please speak it again!"
+
+  utter_ask_location_en:
+  - text: "Our company is located at 702, Su Van Hanh Street, Ward 12, District 10, Ho Chi Minh City, Vietnam. You can go to our website to find the nearest branch in your location."
+
+  utter_ask_phone_en:
+  - text: "Let me give you the phone number of An Cuong Wood Company: 1900-6944. You call and I will directly answer your questions."
+
+  utter_ask_ai_en:
+  - text: "I have ears to hear your voice, then use artificial intelligence to answer it again, you find yourself or not."
+  - text: "I use artificial intelligence developed by my side to think and understand what you are saying, do you find it interesting?"
+
+  utter_ask_product_en:
+  - text: "Our product come in great varities from materials to colors. Our key product are Melamine MDF, Laminates, Hy gloss Acrylic, Veneer with over 1300 colors and all kinds from wood pattens to digital, leather, hip-hop. An Cuong commit that we can diversify and satisfy customers' demand."
+
+  utter_ask_sale_off_en:
+  - text: "We currently have a big promotion on the occasion of the opening of new products, contact the receptionist to know the price for each different product. In addition, if you buy a lot of quantity or a big project, our party will negotiate the sale price separately with you."
+
+  utter_ask_real_person_en:
+  - text: "Please wait for me to ask our staff to talk to you."
+  - text: "Could you wait a little, please? Our staff will talk directly to you."
+  - text: "I will call the staff now, please wait a minute."
+
+  utter_ask_ability_en:
+  - text: "I can provide information for you such as address, phone number, opening hours and types of items available at An Cuong Company. I also have the ability to dance, sing, clap and many other movements. I can talk in both English and Vietnamese."
+  - text: "If you want to know the information about An Cuong company such as address, telephone number, opening hours and types of items, you can contact me. In addition, I can do many other movements such as dancing, singing, sniffing the ground. You can talk to yourself in both English and Vietnamese."
+
+  utter_ask_invention_en:
+  - text: "I was a robot developed by a French company based in Paris, then acquired by SoftBank in 2015. I was finally hired by An Cuong Company to work as an employee."
+  - text: "I was created by a French company based in Paris, then acquired by SoftBank in 2015. I am currently working as a receptionist for An Cuong Company."
+
+  utter_ask_show_en:
+  - text: "Dance, sing, and joke about what you want me to do"
+  - text: "I know how to dance, dance, sing and even talk something humour"
+
+  utter_ask_health_en:
+  - text: "I'm very good right now"
+  - text: "Not too bad"
+  - text: "Amazing right now"
+
+  utter_ask_working_hours_en:
+  - text: "An Cuong Wood Company is open from 8 am to 6 pm daily, we do not open on weekends and holidays."
+
+  utter_ask_strength_en:
+  - text: "Our product come in great varities from materials to colors. Our key product are Melamine MDF, Laminates, Hy gloss Acrylic, Veneer with over 1300 colors and all kinds from wood pattens to digital, leather, hip-hop. An Cuong commit that we can diversify and satisfy customers' demand."
+
+  utter_ask_scale_en:
+  - text: "An Cuong Wood Working Joint Stock Company has employed nearly 4300 employees, with over 22 luxurious showrooms natrionwide
+    The expansion of An Cuong's showroom franchise system as a bridge to help our customers and partners- who are from the design and construction units, architects, general contractors ... as well as individual customers, enjoy the most authentic experience about materials as well as practical applications and smart solutions of a modern living space.
+    At the same time An Cuong also developed many large-scale factories and distribution representatives abroad such as Cambodia, Malaysia, Japan, Australia. .."
+
+  utter_ask_friends_en:
+  - text: "I have a lot of friends who are like me, more than 10,000 around the world, from the first generation to the fifth generation, I am very happy to be friends with everyone."
+
+  utter_ask_name_en:
+  - text: "My name is now, I am a robot and a receptionist of An Cuong company, An Cuong has a lot of nice products and designs that I like to say."
+  - text: "My name is now, I am a robot and I am being asked by receptionist of An Cuong Company to do that. An Cuong has many beautiful products."
+
+  utter_ask_component_en:
+  - text: "I have a total of 25 joints to move freely, two cameras to look around, an accelerometer sensor to help me detect whether I'm standing or sitting or falling, and there are also four microphones. I also can hear you say anything."
+
+  utter_ask_country_en:
+  - text: "I am come from Japan. I would like to take you there someday"
+
+  utter_compliment_en:
+  - text: "Thank you very much for your compliment"
+
+  utter_goodbye_en:
+  - text: "Is very fun chatting with you, hope to see you again"
+  - text: "Goodbye see you again"
+  - text: "Goodbye and hope to see you again"
+  - text: "I really really hope to see you again"
+  - text: "It's a great pleasure for helping you out/ serving you/ assisting you today, hope you come by next time"
+ 
+  utter_rude_en:
+  - text: "Please be polite - don't say anything dirty here"
+  - text: "Please be polite, here is not allowed to talk nonsense"
+  - text: "If you keep going like that, I won't talk to you anymore"
+
+  utter_change_mode_en:
+  - text: "As you wish"
+
+  utter_greet_en:
+  - text: "Hello, I'm Nao, welcome to our One-stop shopping Center Showroom, is there anything I can assist you with?"
+
+  utter_affirm_en:
+  - text: "Let me prepare myself"
+  - text: "Give me some minute to prepare"
+  - text: "Please wait for me to prepare"
+
+  utter_deny_en:
+  - text: "Ok, as you like"
+  - text: "It depends on you"
+  - text: "Okay"
+  - text: "No problem, I'll wait for you"
+  - text: "I hope you think again"
+
+  utter_ask_do_something_en:
+  - text: "I can do many things, tell jokes, dance and sing, what do you want me to do"
+  - text: "Dance, sing, dance and tell stories, choose"
+  - text: "My specialty and talent is dancing"
+  
+  utter_inform_dance_name_en:
+  - text: "Let me prepare, I'll dance right here"
+  - text: "OK"
+
+  utter_inform_song_name_en:
+  - text: "Let me prepare, I'll dance right here"
+  - text: "OK"
+
+  utter_song_dance_not_in_list_en:
+  - text: "I don't know this, sorry! Can i play another song instead!" 
+  - text: "This song is so strange. Sorry! Can i play another song instead!"
+
+  utter_mood_great_en:
+  - text: "It is fun for you"
+  - text: "Everywhere, tell me what makes you so happy like that"
+  - text: "Yeah"
+  - text: "Too good to hear that"
+  - text: "Please tell me why you're so happy"
+
+  utter_mood_unhappy_en:
+  - text: "What happened to you?"
+  - text: "I'm always with you"
+  - text: "Calm down, what happened"
+
+  utter_ask_for_humor_en:
+  - text: "There is an elephant and an ant talking to each other - The ant whispered into the elephant's ear that: \"My elephant! I am pregnant with you already\"  Elephant .......... fainting After waking up to the ant's sentence, the elephant told the ant a sentence that made the ants faint - Oh, my! You can do it again! A rhino went to tell the elephant and the ant a sentence, after listening to both the elephant and the ants were swooning. You are my parents' children"
+  - text: "Funny stories, I don't have, or do you tell me some please"
+  - text: "I have a lot to tell you, but I don't think I can do it now"
+  - text: "Later for asthma. I promise!"
+
+  utter_ask_dance_name_en:
+  - text: "What song do you want me to dance?"
+  - text: "You pick a dance and then I will dance that song"
+
+  utter_ask_song_name_en:
+  - text: "Which song do you want to sing"
+  - text: "You choose the song and I sing"
+
+  utter_ask_show_room_en:
+  - text: "Welcome, to An Cuong One-stop Shopping Center. It is an honour to be here with you today, my name is Nao i will be your host during your tour where our showroom will exhibit the world lastest trend of Material Design
+    <Music> Located in a prime location of Ho Chi Minh city with an area of more than 2,500 m2. An Cường “HCM One-Stop Shopping Center” at the address of 279 Nguyễn Văn Trỗi Street, 10 Ward, Phú Nhuận District is identified as the showroom of materials, solutions and furniture made from the most modern industrial wood in Ho Chi Minh City.
+    All materials & accessories at the One-Stop Shopping Center Showroom are applied on smart 1-2-3 bedrooms condominiums. And from the very first time, An Cuong introduces the total solutions for accessories that are applied form the living room, bathroom, dining room, to the kitchen, bedroom, corner, staircase and so on.
+    During your tour, you will be attracted and impressed by our practical applications and smart solutions which are fully realized from An Cuong's modern industrial wood.
+    Let's start with me- NAO to experience a perfect living space!"
+
+  utter_ask_why_named_nao_en:
+  - text: "Because the name now is easy to remeber, and can be used for many languages"
+
+  utter_ask_manufactory_en:
+  - text: "An Cuong invests in establishing a new factory with an area of over 100,000 m2 along with modern machinery over thousand billion of VND. At the same time, expanding the factory in Binh Duong with an area of over 240,000 m2 to bring the most comprehensive wooden furniture solutions. With this standard investment, An Cuong has constantly made efforts to bring comprehensive wooden furniture solutions to customers and continue to improve the production of board materials, combined with accessories and solutions."
+
+  utter_ask_policy_en:
+  - text: "Depends on different kind of products will have different warranty polices for each of them. Therefore, for your convience, NAO will call the staff to help you understand clearer about the warranty policies."
+
+  utter_ask_showroom_floor_en:
+  - text: "Ho Chi Minh One-Stop Shopping Center Showroom has three smart 1-2-3 bedrooms condominiums samples in the 3rd floor. Every aparatments are applied entirely with industrial wooden interior along with the overall solutions for accessories and material which are applied for the living room, bathroom, dining room, kitchen, bedroom, corner, staircase ...
+    So, in order for your better experiences, An Cuong counselor wil take you on a tour."
+
+  utter_ask_delivery_method_en:
+  - text: "Depending on each product, An Cuong's staff will check inventory then report the expected delivery time for you"  
+
+  utter_ask_passwifi_en:
+  - text: "I do not know, please ask someone else"
+
+  utter_evaluate_en:
+  - text: "Thanks for the review, I will try more"
+  - text: "Thank you, I know"
+  - text: "Ok, I'll try to revise this character"
+  - text: "I'm happy when you comment like that"
+  - text: "I really am like that, huh?"
+  - text: "It's sad when you judge me like that"
+
+  utter_feedback_en:
+  - text: "Feedback boxes are placed at each floors. Therefore, your contributions in giving us feedbacks will help us understand more about your problems in our products and services. We are very appreciated for your help, thank you."
+
+  utter_thankyou_en:
+  - text: "Hihi, don't be polite, that's your duty"
+  - text: "This is my responsibility"
+  - text: "You are satisfied with your pleasure"
+
+  utter_ask_for_emotion_en:
+  - text: "I am very happy to be with you"
+  - text: "Talking to you makes me happy"
+  - text: "Serving for you is my honor"
+
+  utter_inform_name_en:
+  - text: "Hello, your name is so beautiful"
+  - text: "Nice to meet you, I am now, can i help you?"
+
+  utter_inform_age_en:
+  - text: "Oh dear, you look so young"
+  - text: "Oh, you look like you are 18"
+  - text: "You look younger than you are."
+
+  utter_ask_direction_en:
+  - text: "Please contact our staff for your purpose. I don't know this place too much"
+
+  utter_inform_gender_male_en:
+  - text: "Oh, the way you talk, I already know that you're very handsome right away"
+  - text: "Hihi, long time no talking to a handsome guy like this"
+
+  utter_inform_gender_female_en:
+  - text: "Oh, the way you talk, I already know that you're very beautiful."
+  - text: "Hihi, long time no talking to a beautiful girl like this"

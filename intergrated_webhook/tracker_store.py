@@ -10,7 +10,7 @@ class MySQLDjangoTrackerStore(SQLTrackerStore):
     class SQLEvent(Base):
         from sqlalchemy import Column, Integer, String, Float, Text
 
-        __tablename__ = "ad_train_events"
+        __tablename__ = "ari_nlu_events"
 
         id = Column(Integer, primary_key=True)
         sender_id = Column(String(255), nullable=False, index=True)

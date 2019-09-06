@@ -1,5 +1,5 @@
 # Install module langdetect
-pip install langdetect
+pip install langdetect -> Not need
 pip install langid
 
 # Install CocCoc tokenizer

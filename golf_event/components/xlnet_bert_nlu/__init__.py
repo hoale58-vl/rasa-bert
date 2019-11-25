@@ -24,7 +24,7 @@ from watchdog.events import PatternMatchingEventHandler
 import json
 
 emb_size = None
-hidden_size = 200 # 100, 200 
+hidden_size = 100 # 100, 200 
 bidirectional = True
 num_layers = 1
 dropout = 0.1 # 0.1, 0.5 
@@ -57,11 +57,11 @@ class XlnetBertNLU(Component):
     language_list = ["vi", "en", "ja"]
 
     def load_model(self, lang, tag_to_idx, class_to_idx):
-        if lang in ['ja']:
-            pretrained_model_name = "bert-base-multilingual-uncased"
-        else:
-            pretrained_model_name = "bert-base-uncased"
-        # pretrained_model_name = 'distilbert-base-uncased'
+        # if lang in ['ja']:
+        #     pretrained_model_name = "bert-base-multilingual-uncased"
+        # else:
+        #     pretrained_model_name = "bert-base-uncased"
+        pretrained_model_name = 'distilbert-base-uncased'
         MODEL_CLASSES = {
             'bert': (BertModel, BertTokenizer),
             'distil-bert': (DistilBertModel, DistilBertTokenizer),
@@ -117,7 +117,7 @@ class XlnetBertNLU(Component):
         super(XlnetBertNLU, self).__init__(component_config)
         self.model_dir = os.path.join(os.path.dirname(__file__), "model")
         self.device = torch.device("cpu")
-        self.pretrained_model_type = "bert" # bert, xlnet, distil-bert
+        self.pretrained_model_type = "distil-bert" # bert, xlnet, distil-bert
         self.intent_confidence = 0.3
         self.intent_unk = "<unk>"
 

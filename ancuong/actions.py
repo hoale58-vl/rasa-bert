@@ -257,7 +257,6 @@ class ActionMode(Action):
                     wsControl.send("micro::::stop::::stop")
                 elif mode == 'camera':
                     wsControl.send("gstream::::stop::::stop")
-                
             wsControl.close()
         except Exception as e:
             print (e)

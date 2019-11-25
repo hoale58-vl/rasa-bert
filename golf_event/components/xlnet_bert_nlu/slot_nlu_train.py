@@ -11,7 +11,7 @@ import gc
 sys.path.append('.')
 sys.path.append(os.path.join(os.path.dirname(__file__), "lib"))
 
-from pytorch_transformers import BertTokenizer, BertModel, XLNetTokenizer, XLNetModel 
+from pytorch_transformers import BertTokenizer, BertModel, XLNetTokenizer, XLNetModel  , DistilBertTokenizer, DistilBertModel
 from pytorch_transformers.optimization import AdamW, WarmupLinearSchedule
 from models.optimization import BertAdam
 from utils.bert_xlnet_inputs import prepare_inputs_for_bert_xlnet
@@ -34,6 +34,7 @@ from .md_to_json_ja import run as run_ja
 MODEL_CLASSES = {
         'bert': (BertModel, BertTokenizer),
         'xlnet': (XLNetModel, XLNetTokenizer),
+        'distil-bert': (DistilBertModel, DistilBertTokenizer)
         }
 
 class LoadData(object):
@@ -76,11 +77,11 @@ class TrainParam(object):
         self.optimizer_sel='bertadam' # adam, bertadam
         #max_norm_of_gradient_clip=5
         self.max_epoch = 50 
-        self.hidden_size = 200 # 100, 200 
+        self.hidden_size = 100 # 100, 200 
         self.num_layers = 1
         self.tag_emb_size = 100  ## for slot_tagger_with_focus 
         self.st_weight = 0.5
-        self.pretrained_model_type = "bert" # bert, xlnet
+        self.pretrained_model_type = "distil-bert" # bert, xlnet, distil-bert
         self.fix_pretrained_model = False
         #####################
         # bert-base-uncased, 
@@ -92,11 +93,13 @@ class TrainParam(object):
         # bert-base-chinese
         # xlnet-base-cased
         # xlnet-large-cased
+        # distilbert-base-uncased
         #####################
-        if lang in ['vi', 'en']:
-            self.pretrained_model_name = "bert-base-uncased"
-        else:
-            self.pretrained_model_name = "bert-base-multilingual-uncased"
+        # if lang in ['vi', 'en']:
+        #     self.pretrained_model_name = "bert-base-uncased"
+        # else:
+        #     self.pretrained_model_name = "bert-base-multilingual-uncased"
+        self.pretrained_model_name = 'distilbert-base-uncased'
         
         self.sc_type ='single_cls_CE' # single_cls_CE , multi_cls_BCE
         self.random_seed = 999
